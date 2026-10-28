@@ -1,0 +1,13 @@
+{
+  "id": "w-ambra",
+  "reference": "W-26",
+  "order": 26,
+  "title": {
+    "en": "AMBRA",
+    "ru": "AMBRA"
+  },
+  "source": "https://mouse.museum/ru/wanted/#w-ambra",
+  "status": "wanted",
+  "image": "assets/wanted/w-ambra/photo.webp",
+  "thumbnail": "assets/wanted/w-ambra/thumb.webp"
+}
