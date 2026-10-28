@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/laser-i-49/01.webp",
-      "thumbnail": "assets/photos/laser-i-49/01-thumb.webp",
+      "file": "assets/photos/laser-i-49/01-catalog.webp",
+      "thumbnail": "assets/photos/laser-i-49/01-catalog-thumb.webp",
       "original": "assets/photos/laser-i-49/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/r/r9/r9n9cviu8xww38p6.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/r/r9/r9n9cviu8xww38p6.JPG",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/r/r9/r9n9cviu8xww38p6.JPG",
       "sourceOriginalError": "",
       "originalFilename": "r9n9cviu8xww38p6.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3500,
       "originalHeight": 2333,
       "originalBytes": 1166138,
@@ -161,7 +161,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/laser-i-49/thumb.webp",
+  "thumbnail": "assets/photos/laser-i-49/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:48+03:00",
     "sourcePhotoCount": 6,

@@ -18,8 +18,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/laser-iii-48/01.webp",
-      "thumbnail": "assets/photos/laser-iii-48/01-thumb.webp",
+      "file": "assets/photos/laser-iii-48/01-catalog.webp",
+      "thumbnail": "assets/photos/laser-iii-48/01-catalog-thumb.webp",
       "original": "assets/photos/laser-iii-48/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/l/le/leows3d7nuyxcik5.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/l/le/leows3d7nuyxcik5.JPG",
@@ -27,8 +27,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/l/le/leows3d7nuyxcik5.JPG",
       "sourceOriginalError": "",
       "originalFilename": "leows3d7nuyxcik5.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3500,
       "originalHeight": 2333,
       "originalBytes": 1196025,
@@ -144,7 +144,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/laser-iii-48/thumb.webp",
+  "thumbnail": "assets/photos/laser-iii-48/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:48+03:00",
     "sourcePhotoCount": 5,

@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/amconics-witty-mouse-c-400-66/01.webp",
-      "thumbnail": "assets/photos/amconics-witty-mouse-c-400-66/01-thumb.webp",
+      "file": "assets/photos/amconics-witty-mouse-c-400-66/01-catalog.webp",
+      "thumbnail": "assets/photos/amconics-witty-mouse-c-400-66/01-catalog-thumb.webp",
       "original": "assets/photos/amconics-witty-mouse-c-400-66/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/v/v1/v1wq3uznkzurovjh.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/v/v1/v1wq3uznkzurovjh.JPG",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/v/v1/v1wq3uznkzurovjh.JPG",
       "sourceOriginalError": "",
       "originalFilename": "v1wq3uznkzurovjh.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3500,
       "originalHeight": 2333,
       "originalBytes": 1329624,
@@ -161,7 +161,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/amconics-witty-mouse-c-400-66/thumb.webp",
+  "thumbnail": "assets/photos/amconics-witty-mouse-c-400-66/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:50+03:00",
     "sourcePhotoCount": 6,

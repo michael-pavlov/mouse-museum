@@ -16,8 +16,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/geos-geomouse-186/01.webp",
-      "thumbnail": "assets/photos/geos-geomouse-186/01-thumb.webp",
+      "file": "assets/photos/geos-geomouse-186/01-catalog.webp",
+      "thumbnail": "assets/photos/geos-geomouse-186/01-catalog-thumb.webp",
       "original": "assets/photos/geos-geomouse-186/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/t/tu/t/tu/tunxqj8q61e1qwvs.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/t/tu/tunxqj8q61e1qwvs.jpeg",
@@ -25,8 +25,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/t/tu/tunxqj8q61e1qwvs.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "tunxqj8q61e1qwvs.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1164357,
@@ -160,7 +160,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/geos-geomouse-186/thumb.webp",
+  "thumbnail": "assets/photos/geos-geomouse-186/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:55+03:00",
     "sourcePhotoCount": 6,

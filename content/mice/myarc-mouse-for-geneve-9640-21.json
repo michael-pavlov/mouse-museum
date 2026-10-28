@@ -15,14 +15,14 @@
   },
   "photos": [
     {
-      "file": "assets/photos/myarc-mouse-for-geneve-9640-21/01.webp",
-      "thumbnail": "assets/photos/myarc-mouse-for-geneve-9640-21/01-thumb.webp",
+      "file": "assets/photos/myarc-mouse-for-geneve-9640-21/01-catalog.webp",
+      "thumbnail": "assets/photos/myarc-mouse-for-geneve-9640-21/01-catalog-thumb.webp",
       "original": "assets/photos/myarc-mouse-for-geneve-9640-21/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/x/x9/x9axvqkh7auzpvdk.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/x/x9/x9axvqkh7auzpvdk.JPG",
       "originalFilename": "x9axvqkh7auzpvdk.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3350,
       "originalHeight": 2233,
       "originalBytes": 1065989,
@@ -90,7 +90,7 @@
       "caption": ""
     }
   ],
-  "thumbnail": "assets/photos/myarc-mouse-for-geneve-9640-21/thumb.webp",
+  "thumbnail": "assets/photos/myarc-mouse-for-geneve-9640-21/thumb-catalog.webp",
   "order": 29,
   "manufacturer": {
     "ru": "Myarc Incorporated",

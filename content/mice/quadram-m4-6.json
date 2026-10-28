@@ -16,14 +16,14 @@
   },
   "photos": [
     {
-      "file": "assets/photos/quadram-m4-6/01.webp",
-      "thumbnail": "assets/photos/quadram-m4-6/01-thumb.webp",
+      "file": "assets/photos/quadram-m4-6/01-catalog.webp",
+      "thumbnail": "assets/photos/quadram-m4-6/01-catalog-thumb.webp",
       "original": "assets/photos/quadram-m4-6/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/a/aw/awkj5fwzjg8b9z3d.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/a/aw/awkj5fwzjg8b9z3d.JPG",
       "originalFilename": "awkj5fwzjg8b9z3d.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3350,
       "originalHeight": 2233,
       "originalBytes": 1087690,
@@ -91,7 +91,7 @@
       "caption": ""
     }
   ],
-  "thumbnail": "assets/photos/quadram-m4-6/thumb.webp",
+  "thumbnail": "assets/photos/quadram-m4-6/thumb-catalog.webp",
   "order": 17,
   "manufacturer": {
     "ru": "Quadram",

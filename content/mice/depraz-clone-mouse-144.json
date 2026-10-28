@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/depraz-clone-mouse-144/01.webp",
-      "thumbnail": "assets/photos/depraz-clone-mouse-144/01-thumb.webp",
+      "file": "assets/photos/depraz-clone-mouse-144/01-catalog.webp",
+      "thumbnail": "assets/photos/depraz-clone-mouse-144/01-catalog-thumb.webp",
       "original": "assets/photos/depraz-clone-mouse-144/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/j/jy/j/jy/jydva3tscatkdjfy.jpg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/j/jy/jydva3tscatkdjfy.jpg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/j/jy/jydva3tscatkdjfy.jpg",
       "sourceOriginalError": "",
       "originalFilename": "jydva3tscatkdjfy.jpg",
-      "width": 1869,
-      "height": 1246,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 1869,
       "originalHeight": 1246,
       "originalBytes": 1097596,
@@ -143,7 +143,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/depraz-clone-mouse-144/thumb.webp",
+  "thumbnail": "assets/photos/depraz-clone-mouse-144/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:53+03:00",
     "sourcePhotoCount": 5,

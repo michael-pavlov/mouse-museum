@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/opm-mt-90/01.webp",
-      "thumbnail": "assets/photos/opm-mt-90/01-thumb.webp",
+      "file": "assets/photos/opm-mt-90/01-catalog.webp",
+      "thumbnail": "assets/photos/opm-mt-90/01-catalog-thumb.webp",
       "original": "assets/photos/opm-mt-90/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/u/ug/ug273s4ng32fprdx.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/u/ug/ug273s4ng32fprdx.JPG",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/u/ug/ug273s4ng32fprdx.JPG",
       "sourceOriginalError": "",
       "originalFilename": "ug273s4ng32fprdx.JPG",
-      "width": 2400,
-      "height": 1598,
+      "width": 1537,
+      "height": 1023,
       "originalWidth": 2712,
       "originalHeight": 1806,
       "originalBytes": 873652,
@@ -161,7 +161,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/opm-mt-90/thumb.webp",
+  "thumbnail": "assets/photos/opm-mt-90/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:50+03:00",
     "sourcePhotoCount": 6,

@@ -18,8 +18,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/logitech-m-cg7-38/01.webp",
-      "thumbnail": "assets/photos/logitech-m-cg7-38/01-thumb.webp",
+      "file": "assets/photos/logitech-m-cg7-38/01-catalog.webp",
+      "thumbnail": "assets/photos/logitech-m-cg7-38/01-catalog-thumb.webp",
       "original": "assets/photos/logitech-m-cg7-38/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/p/p1/p15kwdo7huvz2tmp.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/p/p1/p15kwdo7huvz2tmp.JPG",
@@ -27,8 +27,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/p/p1/p15kwdo7huvz2tmp.JPG",
       "sourceOriginalError": "",
       "originalFilename": "p15kwdo7huvz2tmp.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3500,
       "originalHeight": 2333,
       "originalBytes": 1276699,
@@ -162,7 +162,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/logitech-m-cg7-38/thumb.webp",
+  "thumbnail": "assets/photos/logitech-m-cg7-38/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:47+03:00",
     "sourcePhotoCount": 6,
