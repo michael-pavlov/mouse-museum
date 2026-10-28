@@ -194,3 +194,6 @@ html.photo-viewer-open{overflow:hidden}
 .site-footer{text-align:center}
 
 #original-photo{font-size:12px;color:#74786c;text-decoration:underline;text-decoration-color:#b6bcae;text-underline-offset:3px;margin-left:auto;margin-right:16px}#original-photo:hover{color:#8e4a30}.photo-tools{gap:12px}.photo-tools>span{flex-shrink:0}.photo-tools>div{flex-shrink:0}@media(max-width:700px){.photo-tools{flex-wrap:wrap;gap:10px}#original-photo{font-size:11px;margin-right:0}}
+
+/* Main catalogue specimen captions. */
+#catalog .card h2{font-size:14px}
