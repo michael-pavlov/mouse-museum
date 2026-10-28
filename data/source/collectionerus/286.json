@@ -1,0 +1,89 @@
+{
+  "sourceId": 286,
+  "source": "https://collectionerus.ru/collections/old-mice/286/",
+  "slug": "durapoint-vp2000-286",
+  "sourceTitle": "DuraPoint VP2000",
+  "retrievedAt": "2026-10-27T23:11:01+03:00",
+  "sourcePageSha256": "09304e1bb293adc5d7f17f91ca0d1f96d58be95ae7dea7c0f5bd2826dc679e39",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Interlink Electronics",
+    "Год": "1990",
+    "СССР": "нет",
+    "Где посмотреть": "Ближний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Interlink+Electronics"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1990"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%91%D0%BB%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/3/3y/3/3y/3y7vu3wvfwgrtyqs.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/3/3y/3y7vu3wvfwgrtyqs.jpeg",
+      "originalName": "3y7vu3wvfwgrtyqs.jpeg",
+      "cacheFile": "photos/durapoint-vp2000-286/01.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 935,5 КБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/9/92/9/92/92slvruo3fh8iy5r.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/9/92/92slvruo3fh8iy5r.jpeg",
+      "originalName": "92slvruo3fh8iy5r.jpeg",
+      "cacheFile": "photos/durapoint-vp2000-286/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 925,3 КБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/7/7q/7/7q/7qyrmximk1av2qq8.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/7/7q/7qyrmximk1av2qq8.jpeg",
+      "originalName": "7qyrmximk1av2qq8.jpeg",
+      "cacheFile": "photos/durapoint-vp2000-286/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,7 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/q/q2/q/q2/q29isbgiaiwtavl9.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/q2/q29isbgiaiwtavl9.jpeg",
+      "originalName": "q29isbgiaiwtavl9.jpeg",
+      "cacheFile": "photos/durapoint-vp2000-286/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,8 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/y/yi/y/yi/yiaxngv85mwfg6ng.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/y/yi/yiaxngv85mwfg6ng.jpeg",
+      "originalName": "yiaxngv85mwfg6ng.jpeg",
+      "cacheFile": "photos/durapoint-vp2000-286/05.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 2,5 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/4/4b/4/4b/4bjhxexmdxayclvx.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/4/4b/4bjhxexmdxayclvx.jpeg",
+      "originalName": "4bjhxexmdxayclvx.jpeg",
+      "cacheFile": "photos/durapoint-vp2000-286/06.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,9 МБ"
+    }
+  ],
+  "itemFile": "content/mice/durapoint-vp2000-286.json",
+  "previousPhotoCount": 0
+}

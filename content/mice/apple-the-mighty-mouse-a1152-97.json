@@ -1,0 +1,137 @@
+{
+  "id": "MP-0097",
+  "slug": "apple-the-mighty-mouse-a1152-97",
+  "title": {
+    "en": "Apple The Mighty Mouse (A1152)",
+    "ru": "Apple The Mighty Mouse (A1152)"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/97/",
+  "sourceOrder": 78,
+  "order": 84,
+  "sourceProperties": {
+    "Производитель": "Apple",
+    "Год": "2005",
+    "Способ позиционирования": "оптический (классика)",
+    "Интерфейс": "USB",
+    "СССР": "нет",
+    "Где посмотреть": "Краснохолмская"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/apple-the-mighty-mouse-a1152-97/01.webp",
+      "thumbnail": "assets/photos/apple-the-mighty-mouse-a1152-97/01-thumb.webp",
+      "original": "assets/photos/apple-the-mighty-mouse-a1152-97/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/d/dt/dtndiyzjlohmik12.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/d/dt/dtndiyzjlohmik12.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/d/dt/dtndiyzjlohmik12.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "dtndiyzjlohmik12.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3100,
+      "originalHeight": 2067,
+      "originalBytes": 961245,
+      "sha256": "fa4ac80f06ae21e3eb68b5e4e4564163918041956ca06f60111791e8c3edbd91",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/apple-the-mighty-mouse-a1152-97/02.webp",
+      "thumbnail": "assets/photos/apple-the-mighty-mouse-a1152-97/02-thumb.webp",
+      "original": "assets/photos/apple-the-mighty-mouse-a1152-97/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/p/pd/pdiqrcfdfjwd6vxr.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/pd/pdiqrcfdfjwd6vxr.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/p/pd/pdiqrcfdfjwd6vxr.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "pdiqrcfdfjwd6vxr.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3100,
+      "originalHeight": 2067,
+      "originalBytes": 1162960,
+      "sha256": "7ee29b58c82b8a77833ebefe2dca31eb59e027f75ef2200e621acc022db15c10",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/apple-the-mighty-mouse-a1152-97/03.webp",
+      "thumbnail": "assets/photos/apple-the-mighty-mouse-a1152-97/03-thumb.webp",
+      "original": "assets/photos/apple-the-mighty-mouse-a1152-97/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/l/lg/lgisz8wdju3ibhfe.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/l/lg/lgisz8wdju3ibhfe.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/l/lg/lgisz8wdju3ibhfe.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "lgisz8wdju3ibhfe.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3100,
+      "originalHeight": 2067,
+      "originalBytes": 1569125,
+      "sha256": "1e6249ef38ced15632558d6ba8e7f9d605ddd7ec5edf8d903b26a49f27a6a196",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/apple-the-mighty-mouse-a1152-97/04.webp",
+      "thumbnail": "assets/photos/apple-the-mighty-mouse-a1152-97/04-thumb.webp",
+      "original": "assets/photos/apple-the-mighty-mouse-a1152-97/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/e/e8/e8fxias4rlyanrxz.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/e8/e8fxias4rlyanrxz.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/e/e8/e8fxias4rlyanrxz.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "e8fxias4rlyanrxz.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3100,
+      "originalHeight": 2067,
+      "originalBytes": 1060387,
+      "sha256": "63884679fd4689d65f0617098ad83bb03d0ad41577c88b5757d0e3fb2145af81",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Apple",
+    "en": "Apple"
+  },
+  "brand": "Apple",
+  "year": 2005,
+  "tracking": {
+    "key": "optical",
+    "ru": "оптический (классика)",
+    "en": "Optical"
+  },
+  "interface": "USB",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Apple The Mighty Mouse (A1152)",
+  "whereToSee": {
+    "ru": "Краснохолмская",
+    "en": "Krasnokholmskaya Gallery"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/apple-the-mighty-mouse-a1152-97/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:47+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 4
+  }
+}

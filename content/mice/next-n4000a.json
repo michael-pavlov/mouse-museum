@@ -1,0 +1,154 @@
+{
+  "id": "MP-0013",
+  "slug": "next-n4000a",
+  "title": {
+    "en": "NeXT N4000A",
+    "ru": "NeXT N4000A"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/13/",
+  "sourceProperties": {
+    "Производитель": "NeXT",
+    "Год": "1985",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "ADB",
+    "СССР": "нет",
+    "Где посмотреть": "Краснохолмская"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/next-n4000a/01-catalog.webp",
+      "thumbnail": "assets/photos/next-n4000a/01-catalog-thumb.webp",
+      "original": "assets/photos/next-n4000a/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/k/kx/kxxbpllmtsvxidem.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/kx/kxxbpllmtsvxidem.JPG",
+      "originalFilename": "kxxbpllmtsvxidem.JPG",
+      "width": 1536,
+      "height": 1024,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1062754,
+      "sha256": "1b8a893c6493f697cbc56a0f75dfd41057e6af269cd995cda9c21a2e610f76c2",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/next-n4000a/02.webp",
+      "thumbnail": "assets/photos/next-n4000a/02-thumb.webp",
+      "original": "assets/photos/next-n4000a/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/w/wm/wmwvizwicxgrxv9a.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/wm/wmwvizwicxgrxv9a.JPG",
+      "originalFilename": "wmwvizwicxgrxv9a.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 1917973,
+      "sha256": "b7bfe30a44755d227e0e44555baed37aaeb5862bbc60c6c25167bac864e0816b",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/next-n4000a/03.webp",
+      "thumbnail": "assets/photos/next-n4000a/03-thumb.webp",
+      "original": "assets/photos/next-n4000a/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/s/sf/sf2bcc4fgiir2dwl.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/s/sf/sf2bcc4fgiir2dwl.JPG",
+      "originalFilename": "sf2bcc4fgiir2dwl.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2052826,
+      "sha256": "a839e00cb23b910912d8edc4793282d1a83bd4731bb338c796d881c492e8b537",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/next-n4000a/04.webp",
+      "thumbnail": "assets/photos/next-n4000a/04-thumb.webp",
+      "original": "assets/photos/next-n4000a/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/h/hd/hd86r58zc9fshwt5.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hd/hd86r58zc9fshwt5.JPG",
+      "originalFilename": "hd86r58zc9fshwt5.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 1546948,
+      "sha256": "45441add2c7407e9dc7b3fbf7e3eb0879082c0fa85e32b0619bde2d334d1f6d0",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/next-n4000a/05.webp",
+      "thumbnail": "assets/photos/next-n4000a/05-thumb.webp",
+      "original": "assets/photos/next-n4000a/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/0/0i/0iqvxcjmqr2mil7l.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/0/0i/0iqvxcjmqr2mil7l.JPG",
+      "originalFilename": "0iqvxcjmqr2mil7l.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2245749,
+      "sha256": "3bd4e76e7af52fa93eb2942aa9bff276e38be3fd3b2c945e647dc936e8ef4cb3",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/next-n4000a/06.webp",
+      "thumbnail": "assets/photos/next-n4000a/06-thumb.webp",
+      "original": "assets/photos/next-n4000a/originals/06.jpg",
+      "source": "https://collectionerus.ru/media/items-large/q/qw/qw1at1pdng1efuj7.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qw/qw1at1pdng1efuj7.JPG",
+      "originalFilename": "qw1at1pdng1efuj7.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1868343,
+      "sha256": "cacd7cbc763513cd54c58071343a36785b5ecc0a1d5805a62aee35cdd33d7703",
+      "caption": ""
+    }
+  ],
+  "thumbnail": "assets/photos/next-n4000a/thumb-catalog.webp",
+  "order": 10,
+  "manufacturer": {
+    "ru": "NeXT",
+    "en": "NeXT"
+  },
+  "brand": "NeXT",
+  "year": 1985,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "ADB",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "The original entry lists 1985 and ADB. These fields need verification against the specimen and primary documentation.",
+    "ru": "В исходной карточке указаны 1985 год и ADB. Эти поля требуют проверки по экземпляру и первичной документации."
+  },
+  "sourceTitle": "NeXT N4000A",
+  "whereToSee": {
+    "ru": "Краснохолмская",
+    "en": "Krasnokholmskaya Gallery"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T22:22:43+03:00",
+    "sourcePhotoCount": 6,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 6
+  }
+}

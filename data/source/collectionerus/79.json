@@ -1,0 +1,88 @@
+{
+  "sourceId": 79,
+  "source": "https://collectionerus.ru/collections/old-mice/79/",
+  "slug": "computek-geos-101-79",
+  "sourceTitle": "Computek Geos-101",
+  "retrievedAt": "2026-10-27T23:10:50+03:00",
+  "sourcePageSha256": "4489f2fde917bc364fb21d1a55be60e3b3c3a65079c984fdd2a125c33cfe75d3",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Computek",
+    "Год": "1986",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "C64",
+    "СССР": "нет",
+    "Где посмотреть": "Средний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Computek"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1986"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=C64"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/q/qv/qvxswwpfknwskjjb.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qv/qvxswwpfknwskjjb.JPG",
+      "originalName": "qvxswwpfknwskjjb.JPG",
+      "cacheFile": "photos/computek-geos-101-79/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,2 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/n/n5/n5oamoeeyrzf6z4v.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/n5/n5oamoeeyrzf6z4v.JPG",
+      "originalName": "n5oamoeeyrzf6z4v.JPG",
+      "cacheFile": "photos/computek-geos-101-79/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,6 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/e/e7/e7chmcdsqaqgmkqg.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/e7/e7chmcdsqaqgmkqg.JPG",
+      "originalName": "e7chmcdsqaqgmkqg.JPG",
+      "cacheFile": "photos/computek-geos-101-79/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,7 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/3/3b/3bvpprcdswpddzi9.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/3/3b/3bvpprcdswpddzi9.JPG",
+      "originalName": "3bvpprcdswpddzi9.JPG",
+      "cacheFile": "photos/computek-geos-101-79/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 2,0 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/l/lm/lmj4flbuy2chyjtb.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/l/lm/lmj4flbuy2chyjtb.JPG",
+      "originalName": "lmj4flbuy2chyjtb.JPG",
+      "cacheFile": "photos/computek-geos-101-79/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,9 МБ"
+    }
+  ],
+  "itemFile": "content/mice/computek-geos-101-79.json",
+  "previousPhotoCount": 0
+}

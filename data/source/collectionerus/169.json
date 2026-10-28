@@ -1,0 +1,93 @@
+{
+  "sourceId": 169,
+  "source": "https://collectionerus.ru/collections/old-mice/169/",
+  "slug": "sunnyline-burger-mouse-169",
+  "sourceTitle": "SunnyLine Burger Mouse",
+  "retrievedAt": "2026-10-27T23:10:55+03:00",
+  "sourcePageSha256": "4a20170b178095af8ab99bc672642a0a9021c3cbd592b60d23bca11272487f68",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "SunnyLine",
+    "Год": "1995",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Краснохолмская"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=SunnyLine"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1995"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%85%D0%BE%D0%BB%D0%BC%D1%81%D0%BA%D0%B0%D1%8F"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/5/5i/5/5i/5i6j9nqazbvhnlup.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/5/5i/5i6j9nqazbvhnlup.jpeg",
+      "originalName": "5i6j9nqazbvhnlup.jpeg",
+      "cacheFile": "photos/sunnyline-burger-mouse-169/01.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,2 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/b/b4/b/b4/b49hj35jgeb56orv.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/b4/b49hj35jgeb56orv.jpeg",
+      "originalName": "b49hj35jgeb56orv.jpeg",
+      "cacheFile": "photos/sunnyline-burger-mouse-169/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,5 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/a/af/a/af/af7syi8yybovrmoj.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/a/af/af7syi8yybovrmoj.jpeg",
+      "originalName": "af7syi8yybovrmoj.jpeg",
+      "cacheFile": "photos/sunnyline-burger-mouse-169/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,3 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/o/o5/o/o5/o51mey9pguzmfw6j.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/o/o5/o51mey9pguzmfw6j.jpeg",
+      "originalName": "o51mey9pguzmfw6j.jpeg",
+      "cacheFile": "photos/sunnyline-burger-mouse-169/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,3 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/rh/r/rh/rhzkidv8yekkgwfs.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/rh/rhzkidv8yekkgwfs.jpeg",
+      "originalName": "rhzkidv8yekkgwfs.jpeg",
+      "cacheFile": "photos/sunnyline-burger-mouse-169/05.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,3 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/u/uc/u/uc/uc5qt6obmu8g7in6.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/uc/uc5qt6obmu8g7in6.jpeg",
+      "originalName": "uc5qt6obmu8g7in6.jpeg",
+      "cacheFile": "photos/sunnyline-burger-mouse-169/06.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,5 МБ"
+    }
+  ],
+  "itemFile": "content/mice/sunnyline-burger-mouse-169.json",
+  "previousPhotoCount": 0
+}

@@ -1,0 +1,61 @@
+{
+  "id": "telegram-110",
+  "slug": "telegram-110",
+  "title": {
+    "ru": "Daco DT420-02-01",
+    "en": "Daco DT420-02-01"
+  },
+  "date": "2025-01-25T17:56:51+00:00",
+  "source": "https://t.me/old_mice_and_hw/110",
+  "excerpt": {
+    "ru": "Промышленный трекбол, в котором опора шара отделена от энкодеров.",
+    "en": "An industrial trackball that separates ball support from the encoders."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/telegram-110/01.webp",
+      "original": "assets/posts/telegram-110/01.jpg",
+      "source": "https://cdn4.telesco.pe/file/FPQs8DYPL3umPmo9NMhqlKYB418wwY4qsYcxgg3uoOgkEnQiD-slYnDi22CtYvlng7WJNPcKIPUbj87WRwogCvDmjbl4EFSW5nS9EYHJW22qN-3Vsj6leyDpRBa-s18uJTqiXVQ3UCmmz7xZjV9Hd-mmSs2c_5cYbiWICavxzoAhpA6o1jqdSY0ekVb9zcpGnkk2LtTtmb5WYgslE6lDcEl9Dv057X8KXDEacoiy7N6UxtHOhht3CW_QtfPjg74_ql9P0d4Ar6akeI6zuAa9nWHp1WpwVk1-krMhU9A7nJiH6FyifAzfqi2Fb8JRAXKHoEP5sL5QxADzCMERAbVD1w.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/telegram-110/02.webp",
+      "original": "assets/posts/telegram-110/02.jpg",
+      "source": "https://cdn4.telesco.pe/file/dd5jCEFjCJ6XmPYpA5iO0jxAj6ZbXQpEDkqJXeiaYBcCQGw1eR5mXdklXl9zCnMaPN14KnrH6WmetwP0Lh95CPCoYz4zULXpkw4e8Gdub-HMz_V5B6aaYJj58j9o1dMzSNvr0VsmRGYgOOpWyCmkXQFg34UIh1sPNwAGzSROb9nL9L5njRNLX2HGCwmDSSMoBSkfopfdkwASD7ljoDkYvFc8wIHZJpz9GMZTp6OpiuC4ERp9KqOxtPb3Mk7Ydk9XupcAr2Euqdkbm8uoA92ZbaYZNvlGGkSRVetvNKl5gEPKqOCe-t22ghDSTake_QcKcRPGr5IDypkctqgKG9Zb6A.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/telegram-110/03.webp",
+      "original": "assets/posts/telegram-110/03.jpg",
+      "source": "https://cdn4.telesco.pe/file/Ywqm8_3vnS03HYvZkj2zlqwbcEU_RAasE5AvZtaD7JNnXEu7Sm62FDFr7YJ5V7_vcn8nDeEPuaTHdYr0UMiDxcS99f9Rn2x7tIIHecW4QrKqB9vJ8nmcUPwhECWpwUyrHN180jWaSdf8vZM_TNFnoe6L007LFNaivn64TGj5v12KJvIwtrXrLl_V_bq2RWArh9kQxh6EiYnNrhMyOoAeff0fvcrUZaozAghq_fn6ZFXO1L65R_4ScfGFcdj-_O-OIfNtrdi9TC01wZQZ7RBzSdXUcq0XWdnHrGd1fkUx-w9ZxUOb0mdERQLvSAJZQ2RZozPcktFtQ5TlHlGoQrp12g.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/telegram-110/04.webp",
+      "original": "assets/posts/telegram-110/04.jpg",
+      "source": "https://cdn4.telesco.pe/file/rLvbG-NIqYKxrqRf7DMIuz4HmhPGsv6yiE6i7MLSF0FbsErFUxIlYufKzuIhCxCiWyI8H2e4NCD09qCd3zGy7qxUuapA67e0cw8LBqg4WtaNAdz_k-zWRv1Ii1JNUgnwZvNJ52sb0QwE716PhhmRNnJ5WFx12tZ-gXbmVk4DNLopIyV6jkHHfOfLhprI7Y1Pbad72M5rT1Xhrk1vORpqEnGhvprsm-DgeR58BSfxhl_ICyKwDSOoKcUT5AdEunPFqIa3X-IyW6tnueEoiLGIEjsFMP6ATtejaOMhsQRZlHuKFHnpS53IuQjtX6Qp17SsURlweWCj6mhhxDooqQDGqg.jpg",
+      "width": 800,
+      "height": 600
+    }
+  ],
+  "cover": "assets/posts/telegram-110/01.webp",
+  "relatedItems": [
+    "daco-dt420-02-01-219"
+  ],
+  "category": "stories",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-110/ru.md",
+    "en": "content/posts/telegram-110/en.md"
+  },
+  "mediaNote": {
+    "ru": "Видео к этой записи доступно в оригинальной публикации Telegram.",
+    "en": "The video accompanying this post is available in the original Telegram publication."
+  }
+}

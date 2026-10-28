@@ -1,0 +1,57 @@
+{
+  "sourceId": 109,
+  "source": "https://collectionerus.ru/collections/old-mice/109/",
+  "slug": "hp-pcmcia-bluetoth-109",
+  "sourceTitle": "HP PCMCIA Bluetoth",
+  "retrievedAt": "2026-10-27T23:10:52+03:00",
+  "sourcePageSha256": "73126bdb34954a1260f121f635e135a8631150600f191ba90096211d4ac61d3f",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Primax Electronics",
+    "Год": "2006",
+    "Способ позиционирования": "оптический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Краснохолмская"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Primax+Electronics"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=2006"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%85%D0%BE%D0%BB%D0%BC%D1%81%D0%BA%D0%B0%D1%8F"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/rn/r/rn/rnrepq3cpdw9zlda.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/rn/rnrepq3cpdw9zlda.JPG",
+      "originalName": "rnrepq3cpdw9zlda.JPG",
+      "cacheFile": "photos/hp-pcmcia-bluetoth-109/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "2859×1906, 557,9 КБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/h/ho/h/ho/ho1izpu3uvdixcyt.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/ho/ho1izpu3uvdixcyt.JPG",
+      "originalName": "ho1izpu3uvdixcyt.JPG",
+      "cacheFile": "photos/hp-pcmcia-bluetoth-109/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "2912×1941, 614,7 КБ"
+    }
+  ],
+  "itemFile": "content/mice/hp-pcmcia-bluetoth-109.json",
+  "previousPhotoCount": 0
+}

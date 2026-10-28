@@ -1,0 +1,172 @@
+{
+  "id": "MP-0115",
+  "slug": "headstart-explorer-115",
+  "title": {
+    "en": "HeadStart Explorer",
+    "ru": "HeadStart Explorer"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/115/",
+  "sourceOrder": 143,
+  "order": 147,
+  "sourceProperties": {
+    "Производитель": "Vendex",
+    "Год": "1985",
+    "Способ позиционирования": "на дискретных датчиках (Hawley)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/headstart-explorer-115/01-catalog.webp",
+      "thumbnail": "assets/photos/headstart-explorer-115/01-catalog-thumb.webp",
+      "original": "assets/photos/headstart-explorer-115/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/rb/r/rb/rbvfwwcjtjvqfazx.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/rb/rbvfwwcjtjvqfazx.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/r/rb/rbvfwwcjtjvqfazx.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "rbvfwwcjtjvqfazx.jpg",
+      "width": 1536,
+      "height": 1024,
+      "originalWidth": 3357,
+      "originalHeight": 2238,
+      "originalBytes": 2324265,
+      "sha256": "99470bacf606d59c0bb8bd41996da07696ed9ef93a54f09d59ddd25a1f831e83",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/headstart-explorer-115/02.webp",
+      "thumbnail": "assets/photos/headstart-explorer-115/02-thumb.webp",
+      "original": "assets/photos/headstart-explorer-115/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/z/ze/z/ze/ze64q9rnstpwcy6r.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/ze/ze64q9rnstpwcy6r.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/z/ze/ze64q9rnstpwcy6r.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "ze64q9rnstpwcy6r.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3217,
+      "originalHeight": 2145,
+      "originalBytes": 2430564,
+      "sha256": "c0df4ff5ab02f40ccf2463841b42ff91716a355b22848defefaa20b60e1df9e6",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/headstart-explorer-115/03.webp",
+      "thumbnail": "assets/photos/headstart-explorer-115/03-thumb.webp",
+      "original": "assets/photos/headstart-explorer-115/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/6/6r/6/6r/6rrxhrpny5cbcxdj.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/6/6r/6rrxhrpny5cbcxdj.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/6/6r/6rrxhrpny5cbcxdj.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "6rrxhrpny5cbcxdj.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3795,
+      "originalHeight": 2530,
+      "originalBytes": 3509828,
+      "sha256": "31c644b7a5e37eae4555c85bb847ebe099ed12c343ddc80c576bf3ba1c97be4f",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/headstart-explorer-115/04.webp",
+      "thumbnail": "assets/photos/headstart-explorer-115/04-thumb.webp",
+      "original": "assets/photos/headstart-explorer-115/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/c/cu/c/cu/curt4smm3ija8lqe.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/cu/curt4smm3ija8lqe.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/c/cu/curt4smm3ija8lqe.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "curt4smm3ija8lqe.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3631,
+      "originalHeight": 2421,
+      "originalBytes": 3050872,
+      "sha256": "eefd0e4b30e85cbe7730e9fee57213da6edab49022bf2b1e34aa155df4c2b83f",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/headstart-explorer-115/05.webp",
+      "thumbnail": "assets/photos/headstart-explorer-115/05-thumb.webp",
+      "original": "assets/photos/headstart-explorer-115/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/s/se/s/se/segsrmhlqqomozhj.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/s/se/segsrmhlqqomozhj.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/s/se/segsrmhlqqomozhj.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "segsrmhlqqomozhj.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 2853,
+      "originalHeight": 1902,
+      "originalBytes": 1843699,
+      "sha256": "841d738e49d4725fe864ba528eb7b64376d1c92d92d425ec831b1440c1e47183",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/headstart-explorer-115/06.webp",
+      "thumbnail": "assets/photos/headstart-explorer-115/06-thumb.webp",
+      "original": "assets/photos/headstart-explorer-115/originals/06.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/k/ke/k/ke/ke8hjnks3h7yqjiu.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/ke/ke8hjnks3h7yqjiu.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/k/ke/ke8hjnks3h7yqjiu.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "ke8hjnks3h7yqjiu.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3217,
+      "originalHeight": 2145,
+      "originalBytes": 2076511,
+      "sha256": "abeac31a1c86573262e74fed68c30e155aaaff08ad9cbb670309a7b50d0f427f",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Vendex",
+    "en": "Vendex"
+  },
+  "brand": "Vendex",
+  "year": 1985,
+  "tracking": {
+    "key": "discrete-hawley",
+    "ru": "на дискретных датчиках (Hawley)",
+    "en": "Discrete sensors (Hawley)"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "HeadStart Explorer",
+  "whereToSee": {
+    "ru": "Дальний",
+    "en": "Far"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/headstart-explorer-115/thumb-catalog.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:51+03:00",
+    "sourcePhotoCount": 6,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 6
+  }
+}

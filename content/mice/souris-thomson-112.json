@@ -1,0 +1,136 @@
+{
+  "id": "MP-0112",
+  "slug": "souris-thomson-112",
+  "title": {
+    "en": "Souris Thomson",
+    "ru": "Souris Thomson"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/112/",
+  "sourceOrder": 140,
+  "order": 144,
+  "sourceProperties": {
+    "Производитель": "Souris Thomson",
+    "Год": "1990",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Краснохолмская"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/souris-thomson-112/01.webp",
+      "thumbnail": "assets/photos/souris-thomson-112/01-thumb.webp",
+      "original": "assets/photos/souris-thomson-112/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/rh/r/rh/rhjtapudsxrkpnhj.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/rh/rhjtapudsxrkpnhj.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/r/rh/rhjtapudsxrkpnhj.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "rhjtapudsxrkpnhj.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3031,
+      "originalHeight": 2021,
+      "originalBytes": 741567,
+      "sha256": "0f1ea89c24de798678699f756dd3657667809fd657ad067069fd8cb9cdb396dd",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/souris-thomson-112/02.webp",
+      "thumbnail": "assets/photos/souris-thomson-112/02-thumb.webp",
+      "original": "assets/photos/souris-thomson-112/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/y/ya/y/ya/yackm4f4gueufsyc.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/y/ya/yackm4f4gueufsyc.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/y/ya/yackm4f4gueufsyc.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "yackm4f4gueufsyc.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3217,
+      "originalHeight": 2145,
+      "originalBytes": 981433,
+      "sha256": "16fe6640a74900b1eb2bb07319919f38203975ac7205074795b7ceceecdea9ca",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/souris-thomson-112/03.webp",
+      "thumbnail": "assets/photos/souris-thomson-112/03-thumb.webp",
+      "original": "assets/photos/souris-thomson-112/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/f/f3/f/f3/f3a4tadwmhf9wzco.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/f/f3/f3a4tadwmhf9wzco.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/f/f3/f3a4tadwmhf9wzco.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "f3a4tadwmhf9wzco.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3265,
+      "originalHeight": 2177,
+      "originalBytes": 996405,
+      "sha256": "828b50ca7e0ab0fdedbdd2ddf72deb38532fd0a0278273a47f17cdb8396c269b",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/souris-thomson-112/04.webp",
+      "thumbnail": "assets/photos/souris-thomson-112/04-thumb.webp",
+      "original": "assets/photos/souris-thomson-112/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/y/yv/y/yv/yvcgjfcktb8ypwav.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/y/yv/yvcgjfcktb8ypwav.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/y/yv/yvcgjfcktb8ypwav.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "yvcgjfcktb8ypwav.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3807,
+      "originalHeight": 2538,
+      "originalBytes": 1318619,
+      "sha256": "33c948691961fb7cafc42742be0d7647e82643ff8c0a46b72b173fca2c77a421",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Souris Thomson",
+    "en": "Souris Thomson"
+  },
+  "brand": "Souris Thomson",
+  "year": 1990,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Souris Thomson",
+  "whereToSee": {
+    "ru": "Краснохолмская",
+    "en": "Krasnokholmskaya Gallery"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/souris-thomson-112/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:51+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 4
+  }
+}

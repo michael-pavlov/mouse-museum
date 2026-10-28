@@ -1,0 +1,26 @@
+{
+  "id": "telegram-160",
+  "slug": "telegram-160",
+  "title": {
+    "ru": "Каналы мифистов",
+    "en": "Channels from the MEPhI community"
+  },
+  "date": "2025-05-14T08:12:12+00:00",
+  "source": "https://t.me/old_mice_and_hw/160",
+  "excerpt": {
+    "ru": "Заметка о подборке Telegram-каналов сообщества МИФИ.",
+    "en": "A note about a collection of Telegram channels from the MEPhI community."
+  },
+  "photos": [],
+  "cover": "assets/mouse-museum-logo.png",
+  "relatedItems": [],
+  "category": "stories",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-160/ru.md",
+    "en": "content/posts/telegram-160/en.md"
+  }
+}

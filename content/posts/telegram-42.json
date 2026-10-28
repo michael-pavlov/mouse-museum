@@ -1,0 +1,48 @@
+{
+  "id": "telegram-42",
+  "slug": "telegram-42",
+  "title": {
+    "ru": "Модуль бортовой ЭВМ",
+    "en": "An airborne computer module"
+  },
+  "date": "2023-07-12T17:34:46+00:00",
+  "source": "https://t.me/old_mice_and_hw/42",
+  "excerpt": {
+    "ru": "Плата предположительно от семейства «Салют» с бескорпусными микросхемами.",
+    "en": "A board believed to come from the Salyut family, with unpackaged integrated circuits."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/telegram-42/01.webp",
+      "original": "assets/posts/telegram-42/01.jpg",
+      "source": "https://cdn4.telesco.pe/file/UAOnlCcX3tHqvFnEmHXsVk4hRdL_UMJe1ht3qtwvHGoZ-HxSFH5PGO4frjc6CoxccN6tBjv2L3A7Jkg_ZKC8-yPFCnqDF0RmV5YamecwmdZsgUV-1RzdEYTyBIcesElivFhuDDsZVOxA6lUZEuIxqTGVnVMOUUGBPVrx2RztN6ynrfb8b-kXuzrtc39aCGd5JKIvkZ2BjojT66fMNSeko96WNLqalPvTnTgfgTOlVpljNw7aUQmaqz3JMgEVJoR6p4tGexALQB1dEotF_Q6jZA1myaPHitqKpm3nwDXZGrMIQ62nekfSuM7UOZ3lrDD2FuGeeWCP7NLzOyIbRsPlKA.jpg",
+      "width": 786,
+      "height": 800
+    },
+    {
+      "file": "assets/posts/telegram-42/02.webp",
+      "original": "assets/posts/telegram-42/02.jpg",
+      "source": "https://cdn4.telesco.pe/file/l3ZwpLUbyBPzLcYh0xpsX9fJ6K0HlJtYGQr2kyHqSatsiHkf6NtcV___NFWr1DSfABw4_1N4T3nxMJUbWQ6d5IH6UjPe2X1f0QZAqniIPy2Z0J5hKDsrtAL8NlyPeoLjZ5x-NJLk15yNKFls-_MPYnsi1NLKW60X7vrQJWnzbgh7C66jVb_55UNJ33UwrfWT1FjHiIOTKDSB52jNC8Xmp5kFNPH-0_BTDYr42gBROQ7eToqmfcdmQCEP8lrBq-Q6YV5Drhuy4PgRVQUxnJwlfVEfthjEdIkLn60NC5hkDh49ry4FQ_GAg4bDnsR_fAa1qksMv_Jpi8RiDsIjc5W9Dg.jpg",
+      "width": 772,
+      "height": 800
+    },
+    {
+      "file": "assets/posts/telegram-42/03.webp",
+      "original": "assets/posts/telegram-42/03.jpg",
+      "source": "https://cdn4.telesco.pe/file/KxlVnmCpZvyl-cHjroQICwoOV7tJGb7Cm8RYKaKTfSrUOfuRlwG_MO6yvt16MAMWs3kkAXeyLscQa2sw2rUStFKTeWOGY-R6nZeAcsybkOMTZvkDoZ_Wr2fbIjFWJEy1ch7fEfIqR7k9wN-vRwyvbv5Mpox6mGlyRNb1LHmC7E85LdtehLGLgCijKRhQ0WAEkqkASgH37O7KzkMLmn8i2i3kxYcBc2jae027rt-U-LnmUFtyu22TiY6xMapIrx0fT_Z8OVf7LneFSb3izN43PLHqEzOvWXNUcMCXIVtSD6WQL7UEoHm8ZrOxNl02hq-DqGI4AcyXKwq2QNmY08WVhA.jpg",
+      "width": 800,
+      "height": 628
+    }
+  ],
+  "cover": "assets/posts/telegram-42/01.webp",
+  "relatedItems": [],
+  "category": "stories",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-42/ru.md",
+    "en": "content/posts/telegram-42/en.md"
+  }
+}

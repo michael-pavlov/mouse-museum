@@ -1,0 +1,101 @@
+{
+  "sourceId": 51,
+  "source": "https://collectionerus.ru/collections/old-mice/51/",
+  "slug": "ibm-95f5443-51",
+  "sourceTitle": "IBM 95F5443",
+  "retrievedAt": "2026-10-27T23:10:48+03:00",
+  "sourcePageSha256": "7b2c58785c5636a094234134871631e3b94ccdaf3136d92093982e12b017189a",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "IBM",
+    "Год": "1989",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "PS/2",
+    "СССР": "нет",
+    "Производитель платы": "Logitech",
+    "Где посмотреть": "Средний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=IBM"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1989"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=PS%2F2"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Производитель платы": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel_platy=Logitech"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/c/c2/c2mr5tifglnt0jym.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/c2/c2mr5tifglnt0jym.JPG",
+      "originalName": "c2mr5tifglnt0jym.JPG",
+      "cacheFile": "photos/ibm-95f5443-51/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,2 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/e/ew/ewesalnoufq1q3ap.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/ew/ewesalnoufq1q3ap.JPG",
+      "originalName": "ewesalnoufq1q3ap.JPG",
+      "cacheFile": "photos/ibm-95f5443-51/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,7 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/z/zq/zqigphiz1i0i4nga.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/zq/zqigphiz1i0i4nga.JPG",
+      "originalName": "zqigphiz1i0i4nga.JPG",
+      "cacheFile": "photos/ibm-95f5443-51/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,6 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/n/nn/nno9o03acfes202s.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/nn/nno9o03acfes202s.JPG",
+      "originalName": "nno9o03acfes202s.JPG",
+      "cacheFile": "photos/ibm-95f5443-51/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3800×2533, 2,2 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/h/hj/hjxjlrsd8tnrqlb7.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hj/hjxjlrsd8tnrqlb7.JPG",
+      "originalName": "hjxjlrsd8tnrqlb7.JPG",
+      "cacheFile": "photos/ibm-95f5443-51/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3800×2533, 2,5 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/t/tu/tu6cd8dsideuslxh.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/tu/tu6cd8dsideuslxh.JPG",
+      "originalName": "tu6cd8dsideuslxh.JPG",
+      "cacheFile": "photos/ibm-95f5443-51/06.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3800×2533, 2,1 МБ"
+    }
+  ],
+  "itemFile": "content/mice/ibm-95f5443-51.json",
+  "previousPhotoCount": 0
+}

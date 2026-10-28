@@ -1,0 +1,119 @@
+{
+  "id": "MP-0098",
+  "slug": "apple-m4848-hockey-puck-98",
+  "title": {
+    "en": "Apple M4848 (Hockey Puck)",
+    "ru": "Apple M4848 (Hockey Puck)"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/98/",
+  "sourceOrder": 79,
+  "order": 85,
+  "sourceProperties": {
+    "Производитель": "Apple",
+    "Год": "1998",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "USB",
+    "СССР": "нет",
+    "Где посмотреть": "Краснохолмская"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/apple-m4848-hockey-puck-98/01.webp",
+      "thumbnail": "assets/photos/apple-m4848-hockey-puck-98/01-thumb.webp",
+      "original": "assets/photos/apple-m4848-hockey-puck-98/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/w/wj/wjekv6r4hh1zmrsv.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/wj/wjekv6r4hh1zmrsv.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/w/wj/wjekv6r4hh1zmrsv.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "wjekv6r4hh1zmrsv.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3100,
+      "originalHeight": 2067,
+      "originalBytes": 1135368,
+      "sha256": "774bdd617cffb40efd61da4eb3bbfcfa34fd40766c919cea0e2223e18492c46e",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/apple-m4848-hockey-puck-98/02.webp",
+      "thumbnail": "assets/photos/apple-m4848-hockey-puck-98/02-thumb.webp",
+      "original": "assets/photos/apple-m4848-hockey-puck-98/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/m/ms/msfozjti0jagkxi6.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/m/ms/msfozjti0jagkxi6.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/m/ms/msfozjti0jagkxi6.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "msfozjti0jagkxi6.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3100,
+      "originalHeight": 2067,
+      "originalBytes": 1338804,
+      "sha256": "557c324dfa9dbc8491de1675066806f2280a71d0d9f5b12456b19ed1f27378bb",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/apple-m4848-hockey-puck-98/03.webp",
+      "thumbnail": "assets/photos/apple-m4848-hockey-puck-98/03-thumb.webp",
+      "original": "assets/photos/apple-m4848-hockey-puck-98/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/t/t9/t9mlravquxhfbusb.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/t9/t9mlravquxhfbusb.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/t/t9/t9mlravquxhfbusb.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "t9mlravquxhfbusb.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3100,
+      "originalHeight": 2067,
+      "originalBytes": 1626213,
+      "sha256": "7e3c867c38827ba81248096eee2faa810d0482c59531698350a8567829485abf",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Apple",
+    "en": "Apple"
+  },
+  "brand": "Apple",
+  "year": 1998,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "USB",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Apple M4848 (Hockey Puck)",
+  "whereToSee": {
+    "ru": "Краснохолмская",
+    "en": "Krasnokholmskaya Gallery"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/apple-m4848-hockey-puck-98/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:48+03:00",
+    "sourcePhotoCount": 3,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 3
+  }
+}

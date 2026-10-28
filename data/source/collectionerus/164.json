@@ -1,0 +1,89 @@
+{
+  "sourceId": 164,
+  "source": "https://collectionerus.ru/collections/old-mice/164/",
+  "slug": "mi-ki-mouse-md-c7-164",
+  "sourceTitle": "MI-KI Mouse MD-C7",
+  "retrievedAt": "2026-10-27T23:10:54+03:00",
+  "sourcePageSha256": "f54cec496f403a0aa8f9dfa95a3be0711099ce019404f663b3df152ac8c6e5d8",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Год": "1987",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Средний"
+  },
+  "propertyLinks": {
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1987"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/e/em/e/em/emxkxs6gzd5tzkgd.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/em/emxkxs6gzd5tzkgd.jpeg",
+      "originalName": "emxkxs6gzd5tzkgd.jpeg",
+      "cacheFile": "photos/mi-ki-mouse-md-c7-164/01.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,1 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/w/wi/w/wi/wir0hgytdimskb3a.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/wi/wir0hgytdimskb3a.jpeg",
+      "originalName": "wir0hgytdimskb3a.jpeg",
+      "cacheFile": "photos/mi-ki-mouse-md-c7-164/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,4 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/6/6q/6/6q/6q3njl7qerqfmaj6.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/6/6q/6q3njl7qerqfmaj6.jpeg",
+      "originalName": "6q3njl7qerqfmaj6.jpeg",
+      "cacheFile": "photos/mi-ki-mouse-md-c7-164/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,4 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/m/mh/m/mh/mhyrjrmzosbygspr.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/m/mh/mhyrjrmzosbygspr.jpeg",
+      "originalName": "mhyrjrmzosbygspr.jpeg",
+      "cacheFile": "photos/mi-ki-mouse-md-c7-164/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 2,0 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/3/3w/3/3w/3wyltyjtwr5y48t1.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/3/3w/3wyltyjtwr5y48t1.jpg",
+      "originalName": "3wyltyjtwr5y48t1.jpg",
+      "cacheFile": "photos/mi-ki-mouse-md-c7-164/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "960×720, 220,8 КБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/f/fc/f/fc/fcjye4uf3l8wetvj.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/f/fc/fcjye4uf3l8wetvj.jpg",
+      "originalName": "fcjye4uf3l8wetvj.jpg",
+      "cacheFile": "photos/mi-ki-mouse-md-c7-164/06.jpg",
+      "caption": "",
+      "sourceSizeLabel": "1280×960, 154,4 КБ"
+    }
+  ],
+  "itemFile": "content/mice/mi-ki-mouse-md-c7-164.json",
+  "previousPhotoCount": 0
+}

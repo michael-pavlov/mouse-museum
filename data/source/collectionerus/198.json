@@ -1,0 +1,98 @@
+{
+  "sourceId": 198,
+  "source": "https://collectionerus.ru/collections/old-mice/198/",
+  "slug": "harrison-mouse-198",
+  "sourceTitle": "Harrison mouse",
+  "retrievedAt": "2026-10-27T23:10:56+03:00",
+  "sourcePageSha256": "37795f1adeb5f7272c622d54a1cb6655070bd430d4197da97f63bb2e9fd0b407",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Год": "1990",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Демо Витрина"
+  },
+  "propertyLinks": {
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1990"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B5%D0%BC%D0%BE+%D0%92%D0%B8%D1%82%D1%80%D0%B8%D0%BD%D0%B0"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/t/ts/t/ts/tsgxndly7harscz6.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/ts/tsgxndly7harscz6.jpg",
+      "originalName": "tsgxndly7harscz6.jpg",
+      "cacheFile": "photos/harrison-mouse-198/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "1448×1086, 1,6 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/u/ui/u/ui/uiz8d3fznwgyq1ev.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/ui/uiz8d3fznwgyq1ev.jpeg",
+      "originalName": "uiz8d3fznwgyq1ev.jpeg",
+      "cacheFile": "photos/harrison-mouse-198/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,2 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/i/i0/i/i0/i0l1fxdjog9x4yf3.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/i0/i0l1fxdjog9x4yf3.jpeg",
+      "originalName": "i0l1fxdjog9x4yf3.jpeg",
+      "cacheFile": "photos/harrison-mouse-198/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,3 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/1/1j/1/1j/1jcvhxmugohwczzg.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/1/1j/1jcvhxmugohwczzg.jpeg",
+      "originalName": "1jcvhxmugohwczzg.jpeg",
+      "cacheFile": "photos/harrison-mouse-198/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,3 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/z/zb/z/zb/zbk3x9utedn6b0d8.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/zb/zbk3x9utedn6b0d8.jpeg",
+      "originalName": "zbk3x9utedn6b0d8.jpeg",
+      "cacheFile": "photos/harrison-mouse-198/05.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,5 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/b/bb/b/bb/bbbar70prwm5gvz2.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/bb/bbbar70prwm5gvz2.jpeg",
+      "originalName": "bbbar70prwm5gvz2.jpeg",
+      "cacheFile": "photos/harrison-mouse-198/06.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,7 МБ"
+    },
+    {
+      "position": 7,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/7/7p/7/7p/7pa6ir8lngv4qq7q.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/7/7p/7pa6ir8lngv4qq7q.jpeg",
+      "originalName": "7pa6ir8lngv4qq7q.jpeg",
+      "cacheFile": "photos/harrison-mouse-198/07.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,5 МБ"
+    }
+  ],
+  "itemFile": "content/mice/harrison-mouse-198.json",
+  "previousPhotoCount": 0
+}

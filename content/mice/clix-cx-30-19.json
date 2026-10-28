@@ -1,0 +1,125 @@
+{
+  "id": "MP-0019",
+  "slug": "clix-cx-30-19",
+  "title": {
+    "en": "CLiX CX-30",
+    "ru": "CLiX CX-30"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/19/",
+  "sourceProperties": {
+    "Производитель": "CLiX",
+    "Год": "1990",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "COM",
+    "СССР": "нет",
+    "Производитель платы": "Genius",
+    "Где посмотреть": "Средний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/clix-cx-30-19/01.webp",
+      "thumbnail": "assets/photos/clix-cx-30-19/01-thumb.webp",
+      "original": "assets/photos/clix-cx-30-19/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/x/x9/x9mlnw7zq5fecrfj.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/x9/x9mlnw7zq5fecrfj.JPG",
+      "originalFilename": "x9mlnw7zq5fecrfj.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1137068,
+      "sha256": "ec5133f6f59e3ee4dcf1da9b7f1b4d2a2337f1d863e2b7dbc5140a9fa607ea14",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/clix-cx-30-19/02.webp",
+      "thumbnail": "assets/photos/clix-cx-30-19/02-thumb.webp",
+      "original": "assets/photos/clix-cx-30-19/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/0/0p/0pi9smrm0hsaomfx.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/0/0p/0pi9smrm0hsaomfx.JPG",
+      "originalFilename": "0pi9smrm0hsaomfx.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1541907,
+      "sha256": "903434901377eaea45ff4c06cd38175354897956e71bb7cb6d6ff89543c31583",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/clix-cx-30-19/03.webp",
+      "thumbnail": "assets/photos/clix-cx-30-19/03-thumb.webp",
+      "original": "assets/photos/clix-cx-30-19/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/i/iy/iybxtakm04wkat4u.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/iy/iybxtakm04wkat4u.JPG",
+      "originalFilename": "iybxtakm04wkat4u.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2209631,
+      "sha256": "8a93b7cf58eb40b70f81f683b109cf0fef6c52571fa1e4984e1ea2a97f4f75d9",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/clix-cx-30-19/04.webp",
+      "thumbnail": "assets/photos/clix-cx-30-19/04-thumb.webp",
+      "original": "assets/photos/clix-cx-30-19/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/s/sl/slyqbl9xfzh4jqr5.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/s/sl/slyqbl9xfzh4jqr5.JPG",
+      "originalFilename": "slyqbl9xfzh4jqr5.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2631684,
+      "sha256": "9856074f706cd5f66fa2b6ca1494863736dbed4e933f2fc178b9e1756f362cdd",
+      "caption": ""
+    }
+  ],
+  "thumbnail": "assets/photos/clix-cx-30-19/thumb.webp",
+  "order": 27,
+  "manufacturer": {
+    "ru": "CLiX",
+    "en": "CLiX"
+  },
+  "brand": "CLiX",
+  "year": 1990,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "COM",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "CLiX CX-30",
+  "whereToSee": {
+    "ru": "Средний",
+    "en": "Middle"
+  },
+  "boardManufacturer": {
+    "ru": "Genius",
+    "en": "Genius"
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T22:22:51+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 7,
+    "availableOriginals": 4
+  }
+}

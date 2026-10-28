@@ -1,0 +1,171 @@
+{
+  "id": "MP-0291",
+  "slug": "disney-mouse-291",
+  "title": {
+    "en": "Disney mouse",
+    "ru": "Disney mouse"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/291/",
+  "sourceOrder": 286,
+  "order": 287,
+  "sourceProperties": {
+    "Год": "1998",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/disney-mouse-291/01.webp",
+      "thumbnail": "assets/photos/disney-mouse-291/01-thumb.webp",
+      "original": "assets/photos/disney-mouse-291/originals/01.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/1/1m/1/1m/1ma8xusigvuclqwx.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/1/1m/1ma8xusigvuclqwx.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/1/1m/1ma8xusigvuclqwx.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "1ma8xusigvuclqwx.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 797234,
+      "sha256": "8c5066f18c6f7057e7c56de0e56ec65e6646a02ae51c77688d6b9182df15e5f3",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/disney-mouse-291/02.webp",
+      "thumbnail": "assets/photos/disney-mouse-291/02-thumb.webp",
+      "original": "assets/photos/disney-mouse-291/originals/02.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/h/hj/h/hj/hj9zsejnc2cnvbjs.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hj/hj9zsejnc2cnvbjs.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/h/hj/hj9zsejnc2cnvbjs.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "hj9zsejnc2cnvbjs.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 925361,
+      "sha256": "cf0c8fb0d61720856ec45ad897bedf03444e1f333aa953dff58363550beb6456",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/disney-mouse-291/03.webp",
+      "thumbnail": "assets/photos/disney-mouse-291/03-thumb.webp",
+      "original": "assets/photos/disney-mouse-291/originals/03.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/d/do/d/do/dohtnvfue3d2wps3.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/d/do/dohtnvfue3d2wps3.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/d/do/dohtnvfue3d2wps3.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "dohtnvfue3d2wps3.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 832888,
+      "sha256": "b00bbea52e2a23a021ebcd18984c6dd956bfbdd617e485f16759dfa956a337c4",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/disney-mouse-291/04.webp",
+      "thumbnail": "assets/photos/disney-mouse-291/04-thumb.webp",
+      "original": "assets/photos/disney-mouse-291/originals/04.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/b/bu/b/bu/budt8tgpymvh5zmp.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/bu/budt8tgpymvh5zmp.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/b/bu/budt8tgpymvh5zmp.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "budt8tgpymvh5zmp.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 932243,
+      "sha256": "6c39192ec786ac87422a45e0860178eb5757038b7b927b935743764c7b4545e5",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/disney-mouse-291/05.webp",
+      "thumbnail": "assets/photos/disney-mouse-291/05-thumb.webp",
+      "original": "assets/photos/disney-mouse-291/originals/05.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/k/k7/k/k7/k7ov0ho0w9nf7oin.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/k7/k7ov0ho0w9nf7oin.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/k/k7/k7ov0ho0w9nf7oin.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "k7ov0ho0w9nf7oin.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1470018,
+      "sha256": "422b20f31f7278a652ccf6edfc7e5784c5e42f2de9108816c4a1d2427411fcdd",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/disney-mouse-291/06.webp",
+      "thumbnail": "assets/photos/disney-mouse-291/06-thumb.webp",
+      "original": "assets/photos/disney-mouse-291/originals/06.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/q/qk/q/qk/qkvbls3pcoehsgkg.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qk/qkvbls3pcoehsgkg.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/q/qk/qkvbls3pcoehsgkg.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "qkvbls3pcoehsgkg.jpeg",
+      "width": 1800,
+      "height": 2400,
+      "originalWidth": 3024,
+      "originalHeight": 4032,
+      "originalBytes": 1916360,
+      "sha256": "7ac692fedaa86316bf7a3015c0d874a6ff1c6d14168a19b1403496c3161ae131",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Не указан",
+    "en": "Not recorded"
+  },
+  "brand": "Unknown",
+  "year": 1998,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Disney mouse",
+  "whereToSee": {
+    "ru": "Дальний",
+    "en": "Far"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/disney-mouse-291/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:11:01+03:00",
+    "sourcePhotoCount": 6,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 4,
+    "availableOriginals": 6
+  }
+}

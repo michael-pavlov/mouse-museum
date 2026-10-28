@@ -1,0 +1,125 @@
+{
+  "id": "MP-0158",
+  "slug": "es-1849-158",
+  "title": {
+    "en": "ES 1849",
+    "ru": "ЕС 1849"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/158/",
+  "sourceProperties": {
+    "Производитель": "Минский завод ЭВМ",
+    "Год": "1992",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "COM",
+    "СССР": "да",
+    "Где посмотреть": "Краснохолмская",
+    "Обменный фонд": "есть 1"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/es-1849-158/01.webp",
+      "thumbnail": "assets/photos/es-1849-158/01-thumb.webp",
+      "original": "assets/photos/es-1849-158/originals/01.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/h/he/h/he/her9oejtuomecxxv.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/he/her9oejtuomecxxv.jpeg",
+      "originalFilename": "her9oejtuomecxxv.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1206224,
+      "sha256": "8023a5fed120e1fe0261b7cf3f46ff20c4aa79b6709b006a624e9138207f0a73",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/es-1849-158/02.webp",
+      "thumbnail": "assets/photos/es-1849-158/02-thumb.webp",
+      "original": "assets/photos/es-1849-158/originals/02.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/8/87/8/87/87ditvxnicobjeou.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/8/87/87ditvxnicobjeou.jpeg",
+      "originalFilename": "87ditvxnicobjeou.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 2330330,
+      "sha256": "387503c4df7f77dc08369e00f7f48c92ee8fab1a88332f24628ba0da10e36cf6",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/es-1849-158/03.webp",
+      "thumbnail": "assets/photos/es-1849-158/03-thumb.webp",
+      "original": "assets/photos/es-1849-158/originals/03.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/4/4v/4/4v/4v91o0m1rnjmmcx5.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/4/4v/4v91o0m1rnjmmcx5.jpeg",
+      "originalFilename": "4v91o0m1rnjmmcx5.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 2160138,
+      "sha256": "1ec050b18baa35a6a6a90f35a5d4075f8d2c0e53b6d7ef1823669b4d64e8cbe0",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/es-1849-158/04.webp",
+      "thumbnail": "assets/photos/es-1849-158/04-thumb.webp",
+      "original": "assets/photos/es-1849-158/originals/04.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/5/5j/5/5j/5jv28dl8ukezags4.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/5/5j/5jv28dl8ukezags4.jpeg",
+      "originalFilename": "5jv28dl8ukezags4.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1638241,
+      "sha256": "6a68ae90ad8edaba0e29e8450eb599441d6d836296327b28f06bb897713bee55",
+      "caption": ""
+    }
+  ],
+  "thumbnail": "assets/photos/es-1849-158/thumb.webp",
+  "order": 37,
+  "manufacturer": {
+    "ru": "Минский завод ЭВМ",
+    "en": "Minsk Computer Plant"
+  },
+  "brand": "Минский завод ЭВМ",
+  "year": 1992,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "COM",
+  "soviet": true,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "Мышка Минского завода ЭВМ к компьютеру ЕС 1849",
+    "en": "A mouse made by the Minsk Computer Plant for the ES 1849 computer."
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "ЕС 1849",
+  "whereToSee": {
+    "ru": "Краснохолмская",
+    "en": "Krasnokholmskaya Gallery"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T22:22:48+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": true,
+    "sourcePropertyCount": 7,
+    "availableOriginals": 4
+  }
+}

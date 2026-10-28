@@ -1,0 +1,191 @@
+{
+  "id": "MP-0071",
+  "slug": "datalux-sv-705-71",
+  "title": {
+    "en": "Datalux SV-705",
+    "ru": "Datalux SV-705"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/71/",
+  "sourceOrder": 104,
+  "order": 108,
+  "sourceProperties": {
+    "Производитель": "Datalux",
+    "Год": "1987",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "C64",
+    "СССР": "нет",
+    "Где посмотреть": "Ближайший"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/datalux-sv-705-71/01.webp",
+      "thumbnail": "assets/photos/datalux-sv-705-71/01-thumb.webp",
+      "original": "assets/photos/datalux-sv-705-71/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/h/hl/hlhtnbfqlr4lokqy.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hl/hlhtnbfqlr4lokqy.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/h/hl/hlhtnbfqlr4lokqy.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "hlhtnbfqlr4lokqy.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3300,
+      "originalHeight": 2200,
+      "originalBytes": 1297228,
+      "sha256": "88ee4d38bc85cb7ded115d6fb5033bb233d482adcb1a26ea7e45a4cf8e9d0e64",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/datalux-sv-705-71/02.webp",
+      "thumbnail": "assets/photos/datalux-sv-705-71/02-thumb.webp",
+      "original": "assets/photos/datalux-sv-705-71/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/a/aa/aahjvab7rw4slijr.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/a/aa/aahjvab7rw4slijr.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/a/aa/aahjvab7rw4slijr.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "aahjvab7rw4slijr.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1581577,
+      "sha256": "9a6e37b165ec337f254dfa9784d972d4e4b1a7daa5b9af070ffca88ab631e239",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/datalux-sv-705-71/03.webp",
+      "thumbnail": "assets/photos/datalux-sv-705-71/03-thumb.webp",
+      "original": "assets/photos/datalux-sv-705-71/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/m/m9/m96ic3gldinxezii.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/m/m9/m96ic3gldinxezii.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/m/m9/m96ic3gldinxezii.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "m96ic3gldinxezii.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 2500,
+      "originalHeight": 1667,
+      "originalBytes": 989113,
+      "sha256": "2930cac4955265d4d8aee9876b65f8ad6a244473d8d2c0a105c059788ce8e938",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/datalux-sv-705-71/04.webp",
+      "thumbnail": "assets/photos/datalux-sv-705-71/04-thumb.webp",
+      "original": "assets/photos/datalux-sv-705-71/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/i/iz/izddmjmgk6yiugng.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/iz/izddmjmgk6yiugng.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/i/iz/izddmjmgk6yiugng.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "izddmjmgk6yiugng.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 2800,
+      "originalHeight": 1867,
+      "originalBytes": 1127778,
+      "sha256": "6ca5e087dcdcd548016807f6b000318eeeb4c5c3fcdfd12147144dd2c5512277",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/datalux-sv-705-71/05.webp",
+      "thumbnail": "assets/photos/datalux-sv-705-71/05-thumb.webp",
+      "original": "assets/photos/datalux-sv-705-71/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/b/bw/bwrwuqsu28d6ji8f.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/bw/bwrwuqsu28d6ji8f.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/b/bw/bwrwuqsu28d6ji8f.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "bwrwuqsu28d6ji8f.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3000,
+      "originalHeight": 2000,
+      "originalBytes": 1233311,
+      "sha256": "347456a8b54558153f4963975beb5ae5ffa12b4c0e18806eceb438aa193568b9",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/datalux-sv-705-71/06.webp",
+      "thumbnail": "assets/photos/datalux-sv-705-71/06-thumb.webp",
+      "original": "assets/photos/datalux-sv-705-71/originals/06.jpg",
+      "source": "https://collectionerus.ru/media/items-large/k/kx/kx4ti8oqx15dfht5.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/kx/kx4ti8oqx15dfht5.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/k/kx/kx4ti8oqx15dfht5.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "kx4ti8oqx15dfht5.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 2114739,
+      "sha256": "d2f7ef14485e56f2f763eca5cbc6f9f5bef70eba50ecac57ba881495e8dbdac1",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/datalux-sv-705-71/07.webp",
+      "thumbnail": "assets/photos/datalux-sv-705-71/07-thumb.webp",
+      "original": "assets/photos/datalux-sv-705-71/originals/07.jpg",
+      "source": "https://collectionerus.ru/media/items-large/e/eg/egswbdcbso7ngjlc.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/eg/egswbdcbso7ngjlc.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/e/eg/egswbdcbso7ngjlc.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "egswbdcbso7ngjlc.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3300,
+      "originalHeight": 2200,
+      "originalBytes": 1151532,
+      "sha256": "ad15de13c79325021815cd4cfbee1b915f52c66ddecb9022a496adf4a90af87e",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Datalux",
+    "en": "Datalux"
+  },
+  "brand": "Datalux",
+  "year": 1987,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "C64",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Datalux SV-705",
+  "whereToSee": {
+    "ru": "Ближайший",
+    "en": "Nearest"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/datalux-sv-705-71/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:49+03:00",
+    "sourcePhotoCount": 7,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 7
+  }
+}

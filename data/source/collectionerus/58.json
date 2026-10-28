@@ -1,0 +1,88 @@
+{
+  "sourceId": 58,
+  "source": "https://collectionerus.ru/collections/old-mice/58/",
+  "slug": "quickshot-mouse-58",
+  "sourceTitle": "QuickShot Mouse",
+  "retrievedAt": "2026-10-27T23:10:48+03:00",
+  "sourcePageSha256": "e856f66e260832450e447b4d3df31953a3546cda289d524d539902f212edd17b",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "QuickShot",
+    "Год": "1990",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "COM",
+    "СССР": "нет",
+    "Где посмотреть": "Средний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=QuickShot"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1990"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=COM"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/3/3e/3ewtlti3zbefjg4e.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/3/3e/3ewtlti3zbefjg4e.JPG",
+      "originalName": "3ewtlti3zbefjg4e.JPG",
+      "cacheFile": "photos/quickshot-mouse-58/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1016,4 КБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/k/ke/kepr4ywbdxrxlorl.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/ke/kepr4ywbdxrxlorl.JPG",
+      "originalName": "kepr4ywbdxrxlorl.JPG",
+      "cacheFile": "photos/quickshot-mouse-58/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,4 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/6/6f/6flfgwksdvsyncqk.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/6/6f/6flfgwksdvsyncqk.JPG",
+      "originalName": "6flfgwksdvsyncqk.JPG",
+      "cacheFile": "photos/quickshot-mouse-58/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,7 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/i/i8/i8blzkuglk6fmynd.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/i8/i8blzkuglk6fmynd.JPG",
+      "originalName": "i8blzkuglk6fmynd.JPG",
+      "cacheFile": "photos/quickshot-mouse-58/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,5 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/l/lw/lwcckpczk3sdzcvq.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/l/lw/lwcckpczk3sdzcvq.JPG",
+      "originalName": "lwcckpczk3sdzcvq.JPG",
+      "cacheFile": "photos/quickshot-mouse-58/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,8 МБ"
+    }
+  ],
+  "itemFile": "content/mice/quickshot-mouse-58.json",
+  "previousPhotoCount": 0
+}

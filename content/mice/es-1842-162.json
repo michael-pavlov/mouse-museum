@@ -1,0 +1,207 @@
+{
+  "id": "MP-0162",
+  "slug": "es-1842-162",
+  "title": {
+    "en": "ES 1842",
+    "ru": "ЕС 1842"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/162/",
+  "sourceOrder": 52,
+  "order": 64,
+  "sourceProperties": {
+    "Год": "1991",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "да",
+    "Где посмотреть": "Ближний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/es-1842-162/01.webp",
+      "thumbnail": "assets/photos/es-1842-162/01-thumb.webp",
+      "original": "assets/photos/es-1842-162/originals/01.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/s/sk/s/sk/sk81d0oinwfqnv5r.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/s/sk/sk81d0oinwfqnv5r.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/s/sk/sk81d0oinwfqnv5r.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "sk81d0oinwfqnv5r.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1212586,
+      "sha256": "be6097223dd964e19d70421d580ed4502e609bb4f9c98d3f2fafdc308f2f7a34",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/es-1842-162/02.webp",
+      "thumbnail": "assets/photos/es-1842-162/02-thumb.webp",
+      "original": "assets/photos/es-1842-162/originals/02.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/s/sn/s/sn/snco7rocyon9aupk.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/s/sn/snco7rocyon9aupk.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/s/sn/snco7rocyon9aupk.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "snco7rocyon9aupk.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1430626,
+      "sha256": "ce3455c35b6f901aeaf079fad6409fa3de6b85c6bc5eb37585f4cc7f3b925d9e",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/es-1842-162/03.webp",
+      "thumbnail": "assets/photos/es-1842-162/03-thumb.webp",
+      "original": "assets/photos/es-1842-162/originals/03.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/j/jc/j/jc/jcout4bhwj0aogjd.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/j/jc/jcout4bhwj0aogjd.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/j/jc/jcout4bhwj0aogjd.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "jcout4bhwj0aogjd.jpeg",
+      "width": 1800,
+      "height": 2400,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1768469,
+      "sha256": "311fa6cb167edb2f6c0465d8b806e04eb38507786b804d456eead31e911a2ae6",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/es-1842-162/04.webp",
+      "thumbnail": "assets/photos/es-1842-162/04-thumb.webp",
+      "original": "assets/photos/es-1842-162/originals/04.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/n/nn/n/nn/nnendp8twz5kawz5.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/nn/nnendp8twz5kawz5.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/n/nn/nnendp8twz5kawz5.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "nnendp8twz5kawz5.jpeg",
+      "width": 1800,
+      "height": 2400,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1476139,
+      "sha256": "a9860e0661c6cb5d8c700e1ffd6f4782fbf7c6f1d0d7f31720cc80d7401fe5e6",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/es-1842-162/05.webp",
+      "thumbnail": "assets/photos/es-1842-162/05-thumb.webp",
+      "original": "assets/photos/es-1842-162/originals/05.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/e/ek/e/ek/ekk89h3muh7ketij.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/ek/ekk89h3muh7ketij.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/e/ek/ekk89h3muh7ketij.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "ekk89h3muh7ketij.jpeg",
+      "width": 1800,
+      "height": 2400,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1611099,
+      "sha256": "f2b542f8530434cf2a70c6b80b4d970efd1ec040618442f52a92756c020424b8",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/es-1842-162/06.webp",
+      "thumbnail": "assets/photos/es-1842-162/06-thumb.webp",
+      "original": "assets/photos/es-1842-162/originals/06.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/h/hv/h/hv/hvqlqg477sabv7tr.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hv/hvqlqg477sabv7tr.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/h/hv/hvqlqg477sabv7tr.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "hvqlqg477sabv7tr.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1356723,
+      "sha256": "6e0dbea3a1568f25c6766dede4975daa061ed90e2662377c46692fc4ba84479a",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/es-1842-162/07.webp",
+      "thumbnail": "assets/photos/es-1842-162/07-thumb.webp",
+      "original": "assets/photos/es-1842-162/originals/07.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/o/ob/o/ob/obd5ho9r4vsmdrer.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/o/ob/obd5ho9r4vsmdrer.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/o/ob/obd5ho9r4vsmdrer.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "obd5ho9r4vsmdrer.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1024169,
+      "sha256": "432c0468c6abd8ba388a793425dae2e7b5a212416007f8fb2bd9a1a4967389e0",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/es-1842-162/08.webp",
+      "thumbnail": "assets/photos/es-1842-162/08-thumb.webp",
+      "original": "assets/photos/es-1842-162/originals/08.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/v/v6/v/v6/v6v9qzpprls6898x.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/v6/v6v9qzpprls6898x.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/v/v6/v6v9qzpprls6898x.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "v6v9qzpprls6898x.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1365445,
+      "sha256": "9c5be478a274c4d39f4984620e95c3f73491f0723b283d3f19afb494448df64a",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Не указан",
+    "en": "Not recorded"
+  },
+  "brand": "Unknown",
+  "year": 1991,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": true,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "ЕС 1842",
+  "whereToSee": {
+    "ru": "Ближний",
+    "en": "Near"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/es-1842-162/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:46+03:00",
+    "sourcePhotoCount": 8,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 4,
+    "availableOriginals": 8
+  }
+}

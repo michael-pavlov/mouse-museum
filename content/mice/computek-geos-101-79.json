@@ -1,0 +1,155 @@
+{
+  "id": "MP-0079",
+  "slug": "computek-geos-101-79",
+  "title": {
+    "en": "Computek Geos-101",
+    "ru": "Computek Geos-101"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/79/",
+  "sourceOrder": 116,
+  "order": 120,
+  "sourceProperties": {
+    "Производитель": "Computek",
+    "Год": "1986",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "C64",
+    "СССР": "нет",
+    "Где посмотреть": "Средний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/computek-geos-101-79/01-catalog.webp",
+      "thumbnail": "assets/photos/computek-geos-101-79/01-catalog-thumb.webp",
+      "original": "assets/photos/computek-geos-101-79/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/q/qv/qvxswwpfknwskjjb.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qv/qvxswwpfknwskjjb.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/q/qv/qvxswwpfknwskjjb.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "qvxswwpfknwskjjb.JPG",
+      "width": 1536,
+      "height": 1024,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1280877,
+      "sha256": "3e0aff5dcc6f449b86128a4d926052ef34daec0e73c346d80c67e29bf09f20ac",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/computek-geos-101-79/02.webp",
+      "thumbnail": "assets/photos/computek-geos-101-79/02-thumb.webp",
+      "original": "assets/photos/computek-geos-101-79/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/n/n5/n5oamoeeyrzf6z4v.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/n5/n5oamoeeyrzf6z4v.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/n/n5/n5oamoeeyrzf6z4v.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "n5oamoeeyrzf6z4v.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1678177,
+      "sha256": "2670b9ff8954fc9b7d44b592764e147e6b96384b86a3073fbf59f2b6d62f22c0",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/computek-geos-101-79/03.webp",
+      "thumbnail": "assets/photos/computek-geos-101-79/03-thumb.webp",
+      "original": "assets/photos/computek-geos-101-79/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/e/e7/e7chmcdsqaqgmkqg.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/e7/e7chmcdsqaqgmkqg.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/e/e7/e7chmcdsqaqgmkqg.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "e7chmcdsqaqgmkqg.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1750867,
+      "sha256": "db8c0db5add44e823b71829f222ef673dc817f6d030ec01e9e3c0d4911611f18",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/computek-geos-101-79/04.webp",
+      "thumbnail": "assets/photos/computek-geos-101-79/04-thumb.webp",
+      "original": "assets/photos/computek-geos-101-79/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/3/3b/3bvpprcdswpddzi9.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/3/3b/3bvpprcdswpddzi9.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/3/3b/3bvpprcdswpddzi9.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "3bvpprcdswpddzi9.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 2063408,
+      "sha256": "d7ed81d3b9aa550b33b5ba8582ebd35522829ef09e962724f42d2123f32c733c",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/computek-geos-101-79/05.webp",
+      "thumbnail": "assets/photos/computek-geos-101-79/05-thumb.webp",
+      "original": "assets/photos/computek-geos-101-79/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/l/lm/lmj4flbuy2chyjtb.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/l/lm/lmj4flbuy2chyjtb.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/l/lm/lmj4flbuy2chyjtb.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "lmj4flbuy2chyjtb.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 2008716,
+      "sha256": "960526cf935af562bd358f39c57d1e35c8ce9e305db151a8e7f2b7232423f476",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Computek",
+    "en": "Computek"
+  },
+  "brand": "Computek",
+  "year": 1986,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "C64",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Computek Geos-101",
+  "whereToSee": {
+    "ru": "Средний",
+    "en": "Middle"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/computek-geos-101-79/thumb-catalog.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:50+03:00",
+    "sourcePhotoCount": 5,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 5
+  }
+}

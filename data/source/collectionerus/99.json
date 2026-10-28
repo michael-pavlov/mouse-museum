@@ -1,0 +1,75 @@
+{
+  "sourceId": 99,
+  "source": "https://collectionerus.ru/collections/old-mice/99/",
+  "slug": "hit-mouse-99",
+  "sourceTitle": "Hit Mouse",
+  "retrievedAt": "2026-10-27T23:10:51+03:00",
+  "sourcePageSha256": "6627b6a208ec3b9ea129be0b939b99c5699bb1220178d339541ba90d7c58231a",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Hit Mouse",
+    "Год": "1986",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Демо Витрина"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Hit+Mouse"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1986"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B5%D0%BC%D0%BE+%D0%92%D0%B8%D1%82%D1%80%D0%B8%D0%BD%D0%B0"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/o/od/o/od/odenl66wqejjgudv.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/o/od/odenl66wqejjgudv.JPG",
+      "originalName": "odenl66wqejjgudv.JPG",
+      "cacheFile": "photos/hit-mouse-99/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3294×2196, 625,5 КБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/rz/r/rz/rzbjsgcuoexo5jk1.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/rz/rzbjsgcuoexo5jk1.JPG",
+      "originalName": "rzbjsgcuoexo5jk1.JPG",
+      "cacheFile": "photos/hit-mouse-99/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3409×2273, 680,5 КБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/t/tz/t/tz/tzagwpc7ei8ttlrm.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/tz/tzagwpc7ei8ttlrm.JPG",
+      "originalName": "tzagwpc7ei8ttlrm.JPG",
+      "cacheFile": "photos/hit-mouse-99/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3929×2619, 1,3 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/j/jc/j/jc/jccyh2arhsaplwvk.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/j/jc/jccyh2arhsaplwvk.JPG",
+      "originalName": "jccyh2arhsaplwvk.JPG",
+      "cacheFile": "photos/hit-mouse-99/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3396×2264, 1,1 МБ"
+    }
+  ],
+  "itemFile": "content/mice/hit-mouse-99.json",
+  "previousPhotoCount": 0
+}

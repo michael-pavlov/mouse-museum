@@ -1,0 +1,74 @@
+{
+  "id": "telegram-196",
+  "slug": "telegram-196",
+  "title": {
+    "ru": "Lunaris M-LMA Variable",
+    "en": "Lunaris M-LMA Variable"
+  },
+  "date": "2025-09-04T12:50:59+00:00",
+  "source": "https://t.me/old_mice_and_hw/196",
+  "excerpt": {
+    "ru": "Мышь Elecom от frog design и скрытые возможности переключателя чувствительности.",
+    "en": "An Elecom mouse by frog design, with hidden sensitivity-selector possibilities."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/telegram-196/01.webp",
+      "original": "assets/posts/telegram-196/01.jpg",
+      "source": "https://cdn4.telesco.pe/file/bAUWI5EcV0a52G0vUInG8dAFBj7Cf8LSHOnes2eSsi7xJPcVZuibWF-6QloPWtlKbeuqobeyLFRNs6q_bfjSFGQZtrH36XpusWEDxOuVIJa5DL_qjOojPjRhMAAizbuEH9nVS3CKgL5f007JZTQdc0WkFZN6n5XuuQCIXjtPUosU_AJ7JEszrxvvrWc_e-Xa9UQZV9IcZilyu-scDrFiDsAZQXH1uOG_JMgHx6-JCdPjK-_nkM2vhSLxCBBAMC6CvmWx9Ilp7BpVozYPRKrddgPd8s_5YF3Q--nj26ps8FX3_Mvv2tulADecKCP06DPw5L2CfgTqZS0WbrK6Iy1FGQ.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/telegram-196/02.webp",
+      "original": "assets/posts/telegram-196/02.jpg",
+      "source": "https://cdn4.telesco.pe/file/R9Zumi3EY1whZj6pW4U4ewwwzwiKaj3Jm8DjoS7ZDPCoc3GrVUkFxDd3RxbD70WFveG75G-xuN3QdY8bDN9Zy3NCPJ6gnZR0RwEo-ryPCm6kNs6kLdiL0imNb0S4cxROFSGvWruOvJQNNvdjxt9hSfYEMgqnL6-7VxX55zVDhP9WPPYdIcu7sOtesdXzNjjpmVnK_2JEKL6WxO5YNaJUsEPW786_oAZrhEnz38u1MKNdHRHfNoaoUV9pf2eC3xm5pHUPJyLjET1zVtJ55nGPBLOAmWCeGoXC732EBRRQiIPD9qYH7ngPJg9GKXBx3G1s9TiK0HXqr1n0_X-neU77JQ.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/telegram-196/03.webp",
+      "original": "assets/posts/telegram-196/03.jpg",
+      "source": "https://cdn4.telesco.pe/file/pNHL35ryLMrLN0uHj-v_iHCVx_sdTcwEekQrYjME7X7IN6dQrbB1SY5I8TSiivKjs3pMdvtevW2QUO2Xxm51uh7rsj0Tz2-0_poYrTS3AVIs1OGGNam6SLwANgl0gNQ3vd8RJ91DSV7xmqKYr-FdnQ0isQN-wM-biLMAi8M3DvueAZpKEGzTxbGrYQ8VZJEe1jo3D8q6fgZMcJmNpn37_beQ5bTcxZu4-ihGxZwnqqdvkZGcNG34blt0tcuFHfxQo24P7JpWZJE0q8m6hBKV7NYci8pDu8qnhuGLsjsMSFFISpeefYHX-PwsNhd90VOvXt0tA0hRD7P2lD6sxZp-MQ.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/telegram-196/04.webp",
+      "original": "assets/posts/telegram-196/04.jpg",
+      "source": "https://cdn4.telesco.pe/file/QwEDyOAGWf-KToy0W4Do1EuBTIrCtrrXtkTpkIDx9WPKlhGcH1pztrwrSJK2XRoU3QtXZH9tHKP5yfeJnKbxgiLpHFXX8DskjoGbQK-NhwZNmDxaExgIrjFeXV4EU_daj83gYpAAI9Wv6p3ickN1zsz6PWPScvYBI8rRKUgSEOGPliATIQg9Tvb5IV3cfWVxVP_aoIYMR4AI9W5oimadLTQ7zh0Bxwbh0VLH0Ud-svSFHx7Lz9j5sJbenl8EFL-Rem1P5vs1lp04kYDpkB8u41O14NrXbSX-BOjKS1VGa8G9XsZlf7ky-Z7YhygPIrwB9GBUJH97Gf-WMXvmEEhjig.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/telegram-196/05.webp",
+      "original": "assets/posts/telegram-196/05.jpg",
+      "source": "https://cdn4.telesco.pe/file/SyNekKnOxnoiMF5DQFPJ5mr95BelbsWkwb-NQ8ptvWWjpOUAKDghNCYHzFPsT81Y5oJ6CcbisHuSq2LRCOVCCxpRBQjhHA-Dl1SmPI4jiSTuXOurqMXHTGAjS0aKFbyUFA9xh2ErfuTLg3lmYo_xplcNP7oSAB5sr2PYIxT2DhGmCkEtv8JZFII5FgEPLRm7JpM_8CPor3eIwuhsYaPahFUO0a0N9HWa7JafklryQOvleABaJpKrzZlmvwDGRKC7oRC1U2HlJgp2ZvZ0xTSOOd4wZQz3MfBRQxKeKBo79_d21dxnXkgz6LpZCBO6TShNngJIvXKpu4gEYsBXm3Bq0A.jpg",
+      "width": 800,
+      "height": 600
+    }
+  ],
+  "cover": "assets/posts/telegram-196/01.webp",
+  "relatedItems": [
+    "lunaris-m-lma-variable-245",
+    "lunaris-m-lp2b4-250"
+  ],
+  "category": "stories",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-196/ru.md",
+    "en": "content/posts/telegram-196/en.md"
+  },
+  "references": [
+    {
+      "url": "https://collectionerus.ru/collections/old-mice/245/",
+      "label": {
+        "ru": "Ссылка из оригинала 1",
+        "en": "Original reference 1"
+      }
+    }
+  ]
+}

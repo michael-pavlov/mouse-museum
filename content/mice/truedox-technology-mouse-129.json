@@ -1,0 +1,136 @@
+{
+  "id": "MP-0129",
+  "slug": "truedox-technology-mouse-129",
+  "title": {
+    "en": "Truedox Technology mouse",
+    "ru": "Truedox Technology mouse"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/129/",
+  "sourceOrder": 159,
+  "order": 162,
+  "sourceProperties": {
+    "Производитель": "Truedox Technology Corporation",
+    "Год": "1989",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/truedox-technology-mouse-129/01.webp",
+      "thumbnail": "assets/photos/truedox-technology-mouse-129/01-thumb.webp",
+      "original": "assets/photos/truedox-technology-mouse-129/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/b/b8/b/b8/b8r1aw6gjcoiriya.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/b8/b8r1aw6gjcoiriya.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/b/b8/b8r1aw6gjcoiriya.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "b8r1aw6gjcoiriya.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3217,
+      "originalHeight": 2145,
+      "originalBytes": 2920400,
+      "sha256": "4389d9eef7499ff29957dc9b2ab66771de55b1a3c05b25cc17c0c7edf889394a",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/truedox-technology-mouse-129/02.webp",
+      "thumbnail": "assets/photos/truedox-technology-mouse-129/02-thumb.webp",
+      "original": "assets/photos/truedox-technology-mouse-129/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/l/lt/l/lt/lt2jhcy2gv3jecnp.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/l/lt/lt2jhcy2gv3jecnp.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/l/lt/lt2jhcy2gv3jecnp.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "lt2jhcy2gv3jecnp.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3217,
+      "originalHeight": 2145,
+      "originalBytes": 2760672,
+      "sha256": "e95aad44b6f465900c2ec8e3b591eef8a2c64717ae11aa12f71321314743e250",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/truedox-technology-mouse-129/03.webp",
+      "thumbnail": "assets/photos/truedox-technology-mouse-129/03-thumb.webp",
+      "original": "assets/photos/truedox-technology-mouse-129/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/d/du/d/du/dufrfaq3ilartdt4.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/d/du/dufrfaq3ilartdt4.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/d/du/dufrfaq3ilartdt4.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "dufrfaq3ilartdt4.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3359,
+      "originalHeight": 2239,
+      "originalBytes": 2982135,
+      "sha256": "c5b8ed724ecbfd657fb9565092d4ebda5c91fe4f555f55e130663ea40db6bd90",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/truedox-technology-mouse-129/04.webp",
+      "thumbnail": "assets/photos/truedox-technology-mouse-129/04-thumb.webp",
+      "original": "assets/photos/truedox-technology-mouse-129/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/g/gv/g/gv/gvcwgq7m6qgylbox.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gv/gvcwgq7m6qgylbox.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/g/gv/gvcwgq7m6qgylbox.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "gvcwgq7m6qgylbox.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4031,
+      "originalHeight": 2687,
+      "originalBytes": 3845095,
+      "sha256": "ba6896baa96b23167cbea222655a2e1386e6f31c646c853d3fe7801977f24600",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Truedox Technology Corporation",
+    "en": "Truedox Technology Corporation"
+  },
+  "brand": "Truedox Technology Corporation",
+  "year": 1989,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Truedox Technology mouse",
+  "whereToSee": {
+    "ru": "Дальний",
+    "en": "Far"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/truedox-technology-mouse-129/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:53+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 4
+  }
+}

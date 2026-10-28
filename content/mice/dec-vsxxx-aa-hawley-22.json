@@ -1,0 +1,139 @@
+{
+  "id": "MP-0022",
+  "slug": "dec-vsxxx-aa-hawley-22",
+  "title": {
+    "en": "DEC VSXXX-AA (Hawley)",
+    "ru": "DEC VSXXX-AA (Hawley)"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/22/",
+  "sourceProperties": {
+    "Производитель": "DEC",
+    "Год": "1986",
+    "Способ позиционирования": "на датчиках с осевым наклоном (Hawley)",
+    "Интерфейс": "PS/2",
+    "СССР": "нет",
+    "Где посмотреть": "Демо Стол"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/dec-vsxxx-aa-hawley-22/01-catalog.webp",
+      "thumbnail": "assets/photos/dec-vsxxx-aa-hawley-22/01-catalog-thumb.webp",
+      "original": "assets/photos/dec-vsxxx-aa-hawley-22/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/o/oq/oq3qrkaijhs8wohu.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/o/oq/oq3qrkaijhs8wohu.JPG",
+      "originalFilename": "oq3qrkaijhs8wohu.JPG",
+      "width": 1536,
+      "height": 1024,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1290465,
+      "sha256": "73f150499db434c16a0ed3d9dbbc89604e3d2abc89e6f879012f433902c82c2c",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/dec-vsxxx-aa-hawley-22/02.webp",
+      "thumbnail": "assets/photos/dec-vsxxx-aa-hawley-22/02-thumb.webp",
+      "original": "assets/photos/dec-vsxxx-aa-hawley-22/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/e/ee/eetp2vk87do6noxw.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/ee/eetp2vk87do6noxw.JPG",
+      "originalFilename": "eetp2vk87do6noxw.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1599716,
+      "sha256": "31b829d13ceba24dfd291ee3e5d8d6de40e744c23163dc4aa3ab2691ab14c0b7",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/dec-vsxxx-aa-hawley-22/03.webp",
+      "thumbnail": "assets/photos/dec-vsxxx-aa-hawley-22/03-thumb.webp",
+      "original": "assets/photos/dec-vsxxx-aa-hawley-22/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/l/la/laahkmnl6zr0zjdc.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/l/la/laahkmnl6zr0zjdc.JPG",
+      "originalFilename": "laahkmnl6zr0zjdc.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1586566,
+      "sha256": "d26e16d88679db11b9d0bccb8799890ca08c8b510636d9f22f043040bad6be10",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/dec-vsxxx-aa-hawley-22/04.webp",
+      "thumbnail": "assets/photos/dec-vsxxx-aa-hawley-22/04-thumb.webp",
+      "original": "assets/photos/dec-vsxxx-aa-hawley-22/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/w/wf/wfqys0j7jdvbcpws.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/wf/wfqys0j7jdvbcpws.JPG",
+      "originalFilename": "wfqys0j7jdvbcpws.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4376,
+      "originalHeight": 2918,
+      "originalBytes": 2557745,
+      "sha256": "0127c06464f998cd51f552fac927d9398dfe47c93696919e8fb59ab372ac5844",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/dec-vsxxx-aa-hawley-22/05.webp",
+      "thumbnail": "assets/photos/dec-vsxxx-aa-hawley-22/05-thumb.webp",
+      "original": "assets/photos/dec-vsxxx-aa-hawley-22/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/0/0f/0fuzfr8we7kt0jbf.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/0/0f/0fuzfr8we7kt0jbf.JPG",
+      "originalFilename": "0fuzfr8we7kt0jbf.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4896,
+      "originalHeight": 3264,
+      "originalBytes": 4396476,
+      "sha256": "0190c8144cb9736732569d1173cf6fb1dae1205064c52c354edcd3a6f271527c",
+      "caption": ""
+    }
+  ],
+  "thumbnail": "assets/photos/dec-vsxxx-aa-hawley-22/thumb-catalog.webp",
+  "order": 30,
+  "manufacturer": {
+    "ru": "DEC",
+    "en": "DEC"
+  },
+  "brand": "DEC",
+  "year": 1986,
+  "tracking": {
+    "key": "hawley-tilt",
+    "ru": "на датчиках с осевым наклоном (Hawley)",
+    "en": "Axial tilt sensors (Hawley)"
+  },
+  "interface": "PS/2",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "DEC VSXXX-AA (Hawley)",
+  "whereToSee": {
+    "ru": "Демо Стол",
+    "en": "Demo table"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T22:22:49+03:00",
+    "sourcePhotoCount": 5,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 5
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "id": "MP-0100",
+  "slug": "finnigan-mat-100",
+  "title": {
+    "en": "Finnigan Mat",
+    "ru": "Finnigan Mat"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/100/",
+  "sourceOrder": 131,
+  "order": 135,
+  "sourceProperties": {
+    "Производитель": "Disc Instruments",
+    "Год": "1986",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Демо Стол"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/finnigan-mat-100/01.webp",
+      "thumbnail": "assets/photos/finnigan-mat-100/01-thumb.webp",
+      "original": "assets/photos/finnigan-mat-100/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/k/kp/k/kp/kpxykemdttupse9a.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/kp/kpxykemdttupse9a.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/k/kp/kpxykemdttupse9a.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "kpxykemdttupse9a.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3920,
+      "originalHeight": 2613,
+      "originalBytes": 1253035,
+      "sha256": "dde1dc0ae4e58e6a1a42f6be7b43106c15ef3121000e8a61c601df7181d3ecdd",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/finnigan-mat-100/02.webp",
+      "thumbnail": "assets/photos/finnigan-mat-100/02-thumb.webp",
+      "original": "assets/photos/finnigan-mat-100/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/5/5m/5/5m/5mkkofqnjc6niy8z.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/5/5m/5mkkofqnjc6niy8z.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/5/5m/5mkkofqnjc6niy8z.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "5mkkofqnjc6niy8z.JPG",
+      "width": 1600,
+      "height": 2400,
+      "originalWidth": 2176,
+      "originalHeight": 3264,
+      "originalBytes": 1080728,
+      "sha256": "21d1c5ed6f1f67bb63908c55b6e7a341a4ce1f8589d3d7487684eddc1ced5669",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/finnigan-mat-100/03.webp",
+      "thumbnail": "assets/photos/finnigan-mat-100/03-thumb.webp",
+      "original": "assets/photos/finnigan-mat-100/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/i/ir/i/ir/irxywus1utqvojnk.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/ir/irxywus1utqvojnk.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/i/ir/irxywus1utqvojnk.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "irxywus1utqvojnk.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4041,
+      "originalHeight": 2694,
+      "originalBytes": 1601846,
+      "sha256": "3f25902487553438c0190e974d95a9c1eb0bcb6b31fbe083acc1944aa098a9ec",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/finnigan-mat-100/04.webp",
+      "thumbnail": "assets/photos/finnigan-mat-100/04-thumb.webp",
+      "original": "assets/photos/finnigan-mat-100/originals/04.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/2/2w/2/2w/2w9a6dy3rzujjzu1.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/2/2w/2w9a6dy3rzujjzu1.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/2/2w/2w9a6dy3rzujjzu1.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "2w9a6dy3rzujjzu1.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1522131,
+      "sha256": "48d5c946646a4af5298940f4a10cd4aeba63a04588b125b49d77155fd2e065c1",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/finnigan-mat-100/05.webp",
+      "thumbnail": "assets/photos/finnigan-mat-100/05-thumb.webp",
+      "original": "assets/photos/finnigan-mat-100/originals/05.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/m/mn/m/mn/mn8ajyeqaigehdcb.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/m/mn/mn8ajyeqaigehdcb.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/m/mn/mn8ajyeqaigehdcb.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "mn8ajyeqaigehdcb.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1495312,
+      "sha256": "bc779ae65c3ba67314637a19782b2b296938b43dce8bc241c32941fef77ce807",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/finnigan-mat-100/06.webp",
+      "thumbnail": "assets/photos/finnigan-mat-100/06-thumb.webp",
+      "original": "assets/photos/finnigan-mat-100/originals/06.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/u/ux/u/ux/uxnfgm1idgeyv6e4.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/ux/uxnfgm1idgeyv6e4.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/u/ux/uxnfgm1idgeyv6e4.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "uxnfgm1idgeyv6e4.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1790205,
+      "sha256": "97e6708c8aaec3ff67e17693fe10839cceb7b38ffebf3fbf9c21e7685348a7de",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Disc Instruments",
+    "en": "Disc Instruments"
+  },
+  "brand": "Disc Instruments",
+  "year": 1986,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Finnigan Mat",
+  "whereToSee": {
+    "ru": "Демо Стол",
+    "en": "Demo table"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/finnigan-mat-100/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:51+03:00",
+    "sourcePhotoCount": 6,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 6
+  }
+}

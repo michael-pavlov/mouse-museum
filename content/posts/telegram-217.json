@@ -1,0 +1,35 @@
+{
+  "id": "telegram-217",
+  "slug": "telegram-217",
+  "title": {
+    "ru": "Второй день фестиваля",
+    "en": "The festival's second day"
+  },
+  "date": "2025-09-28T07:17:40+00:00",
+  "source": "https://t.me/old_mice_and_hw/217",
+  "excerpt": {
+    "ru": "Короткая фотозаметка со второго дня фестиваля.",
+    "en": "A short photographic note from the festival's second day."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/telegram-217/01.webp",
+      "original": "assets/posts/telegram-217/01.jpg",
+      "source": "https://cdn4.telesco.pe/file/V089IcfYFCfMWGcd3P7CvIImXrC9KHWqASzrAvfJYO7u4NflXZ6uOnbJFq_3eiN70eoLc9wqSVgkk_QZL2ObQsbWqK3RMIOh-daTC7a_ztWRPjC_0H_SV4uNEgF_5BSyTKqm1zDIDRTb1uz7oMtKAp8AytricB1SeEEe-GM0JgSLv9NBp6tvAZrMQ5AI3d321jjJvsAvvufFP7-cXsm43pC12P3UXIFh0Lmeq32SSWwYV5-autg93GzFAXjZ44tNTvhkRGSfBJrU_VFBv_a0vL_OikAPvTEK0Z7WXhDbuPmNi0e-GOCRLAkYLAZHCGh8ctwpNoT0co5ZNTE-0vB7BQ.jpg",
+      "width": 800,
+      "height": 600
+    }
+  ],
+  "cover": "assets/posts/telegram-217/01.webp",
+  "relatedItems": [],
+  "category": "exhibitions",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-217/ru.md",
+    "en": "content/posts/telegram-217/en.md"
+  },
+  "eventDate": "2025-09-28"
+}

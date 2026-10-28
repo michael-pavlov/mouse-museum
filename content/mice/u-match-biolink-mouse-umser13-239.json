@@ -1,0 +1,270 @@
+{
+  "id": "MP-0239",
+  "slug": "u-match-biolink-mouse-umser13-239",
+  "title": {
+    "en": "U-Match BioLink Mouse UMSER13",
+    "ru": "U-Match BioLink Mouse UMSER13"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/239/",
+  "sourceOrder": 236,
+  "order": 239,
+  "sourceProperties": {
+    "Производитель": "U-Match",
+    "Год": "2000",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Ближний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/u-match-biolink-mouse-umser13-239/01.webp",
+      "thumbnail": "assets/photos/u-match-biolink-mouse-umser13-239/01-thumb.webp",
+      "original": "assets/photos/u-match-biolink-mouse-umser13-239/originals/01.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/4/4z/4/4z/4zxv53v1kx8ggvlj.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/4/4z/4zxv53v1kx8ggvlj.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/4/4z/4zxv53v1kx8ggvlj.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "4zxv53v1kx8ggvlj.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1051807,
+      "sha256": "363c3538e700e9846b5012d761c2cdd57448807eaa5ca84f1c38079935d6d7dc",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/u-match-biolink-mouse-umser13-239/02.webp",
+      "thumbnail": "assets/photos/u-match-biolink-mouse-umser13-239/02-thumb.webp",
+      "original": "assets/photos/u-match-biolink-mouse-umser13-239/originals/02.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/w/ws/w/ws/ws35yssxvpzc9dmj.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/ws/ws35yssxvpzc9dmj.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/w/ws/ws35yssxvpzc9dmj.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "ws35yssxvpzc9dmj.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 972649,
+      "sha256": "ffdb536ca671ddea173ea7f12c8ef7349d326328e4ac27cfed2888082f72f53d",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/u-match-biolink-mouse-umser13-239/03.webp",
+      "thumbnail": "assets/photos/u-match-biolink-mouse-umser13-239/03-thumb.webp",
+      "original": "assets/photos/u-match-biolink-mouse-umser13-239/originals/03.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/h/hp/h/hp/hprnuwi0tsnzkk3f.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hp/hprnuwi0tsnzkk3f.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/h/hp/hprnuwi0tsnzkk3f.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "hprnuwi0tsnzkk3f.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1203411,
+      "sha256": "0d493df4220421cd4df61d7b26a00c60d7707be135babfa0c89078ddb5ef89b6",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/u-match-biolink-mouse-umser13-239/04.webp",
+      "thumbnail": "assets/photos/u-match-biolink-mouse-umser13-239/04-thumb.webp",
+      "original": "assets/photos/u-match-biolink-mouse-umser13-239/originals/04.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/d/dv/d/dv/dvmhqsy6lpqhkqwd.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/d/dv/dvmhqsy6lpqhkqwd.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/d/dv/dvmhqsy6lpqhkqwd.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "dvmhqsy6lpqhkqwd.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1114804,
+      "sha256": "7ea54b6e26e81e45f102f2b43baa6730cfc60645c856ae9c0a805c1d6fa12a68",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/u-match-biolink-mouse-umser13-239/05.webp",
+      "thumbnail": "assets/photos/u-match-biolink-mouse-umser13-239/05-thumb.webp",
+      "original": "assets/photos/u-match-biolink-mouse-umser13-239/originals/05.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/h/h7/h/h7/h7n3qw5dnlyzv3f5.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/h7/h7n3qw5dnlyzv3f5.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/h/h7/h7n3qw5dnlyzv3f5.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "h7n3qw5dnlyzv3f5.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1390122,
+      "sha256": "ad0903ef2f6ae2e839fc71dcc28d2c272fd7c0f5af867ccc26b1aa694743fb5a",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/u-match-biolink-mouse-umser13-239/06.webp",
+      "thumbnail": "assets/photos/u-match-biolink-mouse-umser13-239/06-thumb.webp",
+      "original": "assets/photos/u-match-biolink-mouse-umser13-239/originals/06.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/ro/r/ro/ronsta2vn2ouywsk.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/ro/ronsta2vn2ouywsk.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/r/ro/ronsta2vn2ouywsk.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "ronsta2vn2ouywsk.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1928089,
+      "sha256": "c7538fd1bab967cc2890081d192131af3e4a8078306cdf4e7779f5a1615202d5",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/u-match-biolink-mouse-umser13-239/07.webp",
+      "thumbnail": "assets/photos/u-match-biolink-mouse-umser13-239/07-thumb.webp",
+      "original": "assets/photos/u-match-biolink-mouse-umser13-239/originals/07.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/i/ii/i/ii/iifgi9wfcrfqoupk.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/ii/iifgi9wfcrfqoupk.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/i/ii/iifgi9wfcrfqoupk.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "iifgi9wfcrfqoupk.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1284064,
+      "sha256": "c3aeaa3a16aef9e721fa9f2f46f6f4cae6d9d87bd33f56bcff76d12ffac280b0",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/u-match-biolink-mouse-umser13-239/08.webp",
+      "thumbnail": "assets/photos/u-match-biolink-mouse-umser13-239/08-thumb.webp",
+      "original": "assets/photos/u-match-biolink-mouse-umser13-239/originals/08.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/t/ti/t/ti/tiqtrmw877tnl2k6.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/ti/tiqtrmw877tnl2k6.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/t/ti/tiqtrmw877tnl2k6.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "tiqtrmw877tnl2k6.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1595868,
+      "sha256": "4539d2ef27f01dbf4a64e5c87c18b14958fad75306861bc5eabb9292be6795b6",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/u-match-biolink-mouse-umser13-239/09.webp",
+      "thumbnail": "assets/photos/u-match-biolink-mouse-umser13-239/09-thumb.webp",
+      "original": "assets/photos/u-match-biolink-mouse-umser13-239/originals/09.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/p/pg/p/pg/pg6bqflrn3zetqaq.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/pg/pg6bqflrn3zetqaq.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/p/pg/pg6bqflrn3zetqaq.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "pg6bqflrn3zetqaq.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1534887,
+      "sha256": "72d524aeb9d880370958d0f60108eeca9920d2d7967ef6cceb04b7a046087255",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/u-match-biolink-mouse-umser13-239/10.webp",
+      "thumbnail": "assets/photos/u-match-biolink-mouse-umser13-239/10-thumb.webp",
+      "original": "assets/photos/u-match-biolink-mouse-umser13-239/originals/10.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/m/mt/m/mt/mtqbaahm4grycsx9.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/m/mt/mtqbaahm4grycsx9.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/m/mt/mtqbaahm4grycsx9.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "mtqbaahm4grycsx9.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1341345,
+      "sha256": "58c612791e2476c12b8071c9d47219603da284d57075ad3d34e8f2d3d6f4ca54",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/u-match-biolink-mouse-umser13-239/11.webp",
+      "thumbnail": "assets/photos/u-match-biolink-mouse-umser13-239/11-thumb.webp",
+      "original": "assets/photos/u-match-biolink-mouse-umser13-239/originals/11.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/rv/r/rv/rvfjusjuc6gxl86u.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/rv/rvfjusjuc6gxl86u.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/r/rv/rvfjusjuc6gxl86u.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "rvfjusjuc6gxl86u.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1738479,
+      "sha256": "d6fe510f7f767c9cd653146a6b2749117b18fef63e72948aebf3c96e647cf79f",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "U-Match",
+    "en": "U-Match"
+  },
+  "brand": "U-Match",
+  "year": 2000,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "U-Match BioLink Mouse UMSER13",
+  "whereToSee": {
+    "ru": "Ближний",
+    "en": "Near"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [
+    {
+      "url": "https://www.pcstats.com/articles/535/index.html",
+      "title": {
+        "en": "pcstats.com",
+        "ru": "pcstats.com"
+      }
+    }
+  ],
+  "thumbnail": "assets/photos/u-match-biolink-mouse-umser13-239/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:58+03:00",
+    "sourcePhotoCount": 11,
+    "sourceDescriptionPresent": true,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 11
+  }
+}

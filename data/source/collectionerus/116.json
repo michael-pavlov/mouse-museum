@@ -1,0 +1,75 @@
+{
+  "sourceId": 116,
+  "source": "https://collectionerus.ru/collections/old-mice/116/",
+  "slug": "sysgration-mouse-3310-116",
+  "sourceTitle": "Sysgration Mouse 3310",
+  "retrievedAt": "2026-10-27T23:10:52+03:00",
+  "sourcePageSha256": "ddcc6181c0672ff22dda973fc0a683a1befc3d15f888709e2c44be25c1a8940f",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Sysgration Ltd.",
+    "Год": "1993",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Sysgration+Ltd."
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1993"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/b/bk/b/bk/bkpg323sgjipkugo.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/bk/bkpg323sgjipkugo.jpg",
+      "originalName": "bkpg323sgjipkugo.jpg",
+      "cacheFile": "photos/sysgration-mouse-3310-116/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3217×2145, 2,4 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/f/fy/f/fy/fycqghytdcwqsxd6.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/f/fy/fycqghytdcwqsxd6.jpg",
+      "originalName": "fycqghytdcwqsxd6.jpg",
+      "cacheFile": "photos/sysgration-mouse-3310-116/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3424×2283, 2,8 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/h/hk/h/hk/hkbbrcyeibqeefic.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hk/hkbbrcyeibqeefic.jpg",
+      "originalName": "hkbbrcyeibqeefic.jpg",
+      "cacheFile": "photos/sysgration-mouse-3310-116/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3217×2145, 3,0 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/c/ce/c/ce/cenq4lvphswmj0rk.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/ce/cenq4lvphswmj0rk.jpg",
+      "originalName": "cenq4lvphswmj0rk.jpg",
+      "cacheFile": "photos/sysgration-mouse-3310-116/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4096×2731, 3,6 МБ"
+    }
+  ],
+  "itemFile": "content/mice/sysgration-mouse-3310-116.json",
+  "previousPhotoCount": 0
+}

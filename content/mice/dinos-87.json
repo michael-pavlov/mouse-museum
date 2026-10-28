@@ -1,0 +1,155 @@
+{
+  "id": "MP-0087",
+  "slug": "dinos-87",
+  "title": {
+    "en": "Dinos",
+    "ru": "Dinos"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/87/",
+  "sourceOrder": 122,
+  "order": 126,
+  "sourceProperties": {
+    "Производитель": "Truedox Technology Corp.",
+    "Год": "1993",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "COM",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/dinos-87/01.webp",
+      "thumbnail": "assets/photos/dinos-87/01-thumb.webp",
+      "original": "assets/photos/dinos-87/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/u/uw/uwzhsb1pt8ezxqkj.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/uw/uwzhsb1pt8ezxqkj.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/u/uw/uwzhsb1pt8ezxqkj.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "uwzhsb1pt8ezxqkj.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3100,
+      "originalHeight": 2067,
+      "originalBytes": 1128806,
+      "sha256": "3e1d781de7757463176541ab2007f38ce7a44f9dd39c283cb394fe19b5b11514",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/dinos-87/02.webp",
+      "thumbnail": "assets/photos/dinos-87/02-thumb.webp",
+      "original": "assets/photos/dinos-87/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/g/ge/ge2mtmadp67d8v8x.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/ge/ge2mtmadp67d8v8x.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/g/ge/ge2mtmadp67d8v8x.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "ge2mtmadp67d8v8x.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3300,
+      "originalHeight": 2200,
+      "originalBytes": 1416213,
+      "sha256": "54b517e14c2bf5550124244f4103e0c54beb77bfbb9cc17250285380dbbac4d1",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/dinos-87/03.webp",
+      "thumbnail": "assets/photos/dinos-87/03-thumb.webp",
+      "original": "assets/photos/dinos-87/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/a/a2/a283kzh1zmus40oi.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/a/a2/a283kzh1zmus40oi.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/a/a2/a283kzh1zmus40oi.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "a283kzh1zmus40oi.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3300,
+      "originalHeight": 2200,
+      "originalBytes": 1417233,
+      "sha256": "d0062c1bf9b039a2c532e0ce95c38c27850af5f7318aa803dc2f0fb284e34345",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/dinos-87/04.webp",
+      "thumbnail": "assets/photos/dinos-87/04-thumb.webp",
+      "original": "assets/photos/dinos-87/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/n/nz/nzdl4voyobejssby.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/nz/nzdl4voyobejssby.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/n/nz/nzdl4voyobejssby.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "nzdl4voyobejssby.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3300,
+      "originalHeight": 2200,
+      "originalBytes": 1621931,
+      "sha256": "db9e7821573dd7ff8e0142b840bc3f5dfabbc2314a424fc35308c3513f74fd24",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/dinos-87/05.webp",
+      "thumbnail": "assets/photos/dinos-87/05-thumb.webp",
+      "original": "assets/photos/dinos-87/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/g/g4/g4vq9vhigdqlclty.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/g4/g4vq9vhigdqlclty.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/g/g4/g4vq9vhigdqlclty.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "g4vq9vhigdqlclty.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3300,
+      "originalHeight": 2200,
+      "originalBytes": 1818983,
+      "sha256": "a0d2cc27051c87bde0267883240a21a0b3048a7cef32d4e8d1774628e448daf5",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Truedox Technology Corp.",
+    "en": "Truedox Technology Corp."
+  },
+  "brand": "Truedox Technology Corp.",
+  "year": 1993,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "COM",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Dinos",
+  "whereToSee": {
+    "ru": "Дальний",
+    "en": "Far"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/dinos-87/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:52+03:00",
+    "sourcePhotoCount": 5,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 5
+  }
+}

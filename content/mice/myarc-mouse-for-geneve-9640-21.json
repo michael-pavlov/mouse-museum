@@ -1,0 +1,146 @@
+{
+  "id": "MP-0021",
+  "slug": "myarc-mouse-for-geneve-9640-21",
+  "title": {
+    "en": "Myarc mouse for Geneve 9640",
+    "ru": "Myarc mouse for Geneve 9640"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/21/",
+  "sourceProperties": {
+    "Производитель": "Myarc Incorporated",
+    "Год": "1988",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Ближайший"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/myarc-mouse-for-geneve-9640-21/01.webp",
+      "thumbnail": "assets/photos/myarc-mouse-for-geneve-9640-21/01-thumb.webp",
+      "original": "assets/photos/myarc-mouse-for-geneve-9640-21/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/x/x9/x9axvqkh7auzpvdk.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/x9/x9axvqkh7auzpvdk.JPG",
+      "originalFilename": "x9axvqkh7auzpvdk.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1065989,
+      "sha256": "9b07d2931e6c1e3ffcf9e68967de458dd7b358b237a0654919a16440c1d0190c",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/myarc-mouse-for-geneve-9640-21/02.webp",
+      "thumbnail": "assets/photos/myarc-mouse-for-geneve-9640-21/02-thumb.webp",
+      "original": "assets/photos/myarc-mouse-for-geneve-9640-21/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/c/cj/cjylckvrtiyqyw5h.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/cj/cjylckvrtiyqyw5h.JPG",
+      "originalFilename": "cjylckvrtiyqyw5h.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1361908,
+      "sha256": "50e2f3dcd7d5f0dfd98b77922051e5388d0b0069e5de34166b7de795606d5f6d",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/myarc-mouse-for-geneve-9640-21/03.webp",
+      "thumbnail": "assets/photos/myarc-mouse-for-geneve-9640-21/03-thumb.webp",
+      "original": "assets/photos/myarc-mouse-for-geneve-9640-21/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/n/nm/nmvgbal5zzoga8yw.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/nm/nmvgbal5zzoga8yw.JPG",
+      "originalFilename": "nmvgbal5zzoga8yw.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4896,
+      "originalHeight": 3264,
+      "originalBytes": 6386531,
+      "sha256": "884fb17b858ad8a21815392f97fbedea4cedd9ecfcebca19fae8f76c850bb465",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/myarc-mouse-for-geneve-9640-21/04.webp",
+      "thumbnail": "assets/photos/myarc-mouse-for-geneve-9640-21/04-thumb.webp",
+      "original": "assets/photos/myarc-mouse-for-geneve-9640-21/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/z/zh/zhstraihnurjgm4g.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/zh/zhstraihnurjgm4g.JPG",
+      "originalFilename": "zhstraihnurjgm4g.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4896,
+      "originalHeight": 3264,
+      "originalBytes": 6497263,
+      "sha256": "e50d7f9bf5ba36e96853848631b81907265f7bf0ba564e39bfe0a64bcdf2fdf5",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/myarc-mouse-for-geneve-9640-21/05.webp",
+      "thumbnail": "assets/photos/myarc-mouse-for-geneve-9640-21/05-thumb.webp",
+      "original": "assets/photos/myarc-mouse-for-geneve-9640-21/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/h/hc/hcfthoayjkwgttad.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hc/hcfthoayjkwgttad.JPG",
+      "originalFilename": "hcfthoayjkwgttad.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4896,
+      "originalHeight": 3264,
+      "originalBytes": 4997403,
+      "sha256": "23c0d01fd595a3bf20608c63a36f9a30684752918f0c243e7f885a3d534d7fa9",
+      "caption": ""
+    }
+  ],
+  "thumbnail": "assets/photos/myarc-mouse-for-geneve-9640-21/thumb.webp",
+  "order": 29,
+  "manufacturer": {
+    "ru": "Myarc Incorporated",
+    "en": "Myarc Incorporated"
+  },
+  "brand": "Myarc Incorporated",
+  "year": 1988,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Myarc mouse for Geneve 9640",
+  "whereToSee": {
+    "ru": "Ближайший",
+    "en": "Nearest"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [
+    {
+      "url": "https://www.youtube.com/watch?v=KJyjaapf0Ag",
+      "title": {
+        "en": "Video on YouTube",
+        "ru": "Видео на YouTube"
+      }
+    }
+  ],
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T22:22:45+03:00",
+    "sourcePhotoCount": 5,
+    "sourceDescriptionPresent": true,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 5
+  }
+}

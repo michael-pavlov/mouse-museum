@@ -1,0 +1,136 @@
+{
+  "id": "MP-0116",
+  "slug": "sysgration-mouse-3310-116",
+  "title": {
+    "en": "Sysgration Mouse 3310",
+    "ru": "Sysgration Mouse 3310"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/116/",
+  "sourceOrder": 145,
+  "order": 149,
+  "sourceProperties": {
+    "Производитель": "Sysgration Ltd.",
+    "Год": "1993",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/sysgration-mouse-3310-116/01.webp",
+      "thumbnail": "assets/photos/sysgration-mouse-3310-116/01-thumb.webp",
+      "original": "assets/photos/sysgration-mouse-3310-116/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/b/bk/b/bk/bkpg323sgjipkugo.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/bk/bkpg323sgjipkugo.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/b/bk/bkpg323sgjipkugo.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "bkpg323sgjipkugo.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3217,
+      "originalHeight": 2145,
+      "originalBytes": 2534385,
+      "sha256": "01ae2babe1d38099ebdb7417b012687793751a06d5a080f63d73552a02ffe1d1",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/sysgration-mouse-3310-116/02.webp",
+      "thumbnail": "assets/photos/sysgration-mouse-3310-116/02-thumb.webp",
+      "original": "assets/photos/sysgration-mouse-3310-116/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/f/fy/f/fy/fycqghytdcwqsxd6.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/f/fy/fycqghytdcwqsxd6.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/f/fy/fycqghytdcwqsxd6.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "fycqghytdcwqsxd6.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3424,
+      "originalHeight": 2283,
+      "originalBytes": 2928032,
+      "sha256": "7ed1aea31c64ffbcd6ab4c25f5dde76312e736a5f0cc880290ab4aa71945d186",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/sysgration-mouse-3310-116/03.webp",
+      "thumbnail": "assets/photos/sysgration-mouse-3310-116/03-thumb.webp",
+      "original": "assets/photos/sysgration-mouse-3310-116/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/h/hk/h/hk/hkbbrcyeibqeefic.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hk/hkbbrcyeibqeefic.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/h/hk/hkbbrcyeibqeefic.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "hkbbrcyeibqeefic.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3217,
+      "originalHeight": 2145,
+      "originalBytes": 3139602,
+      "sha256": "6980320e3093e8433373146471585c8d011b3ae1fc9473e2dd5637955ba6b2c1",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/sysgration-mouse-3310-116/04.webp",
+      "thumbnail": "assets/photos/sysgration-mouse-3310-116/04-thumb.webp",
+      "original": "assets/photos/sysgration-mouse-3310-116/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/c/ce/c/ce/cenq4lvphswmj0rk.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/ce/cenq4lvphswmj0rk.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/c/ce/cenq4lvphswmj0rk.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "cenq4lvphswmj0rk.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4096,
+      "originalHeight": 2731,
+      "originalBytes": 3731683,
+      "sha256": "5b613dc195226af9b7ade3116574d5176bf6f91cd34d1b142e37d9c7b2d560c9",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Sysgration Ltd.",
+    "en": "Sysgration Ltd."
+  },
+  "brand": "Sysgration Ltd.",
+  "year": 1993,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Sysgration Mouse 3310",
+  "whereToSee": {
+    "ru": "Дальний",
+    "en": "Far"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/sysgration-mouse-3310-116/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:52+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 4
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "sourceId": 161,
+  "source": "https://collectionerus.ru/collections/old-mice/161/",
+  "slug": "cursor-controls-trackerball-161",
+  "sourceTitle": "Cursor Controls TrackerBall",
+  "retrievedAt": "2026-10-27T23:10:54+03:00",
+  "sourcePageSha256": "e180ff176f8d492579f7955e3cba4b3fe859d22109b9d37283f5afb49917e460",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Cursor Controls",
+    "Год": "2009",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Производитель платы": "Cursor Controls",
+    "Где посмотреть": "Ближний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Cursor+Controls"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=2009"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Производитель платы": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel_platy=Cursor+Controls"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%91%D0%BB%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/v/vz/v/vz/vzficwvyr77ixbws.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/vz/vzficwvyr77ixbws.jpeg",
+      "originalName": "vzficwvyr77ixbws.jpeg",
+      "cacheFile": "photos/cursor-controls-trackerball-161/01.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,1 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/c/cv/c/cv/cvrcnkptl1frwjxa.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/cv/cvrcnkptl1frwjxa.jpeg",
+      "originalName": "cvrcnkptl1frwjxa.jpeg",
+      "cacheFile": "photos/cursor-controls-trackerball-161/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,6 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/d/dc/d/dc/dcqw0jvqdo2i85yr.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/d/dc/dcqw0jvqdo2i85yr.jpeg",
+      "originalName": "dcqw0jvqdo2i85yr.jpeg",
+      "cacheFile": "photos/cursor-controls-trackerball-161/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,7 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/f/ff/f/ff/ffgjb4bifyuk8otk.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/f/ff/ffgjb4bifyuk8otk.jpeg",
+      "originalName": "ffgjb4bifyuk8otk.jpeg",
+      "cacheFile": "photos/cursor-controls-trackerball-161/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,3 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/t/tz/t/tz/tz181jk00edlszrw.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/tz/tz181jk00edlszrw.jpeg",
+      "originalName": "tz181jk00edlszrw.jpeg",
+      "cacheFile": "photos/cursor-controls-trackerball-161/05.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 906,9 КБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/g/ge/g/ge/geevkmybgexzft3j.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/ge/geevkmybgexzft3j.jpeg",
+      "originalName": "geevkmybgexzft3j.jpeg",
+      "cacheFile": "photos/cursor-controls-trackerball-161/06.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,5 МБ"
+    }
+  ],
+  "itemFile": "content/mice/cursor-controls-trackerball-161.json",
+  "previousPhotoCount": 0
+}

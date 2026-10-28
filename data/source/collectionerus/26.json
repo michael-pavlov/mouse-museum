@@ -1,0 +1,112 @@
+{
+  "sourceId": 26,
+  "source": "https://collectionerus.ru/collections/old-mice/26/",
+  "slug": "ibm-trackpoint-convertible",
+  "sourceTitle": "IBM PS/2 Trackpoint Convertible",
+  "retrievedAt": "2026-10-27T22:22:42+03:00",
+  "sourcePageSha256": "2554fba2f6e819ddb140c6ba11849205dcb48944a01cc86ec161a7894525007b",
+  "descriptionHtml": "<div class=\"item-description\">\n<p><a href=\"https://trackballs.eu/media/IBM/1396670/PC%20Mag%20Oct%201991%20p126.pdf\">https://trackballs.eu/media/IBM/1396670/PC%20Mag%20Oct%201991%20p126.pdf</a><br/><a href=\"https://www.youtube.com/watch?v=-OSXeNVM3UI\">https://www.youtube.com/watch?v=-OSXeNVM3UI</a></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [
+    {
+      "url": "https://trackballs.eu/media/IBM/1396670/PC%20Mag%20Oct%201991%20p126.pdf",
+      "sourceLabel": "https://trackballs.eu/media/IBM/1396670/PC%20Mag%20Oct%201991%20p126.pdf",
+      "context": "https://trackballs.eu/media/IBM/1396670/PC%20Mag%20Oct%201991%20p126.pdf https://www.youtube.com/watch?v=-OSXeNVM3UI"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-OSXeNVM3UI",
+      "sourceLabel": "https://www.youtube.com/watch?v=-OSXeNVM3UI",
+      "context": "https://trackballs.eu/media/IBM/1396670/PC%20Mag%20Oct%201991%20p126.pdf https://www.youtube.com/watch?v=-OSXeNVM3UI"
+    }
+  ],
+  "properties": {
+    "Производитель": "IBM",
+    "Год": "1991",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "PS/2",
+    "СССР": "нет",
+    "Особенности": "два в одном",
+    "Где посмотреть": "Ближний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=IBM"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1991"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=PS%2F2"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Особенности": [
+      "https://collectionerus.ru/collections/old-mice/?osobennosti=%D0%B4%D0%B2%D0%B0+%D0%B2+%D0%BE%D0%B4%D0%BD%D0%BE%D0%BC"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%91%D0%BB%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/5/52/52p27g8qo4l3djte.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/5/52/52p27g8qo4l3djte.JPG",
+      "originalName": "52p27g8qo4l3djte.JPG",
+      "cacheFile": "photos/ibm-trackpoint-convertible/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,1 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/u/un/unprmkmpeljfhnjq.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/un/unprmkmpeljfhnjq.JPG",
+      "originalName": "unprmkmpeljfhnjq.JPG",
+      "cacheFile": "photos/ibm-trackpoint-convertible/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,4 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/r/ri/ri6hsdisxandqkq3.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/ri/ri6hsdisxandqkq3.JPG",
+      "originalName": "ri6hsdisxandqkq3.JPG",
+      "cacheFile": "photos/ibm-trackpoint-convertible/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2418, 2,3 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/n/nd/ndxfruyhwew2uowc.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/nd/ndxfruyhwew2uowc.JPG",
+      "originalName": "ndxfruyhwew2uowc.JPG",
+      "cacheFile": "photos/ibm-trackpoint-convertible/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,1 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/j/jv/jvxhybwmnlsisdit.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/j/jv/jvxhybwmnlsisdit.JPG",
+      "originalName": "jvxhybwmnlsisdit.JPG",
+      "cacheFile": "photos/ibm-trackpoint-convertible/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2418, 2,2 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/b/bx/bxzmq6thw8vzpyh0.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/bx/bxzmq6thw8vzpyh0.JPG",
+      "originalName": "bxzmq6thw8vzpyh0.JPG",
+      "cacheFile": "photos/ibm-trackpoint-convertible/06.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4391×2927, 2,7 МБ"
+    }
+  ],
+  "itemFile": "content/mice/ibm-trackpoint-convertible.json",
+  "previousPhotoCount": 6
+}

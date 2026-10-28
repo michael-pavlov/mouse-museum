@@ -1,0 +1,79 @@
+{
+  "sourceId": 130,
+  "source": "https://collectionerus.ru/collections/old-mice/130/",
+  "slug": "dfi-dms-200-130",
+  "sourceTitle": "DFI dms-200",
+  "retrievedAt": "2026-10-27T23:10:53+03:00",
+  "sourcePageSha256": "d685131bbb03858b27746e248ccc965c680581b2528033418ae0732e278fedba",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "DFI",
+    "Год": "1990",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Производитель платы": "Mitsumi",
+    "Где посмотреть": "Дальний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=DFI"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1990"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Производитель платы": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel_platy=Mitsumi"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/n/nj/n/nj/njqrfyoqic9y8may.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/nj/njqrfyoqic9y8may.jpg",
+      "originalName": "njqrfyoqic9y8may.jpg",
+      "cacheFile": "photos/dfi-dms-200-130/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3436×2291, 2,8 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/y/yb/y/yb/ybcy2ylcnudunecq.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/y/yb/ybcy2ylcnudunecq.jpg",
+      "originalName": "ybcy2ylcnudunecq.jpg",
+      "cacheFile": "photos/dfi-dms-200-130/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3217×2145, 2,7 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/a/aa/a/aa/aahdabve6totvio1.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/a/aa/aahdabve6totvio1.jpg",
+      "originalName": "aahdabve6totvio1.jpg",
+      "cacheFile": "photos/dfi-dms-200-130/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3217×2145, 2,9 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/q/qp/q/qp/qpi1yunxql5s7dib.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qp/qpi1yunxql5s7dib.jpg",
+      "originalName": "qpi1yunxql5s7dib.jpg",
+      "cacheFile": "photos/dfi-dms-200-130/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3521×2347, 3,2 МБ"
+    }
+  ],
+  "itemFile": "content/mice/dfi-dms-200-130.json",
+  "previousPhotoCount": 0
+}

@@ -1,0 +1,189 @@
+{
+  "id": "MP-0270",
+  "slug": "unknown-mouse-270",
+  "title": {
+    "en": "Unknown mouse",
+    "ru": "Unknown mouse"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/270/",
+  "sourceOrder": 265,
+  "order": 267,
+  "sourceProperties": {
+    "Год": "1991",
+    "Способ позиционирования": "на дискретных датчиках",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/unknown-mouse-270/01.webp",
+      "thumbnail": "assets/photos/unknown-mouse-270/01-thumb.webp",
+      "original": "assets/photos/unknown-mouse-270/originals/01.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/p/pm/p/pm/pmapwhfjadsdmrtd.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/pm/pmapwhfjadsdmrtd.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/p/pm/pmapwhfjadsdmrtd.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "pmapwhfjadsdmrtd.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 954617,
+      "sha256": "2d2cd3abe17ba78d982c7e0181629bc781de4d6b8b12f9572ef000e63cc3f9fb",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/unknown-mouse-270/02.webp",
+      "thumbnail": "assets/photos/unknown-mouse-270/02-thumb.webp",
+      "original": "assets/photos/unknown-mouse-270/originals/02.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/d/dz/d/dz/dzbkaxqya2lki3qj.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/d/dz/dzbkaxqya2lki3qj.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/d/dz/dzbkaxqya2lki3qj.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "dzbkaxqya2lki3qj.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1080792,
+      "sha256": "d69f4079aedaf6e41df8b6957fdf0525ef90fadf7ba712f9a78576cd1a1013d7",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/unknown-mouse-270/03.webp",
+      "thumbnail": "assets/photos/unknown-mouse-270/03-thumb.webp",
+      "original": "assets/photos/unknown-mouse-270/originals/03.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/e/el/e/el/el6qkitpclh0vddc.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/el/el6qkitpclh0vddc.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/e/el/el6qkitpclh0vddc.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "el6qkitpclh0vddc.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1260456,
+      "sha256": "5f46f8979e3ee5487ed04f98ccffe387c41837bb4bcef8d9f9b890dbe8c70c49",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/unknown-mouse-270/04.webp",
+      "thumbnail": "assets/photos/unknown-mouse-270/04-thumb.webp",
+      "original": "assets/photos/unknown-mouse-270/originals/04.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/k/kv/k/kv/kvbh21hl1puf10qw.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/kv/kvbh21hl1puf10qw.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/k/kv/kvbh21hl1puf10qw.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "kvbh21hl1puf10qw.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1541583,
+      "sha256": "5a84f6b2997b9abe4b80b53e51f88fda005a262913f33220fbcd875c7ab7bb07",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/unknown-mouse-270/05.webp",
+      "thumbnail": "assets/photos/unknown-mouse-270/05-thumb.webp",
+      "original": "assets/photos/unknown-mouse-270/originals/05.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/z/zm/z/zm/zmdsjbbptvdxed4d.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/zm/zmdsjbbptvdxed4d.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/z/zm/zmdsjbbptvdxed4d.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "zmdsjbbptvdxed4d.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1384944,
+      "sha256": "80522b5a362d9fa8e53dd3dce79d7c79648d9f2f05dd01c0cfad40b59a5661d6",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/unknown-mouse-270/06.webp",
+      "thumbnail": "assets/photos/unknown-mouse-270/06-thumb.webp",
+      "original": "assets/photos/unknown-mouse-270/originals/06.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/k/kz/k/kz/kzyfbknzkkkiehpq.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/kz/kzyfbknzkkkiehpq.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/k/kz/kzyfbknzkkkiehpq.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "kzyfbknzkkkiehpq.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1310825,
+      "sha256": "d4052a9292b039cb572feca9b3ae0fd190cacbfebee6d798cfb07b4f0ccc7f61",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/unknown-mouse-270/07.webp",
+      "thumbnail": "assets/photos/unknown-mouse-270/07-thumb.webp",
+      "original": "assets/photos/unknown-mouse-270/originals/07.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/rr/r/rr/rrb08oczwtufw0ql.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/rr/rrb08oczwtufw0ql.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/r/rr/rrb08oczwtufw0ql.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "rrb08oczwtufw0ql.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1389177,
+      "sha256": "655a7d42cefc86e477e8a33785d284619c650da1571c76aac913c16d1bdb7da2",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Не указан",
+    "en": "Not recorded"
+  },
+  "brand": "Unknown",
+  "year": 1991,
+  "tracking": {
+    "key": "discrete",
+    "ru": "на дискретных датчиках",
+    "en": "Discrete sensors"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Unknown mouse",
+  "whereToSee": {
+    "ru": "Дальний",
+    "en": "Far"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/unknown-mouse-270/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:11:00+03:00",
+    "sourcePhotoCount": 7,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 4,
+    "availableOriginals": 7
+  }
+}

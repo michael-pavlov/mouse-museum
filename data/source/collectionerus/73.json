@@ -1,0 +1,88 @@
+{
+  "sourceId": 73,
+  "source": "https://collectionerus.ru/collections/old-mice/73/",
+  "slug": "mouse-systems-little-mouse-73",
+  "sourceTitle": "Mouse Systems Little Mouse",
+  "retrievedAt": "2026-10-27T23:10:46+03:00",
+  "sourcePageSha256": "02f0626580629f41aa207edccbab86b66091e1805a5096ebb811812050582d5e",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Mouse Systems",
+    "Год": "1990",
+    "Способ позиционирования": "Оптический через коврик",
+    "Интерфейс": "PS/2",
+    "СССР": "нет",
+    "Где посмотреть": "Краснохолмская"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Mouse+Systems"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1990"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%D1%87%D0%B5%D1%80%D0%B5%D0%B7+%D0%BA%D0%BE%D0%B2%D1%80%D0%B8%D0%BA"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=PS%2F2"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%85%D0%BE%D0%BB%D0%BC%D1%81%D0%BA%D0%B0%D1%8F"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/m/mk/mkbekwric14wwll9.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/m/mk/mkbekwric14wwll9.JPG",
+      "originalName": "mkbekwric14wwll9.JPG",
+      "cacheFile": "photos/mouse-systems-little-mouse-73/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,2 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/u/uv/uv9x8gzhpswkpecf.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/uv/uv9x8gzhpswkpecf.JPG",
+      "originalName": "uv9x8gzhpswkpecf.JPG",
+      "cacheFile": "photos/mouse-systems-little-mouse-73/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,8 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/j/jv/jvhwny7e3wkv9lnc.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/j/jv/jvhwny7e3wkv9lnc.JPG",
+      "originalName": "jvhwny7e3wkv9lnc.JPG",
+      "cacheFile": "photos/mouse-systems-little-mouse-73/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,4 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/b/b6/b663htc2wv2lzscn.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/b6/b663htc2wv2lzscn.JPG",
+      "originalName": "b663htc2wv2lzscn.JPG",
+      "cacheFile": "photos/mouse-systems-little-mouse-73/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,7 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/n/nu/nuloxgowu8bby8vy.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/nu/nuloxgowu8bby8vy.JPG",
+      "originalName": "nuloxgowu8bby8vy.JPG",
+      "cacheFile": "photos/mouse-systems-little-mouse-73/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,9 МБ"
+    }
+  ],
+  "itemFile": "content/mice/mouse-systems-little-mouse-73.json",
+  "previousPhotoCount": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": "telegram-247",
+  "slug": "telegram-247",
+  "title": {
+    "ru": "Мышки на IT-Пикнике",
+    "en": "Mice at IT Picnic"
+  },
+  "date": "2026-08-04T06:06:01+00:00",
+  "source": "https://t.me/old_mice_and_hw/247",
+  "excerpt": {
+    "ru": "Архив приглашения на IT-Пикник с выездной коллекцией мышей.",
+    "en": "An archived invitation to IT Picnic with the travelling mouse collection."
+  },
+  "photos": [],
+  "cover": "assets/mouse-museum-logo.png",
+  "relatedItems": [],
+  "category": "exhibitions",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-247/ru.md",
+    "en": "content/posts/telegram-247/en.md"
+  },
+  "eventDate": "2026-08-08"
+}

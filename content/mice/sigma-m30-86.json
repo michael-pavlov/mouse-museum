@@ -1,0 +1,155 @@
+{
+  "id": "MP-0086",
+  "slug": "sigma-m30-86",
+  "title": {
+    "en": "Sigma M30",
+    "ru": "Sigma M30"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/86/",
+  "sourceOrder": 121,
+  "order": 125,
+  "sourceProperties": {
+    "Производитель": "Sigma",
+    "Год": "1990",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "COM",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/sigma-m30-86/01.webp",
+      "thumbnail": "assets/photos/sigma-m30-86/01-thumb.webp",
+      "original": "assets/photos/sigma-m30-86/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/c/cd/cd0flgkarysec8nr.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/cd/cd0flgkarysec8nr.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/c/cd/cd0flgkarysec8nr.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "cd0flgkarysec8nr.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3300,
+      "originalHeight": 2200,
+      "originalBytes": 1135933,
+      "sha256": "67118e7b87233f9ffdd1994ae467706e34ebb3aaa152e74b549734d86f9eb8a0",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/sigma-m30-86/02.webp",
+      "thumbnail": "assets/photos/sigma-m30-86/02-thumb.webp",
+      "original": "assets/photos/sigma-m30-86/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/d/de/demoxyawwymyh5ay.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/d/de/demoxyawwymyh5ay.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/d/de/demoxyawwymyh5ay.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "demoxyawwymyh5ay.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3100,
+      "originalHeight": 2067,
+      "originalBytes": 1233058,
+      "sha256": "fdab277d5b45ba80187116209e0fccaf6179fe96089686900a030935d1efc8d8",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/sigma-m30-86/03.webp",
+      "thumbnail": "assets/photos/sigma-m30-86/03-thumb.webp",
+      "original": "assets/photos/sigma-m30-86/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/z/z7/z7hoq67df9yp6sro.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/z7/z7hoq67df9yp6sro.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/z/z7/z7hoq67df9yp6sro.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "z7hoq67df9yp6sro.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3100,
+      "originalHeight": 2067,
+      "originalBytes": 1308301,
+      "sha256": "341d106939c617ce6f0a95ae837bea99e832a433c4c1bab766b008553e8a8502",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/sigma-m30-86/04.webp",
+      "thumbnail": "assets/photos/sigma-m30-86/04-thumb.webp",
+      "original": "assets/photos/sigma-m30-86/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/x/xu/xuimfxzfjto14ajy.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/xu/xuimfxzfjto14ajy.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/x/xu/xuimfxzfjto14ajy.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "xuimfxzfjto14ajy.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1689221,
+      "sha256": "ff755140b2b4587657b813c9675e99be8742b6bf6994afce1a12760dd1c87a10",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/sigma-m30-86/05.webp",
+      "thumbnail": "assets/photos/sigma-m30-86/05-thumb.webp",
+      "original": "assets/photos/sigma-m30-86/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/t/tb/tbjtxm5a6mozrlv6.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/tb/tbjtxm5a6mozrlv6.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/t/tb/tbjtxm5a6mozrlv6.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "tbjtxm5a6mozrlv6.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 2231658,
+      "sha256": "4ba73b9e571f9d9e3d5dd265da0b304ca8650da44bc64367ea3a7ddd699c7a73",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Sigma",
+    "en": "Sigma"
+  },
+  "brand": "Sigma",
+  "year": 1990,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "COM",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Sigma M30",
+  "whereToSee": {
+    "ru": "Дальний",
+    "en": "Far"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/sigma-m30-86/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:50+03:00",
+    "sourcePhotoCount": 5,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 5
+  }
+}

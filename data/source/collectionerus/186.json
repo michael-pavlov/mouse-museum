@@ -1,0 +1,89 @@
+{
+  "sourceId": 186,
+  "source": "https://collectionerus.ru/collections/old-mice/186/",
+  "slug": "geos-geomouse-186",
+  "sourceTitle": "Geos GeoMouse",
+  "retrievedAt": "2026-10-27T23:10:55+03:00",
+  "sourcePageSha256": "80688e0348c788eb4f8e3e00233365f62f5123890c8a4388177715113cf8560c",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Год": "1988",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "propertyLinks": {
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1988"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/t/tu/t/tu/tunxqj8q61e1qwvs.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/tu/tunxqj8q61e1qwvs.jpeg",
+      "originalName": "tunxqj8q61e1qwvs.jpeg",
+      "cacheFile": "photos/geos-geomouse-186/01.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,1 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/b/bs/b/bs/bstketcgysmtkplz.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/bs/bstketcgysmtkplz.jpeg",
+      "originalName": "bstketcgysmtkplz.jpeg",
+      "cacheFile": "photos/geos-geomouse-186/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,2 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/j/jj/j/jj/jjw6auca6s4trwi1.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/j/jj/jjw6auca6s4trwi1.jpeg",
+      "originalName": "jjw6auca6s4trwi1.jpeg",
+      "cacheFile": "photos/geos-geomouse-186/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,4 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/0/05/0/05/05mnsugvnzuqgd2i.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/0/05/05mnsugvnzuqgd2i.jpeg",
+      "originalName": "05mnsugvnzuqgd2i.jpeg",
+      "cacheFile": "photos/geos-geomouse-186/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,5 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/b/b1/b/b1/b1uhg3pmauhvr0pz.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/b1/b1uhg3pmauhvr0pz.jpeg",
+      "originalName": "b1uhg3pmauhvr0pz.jpeg",
+      "cacheFile": "photos/geos-geomouse-186/05.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,7 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/h/ho/h/ho/honl4hwwhdwyl5dm.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/ho/honl4hwwhdwyl5dm.jpeg",
+      "originalName": "honl4hwwhdwyl5dm.jpeg",
+      "cacheFile": "photos/geos-geomouse-186/06.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,8 МБ"
+    }
+  ],
+  "itemFile": "content/mice/geos-geomouse-186.json",
+  "previousPhotoCount": 0
+}

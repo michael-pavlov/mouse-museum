@@ -1,0 +1,79 @@
+{
+  "sourceId": 92,
+  "source": "https://collectionerus.ru/collections/old-mice/92/",
+  "slug": "genius-mouse-one-92",
+  "sourceTitle": "Genius Mouse One",
+  "retrievedAt": "2026-10-27T23:10:51+03:00",
+  "sourcePageSha256": "911fb2a48ae90ac4b7d51a0d6d18cc66d55eb2831a20f176dbeaef55f147a104",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "KYE Systems Corp",
+    "Год": "1995",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "COM",
+    "СССР": "нет",
+    "Где посмотреть": "Средний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=KYE+Systems+Corp"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1995"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=COM"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/z/z0/z0rbh1my59r0peld.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/z0/z0rbh1my59r0peld.JPG",
+      "originalName": "z0rbh1my59r0peld.JPG",
+      "cacheFile": "photos/genius-mouse-one-92/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3100×2067, 1,0 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/v/vy/vy02tzdq23vziwgb.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/vy/vy02tzdq23vziwgb.JPG",
+      "originalName": "vy02tzdq23vziwgb.JPG",
+      "cacheFile": "photos/genius-mouse-one-92/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3100×2067, 1,4 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/e/ef/efazsy91ek641rb6.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/ef/efazsy91ek641rb6.JPG",
+      "originalName": "efazsy91ek641rb6.JPG",
+      "cacheFile": "photos/genius-mouse-one-92/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3100×2067, 1,3 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/1/1q/1qqwbw4nbdko77wd.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/1/1q/1qqwbw4nbdko77wd.JPG",
+      "originalName": "1qqwbw4nbdko77wd.JPG",
+      "cacheFile": "photos/genius-mouse-one-92/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3100×2067, 1,2 МБ"
+    }
+  ],
+  "itemFile": "content/mice/genius-mouse-one-92.json",
+  "previousPhotoCount": 0
+}

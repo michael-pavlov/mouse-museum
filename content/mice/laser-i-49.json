@@ -1,0 +1,172 @@
+{
+  "id": "MP-0049",
+  "slug": "laser-i-49",
+  "title": {
+    "en": "Laser I",
+    "ru": "Laser I"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/49/",
+  "sourceOrder": 86,
+  "order": 91,
+  "sourceProperties": {
+    "Производитель": "Laser",
+    "Год": "1988",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Ближайший"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/laser-i-49/01.webp",
+      "thumbnail": "assets/photos/laser-i-49/01-thumb.webp",
+      "original": "assets/photos/laser-i-49/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/r/r9/r9n9cviu8xww38p6.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/r9/r9n9cviu8xww38p6.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/r/r9/r9n9cviu8xww38p6.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "r9n9cviu8xww38p6.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1166138,
+      "sha256": "d4e3856de0676f91640c3867ea990a8123d32629a3833fe67fcf6b7c348eaf8c",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/laser-i-49/02.webp",
+      "thumbnail": "assets/photos/laser-i-49/02-thumb.webp",
+      "original": "assets/photos/laser-i-49/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/x/xk/xk3hccf1mrbcrfr9.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/xk/xk3hccf1mrbcrfr9.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/x/xk/xk3hccf1mrbcrfr9.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "xk3hccf1mrbcrfr9.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1743461,
+      "sha256": "e96f0419b7b1dc957fcf29df4c8a0387d2688ed4f826ac1d19717cb3f87676a1",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/laser-i-49/03.webp",
+      "thumbnail": "assets/photos/laser-i-49/03-thumb.webp",
+      "original": "assets/photos/laser-i-49/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/3/3e/3em4vocaqlf7dd9r.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/3/3e/3em4vocaqlf7dd9r.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/3/3e/3em4vocaqlf7dd9r.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "3em4vocaqlf7dd9r.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1670670,
+      "sha256": "f81f89ebe63627fae993f645a7170229241353eaced7d3ffd21565a1ac8e1105",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/laser-i-49/04.webp",
+      "thumbnail": "assets/photos/laser-i-49/04-thumb.webp",
+      "original": "assets/photos/laser-i-49/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/t/te/tewdafwhziv8v8t1.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/te/tewdafwhziv8v8t1.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/t/te/tewdafwhziv8v8t1.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "tewdafwhziv8v8t1.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 2025469,
+      "sha256": "aea6836a79b2957a373af162da85f392a5586cb91bf591bf921eaf189cbe41ef",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/laser-i-49/05.webp",
+      "thumbnail": "assets/photos/laser-i-49/05-thumb.webp",
+      "original": "assets/photos/laser-i-49/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/7/75/755dqgme9fqufdpj.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/7/75/755dqgme9fqufdpj.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/7/75/755dqgme9fqufdpj.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "755dqgme9fqufdpj.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2494246,
+      "sha256": "a05b619c4c5af68aa6ec124aade2e8299eda3e8a21df3dd4d6095d2fe316bb1e",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/laser-i-49/06.webp",
+      "thumbnail": "assets/photos/laser-i-49/06-thumb.webp",
+      "original": "assets/photos/laser-i-49/originals/06.jpg",
+      "source": "https://collectionerus.ru/media/items-large/1/1p/1pbpbcsd8lwvifj1.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/1/1p/1pbpbcsd8lwvifj1.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/1/1p/1pbpbcsd8lwvifj1.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "1pbpbcsd8lwvifj1.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2481048,
+      "sha256": "b426f776500f9d34cde485ab6472e5b7d77b88f1b19a8341d70dd621f82673d0",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Laser",
+    "en": "Laser"
+  },
+  "brand": "Laser",
+  "year": 1988,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Laser I",
+  "whereToSee": {
+    "ru": "Ближайший",
+    "en": "Nearest"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/laser-i-49/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:48+03:00",
+    "sourcePhotoCount": 6,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 6
+  }
+}

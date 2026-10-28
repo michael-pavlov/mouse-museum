@@ -1,0 +1,136 @@
+{
+  "id": "MP-0132",
+  "slug": "commodore-lynx-97p-132",
+  "title": {
+    "en": "Commodore LYNX-97P",
+    "ru": "Commodore LYNX-97P"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/132/",
+  "sourceOrder": 149,
+  "order": 153,
+  "sourceProperties": {
+    "Производитель": "Commodore",
+    "Год": "1989",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Краснохолмская"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/commodore-lynx-97p-132/01.webp",
+      "thumbnail": "assets/photos/commodore-lynx-97p-132/01-thumb.webp",
+      "original": "assets/photos/commodore-lynx-97p-132/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/7/7w/7/7w/7wmiabhtpexcozok.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/7/7w/7wmiabhtpexcozok.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/7/7w/7wmiabhtpexcozok.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "7wmiabhtpexcozok.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3217,
+      "originalHeight": 2145,
+      "originalBytes": 2406600,
+      "sha256": "d690c88b751da9c6400b867b4fa6adb31eb6844b1d297d2d50ab3f8d527fa22c",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/commodore-lynx-97p-132/02.webp",
+      "thumbnail": "assets/photos/commodore-lynx-97p-132/02-thumb.webp",
+      "original": "assets/photos/commodore-lynx-97p-132/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/c/co/c/co/cotxg1tjo3jgo87k.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/co/cotxg1tjo3jgo87k.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/c/co/cotxg1tjo3jgo87k.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "cotxg1tjo3jgo87k.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3046,
+      "originalHeight": 2031,
+      "originalBytes": 2382381,
+      "sha256": "0d0e783da8cc90f92b89ef2f5c365b073566824d97842784433d7445efd1c1f5",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/commodore-lynx-97p-132/03.webp",
+      "thumbnail": "assets/photos/commodore-lynx-97p-132/03-thumb.webp",
+      "original": "assets/photos/commodore-lynx-97p-132/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/n/nv/n/nv/nvixzwshfyzi4nzj.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/nv/nvixzwshfyzi4nzj.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/n/nv/nvixzwshfyzi4nzj.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "nvixzwshfyzi4nzj.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3843,
+      "originalHeight": 2562,
+      "originalBytes": 4141951,
+      "sha256": "373eb3fac8fcbe8f143f803b27cadcfca2def7a17839d3af361fab6c56f1cbfd",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/commodore-lynx-97p-132/04.webp",
+      "thumbnail": "assets/photos/commodore-lynx-97p-132/04-thumb.webp",
+      "original": "assets/photos/commodore-lynx-97p-132/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/s/sw/s/sw/swwjcpvyig6qkugn.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/s/sw/swwjcpvyig6qkugn.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/s/sw/swwjcpvyig6qkugn.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "swwjcpvyig6qkugn.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4104,
+      "originalHeight": 2736,
+      "originalBytes": 4036745,
+      "sha256": "216a1916adabe44eba4d08ff36584a119e150ac7e4764619ea686794da51b45e",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Commodore",
+    "en": "Commodore"
+  },
+  "brand": "Commodore",
+  "year": 1989,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Commodore LYNX-97P",
+  "whereToSee": {
+    "ru": "Краснохолмская",
+    "en": "Krasnokholmskaya Gallery"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/commodore-lynx-97p-132/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:52+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 4
+  }
+}

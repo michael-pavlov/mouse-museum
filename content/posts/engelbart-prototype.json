@@ -1,0 +1,62 @@
+{
+  "id": "telegram-239",
+  "slug": "engelbart-prototype",
+  "title": {
+    "ru": "Прототип мыши Энгельбарта",
+    "en": "The Engelbart mouse prototype"
+  },
+  "date": "2026-06-18T18:16:18+00:00",
+  "source": "https://t.me/old_mice_and_hw/239",
+  "excerpt": {
+    "ru": "История первой мыши и поиски компонентов для точной реплики.",
+    "en": "The story of the first mouse and the search for parts to build a faithful replica."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/engelbart-prototype/01.webp",
+      "source": "https://cdn4.telesco.pe/file/lT7oQmZ_uqi29g1u2Oiuy-AMBdAAu19eXBRjZ-sFtrErNGnDbe_HYS958xTiUNi1SNF8uHtrUMxBVNlngVQtJLvbBA0DfJjjA_sPbzHQ4V_7N2-5Osj6mAf3kemIA4sQca_sGAEPp2Vw-_4VhCuo8G9ksE0CaYHY6_-SP6FdZzG4RTFjh7P6pJoAfsJONDm5168_OFT8l-KA9by7m0bPTdWwZSX7Fz3R2QiNQlDTj-pDCFKI6Nd0hUlKRf3hsZpbief_w3S39ED04y6Enp0sXhgu5UsNMh-RDr2K3VDl5heP2LRcad7bTglw44cQu4EEq6YX8TItlRlhnmIPBGYgAw.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/engelbart-prototype/02.webp",
+      "source": "https://cdn4.telesco.pe/file/ZzuhsPG055ZLXtD_0K2GsvM2d26AVV48foJsEA83ZcWCOqjmvvi1EW7uCw6di18R7_TCaIjkp-r7YdygsU_imCGmNzJN64Ebe0365fxVU2nQzjtTLkw7EFq6BXqo8DzLE49k1ol4tZc9_3fKvimR7oTlXa9CVh3kXP1qd-dzlmzLiwuIfITtLHJ3MV-MVWNlkk1I6_746yBkbqh3EgwLMx8TGLeysi41xA3gH8VRlajcY7kij3JDlVVpj_AggPhooyjhPLEyFHiMzJWGuNLMfqmmV5Cd4OAOTKo1fMF7xPPWgZY6-Os5aTuSxMrWaj4bLEsCM0tXgAixS5CfKhJczw.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/engelbart-prototype/03.webp",
+      "source": "https://cdn4.telesco.pe/file/F1MZRuKzdPtmC9GrLm4qMUaJB_t4IxJH-QagSCkULZfj8cObaoou4JFMMsoOJL3PmH5gLCqc32VNY0NzHfYBaw_LSpdK71HqvJnRi4vTahasrFxA5K6h-wYD0No1l_gT1ERK6yQkk9tjK_3FKsPNDmYA-zieJaa_7VGmMyTS8H7kEDq26eN39axZpGxoBBUFdIZEOBoUU_0lL29kAcr30yIsz1pxet4DMhqoGEdnDFw_-YcDjgpueY5EGnhZlKEGH7ERnMAGBQKXTSPY1AjY-Z2kyQQ5p30uu_AbaQ7sBSBIjzHxosDG-zd9olrntCTxsB-OXiOe9SjU7PbSIkuLhg.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/engelbart-prototype/04.webp",
+      "source": "https://cdn4.telesco.pe/file/bH8dMNzW1CglS7RAvE2Q3IpQr47LvlkkbRPuCC0yTynbBuBr72SOHVNMFa2COKv6cRBsS0aGLkvRdXbCj2a8N-tapPkEsaR2qenIAq8n_m_dGMMkj4-2AC6tUiF0nRYptJX9JT07IWN0Oayqg9QnSmQQbubi-QnRGPO5W_6yckiD-5RcnDiP75UYE7XLmXm-6js266mUaJPQT2Iz91UGstGzZeVIuxlqHDnsJYJDtkanMY4b1aXEDxQJj6J1FjWCUXBB3SMfOU0wHpn9qgffcucIh_0W9MGZ9UknPKaG5UMJpy34MQUOp0F5QCXND1ozPVBsoBFxO791GzRdar_zGg.jpg",
+      "width": 800,
+      "height": 600
+    }
+  ],
+  "relatedItems": [
+    "prototype-engelbart-mouse-295"
+  ],
+  "category": "stories",
+  "translationNote": {
+    "en": "Translated from the original Russian post.",
+    "ru": ""
+  },
+  "cover": "assets/posts/engelbart-prototype/cover.webp",
+  "references": [
+    {
+      "url": "https://collectionerus.ru/collections/old-mice/295/",
+      "label": {
+        "en": "Replica in the original catalogue",
+        "ru": "Реплика в исходном каталоге"
+      }
+    }
+  ],
+  "bodyFiles": {
+    "en": "content/posts/engelbart-prototype/en.md",
+    "ru": "content/posts/engelbart-prototype/ru.md"
+  }
+}

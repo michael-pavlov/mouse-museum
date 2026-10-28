@@ -1,0 +1,137 @@
+{
+  "id": "MP-0024",
+  "slug": "roland-mu-1-clone-24",
+  "title": {
+    "en": "Roland MU-1 (clone)",
+    "ru": "Roland MU-1 (clone)"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/24/",
+  "sourceOrder": 33,
+  "order": 51,
+  "sourceProperties": {
+    "Производитель": "Mitsumi",
+    "Год": "1990",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "COM",
+    "СССР": "нет",
+    "Где посмотреть": "Демо Витрина"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/roland-mu-1-clone-24/01.webp",
+      "thumbnail": "assets/photos/roland-mu-1-clone-24/01-thumb.webp",
+      "original": "assets/photos/roland-mu-1-clone-24/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/s/sk/skyt74mdxdkem3hk.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/s/sk/skyt74mdxdkem3hk.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/s/sk/skyt74mdxdkem3hk.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "skyt74mdxdkem3hk.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1215968,
+      "sha256": "107212b641099c9d258cba2ce918ca3aca5c6ff7b2d3e32596b2caf385c63902",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/roland-mu-1-clone-24/02.webp",
+      "thumbnail": "assets/photos/roland-mu-1-clone-24/02-thumb.webp",
+      "original": "assets/photos/roland-mu-1-clone-24/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/l/lb/lbbzoxgc9bvvoxiy.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/l/lb/lbbzoxgc9bvvoxiy.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/l/lb/lbbzoxgc9bvvoxiy.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "lbbzoxgc9bvvoxiy.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1528853,
+      "sha256": "8e9916fb79d8ee52224e67c20ebb22d46f8840dd3f08b648a9a2117745f163a1",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/roland-mu-1-clone-24/03.webp",
+      "thumbnail": "assets/photos/roland-mu-1-clone-24/03-thumb.webp",
+      "original": "assets/photos/roland-mu-1-clone-24/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/d/dw/dwpqx0n2sktaph95.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/d/dw/dwpqx0n2sktaph95.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/d/dw/dwpqx0n2sktaph95.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "dwpqx0n2sktaph95.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2343796,
+      "sha256": "9cb8fc18c1f2a8c903d4ab93fbff585bab303d4f98b2ddea2a1955ee27590108",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/roland-mu-1-clone-24/04.webp",
+      "thumbnail": "assets/photos/roland-mu-1-clone-24/04-thumb.webp",
+      "original": "assets/photos/roland-mu-1-clone-24/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/6/6j/6jotfysqzfymvuec.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/6/6j/6jotfysqzfymvuec.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/6/6j/6jotfysqzfymvuec.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "6jotfysqzfymvuec.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2477023,
+      "sha256": "1284ef01a0223cac9219324f3a4e7cfa233ec065f33f5a7728462e246fe08ae5",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Mitsumi",
+    "en": "Mitsumi"
+  },
+  "brand": "Mitsumi",
+  "year": 1990,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "COM",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Roland MU-1 (clone)",
+  "whereToSee": {
+    "ru": "Демо Витрина",
+    "en": "Demo display case"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/roland-mu-1-clone-24/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:45+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 4
+  }
+}

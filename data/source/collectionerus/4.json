@@ -1,0 +1,140 @@
+{
+  "sourceId": 4,
+  "source": "https://collectionerus.ru/collections/old-mice/4/",
+  "slug": "tandy-color-mouse",
+  "sourceTitle": "Tandy TRS-80 Color",
+  "retrievedAt": "2026-10-27T22:22:50+03:00",
+  "sourcePageSha256": "4ae74697c3829dd684950d71d4a79e101d70cafc11bfbb3ce07898ded64ccee1",
+  "descriptionHtml": "<div class=\"item-description\">\n<p><a href=\"https://www.youtube.com/watch?v=tcGowuMOpVo\">https://www.youtube.com/watch?v=tcGowuMOpVo</a><br/><a href=\"https://archive.org/details/tandy-computer-catalog-85/page/46/mode/2up\">https://archive.org/details/tandy-computer-catalog-85/page/46/mode/2up</a><br/><a href=\"https://archive.org/details/1984-catalogue_202308/page/141/mode/2up\">https://archive.org/details/1984-catalogue_202308/page/141/mode/2up</a></p>\n<p>Мануал <a href=\"https://messui.polygonal-moogle.com/sch/comp/26-3025.pdf\">https://messui.polygonal-moogle.com/sch/comp/26-3025.pdf</a></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [
+    {
+      "url": "https://www.youtube.com/watch?v=tcGowuMOpVo",
+      "sourceLabel": "https://www.youtube.com/watch?v=tcGowuMOpVo",
+      "context": "https://www.youtube.com/watch?v=tcGowuMOpVo https://archive.org/details/tandy-computer-catalog-85/page/46/mode/2up https://archive.org/details/1984-catalogue_202308/page/141/mode/2up"
+    },
+    {
+      "url": "https://archive.org/details/tandy-computer-catalog-85/page/46/mode/2up",
+      "sourceLabel": "https://archive.org/details/tandy-computer-catalog-85/page/46/mode/2up",
+      "context": "https://www.youtube.com/watch?v=tcGowuMOpVo https://archive.org/details/tandy-computer-catalog-85/page/46/mode/2up https://archive.org/details/1984-catalogue_202308/page/141/mode/2up"
+    },
+    {
+      "url": "https://archive.org/details/1984-catalogue_202308/page/141/mode/2up",
+      "sourceLabel": "https://archive.org/details/1984-catalogue_202308/page/141/mode/2up",
+      "context": "https://www.youtube.com/watch?v=tcGowuMOpVo https://archive.org/details/tandy-computer-catalog-85/page/46/mode/2up https://archive.org/details/1984-catalogue_202308/page/141/mode/2up"
+    },
+    {
+      "url": "https://messui.polygonal-moogle.com/sch/comp/26-3025.pdf",
+      "sourceLabel": "https://messui.polygonal-moogle.com/sch/comp/26-3025.pdf",
+      "context": "Мануал https://messui.polygonal-moogle.com/sch/comp/26-3025.pdf"
+    }
+  ],
+  "properties": {
+    "Производитель": "Tandy",
+    "Год": "1983",
+    "Способ позиционирования": "на потенциометрах",
+    "Интерфейс": "Tandy",
+    "СССР": "нет",
+    "Особенности": "Металлический шарик",
+    "Где посмотреть": "Демо Витрина"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Tandy"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1983"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BD%D0%B0+%D0%BF%D0%BE%D1%82%D0%B5%D0%BD%D1%86%D0%B8%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B0%D1%85"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=Tandy"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Особенности": [
+      "https://collectionerus.ru/collections/old-mice/?osobennosti=%D0%9C%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%D1%88%D0%B0%D1%80%D0%B8%D0%BA"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B5%D0%BC%D0%BE+%D0%92%D0%B8%D1%82%D1%80%D0%B8%D0%BD%D0%B0"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/w/wk/wk3yaqduk9e6h017.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/wk/wk3yaqduk9e6h017.JPG",
+      "originalName": "wk3yaqduk9e6h017.JPG",
+      "cacheFile": "photos/tandy-color-mouse/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,2 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/c/ct/ctsiqjn5ull9e2f0.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/ct/ctsiqjn5ull9e2f0.JPG",
+      "originalName": "ctsiqjn5ull9e2f0.JPG",
+      "cacheFile": "photos/tandy-color-mouse/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,4 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/q/ql/qlvk1njn3dfwtwaa.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/ql/qlvk1njn3dfwtwaa.JPG",
+      "originalName": "qlvk1njn3dfwtwaa.JPG",
+      "cacheFile": "photos/tandy-color-mouse/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4896×3264, 5,8 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/h/hu/hu1fjchcfk8kbhht.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hu/hu1fjchcfk8kbhht.JPG",
+      "originalName": "hu1fjchcfk8kbhht.JPG",
+      "cacheFile": "photos/tandy-color-mouse/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4896×3264, 6,2 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/k/km/kmlbng3xkfxx5yfm.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/km/kmlbng3xkfxx5yfm.JPG",
+      "originalName": "kmlbng3xkfxx5yfm.JPG",
+      "cacheFile": "photos/tandy-color-mouse/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4896×3264, 6,1 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/x/xd/xddst8ryeq9wspzx.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/xd/xddst8ryeq9wspzx.JPG",
+      "originalName": "xddst8ryeq9wspzx.JPG",
+      "cacheFile": "photos/tandy-color-mouse/06.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,2 МБ"
+    },
+    {
+      "position": 7,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/1/1c/1/1c/1ceyhqz4jthongul.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/1/1c/1ceyhqz4jthongul.jpg",
+      "originalName": "1ceyhqz4jthongul.jpg",
+      "cacheFile": "photos/tandy-color-mouse/07.jpg",
+      "caption": "",
+      "sourceSizeLabel": "729×961, 203,5 КБ"
+    },
+    {
+      "position": 8,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/ri/r/ri/riwc2mw9ghxxayg6.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/ri/riwc2mw9ghxxayg6.jpg",
+      "originalName": "riwc2mw9ghxxayg6.jpg",
+      "cacheFile": "photos/tandy-color-mouse/08.jpg",
+      "caption": "",
+      "sourceSizeLabel": "803×961, 205,1 КБ"
+    }
+  ],
+  "itemFile": "content/mice/tandy-color-mouse.json",
+  "previousPhotoCount": 8
+}

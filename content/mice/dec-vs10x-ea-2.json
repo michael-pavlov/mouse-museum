@@ -1,0 +1,170 @@
+{
+  "id": "MP-0002",
+  "slug": "dec-vs10x-ea-2",
+  "title": {
+    "en": "DEC VS10X-EA",
+    "ru": "DEC VS10X-EA"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/2/",
+  "sourceProperties": {
+    "Производитель": "DEC",
+    "Год": "1983",
+    "Способ позиционирования": "на дискретных датчиках (Hawley)",
+    "Интерфейс": "DEC/VAX",
+    "СССР": "нет",
+    "Особенности": "Металлический шарик",
+    "Где посмотреть": "Ближайший"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/dec-vs10x-ea-2/01-catalog.webp",
+      "thumbnail": "assets/photos/dec-vs10x-ea-2/01-catalog-thumb.webp",
+      "original": "assets/photos/dec-vs10x-ea-2/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/n/nu/nu6imfri0y15by1k.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/nu/nu6imfri0y15by1k.JPG",
+      "originalFilename": "nu6imfri0y15by1k.JPG",
+      "width": 1536,
+      "height": 1024,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1285789,
+      "sha256": "359a786acc60a0ac801290d6bc092ba1ddda3407a6f74dd4426bb46411bf8b57",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/dec-vs10x-ea-2/02.webp",
+      "thumbnail": "assets/photos/dec-vs10x-ea-2/02-thumb.webp",
+      "original": "assets/photos/dec-vs10x-ea-2/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/l/lm/lmg5aofsez4xbkjq.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/l/lm/lmg5aofsez4xbkjq.JPG",
+      "originalFilename": "lmg5aofsez4xbkjq.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1676975,
+      "sha256": "79bce1065e25ab5a8e4e071841060baebcb97c87197e44e01b99fb89b4a8cebd",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/dec-vs10x-ea-2/03.webp",
+      "thumbnail": "assets/photos/dec-vs10x-ea-2/03-thumb.webp",
+      "original": "assets/photos/dec-vs10x-ea-2/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/s/s8/s8hlg5valedomdvx.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/s/s8/s8hlg5valedomdvx.JPG",
+      "originalFilename": "s8hlg5valedomdvx.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3600,
+      "originalHeight": 2400,
+      "originalBytes": 2028686,
+      "sha256": "46be354e3aea94cd83cd713ef0e50865a5b6cfc3f1903ade05da46c4070f0f3f",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/dec-vs10x-ea-2/04.webp",
+      "thumbnail": "assets/photos/dec-vs10x-ea-2/04-thumb.webp",
+      "original": "assets/photos/dec-vs10x-ea-2/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/b/bs/bsitnrxdt1pdjmqo.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/bs/bsitnrxdt1pdjmqo.JPG",
+      "originalFilename": "bsitnrxdt1pdjmqo.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4157,
+      "originalHeight": 2771,
+      "originalBytes": 2364952,
+      "sha256": "7014c53dda4a2ef2f8f30595f53cf29f335ca6121ada8184698183485bdc9296",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/dec-vs10x-ea-2/05.webp",
+      "thumbnail": "assets/photos/dec-vs10x-ea-2/05-thumb.webp",
+      "original": "assets/photos/dec-vs10x-ea-2/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/t/tk/tkvqxkmnjviov0su.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/tk/tkvqxkmnjviov0su.JPG",
+      "originalFilename": "tkvqxkmnjviov0su.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1582936,
+      "sha256": "a19bb47a7f483c6a06a24306e4f11e8f5558db5f8a9c8a87a929e8b7e121222a",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/dec-vs10x-ea-2/06.webp",
+      "thumbnail": "assets/photos/dec-vs10x-ea-2/06-thumb.webp",
+      "original": "assets/photos/dec-vs10x-ea-2/originals/06.jpg",
+      "source": "https://collectionerus.ru/media/items-large/e/ej/ejduojehglkh4al8.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/ej/ejduojehglkh4al8.JPG",
+      "originalFilename": "ejduojehglkh4al8.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3600,
+      "originalHeight": 2400,
+      "originalBytes": 2193236,
+      "sha256": "fa5957a3fcdf301d1171f3ec90f6db087fda1b09e3290b374122f5acd8e54e4d",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/dec-vs10x-ea-2/07.webp",
+      "thumbnail": "assets/photos/dec-vs10x-ea-2/07-thumb.webp",
+      "original": "assets/photos/dec-vs10x-ea-2/originals/07.jpg",
+      "source": "https://collectionerus.ru/media/items-large/r/rk/rkkd6qav4msgkuox.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/rk/rkkd6qav4msgkuox.JPG",
+      "originalFilename": "rkkd6qav4msgkuox.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 2692,
+      "originalHeight": 1795,
+      "originalBytes": 846557,
+      "sha256": "3687ab298b9863c6f87a50a916fc88f615c2dc2db9fda586ad039b72dbbbfa31",
+      "caption": ""
+    }
+  ],
+  "thumbnail": "assets/photos/dec-vs10x-ea-2/thumb-catalog.webp",
+  "order": 14,
+  "manufacturer": {
+    "ru": "DEC",
+    "en": "DEC"
+  },
+  "brand": "DEC",
+  "year": 1983,
+  "tracking": {
+    "key": "discrete-hawley",
+    "ru": "на дискретных датчиках (Hawley)",
+    "en": "Discrete sensors (Hawley)"
+  },
+  "interface": "DEC/VAX",
+  "soviet": false,
+  "features": {
+    "ru": "Металлический шарик",
+    "en": "Metal ball"
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "DEC VS10X-EA",
+  "whereToSee": {
+    "ru": "Ближайший",
+    "en": "Nearest"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T22:22:40+03:00",
+    "sourcePhotoCount": 7,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 7,
+    "availableOriginals": 7
+  }
+}

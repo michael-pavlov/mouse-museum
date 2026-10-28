@@ -1,0 +1,48 @@
+{
+  "id": "telegram-229",
+  "slug": "telegram-229",
+  "title": {
+    "ru": "Неизвестная металлическая мышь",
+    "en": "An unidentified metal mouse"
+  },
+  "date": "2026-04-01T13:05:11+00:00",
+  "source": "https://t.me/old_mice_and_hw/229",
+  "excerpt": {
+    "ru": "Редкая находка без маркировки и с металлическим корпусом.",
+    "en": "A rare unmarked find with a metal case."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/telegram-229/01.webp",
+      "original": "assets/posts/telegram-229/01.jpg",
+      "source": "https://cdn4.telesco.pe/file/qwJKIqZ_pH0OognRPdRjkSRNXMZThSSGQbbbJJYC9I8KRlk1GMqLgBhwzivUxXP_5gCrSzpjcpxzaqT0XJrHuy76oXGP7Z2w_K7h05IZkI46dOOt_qz-U7zUkmzKNaZqcPLaS8PHkdweL0SP5tBPE6v1PWEcd2CeEUJYS8BFX9Kb2VMRFfvvQMIaWbzElsp-JPoD_Ey32-eiKduMiGcSEkl1r1rXjWWJmptDDcNsjfRssZvF0JvX5f3TO3JKvWGBiFEQsmaQ_OjyLbkQrAD7xKNEg1DeJHORNsAZNn1DawFvx24mI7UR5-8X9G6qyFMWCc_4rXpUYxEnnVSovOypRg.jpg",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "file": "assets/posts/telegram-229/02.webp",
+      "original": "assets/posts/telegram-229/02.jpg",
+      "source": "https://cdn4.telesco.pe/file/IjHdEHFk1HhQQsOrcpy6cx2rZiYlknTsF8WGt2wVRi6GcMhKGvWviPzrym9CtydB4UXWkkdqoF7xE4LV_0AsJ41VS8UJC5voUn2bXNbxGZQUzSd7uj0C0CRyzYgIl6c6IEwPMK78lnTdCzAW_VxbQfJY2WBHjKG0pvGCiU7nd1F8tLushK7Yf6tIN4uHZkfiFaJfP2-f4ECPvl-ax1tBqnJrwkvMhAXCCRFRyUz1T7yrJ5qYsHaorJSR4udzDYZi3UtGb54OjSK0fbz7TpY8jlRv0CyOTV1cN-1QCRE_DeZdSBjVQ8yGuENPMkXU3FUfUNH3CQcyrF8d3En-9j3OOg.jpg",
+      "width": 533,
+      "height": 800
+    },
+    {
+      "file": "assets/posts/telegram-229/03.webp",
+      "original": "assets/posts/telegram-229/03.jpg",
+      "source": "https://cdn4.telesco.pe/file/YHMTzpiihf0TwRm6togIxaN0VrJJGGr9k81H-dS4XG9rXhfBV7YAdIjPQnwvuqh27J3IcTOuioKtz4Kt9Oo41l1gTTPfh1ViBxDj62wVBdSQ2lLwcAVHKcdf7TzHbJiJzH1HtGcF3v7zpc0DcK7hqzsGXa0YxBgcQ-EPiICXprLzUHkfbMx3Sqnlwww4jgBhelH7o-rzv85UXeHUqLS-5gWrrUogyQ62pE9cs4KtewN6VYI2--2RADyw1I-x7Yb-B6wSE_XSb-k1cMROViyEmNVap0XxVXGPDLpJ9EYFndpkL6S9fF7TE_n6UnDp-5bgxLsO1Pai2Y8Hi7UlVIaQrQ.jpg",
+      "width": 800,
+      "height": 533
+    }
+  ],
+  "cover": "assets/posts/telegram-229/01.webp",
+  "relatedItems": [],
+  "category": "stories",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-229/ru.md",
+    "en": "content/posts/telegram-229/en.md"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "sourceId": 248,
+  "source": "https://collectionerus.ru/collections/old-mice/248/",
+  "slug": "sharp-x68000-ki-om0002ce03-248",
+  "sourceTitle": "Sharp X68000 KI-OM0002CE03",
+  "retrievedAt": "2026-10-27T23:10:58+03:00",
+  "sourcePageSha256": "fd9ff8b810d3bca2fc2917af0bc461b53f53f7fb380b6366a2008766221ed45d",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Год": "1991",
+    "СССР": "нет",
+    "Где посмотреть": "Ближайший"
+  },
+  "propertyLinks": {
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1991"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%91%D0%BB%D0%B8%D0%B6%D0%B0%D0%B9%D1%88%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/7/7p/7/7p/7pfqxrkqhhjng5wz.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/7/7p/7pfqxrkqhhjng5wz.jpeg",
+      "originalName": "7pfqxrkqhhjng5wz.jpeg",
+      "cacheFile": "photos/sharp-x68000-ki-om0002ce03-248/01.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 895,5 КБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/7/7z/7/7z/7zvhygrxndi0uwxx.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/7/7z/7zvhygrxndi0uwxx.jpeg",
+      "originalName": "7zvhygrxndi0uwxx.jpeg",
+      "cacheFile": "photos/sharp-x68000-ki-om0002ce03-248/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 838,7 КБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/j/ju/j/ju/jupiqwgn1kd2yhcl.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/j/ju/jupiqwgn1kd2yhcl.jpeg",
+      "originalName": "jupiqwgn1kd2yhcl.jpeg",
+      "cacheFile": "photos/sharp-x68000-ki-om0002ce03-248/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 746,3 КБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/h/ht/h/ht/htjoe4aynbdakvqz.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/ht/htjoe4aynbdakvqz.jpeg",
+      "originalName": "htjoe4aynbdakvqz.jpeg",
+      "cacheFile": "photos/sharp-x68000-ki-om0002ce03-248/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,4 МБ"
+    }
+  ],
+  "itemFile": "content/mice/sharp-x68000-ki-om0002ce03-248.json",
+  "previousPhotoCount": 0
+}

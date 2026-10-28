@@ -1,0 +1,190 @@
+{
+  "id": "MP-0275",
+  "slug": "primax-mus2j-275",
+  "title": {
+    "en": "Primax MUS2J",
+    "ru": "Primax MUS2J"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/275/",
+  "sourceOrder": 270,
+  "order": 272,
+  "sourceProperties": {
+    "Производитель": "Primax Electronics Ltd",
+    "Год": "1992",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/primax-mus2j-275/01.webp",
+      "thumbnail": "assets/photos/primax-mus2j-275/01-thumb.webp",
+      "original": "assets/photos/primax-mus2j-275/originals/01.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/t/ti/t/ti/ticzleuln3seg248.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/ti/ticzleuln3seg248.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/t/ti/ticzleuln3seg248.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "ticzleuln3seg248.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 894364,
+      "sha256": "1edf008dfecfce177452c7464fe58be83e479235f0a5a9ffd9d7de32761521e6",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/primax-mus2j-275/02.webp",
+      "thumbnail": "assets/photos/primax-mus2j-275/02-thumb.webp",
+      "original": "assets/photos/primax-mus2j-275/originals/02.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/k/kt/k/kt/kt396xpoftvgv5uy.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/kt/kt396xpoftvgv5uy.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/k/kt/kt396xpoftvgv5uy.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "kt396xpoftvgv5uy.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1026419,
+      "sha256": "82756314a1b45041aaae81c455274b89b9915680ce1fa42111bf9742462cde57",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/primax-mus2j-275/03.webp",
+      "thumbnail": "assets/photos/primax-mus2j-275/03-thumb.webp",
+      "original": "assets/photos/primax-mus2j-275/originals/03.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/v/vv/v/vv/vvdglirlienvaews.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/vv/vvdglirlienvaews.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/v/vv/vvdglirlienvaews.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "vvdglirlienvaews.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1027976,
+      "sha256": "8dd4a99e199a1f23a7225840652c15cbfbdd9069d6124ee8fa1724b7c36c8192",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/primax-mus2j-275/04.webp",
+      "thumbnail": "assets/photos/primax-mus2j-275/04-thumb.webp",
+      "original": "assets/photos/primax-mus2j-275/originals/04.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/f/f7/f/f7/f7ezlu39zshz9s37.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/f/f7/f7ezlu39zshz9s37.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/f/f7/f7ezlu39zshz9s37.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "f7ezlu39zshz9s37.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1476861,
+      "sha256": "c51cc6d893b614c2e0157de6eb671bf97b21a2d4ce9da0771a614e92b688e606",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/primax-mus2j-275/05.webp",
+      "thumbnail": "assets/photos/primax-mus2j-275/05-thumb.webp",
+      "original": "assets/photos/primax-mus2j-275/originals/05.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/k/kb/k/kb/kbvqjngv5oagfplr.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/kb/kbvqjngv5oagfplr.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/k/kb/kbvqjngv5oagfplr.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "kbvqjngv5oagfplr.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1556281,
+      "sha256": "4bbe580255daf9ed2eb255c392f44accf34da8774d859ed3d6bdebc14db01a76",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/primax-mus2j-275/06.webp",
+      "thumbnail": "assets/photos/primax-mus2j-275/06-thumb.webp",
+      "original": "assets/photos/primax-mus2j-275/originals/06.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/d/dr/d/dr/drimwzrhz39and9v.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/d/dr/drimwzrhz39and9v.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/d/dr/drimwzrhz39and9v.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "drimwzrhz39and9v.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1474745,
+      "sha256": "b8bdd6657c4c184e350d579cdbc8ec7ec7b61bc22ac6687c2a74b438a511435e",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/primax-mus2j-275/07.webp",
+      "thumbnail": "assets/photos/primax-mus2j-275/07-thumb.webp",
+      "original": "assets/photos/primax-mus2j-275/originals/07.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/c/cy/c/cy/cylnokbzara6cz79.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/cy/cylnokbzara6cz79.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/c/cy/cylnokbzara6cz79.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "cylnokbzara6cz79.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1885533,
+      "sha256": "2c749ae9f098a558b84cf69a31c4d861e119276f7eaae2009d7da5b85f97f1f2",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Primax Electronics Ltd",
+    "en": "Primax Electronics Ltd"
+  },
+  "brand": "Primax Electronics Ltd",
+  "year": 1992,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Primax MUS2J",
+  "whereToSee": {
+    "ru": "Дальний",
+    "en": "Far"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/primax-mus2j-275/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:11:02+03:00",
+    "sourcePhotoCount": 7,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 7
+  }
+}

@@ -1,0 +1,4764 @@
+{
+  "availableOriginals": 1966,
+  "unavailableOriginals": [
+    {
+      "sourceId": 53,
+      "slug": "tandy-combi-mouse-53",
+      "position": 1,
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/ca/ca16exhig30aiwvi.JPG",
+      "downloadSource": "https://collectionerus.ru/media/items-large/c/ca/ca16exhig30aiwvi.JPG",
+      "error": "HTTP 403 from the original URL; source preview is publicly available"
+    }
+  ],
+  "completedAt": "2026-10-27T23:36:39+03:00",
+  "specimens": 305,
+  "photos": 1967,
+  "originalBytes": 3169461174,
+  "entries": [
+    {
+      "sourceId": 121,
+      "slug": "accel-wany-1-mouse-121",
+      "title": "Accel Wany-1 mouse",
+      "previousPhotos": 4,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 13778934,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 213,
+      "slug": "alps-mouse-pre-tandy-color-213",
+      "title": "Alps Mouse (pre Tandy Color)",
+      "previousPhotos": 8,
+      "sourcePhotos": 8,
+      "localOriginals": 8,
+      "originalBytes": 11269527,
+      "availableOriginals": 8,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 174,
+      "slug": "american-mouse-174",
+      "title": "American Mouse",
+      "previousPhotos": 5,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 7675971,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 10,
+      "slug": "amstrad-mouse-10",
+      "title": "Amstrad Mouse",
+      "previousPhotos": 7,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 15671868,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 7,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 36,
+      "slug": "apple-desktop-bus-mouse-ii-m2706-36",
+      "title": "Apple Desktop Bus Mouse II (M2706)",
+      "previousPhotos": 6,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 11484853,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 7,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 41,
+      "slug": "apple-macintosh-m0100",
+      "title": "Apple Macintosh Mouse (M0100)",
+      "previousPhotos": 6,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 11104732,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 305,
+      "slug": "artec-mouse-305",
+      "title": "Artec Mouse",
+      "previousPhotos": 10,
+      "sourcePhotos": 10,
+      "localOriginals": 10,
+      "originalBytes": 16753914,
+      "availableOriginals": 10,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 4,
+      "missingSourceFields": [
+        "Производитель",
+        "Способ позиционирования",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 15,
+      "slug": "atari-stm1",
+      "title": "Atari STM1",
+      "previousPhotos": 4,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 7500317,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 19,
+      "slug": "clix-cx-30-19",
+      "title": "CLiX CX-30",
+      "previousPhotos": 4,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 7520290,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 7,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 20,
+      "slug": "contriver-m-1-mouse-20",
+      "title": "Contriver M-1 Mouse",
+      "previousPhotos": 4,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 7309112,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 2,
+      "slug": "dec-vs10x-ea-2",
+      "title": "DEC VS10X-EA",
+      "previousPhotos": 7,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 11979131,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 7,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 22,
+      "slug": "dec-vsxxx-aa-hawley-22",
+      "title": "DEC VSXXX-AA (Hawley)",
+      "previousPhotos": 5,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 11430968,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 173,
+      "slug": "depraz-p4",
+      "title": "Depraz Mouse / Digimouse/ Logitech P4",
+      "previousPhotos": 11,
+      "sourcePhotos": 11,
+      "localOriginals": 11,
+      "originalBytes": 21665156,
+      "availableOriginals": 11,
+      "descriptionTextPresent": false,
+      "externalLinks": 1,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 8,
+      "slug": "es-1841-8",
+      "title": "ЕС 1841",
+      "previousPhotos": 8,
+      "sourcePhotos": 8,
+      "localOriginals": 8,
+      "originalBytes": 12282329,
+      "availableOriginals": 8,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 8,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 163,
+      "slug": "es-1841-early-version-163",
+      "title": "ЕС 1841 (ранняя)",
+      "previousPhotos": 7,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 9485298,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Производитель",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 158,
+      "slug": "es-1849-158",
+      "title": "ЕС 1849",
+      "previousPhotos": 4,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 7334933,
+      "availableOriginals": 4,
+      "descriptionTextPresent": true,
+      "externalLinks": 0,
+      "sourcePropertyCount": 7,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 172,
+      "slug": "genius-gm4-172",
+      "title": "Genius GM4",
+      "previousPhotos": 13,
+      "sourcePhotos": 13,
+      "localOriginals": 13,
+      "originalBytes": 23347211,
+      "availableOriginals": 13,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 64,
+      "slug": "genius-mymouse-optical-rev-1-3-64",
+      "title": "Genius MyMouse Optical rev 1.3",
+      "previousPhotos": 6,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 9597644,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 7,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 17,
+      "slug": "graphic-mouse-17",
+      "title": "Graphic Mouse",
+      "previousPhotos": 9,
+      "sourcePhotos": 9,
+      "localOriginals": 9,
+      "originalBytes": 14297464,
+      "availableOriginals": 9,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 12,
+      "slug": "hp-46060b-12",
+      "title": "HP 46060B",
+      "previousPhotos": 5,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 12984282,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 39,
+      "slug": "ibm-13h6690-39",
+      "title": "IBM 13H6690",
+      "previousPhotos": 6,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 10673725,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 8,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 26,
+      "slug": "ibm-trackpoint-convertible",
+      "title": "IBM PS/2 Trackpoint Convertible",
+      "previousPhotos": 6,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 11342459,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 2,
+      "sourcePropertyCount": 7,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 215,
+      "slug": "kompan-215",
+      "title": "Компан",
+      "previousPhotos": 9,
+      "sourcePhotos": 9,
+      "localOriginals": 9,
+      "originalBytes": 12984613,
+      "availableOriginals": 9,
+      "descriptionTextPresent": true,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Производитель",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 255,
+      "slug": "kt-technology-k5000-255",
+      "title": "KT Technology K5000",
+      "previousPhotos": 8,
+      "sourcePhotos": 8,
+      "localOriginals": 8,
+      "originalBytes": 9592183,
+      "availableOriginals": 8,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 59,
+      "slug": "logitech-mouseman-cordless",
+      "title": "Logitech MouseMan Cordless (M-RA12)",
+      "previousPhotos": 8,
+      "sourcePhotos": 8,
+      "localOriginals": 8,
+      "originalBytes": 15044064,
+      "availableOriginals": 8,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 7,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 62,
+      "slug": "marsianka-uvk-01-white-62",
+      "title": "Марсианка УВК-01 Белая",
+      "previousPhotos": 5,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 7251560,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 7,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 3,
+      "slug": "microsoft-green-eye",
+      "title": "Microsoft Green Eye",
+      "previousPhotos": 7,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 27353367,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 7,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 140,
+      "slug": "mindset-mouse-140",
+      "title": "Mindset mouse",
+      "previousPhotos": 9,
+      "sourcePhotos": 9,
+      "localOriginals": 9,
+      "originalBytes": 13412222,
+      "availableOriginals": 9,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 278,
+      "slug": "mitsumi-ecm-s3102-278",
+      "title": "Mitsumi ECM-S3102",
+      "previousPhotos": 4,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 4438155,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 7,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 225,
+      "slug": "mm-8031-korvet-red-225",
+      "title": "ММ 8031 (Корвет) красная",
+      "previousPhotos": 9,
+      "sourcePhotos": 9,
+      "localOriginals": 9,
+      "originalBytes": 11565421,
+      "availableOriginals": 9,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Производитель",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 35,
+      "slug": "mm-8031-korvet",
+      "title": "ММ 8031 (Корвет)",
+      "previousPhotos": 7,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 11537209,
+      "availableOriginals": 7,
+      "descriptionTextPresent": true,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 25,
+      "slug": "mouse-systems-a-m3a1-25",
+      "title": "Mouse Systems A+ M3A1",
+      "previousPhotos": 6,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 13308633,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 32,
+      "slug": "mouse-systems-m2-32",
+      "title": "Mouse Systems M2",
+      "previousPhotos": 7,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 13225616,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 146,
+      "slug": "mouse-systems-m3-146",
+      "title": "Mouse Systems M3",
+      "previousPhotos": 5,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 6216380,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 37,
+      "slug": "mouse-systems-m4-sun-37",
+      "title": "Mouse Systems M4 / Sun",
+      "previousPhotos": 6,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 11678133,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 9,
+      "slug": "mouse-systems-proagio",
+      "title": "Mouse Systems ProAgio Scroll Mouse",
+      "previousPhotos": 6,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 9313829,
+      "availableOriginals": 6,
+      "descriptionTextPresent": true,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 21,
+      "slug": "myarc-mouse-for-geneve-9640-21",
+      "title": "Myarc mouse for Geneve 9640",
+      "previousPhotos": 5,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 20309094,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 1,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 13,
+      "slug": "next-n4000a",
+      "title": "NeXT N4000A",
+      "previousPhotos": 6,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 10694593,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 16,
+      "slug": "nidd-valley-digimouse-16",
+      "title": "Nidd Valley DigiMouse",
+      "previousPhotos": 5,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 9063561,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 7,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 200,
+      "slug": "penny-giles-d42090-200",
+      "title": "Penny & Giles D42090",
+      "previousPhotos": 10,
+      "sourcePhotos": 10,
+      "localOriginals": 10,
+      "originalBytes": 14809265,
+      "availableOriginals": 10,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 191,
+      "slug": "penny-giles-m3-100-for-acorn-a500-191",
+      "title": "Penny & Giles M3/100 for Acorn A500",
+      "previousPhotos": 12,
+      "sourcePhotos": 12,
+      "localOriginals": 12,
+      "originalBytes": 19962635,
+      "availableOriginals": 12,
+      "descriptionTextPresent": true,
+      "externalLinks": 1,
+      "sourcePropertyCount": 8,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 6,
+      "slug": "quadram-m4-6",
+      "title": "Quadram M4",
+      "previousPhotos": 5,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 8801109,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 23,
+      "slug": "quick-qm-e1-23",
+      "title": "Quick QM-E1",
+      "previousPhotos": 4,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 7333368,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 204,
+      "slug": "sharp-mz-1x10",
+      "title": "Sharp MZ-1X10",
+      "previousPhotos": 11,
+      "sourcePhotos": 11,
+      "localOriginals": 11,
+      "originalBytes": 18551769,
+      "availableOriginals": 11,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 4,
+      "slug": "tandy-color-mouse",
+      "title": "Tandy TRS-80 Color",
+      "previousPhotos": 8,
+      "sourcePhotos": 8,
+      "localOriginals": 8,
+      "originalBytes": 23327560,
+      "availableOriginals": 8,
+      "descriptionTextPresent": false,
+      "externalLinks": 4,
+      "sourcePropertyCount": 7,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 5,
+      "slug": "tandy-trs-80-deluxe-5",
+      "title": "Tandy TRS-80 Deluxe",
+      "previousPhotos": 5,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 15427319,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 7,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 102,
+      "slug": "xerox-8010-star-102",
+      "title": "Xerox 8010 Star",
+      "previousPhotos": 2,
+      "sourcePhotos": 2,
+      "localOriginals": 2,
+      "originalBytes": 1790060,
+      "availableOriginals": 2,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 1,
+      "slug": "xerox-8010-star",
+      "title": "Xerox 8010 Star",
+      "previousPhotos": 7,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 11419937,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 101,
+      "slug": "xerox-x063x-101",
+      "title": "Xerox X063X",
+      "previousPhotos": 4,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 4464850,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 168,
+      "slug": "a4tech-wt-5p-wintrack-168",
+      "title": "A4Tech WT-5P WinTrack",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 10268266,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 113,
+      "slug": "acorn-bbc-master-512-mouse-113",
+      "title": "Acorn BBC Master 512 Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 3,
+      "localOriginals": 3,
+      "originalBytes": 8967902,
+      "availableOriginals": 3,
+      "descriptionTextPresent": false,
+      "externalLinks": 1,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 27,
+      "slug": "aero-im-pc20-27",
+      "title": "Aero IM-PC20",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 10413993,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 1,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 202,
+      "slug": "ambra-mouse-202",
+      "title": "Ambra mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 9132538,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 66,
+      "slug": "amconics-witty-mouse-c-400-66",
+      "title": "Amconics (Witty) Mouse C-400",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 10831819,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 194,
+      "slug": "amx-mouse-194",
+      "title": "AMX Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 10,
+      "localOriginals": 10,
+      "originalBytes": 13786959,
+      "availableOriginals": 10,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Производитель"
+      ]
+    },
+    {
+      "sourceId": 45,
+      "slug": "amx-mouse-45",
+      "title": "AMX Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 8,
+      "localOriginals": 8,
+      "originalBytes": 12009488,
+      "availableOriginals": 8,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 7,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 77,
+      "slug": "amx-mouse-77",
+      "title": "AMX Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 12955278,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 11,
+      "slug": "amx-mouse-by-depraz-11",
+      "title": "AMX Mouse by Depraz",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 15435791,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 7,
+      "missingSourceFields": [
+        "Производитель"
+      ]
+    },
+    {
+      "sourceId": 76,
+      "slug": "amx-mouse-by-depraz-76",
+      "title": "AMX Mouse by Depraz",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 11017852,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 206,
+      "slug": "amx-mouse-m201-1-206",
+      "title": "AMX mouse (M201-1)",
+      "previousPhotos": 0,
+      "sourcePhotos": 10,
+      "localOriginals": 10,
+      "originalBytes": 17435094,
+      "availableOriginals": 10,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 28,
+      "slug": "amx-watford-clone-28",
+      "title": "AMX Watford clone",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 7056283,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 42,
+      "slug": "apple-desktop-bus-mouse-g5431-42",
+      "title": "Apple Desktop Bus Mouse (G5431)",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 11259522,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 207,
+      "slug": "apple-lisa-207",
+      "title": "Apple Lisa",
+      "previousPhotos": 0,
+      "sourcePhotos": 9,
+      "localOriginals": 9,
+      "originalBytes": 14725188,
+      "availableOriginals": 9,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 98,
+      "slug": "apple-m4848-hockey-puck-98",
+      "title": "Apple M4848 (Hockey Puck)",
+      "previousPhotos": 0,
+      "sourcePhotos": 3,
+      "localOriginals": 3,
+      "originalBytes": 4100385,
+      "availableOriginals": 3,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 7,
+      "slug": "apple-mouse-iie-a2m2070-7",
+      "title": "Apple Mouse IIe (A2M2070)",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 9201250,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 96,
+      "slug": "apple-pro-mouse-m5769-96",
+      "title": "Apple Pro Mouse (M5769)",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 5640320,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 97,
+      "slug": "apple-the-mighty-mouse-a1152-97",
+      "title": "Apple The Mighty Mouse (A1152)",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 4753717,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 153,
+      "slug": "appoint-mousepen-153",
+      "title": "Appoint MousePen",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 4200252,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 1,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 151,
+      "slug": "apricot-mouse-logitech-m8-151",
+      "title": "Apricot mouse (Logitech M8)",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 10406842,
+      "availableOriginals": 7,
+      "descriptionTextPresent": true,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 212,
+      "slug": "artec-a20-212",
+      "title": "Artec A20",
+      "previousPhotos": 0,
+      "sourcePhotos": 11,
+      "localOriginals": 11,
+      "originalBytes": 14599452,
+      "availableOriginals": 11,
+      "descriptionTextPresent": false,
+      "externalLinks": 1,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 242,
+      "slug": "artec-am-21-plus-242",
+      "title": "Artec AM-21 plus",
+      "previousPhotos": 0,
+      "sourcePhotos": 14,
+      "localOriginals": 14,
+      "originalBytes": 25025444,
+      "availableOriginals": 14,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 3,
+      "missingSourceFields": [
+        "Производитель",
+        "Способ позиционирования",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 287,
+      "slug": "ascii-pm001ps-287",
+      "title": "ASCII PM001PS",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 11009889,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 72,
+      "slug": "at-t-pc-7300-72",
+      "title": "AT&T PC 7300",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 9408323,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 203,
+      "slug": "atrend-mouse-203",
+      "title": "Atrend mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 8244440,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 69,
+      "slug": "ball-manipulator-69",
+      "title": "Шаровой Манипулятор",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 15064397,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 307,
+      "slug": "bei-trackball-307",
+      "title": "BEI trackball",
+      "previousPhotos": 0,
+      "sourcePhotos": 9,
+      "localOriginals": 9,
+      "originalBytes": 9977915,
+      "availableOriginals": 9,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 3,
+      "missingSourceFields": [
+        "Производитель",
+        "Способ позиционирования",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 241,
+      "slug": "beten-mariqua-241",
+      "title": "BeTen Mariqua",
+      "previousPhotos": 0,
+      "sourcePhotos": 11,
+      "localOriginals": 11,
+      "originalBytes": 15222076,
+      "availableOriginals": 11,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 4,
+      "missingSourceFields": [
+        "Производитель",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 249,
+      "slug": "bshru-249",
+      "title": "БШРУ",
+      "previousPhotos": 0,
+      "sourcePhotos": 13,
+      "localOriginals": 13,
+      "originalBytes": 27219040,
+      "availableOriginals": 13,
+      "descriptionTextPresent": true,
+      "externalLinks": 1,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Способ позиционирования",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 269,
+      "slug": "chic-serial-mouse-269",
+      "title": "Chic serial mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 8523634,
+      "availableOriginals": 6,
+      "descriptionTextPresent": true,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 232,
+      "slug": "clampmouse-ad-m36-232",
+      "title": "ClampMouse AD-M36",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 10991680,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 43,
+      "slug": "commodore-1351-bremen-43",
+      "title": "Commodore 1351 (Bremen)",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 11424667,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 261,
+      "slug": "commodore-amiga-261",
+      "title": "Commodore Amiga",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 7862406,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 118,
+      "slug": "commodore-c01764-pregnant-mouse-118",
+      "title": "Commodore C01764 Pregnant Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 13343209,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 120,
+      "slug": "commodore-cd-1253-120",
+      "title": "Commodore CD-1253",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 11458886,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 132,
+      "slug": "commodore-lynx-97p-132",
+      "title": "Commodore LYNX-97P",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 12967677,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 217,
+      "slug": "compaq-t-sc3-trackman-portable-217",
+      "title": "Compaq T-SC3 trackman portable",
+      "previousPhotos": 0,
+      "sourcePhotos": 9,
+      "localOriginals": 9,
+      "originalBytes": 12765562,
+      "availableOriginals": 9,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 79,
+      "slug": "computek-geos-101-79",
+      "title": "Computek Geos-101",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 8782045,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 74,
+      "slug": "contriver-74",
+      "title": "Contriver",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 8983224,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 175,
+      "slug": "contriver-mouse-175",
+      "title": "Contriver Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 8,
+      "localOriginals": 8,
+      "originalBytes": 12389930,
+      "availableOriginals": 8,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 300,
+      "slug": "creative-labs-aeropoint-300",
+      "title": "Creative Labs Aeropoint",
+      "previousPhotos": 0,
+      "sourcePhotos": 8,
+      "localOriginals": 8,
+      "originalBytes": 10984020,
+      "availableOriginals": 8,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 2,
+      "missingSourceFields": [
+        "Производитель",
+        "Год",
+        "Способ позиционирования",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 161,
+      "slug": "cursor-controls-trackerball-161",
+      "title": "Cursor Controls TrackerBall",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 8433863,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 181,
+      "slug": "cutie-mouse-mus02-181",
+      "title": "Cutie Mouse MUS02",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 8785151,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 219,
+      "slug": "daco-dt420-02-01-219",
+      "title": "Daco DT420-02-01",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 8913395,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 1,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 243,
+      "slug": "dashine-ams-1068-243",
+      "title": "Dashine AMS-1068",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 4935576,
+      "availableOriginals": 5,
+      "descriptionTextPresent": true,
+      "externalLinks": 0,
+      "sourcePropertyCount": 2,
+      "missingSourceFields": [
+        "Производитель",
+        "Год",
+        "Способ позиционирования",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 71,
+      "slug": "datalux-sv-705-71",
+      "title": "Datalux SV-705",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 9495278,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 199,
+      "slug": "datalux-sv-713-199",
+      "title": "Datalux sv-713",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 10093632,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 117,
+      "slug": "db-boeder-m-10-117",
+      "title": "Db Boeder m-10",
+      "previousPhotos": 0,
+      "sourcePhotos": 3,
+      "localOriginals": 3,
+      "originalBytes": 6661548,
+      "availableOriginals": 3,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 189,
+      "slug": "dec-digital-pc7xs-aa-189",
+      "title": "DEC Digital PC7XS-AA",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 10968088,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 33,
+      "slug": "dec-pc4xs-aa-33",
+      "title": "DEC PC4XS-AA",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 9987122,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 7,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 46,
+      "slug": "dec-pcxas-aa-46",
+      "title": "DEC PCXAS-AA",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 9306850,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 7,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 171,
+      "slug": "dec-vsxxx-aa-opto-mechanical-171",
+      "title": "DEC VSXXX-AA (opto-mechanical)",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 10244480,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 268,
+      "slug": "dell-logitech-m-sf14-2-6md-268",
+      "title": "Dell (logitech) M-SF14-2-6MD",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 7709096,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 284,
+      "slug": "delux-unknown-284",
+      "title": "Delux unknown",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 6232572,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 4,
+      "missingSourceFields": [
+        "Производитель",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 144,
+      "slug": "depraz-clone-mouse-144",
+      "title": "Depraz clone mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 7188566,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 130,
+      "slug": "dfi-dms-200-130",
+      "title": "DFI dms-200",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 12185167,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 87,
+      "slug": "dinos-87",
+      "title": "Dinos",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 7403166,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 291,
+      "slug": "disney-mouse-291",
+      "title": "Disney mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 6874104,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 4,
+      "missingSourceFields": [
+        "Производитель",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 222,
+      "slug": "dksh-251-222",
+      "title": "ДКШ-251",
+      "previousPhotos": 0,
+      "sourcePhotos": 9,
+      "localOriginals": 9,
+      "originalBytes": 15007791,
+      "availableOriginals": 9,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 4,
+      "missingSourceFields": [
+        "Производитель",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 105,
+      "slug": "dtk-computer-105",
+      "title": "DTK Computer",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 3899280,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 258,
+      "slug": "dtk-computer-mouse-258",
+      "title": "DTK Computer mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 7522057,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 4,
+      "missingSourceFields": [
+        "Производитель",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 286,
+      "slug": "durapoint-vp2000-286",
+      "title": "DuraPoint VP2000",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 10168162,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 4,
+      "missingSourceFields": [
+        "Способ позиционирования",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 285,
+      "slug": "dynapar-disc-instruments-lq200m19250-285",
+      "title": "Dynapar Disc Instruments LQ200M19250",
+      "previousPhotos": 0,
+      "sourcePhotos": 8,
+      "localOriginals": 8,
+      "originalBytes": 9579435,
+      "availableOriginals": 8,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 82,
+      "slug": "e-mac-silhouette-82",
+      "title": "e-Mac Silhouette",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 7530325,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 303,
+      "slug": "e6q-mousex-21-303",
+      "title": "E6Q MOUSEX 21",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 8203587,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 4,
+      "missingSourceFields": [
+        "Способ позиционирования",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 292,
+      "slug": "e6qmouse-ps2-292",
+      "title": "E6QMouse PS2",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 6965865,
+      "availableOriginals": 6,
+      "descriptionTextPresent": true,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 93,
+      "slug": "e6qmouse-x31-93",
+      "title": "E6QMouse X31",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 8200587,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 103,
+      "slug": "ec-1845-103",
+      "title": "EC 1845",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 6244876,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 231,
+      "slug": "elecom-clam-300-count-bus-mouse-231",
+      "title": "Elecom Clam 300 Count bus mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 7753023,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 227,
+      "slug": "elecom-graio-variable-countmouse-227",
+      "title": "Elecom GRAIO Variable CountMouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 9,
+      "localOriginals": 9,
+      "originalBytes": 12035970,
+      "availableOriginals": 9,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 7,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 277,
+      "slug": "emag-com-277",
+      "title": "Emag-Com",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 8469291,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 162,
+      "slug": "es-1842-162",
+      "title": "ЕС 1842",
+      "previousPhotos": 0,
+      "sourcePhotos": 8,
+      "localOriginals": 8,
+      "originalBytes": 11245256,
+      "availableOriginals": 8,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 4,
+      "missingSourceFields": [
+        "Производитель",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 221,
+      "slug": "everton-winpoint-evt-p01-221",
+      "title": "Everton WinPoint EVT-P01",
+      "previousPhotos": 0,
+      "sourcePhotos": 9,
+      "localOriginals": 9,
+      "originalBytes": 13811076,
+      "availableOriginals": 9,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 302,
+      "slug": "exovault-mouse-302",
+      "title": "EXOvault Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 8,
+      "localOriginals": 8,
+      "originalBytes": 9519041,
+      "availableOriginals": 8,
+      "descriptionTextPresent": true,
+      "externalLinks": 1,
+      "sourcePropertyCount": 4,
+      "missingSourceFields": [
+        "Производитель",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 150,
+      "slug": "fellowes-mouse-150",
+      "title": "Fellowes mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 3,
+      "localOriginals": 3,
+      "originalBytes": 5851366,
+      "availableOriginals": 3,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 95,
+      "slug": "fellowes-thumbelina-95",
+      "title": "Fellowes Thumbelina",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 6333870,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 100,
+      "slug": "finnigan-mat-100",
+      "title": "Finnigan Mat",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 8743257,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 235,
+      "slug": "fujitsu-f9716ms3-235",
+      "title": "Fujitsu F9716MS3",
+      "previousPhotos": 0,
+      "sourcePhotos": 8,
+      "localOriginals": 8,
+      "originalBytes": 10794493,
+      "availableOriginals": 8,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 254,
+      "slug": "fujitsu-fm-towns-fmt-mo101-254",
+      "title": "Fujitsu FM Towns FMT-MO101",
+      "previousPhotos": 0,
+      "sourcePhotos": 8,
+      "localOriginals": 8,
+      "originalBytes": 9307302,
+      "availableOriginals": 8,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 7,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 228,
+      "slug": "fujitsu-fmmo-202-228",
+      "title": "Fujitsu FMMO-202",
+      "previousPhotos": 0,
+      "sourcePhotos": 10,
+      "localOriginals": 10,
+      "originalBytes": 12391084,
+      "availableOriginals": 10,
+      "descriptionTextPresent": true,
+      "externalLinks": 0,
+      "sourcePropertyCount": 4,
+      "missingSourceFields": [
+        "Производитель",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 107,
+      "slug": "fujitsu-lynx-90p-107",
+      "title": "Fujitsu Lynx-90p",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 4656722,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 274,
+      "slug": "genius-easymouse-2-274",
+      "title": "Genius EasyMouse (2)",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 8616837,
+      "availableOriginals": 7,
+      "descriptionTextPresent": true,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 259,
+      "slug": "genius-easymouse-259",
+      "title": "Genius EasyMouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 6087342,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 283,
+      "slug": "genius-easymouse-283",
+      "title": "Genius EasyMouse+",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 8491253,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 266,
+      "slug": "genius-easymouse-3-266",
+      "title": "Genius EasyMouse (3)",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 8647764,
+      "availableOriginals": 7,
+      "descriptionTextPresent": true,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 57,
+      "slug": "genius-gm-6-57",
+      "title": "Genius GM-6",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 12346456,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 63,
+      "slug": "genius-himouse-63",
+      "title": "Genius HiMouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 9,
+      "localOriginals": 9,
+      "originalBytes": 13225357,
+      "availableOriginals": 9,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 7,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 179,
+      "slug": "genius-himouse-lite-179",
+      "title": "Genius HiMouse Lite",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 11064257,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 306,
+      "slug": "genius-lcmouse-306",
+      "title": "Genius LCMouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 9355224,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 3,
+      "missingSourceFields": [
+        "Производитель",
+        "Способ позиционирования",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 282,
+      "slug": "genius-mouse-3-282",
+      "title": "Genius Mouse 3",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 7574174,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 260,
+      "slug": "genius-mouse-dear-260",
+      "title": "Genius Mouse Dear",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 6861508,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 92,
+      "slug": "genius-mouse-one-92",
+      "title": "Genius Mouse One",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 5277394,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 252,
+      "slug": "genius-mousepal-pro-252",
+      "title": "Genius MousePal Pro",
+      "previousPhotos": 0,
+      "sourcePhotos": 8,
+      "localOriginals": 8,
+      "originalBytes": 11888057,
+      "availableOriginals": 8,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 2,
+      "missingSourceFields": [
+        "Производитель",
+        "Год",
+        "Способ позиционирования",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 253,
+      "slug": "genius-mymouse-rev-1-2-terminator-optical-mouse-253",
+      "title": "Genius MyMouse rev 1.2 (Terminator Optical Mouse)",
+      "previousPhotos": 0,
+      "sourcePhotos": 11,
+      "localOriginals": 11,
+      "originalBytes": 16261660,
+      "availableOriginals": 11,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 3,
+      "missingSourceFields": [
+        "Год",
+        "Способ позиционирования",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 68,
+      "slug": "genius-newtrack-serial-68",
+      "title": "Genius NewTrack Serial",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 17160841,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 186,
+      "slug": "geos-geomouse-186",
+      "title": "Geos GeoMouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 9053227,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 4,
+      "missingSourceFields": [
+        "Производитель",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 279,
+      "slug": "gtl-400-1-279",
+      "title": "GTL 400-1",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 5724867,
+      "availableOriginals": 5,
+      "descriptionTextPresent": true,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 149,
+      "slug": "gulliver-mouse-149",
+      "title": "Gulliver mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 6001678,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 148,
+      "slug": "gyropoint-desk-gp9200-a-148",
+      "title": "GyroPoint Desk GP9200-A",
+      "previousPhotos": 0,
+      "sourcePhotos": 9,
+      "localOriginals": 9,
+      "originalBytes": 15229989,
+      "availableOriginals": 9,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 309,
+      "slug": "handy-track-model-700-309",
+      "title": "Handy-track model 700",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 8966724,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 3,
+      "missingSourceFields": [
+        "Производитель",
+        "Способ позиционирования",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 198,
+      "slug": "harrison-mouse-198",
+      "title": "Harrison mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 10531747,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 4,
+      "missingSourceFields": [
+        "Производитель",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 115,
+      "slug": "headstart-explorer-115",
+      "title": "HeadStart Explorer",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 15235739,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 264,
+      "slug": "hewlett-packard-m-hd15-a2838a-264",
+      "title": "Hewlett Packard M-HD15 (A2838A)",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 8362957,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 159,
+      "slug": "hi-bon-optical-laser-mouse-159",
+      "title": "Hi-Bon Optical laser mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 10295565,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 176,
+      "slug": "hit-mouse-176",
+      "title": "Hit Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 9,
+      "localOriginals": 9,
+      "originalBytes": 13871567,
+      "availableOriginals": 9,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 4,
+      "missingSourceFields": [
+        "Производитель",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 99,
+      "slug": "hit-mouse-99",
+      "title": "Hit Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 3931926,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 125,
+      "slug": "hp-46060a-125",
+      "title": "HP 46060A",
+      "previousPhotos": 0,
+      "sourcePhotos": 2,
+      "localOriginals": 2,
+      "originalBytes": 5868309,
+      "availableOriginals": 2,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 157,
+      "slug": "hp-omnibook-mouse-157",
+      "title": "HP Omnibook Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 1747966,
+      "availableOriginals": 6,
+      "descriptionTextPresent": true,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 109,
+      "slug": "hp-pcmcia-bluetoth-109",
+      "title": "HP PCMCIA Bluetoth",
+      "previousPhotos": 0,
+      "sourcePhotos": 2,
+      "localOriginals": 2,
+      "originalBytes": 1200757,
+      "availableOriginals": 2,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 70,
+      "slug": "ibm-00f2383-70",
+      "title": "IBM 00F2383",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 9826623,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 50,
+      "slug": "ibm-33g3835-50",
+      "title": "IBM 33G3835",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 10829991,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 30,
+      "slug": "ibm-6450350-30",
+      "title": "IBM 6450350",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 12911966,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 51,
+      "slug": "ibm-95f5443-51",
+      "title": "IBM 95F5443",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 11844809,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 7,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 166,
+      "slug": "ibm-m-sf15-166",
+      "title": "IBM M-SF15",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 10481230,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 182,
+      "slug": "info-mouse-ms-10-182",
+      "title": "Info Mouse MS-10",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 8602439,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 220,
+      "slug": "jvc-cordless-hc-m10-220",
+      "title": "JVC Cordless HC-M10",
+      "previousPhotos": 0,
+      "sourcePhotos": 12,
+      "localOriginals": 12,
+      "originalBytes": 16035199,
+      "availableOriginals": 12,
+      "descriptionTextPresent": false,
+      "externalLinks": 2,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": [
+        "Производитель"
+      ]
+    },
+    {
+      "sourceId": 131,
+      "slug": "keen-kem-260-131",
+      "title": "Keen kem-260",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 12329836,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 167,
+      "slug": "kensigton-thinking-mouse-167",
+      "title": "Kensigton Thinking Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 4970426,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 83,
+      "slug": "kensington-valumouse-83",
+      "title": "Kensington ValuMouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 6880894,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 31,
+      "slug": "key-tronic-2hw73-1ep-31",
+      "title": "Key Tronic 2HW73-1EP",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 9594642,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 34,
+      "slug": "key-tronic-km10k-34",
+      "title": "Key Tronic KM10K",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 10287748,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 84,
+      "slug": "key-tronic-pfs-mouse-s-84",
+      "title": "Key Tronic PFS Mouse S",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 8665856,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 154,
+      "slug": "kibord-007-154",
+      "title": "Киборд 007",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 6741922,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 127,
+      "slug": "kometa-nv-03-049-003-kolobok-127",
+      "title": "Комета НВ 03.049.003 (aka Колобок)",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 25115300,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 122,
+      "slug": "kompass-mouse-122",
+      "title": "Kompass mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 3,
+      "localOriginals": 3,
+      "originalBytes": 8319610,
+      "availableOriginals": 3,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 216,
+      "slug": "kraft-systems-u-track-216",
+      "title": "Kraft Systems u-track",
+      "previousPhotos": 0,
+      "sourcePhotos": 9,
+      "localOriginals": 9,
+      "originalBytes": 13565127,
+      "availableOriginals": 9,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 49,
+      "slug": "laser-i-49",
+      "title": "Laser I",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 11581032,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 48,
+      "slug": "laser-iii-48",
+      "title": "Laser III",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 7769519,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 126,
+      "slug": "little-tikes-cozy-couple-mouse-126",
+      "title": "Little Tikes Cozy Couple Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 16474439,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 185,
+      "slug": "lm-anir1-fdm-d00-185",
+      "title": "LM Anir1 FDM-D00",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 5507473,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 301,
+      "slug": "logicad-3d-magellan-space-mouse-301",
+      "title": "LogiCad 3D Magellan Space Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 5513453,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 1,
+      "sourcePropertyCount": 4,
+      "missingSourceFields": [
+        "Способ позиционирования",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 196,
+      "slug": "logitech-c7-3f-9f-196",
+      "title": "Logitech C7-3F-9F",
+      "previousPhotos": 0,
+      "sourcePhotos": 9,
+      "localOriginals": 9,
+      "originalBytes": 14636896,
+      "availableOriginals": 9,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 111,
+      "slug": "logitech-clearcase-111",
+      "title": "Logitech ClearCase",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 4318426,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 38,
+      "slug": "logitech-m-cg7-38",
+      "title": "Logitech M-CG7",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 10054289,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 272,
+      "slug": "logitech-m-s60-272",
+      "title": "Logitech M-S60",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 6298405,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 52,
+      "slug": "logitech-p7-2f-52",
+      "title": "Logitech P7-2F",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 10333744,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 7,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 201,
+      "slug": "logitech-p7-2f-logimouse-for-olivetti-201",
+      "title": "Logitech P7-2F Logimouse for Olivetti",
+      "previousPhotos": 0,
+      "sourcePhotos": 10,
+      "localOriginals": 10,
+      "originalBytes": 13876030,
+      "availableOriginals": 10,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 29,
+      "slug": "logitech-p7-3f-29",
+      "title": "Logitech P7-3F",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 7134042,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 7,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 245,
+      "slug": "lunaris-m-lma-variable-245",
+      "title": "Lunaris M-LMA Variable",
+      "previousPhotos": 0,
+      "sourcePhotos": 10,
+      "localOriginals": 10,
+      "originalBytes": 12929172,
+      "availableOriginals": 10,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Способ позиционирования",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 250,
+      "slug": "lunaris-m-lp2b4-250",
+      "title": "Lunaris M-LP2B4",
+      "previousPhotos": 0,
+      "sourcePhotos": 12,
+      "localOriginals": 12,
+      "originalBytes": 14875460,
+      "availableOriginals": 12,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Способ позиционирования",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 152,
+      "slug": "lynkers-mouse-th400a-152",
+      "title": "Lynkers mouse TH400A",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 6462311,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 230,
+      "slug": "maglab-pc-mouse-30-vatek-color-mouse-clone-230",
+      "title": "MagLab PC-mouse-30 (Vatek color mouse clone)",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 9420716,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 4,
+      "missingSourceFields": [
+        "Производитель",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 80,
+      "slug": "marsianka-uvk-01-black-80",
+      "title": "Марсианка УВК-01 Черная",
+      "previousPhotos": 0,
+      "sourcePhotos": 3,
+      "localOriginals": 3,
+      "originalBytes": 3566996,
+      "availableOriginals": 3,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 223,
+      "slug": "marsianka-uvk-01-black-and-white-223",
+      "title": "Марсианка УВК-01 черно-белая",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 4443323,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 210,
+      "slug": "marsianka-uvk-01-dark-grey-210",
+      "title": "Марсианка УВК-01 темно-серая (обычная)",
+      "previousPhotos": 0,
+      "sourcePhotos": 2,
+      "localOriginals": 2,
+      "originalBytes": 2262040,
+      "availableOriginals": 2,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 18,
+      "slug": "marsianka-uvk-01-dark-grey-early-18",
+      "title": "Марсианка УВК-01 темно-серая (ранняя)",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 11895819,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 211,
+      "slug": "marsianka-uvk-01-grey-211",
+      "title": "Марсианка УВК-01 серая",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 5231881,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 61,
+      "slug": "marsianka-uvk-01-red-61",
+      "title": "Марсианка УВК-01 Красная",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 6994320,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 256,
+      "slug": "marstek-mouse-256",
+      "title": "Marstek Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 7996135,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 160,
+      "slug": "megatron-industriesensoric-mbio38-160",
+      "title": "Megatron IndustrieSensoric MBIO38",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 7525757,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 164,
+      "slug": "mi-ki-mouse-md-c7-164",
+      "title": "MI-KI Mouse MD-C7",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 6611342,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 4,
+      "missingSourceFields": [
+        "Производитель",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 81,
+      "slug": "microsoft-easyball-81",
+      "title": "Microsoft Easyball",
+      "previousPhotos": 0,
+      "sourcePhotos": 3,
+      "localOriginals": 3,
+      "originalBytes": 3747965,
+      "availableOriginals": 3,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 75,
+      "slug": "microsoft-gray-eyed-75",
+      "title": "Microsoft Gray Eyed",
+      "previousPhotos": 0,
+      "sourcePhotos": 8,
+      "localOriginals": 8,
+      "originalBytes": 13030213,
+      "availableOriginals": 8,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 281,
+      "slug": "microsoft-serial-mouse-2-1a-281",
+      "title": "Microsoft Serial mouse 2.1A",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 8240406,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 104,
+      "slug": "microsoft-serial-ps-2-compatible-mouse-104",
+      "title": "Microsoft Serial-PS/2 Compatible Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 8027547,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 209,
+      "slug": "microspeed-fasttrap-209",
+      "title": "MicroSpeed FastTRAP",
+      "previousPhotos": 0,
+      "sourcePhotos": 11,
+      "localOriginals": 11,
+      "originalBytes": 17893526,
+      "availableOriginals": 11,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 246,
+      "slug": "mitsuba-optical-mouse-246",
+      "title": "Mitsuba Optical Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 8815960,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 3,
+      "missingSourceFields": [
+        "Производитель",
+        "Год",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 294,
+      "slug": "mitsumi-ecm-s5002-scroll-294",
+      "title": "Mitsumi ECM-S5002 Scroll",
+      "previousPhotos": 0,
+      "sourcePhotos": 8,
+      "localOriginals": 8,
+      "originalBytes": 10727484,
+      "availableOriginals": 8,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 290,
+      "slug": "mitsumi-wireless-mouse-ecm-w3301-290",
+      "title": "Mitsumi wireless mouse ECM-W3301",
+      "previousPhotos": 0,
+      "sourcePhotos": 13,
+      "localOriginals": 13,
+      "originalBytes": 17280200,
+      "availableOriginals": 13,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 60,
+      "slug": "modemmouse-60",
+      "title": "ModemMouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 10705335,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 7,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 208,
+      "slug": "mouse-04-p-poisk-208",
+      "title": "Манипулятор Мышь 04.П (Поиск)",
+      "previousPhotos": 0,
+      "sourcePhotos": 17,
+      "localOriginals": 17,
+      "originalBytes": 22879542,
+      "availableOriginals": 17,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 165,
+      "slug": "mouse-2100-165",
+      "title": "Mouse 2100",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 6639032,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 114,
+      "slug": "mouse-am-29-114",
+      "title": "Mouse am-29",
+      "previousPhotos": 0,
+      "sourcePhotos": 3,
+      "localOriginals": 3,
+      "originalBytes": 10152298,
+      "availableOriginals": 3,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 73,
+      "slug": "mouse-systems-little-mouse-73",
+      "title": "Mouse Systems Little Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 8488626,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 183,
+      "slug": "mouse-systems-mouse-183",
+      "title": "Mouse Systems Mouse!",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 10729212,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 133,
+      "slug": "mouse-systems-t10-133",
+      "title": "Mouse systems T10",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 12496890,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 308,
+      "slug": "mouse-sytems-402462-001-308",
+      "title": "Mouse Sytems 402462-001",
+      "previousPhotos": 0,
+      "sourcePhotos": 13,
+      "localOriginals": 13,
+      "originalBytes": 21581273,
+      "availableOriginals": 13,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 4,
+      "missingSourceFields": [
+        "Способ позиционирования",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 187,
+      "slug": "mousepen-sunnyline-187",
+      "title": "MousePen Sunnyline",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 4383071,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 4,
+      "missingSourceFields": [
+        "Производитель",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 192,
+      "slug": "mtm-1-mouse-192",
+      "title": "Манипулятор типа \"Мышь\" МТМ-1",
+      "previousPhotos": 0,
+      "sourcePhotos": 10,
+      "localOriginals": 10,
+      "originalBytes": 14793397,
+      "availableOriginals": 10,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 128,
+      "slug": "naksha-mouse-128",
+      "title": "Naksha mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 3,
+      "localOriginals": 3,
+      "originalBytes": 9386648,
+      "availableOriginals": 3,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 55,
+      "slug": "neos-mouse-55",
+      "title": "Neos Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 13336174,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 142,
+      "slug": "new-idea-mouse-142",
+      "title": "New Idea mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 6727293,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 14,
+      "slug": "next-n8003-14",
+      "title": "NeXT N8003",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 6933714,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 47,
+      "slug": "nintendo-super-nes-47",
+      "title": "Nintendo Super NES",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 10315795,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 44,
+      "slug": "noris-data-m1-44",
+      "title": "Noris Data M1",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 10893600,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 197,
+      "slug": "oamouse-aka-packard-bell-197",
+      "title": "OAMouse aka Packard Bell",
+      "previousPhotos": 0,
+      "sourcePhotos": 10,
+      "localOriginals": 10,
+      "originalBytes": 16711463,
+      "availableOriginals": 10,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 188,
+      "slug": "olivetti-m-s28-188",
+      "title": "Olivetti M-S28",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 10590558,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 145,
+      "slug": "omega-mouse-145",
+      "title": "Omega mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 3,
+      "localOriginals": 3,
+      "originalBytes": 3249523,
+      "availableOriginals": 3,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 90,
+      "slug": "opm-mt-90",
+      "title": "OPM-MT",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 8487680,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 296,
+      "slug": "oreobject-sphere-touch-296",
+      "title": "OreObject Sphere touch",
+      "previousPhotos": 0,
+      "sourcePhotos": 3,
+      "localOriginals": 3,
+      "originalBytes": 4407116,
+      "availableOriginals": 3,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Производитель"
+      ]
+    },
+    {
+      "sourceId": 244,
+      "slug": "panasonic-fs-jm10-244",
+      "title": "Panasonic FS-JM10",
+      "previousPhotos": 0,
+      "sourcePhotos": 8,
+      "localOriginals": 8,
+      "originalBytes": 10806784,
+      "availableOriginals": 8,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 2,
+      "missingSourceFields": [
+        "Производитель",
+        "Год",
+        "Способ позиционирования",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 263,
+      "slug": "pc93010-12-mouse-700-263",
+      "title": "PC93010-12 Mouse 700",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 8944266,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 143,
+      "slug": "penny-giles-trackball-for-apricot-143",
+      "title": "Penny + Giles trackball for Apricot",
+      "previousPhotos": 0,
+      "sourcePhotos": 8,
+      "localOriginals": 8,
+      "originalBytes": 14334672,
+      "availableOriginals": 8,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 78,
+      "slug": "philips-78",
+      "title": "Philips",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 9557345,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 7,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 177,
+      "slug": "philips-mouse-177",
+      "title": "Philips Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 11060618,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 139,
+      "slug": "poltik-mmp-813-139",
+      "title": "Poltik MMP 813",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 14298977,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 138,
+      "slug": "poltik-mmp-832-138",
+      "title": "Poltik MMP 832",
+      "previousPhotos": 0,
+      "sourcePhotos": 11,
+      "localOriginals": 11,
+      "originalBytes": 31307799,
+      "availableOriginals": 11,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 147,
+      "slug": "power-peripherals-p-800m-147",
+      "title": "Power Peripherals P-800M",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 6329903,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 106,
+      "slug": "primax-electronics-microspot-106",
+      "title": "Primax Electronics Microspot",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 3863388,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 184,
+      "slug": "primax-mouse-184",
+      "title": "Primax Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 8685961,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 180,
+      "slug": "primax-muhtb-trackball-180",
+      "title": "Primax MUHTB Trackball",
+      "previousPhotos": 0,
+      "sourcePhotos": 8,
+      "localOriginals": 8,
+      "originalBytes": 11781620,
+      "availableOriginals": 8,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 271,
+      "slug": "primax-mus02-earlier-271",
+      "title": "Primax MUS02 (earlier)",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 7722686,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 275,
+      "slug": "primax-mus2j-275",
+      "title": "Primax MUS2J",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 9342179,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 65,
+      "slug": "procorp-serial-mouse-65",
+      "title": "ProCorp Serial Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 11310559,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 295,
+      "slug": "prototype-engelbart-mouse-295",
+      "title": "Prototype Engelbart Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 9664222,
+      "availableOriginals": 7,
+      "descriptionTextPresent": true,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 304,
+      "slug": "qtronix-x-20m-304",
+      "title": "Qtronix X-20M",
+      "previousPhotos": 0,
+      "sourcePhotos": 8,
+      "localOriginals": 8,
+      "originalBytes": 10371280,
+      "availableOriginals": 8,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 3,
+      "missingSourceFields": [
+        "Год",
+        "Способ позиционирования",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 267,
+      "slug": "qtronix-x-30s-267",
+      "title": "Qtronix X-30S",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 6181781,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 58,
+      "slug": "quickshot-mouse-58",
+      "title": "QuickShot Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 7715675,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 88,
+      "slug": "quickshot-qs211-88",
+      "title": "QuickShot QS211",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 8546336,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 135,
+      "slug": "rightin-mousepen-135",
+      "title": "Rightin MousePen",
+      "previousPhotos": 0,
+      "sourcePhotos": 2,
+      "localOriginals": 2,
+      "originalBytes": 10169183,
+      "availableOriginals": 2,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 24,
+      "slug": "roland-mu-1-clone-24",
+      "title": "Roland MU-1 (clone)",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 7565640,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 236,
+      "slug": "sanwa-supply-ma-402psdgy-236",
+      "title": "Sanwa Supply MA-402PSDGY",
+      "previousPhotos": 0,
+      "sourcePhotos": 8,
+      "localOriginals": 8,
+      "originalBytes": 9558027,
+      "availableOriginals": 8,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 276,
+      "slug": "se-jin-electron-mouse-sm3-200-276",
+      "title": "Se Jin Electron Mouse SM3-200",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 8789633,
+      "availableOriginals": 7,
+      "descriptionTextPresent": true,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 229,
+      "slug": "sharp-ki-om0004ce01-229",
+      "title": "Sharp KI-OM0004CE01",
+      "previousPhotos": 0,
+      "sourcePhotos": 8,
+      "localOriginals": 8,
+      "originalBytes": 10265510,
+      "availableOriginals": 8,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 4,
+      "missingSourceFields": [
+        "Производитель",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 247,
+      "slug": "sharp-x68000-ki-om0002ce01-247",
+      "title": "Sharp X68000 KI-OM0002CE01",
+      "previousPhotos": 0,
+      "sourcePhotos": 9,
+      "localOriginals": 9,
+      "originalBytes": 12479068,
+      "availableOriginals": 9,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 3,
+      "missingSourceFields": [
+        "Производитель",
+        "Способ позиционирования",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 248,
+      "slug": "sharp-x68000-ki-om0002ce03-248",
+      "title": "Sharp X68000 KI-OM0002CE03",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 3957430,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 3,
+      "missingSourceFields": [
+        "Производитель",
+        "Способ позиционирования",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 297,
+      "slug": "sicos-green-mouse-297",
+      "title": "Sicos Green Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 6705683,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 224,
+      "slug": "sicos-luigi-colani-mouse-224",
+      "title": "Sicos Luigi Colani mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 9,
+      "localOriginals": 9,
+      "originalBytes": 11946918,
+      "availableOriginals": 9,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 4,
+      "missingSourceFields": [
+        "Производитель",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 141,
+      "slug": "siemens-pc-d-mouse-141",
+      "title": "Siemens PC-D mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 8733286,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 2,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 86,
+      "slug": "sigma-m30-86",
+      "title": "Sigma M30",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 7598171,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 280,
+      "slug": "silicon-graphics-granite-mouse-280",
+      "title": "Silicon Graphics Granite Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 7935883,
+      "availableOriginals": 7,
+      "descriptionTextPresent": true,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 119,
+      "slug": "simba-s-mouse-119",
+      "title": "Simba's mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 13643712,
+      "availableOriginals": 4,
+      "descriptionTextPresent": true,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 67,
+      "slug": "soap-mouse-67",
+      "title": "Soap Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 11238859,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 112,
+      "slug": "souris-thomson-112",
+      "title": "Souris Thomson",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 4038024,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 289,
+      "slug": "star-trek-mouse-289",
+      "title": "Star Trek mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 8078700,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 299,
+      "slug": "startrek-type-1-phaser-mouse-299",
+      "title": "StarTrek Type 1 Phaser Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 4247249,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 2,
+      "missingSourceFields": [
+        "Производитель",
+        "Год",
+        "Способ позиционирования",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 54,
+      "slug": "summagraphics-summamouse-54",
+      "title": "Summagraphics SummaMouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 13747441,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 40,
+      "slug": "sun-compact-1-40",
+      "title": "Sun Compact 1",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 9999009,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 7,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 178,
+      "slug": "sun-type-5-178",
+      "title": "Sun Type 5",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 10234726,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 195,
+      "slug": "suncom-sunmouse-195",
+      "title": "Suncom SunMouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 11741728,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 169,
+      "slug": "sunnyline-burger-mouse-169",
+      "title": "SunnyLine Burger Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 8600131,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 205,
+      "slug": "sunnyline-handy-track-ii-205",
+      "title": "Sunnyline Handy Track II",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 8736971,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 4,
+      "missingSourceFields": [
+        "Производитель",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 123,
+      "slug": "sysgration-kem-260-123",
+      "title": "Sysgration KEM-260",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 13478616,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 116,
+      "slug": "sysgration-mouse-3310-116",
+      "title": "Sysgration Mouse 3310",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 12333702,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 265,
+      "slug": "sysgration-pc92010-04-model-1303-265",
+      "title": "Sysgration PC92010-04 model 1303",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 7501902,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 218,
+      "slug": "tamagawa-trackball-ta342on-218",
+      "title": "Tamagawa Trackball TA342ON",
+      "previousPhotos": 0,
+      "sourcePhotos": 8,
+      "localOriginals": 8,
+      "originalBytes": 11436353,
+      "availableOriginals": 8,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 53,
+      "slug": "tandy-combi-mouse-53",
+      "title": "Tandy Combi Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 8390153,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 56,
+      "slug": "tandy-serial-mouse-56",
+      "title": "Tandy Serial Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 11671958,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 288,
+      "slug": "tandy-trs-80-digi-mouse-288",
+      "title": "Tandy TRS-80 Digi-mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 9,
+      "localOriginals": 9,
+      "originalBytes": 10846590,
+      "availableOriginals": 9,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 170,
+      "slug": "taylor-trackball-170",
+      "title": "Taylor trackball",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 12404399,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 214,
+      "slug": "tesla-3wn16605-214",
+      "title": "Tesla 3WN16605",
+      "previousPhotos": 0,
+      "sourcePhotos": 10,
+      "localOriginals": 10,
+      "originalBytes": 14633078,
+      "availableOriginals": 10,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 94,
+      "slug": "torrington-manager-mouse-94",
+      "title": "Torrington Manager Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 10773863,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 110,
+      "slug": "toshiba-microsoft-ballpoint-110",
+      "title": "Toshiba/Microsoft BallPoint",
+      "previousPhotos": 0,
+      "sourcePhotos": 2,
+      "localOriginals": 2,
+      "originalBytes": 1524556,
+      "availableOriginals": 2,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 251,
+      "slug": "track-bause-htb-10-f-251",
+      "title": "Track-bause HTB-10(F)",
+      "previousPhotos": 0,
+      "sourcePhotos": 10,
+      "localOriginals": 10,
+      "originalBytes": 14323045,
+      "availableOriginals": 10,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Способ позиционирования"
+      ]
+    },
+    {
+      "sourceId": 193,
+      "slug": "track-em-booby-track-193",
+      "title": "Track-em Booby Track",
+      "previousPhotos": 0,
+      "sourcePhotos": 10,
+      "localOriginals": 10,
+      "originalBytes": 17692124,
+      "availableOriginals": 10,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 4,
+      "missingSourceFields": [
+        "Производитель",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 238,
+      "slug": "truedox-ada-mouser-ms1000-238",
+      "title": "Truedox Ada Mouser MS1000",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 9693150,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 129,
+      "slug": "truedox-technology-mouse-129",
+      "title": "Truedox Technology mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 12508302,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 262,
+      "slug": "ts-2000f-262",
+      "title": "TS-2000F",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 7033983,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 239,
+      "slug": "u-match-biolink-mouse-umser13-239",
+      "title": "U-Match BioLink Mouse UMSER13",
+      "previousPhotos": 0,
+      "sourcePhotos": 11,
+      "localOriginals": 11,
+      "originalBytes": 15155525,
+      "availableOriginals": 11,
+      "descriptionTextPresent": false,
+      "externalLinks": 1,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 108,
+      "slug": "ultima-electronics-ytf-108",
+      "title": "Ultima Electronics YTF",
+      "previousPhotos": 0,
+      "sourcePhotos": 3,
+      "localOriginals": 3,
+      "originalBytes": 2769934,
+      "availableOriginals": 3,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 234,
+      "slug": "unia-serial-keypad-mouse-234",
+      "title": "UNIA Serial Keypad Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 11,
+      "localOriginals": 11,
+      "originalBytes": 14331234,
+      "availableOriginals": 11,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 7,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 257,
+      "slug": "unitel-city-kamyshin-257",
+      "title": "Unitel City Камышин",
+      "previousPhotos": 0,
+      "sourcePhotos": 8,
+      "localOriginals": 8,
+      "originalBytes": 9040941,
+      "availableOriginals": 8,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 4,
+      "missingSourceFields": [
+        "Производитель",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 226,
+      "slug": "unknown-acorn-myarc-clone-226",
+      "title": "Unknown Acorn & Myarc clone",
+      "previousPhotos": 0,
+      "sourcePhotos": 10,
+      "localOriginals": 10,
+      "originalBytes": 14468239,
+      "availableOriginals": 10,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 4,
+      "missingSourceFields": [
+        "Производитель",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 273,
+      "slug": "unknown-kids-computer-mouse-273",
+      "title": "Unknown kids computer mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 6145845,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 4,
+      "missingSourceFields": [
+        "Производитель",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 124,
+      "slug": "unknown-mouse-124",
+      "title": "Unknown mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 12708310,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 270,
+      "slug": "unknown-mouse-270",
+      "title": "Unknown mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 8922394,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 4,
+      "missingSourceFields": [
+        "Производитель",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 91,
+      "slug": "utt-gh1010-91",
+      "title": "UTT GH1010",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 6962382,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 89,
+      "slug": "utt-m211b-r-89",
+      "title": "UTT M211B-R",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 7507975,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 6,
+      "missingSourceFields": []
+    },
+    {
+      "sourceId": 190,
+      "slug": "uvgi-man-88-190",
+      "title": "УВГИ МАН-88",
+      "previousPhotos": 0,
+      "sourcePhotos": 13,
+      "localOriginals": 13,
+      "originalBytes": 18574867,
+      "availableOriginals": 13,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 293,
+      "slug": "vtech-edu-toys-mouse-2-293",
+      "title": "Vtech Edu Toys Mouse (2)",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 7679874,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 240,
+      "slug": "vtech-edu-toys-mouse-240",
+      "title": "Vtech Edu Toys Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 8,
+      "localOriginals": 8,
+      "originalBytes": 10567455,
+      "availableOriginals": 8,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 233,
+      "slug": "wachi-pc-98-bus-mouse-233",
+      "title": "Wachi pc-98 bus mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 8,
+      "localOriginals": 8,
+      "originalBytes": 11379913,
+      "availableOriginals": 8,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 134,
+      "slug": "winner-products-mouse-134",
+      "title": "Winner products mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 14325728,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 85,
+      "slug": "witty-mouse-c-800-85",
+      "title": "Witty Mouse C-800",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 8981173,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 298,
+      "slug": "witty-mouse-vm800l-298",
+      "title": "Witty Mouse VM800L",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 9024997,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 3,
+      "missingSourceFields": [
+        "Производитель",
+        "Год",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 237,
+      "slug": "zama-trel-mouse-tk-05-237",
+      "title": "Zama Trel Mouse TK-05",
+      "previousPhotos": 0,
+      "sourcePhotos": 9,
+      "localOriginals": 9,
+      "originalBytes": 12717612,
+      "availableOriginals": 9,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "sourceId": 301,
+  "source": "https://collectionerus.ru/collections/old-mice/301/",
+  "slug": "logicad-3d-magellan-space-mouse-301",
+  "sourceTitle": "LogiCad 3D Magellan Space Mouse",
+  "retrievedAt": "2026-10-27T23:11:02+03:00",
+  "sourcePageSha256": "676e727c5296374b85dfc24a85fa3064da00088307ec1721b8e3e2f3b78a47c3",
+  "descriptionHtml": "<div class=\"item-description\">\n<p><a href=\"https://mans.io/files/viewer/2662875/1\">https://mans.io/files/viewer/2662875/1</a></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [
+    {
+      "url": "https://mans.io/files/viewer/2662875/1",
+      "sourceLabel": "https://mans.io/files/viewer/2662875/1",
+      "context": "https://mans.io/files/viewer/2662875/1"
+    }
+  ],
+  "properties": {
+    "Производитель": "Logitech",
+    "Год": "2001",
+    "СССР": "нет",
+    "Где посмотреть": "Демо Стол"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Logitech"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=2001"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B5%D0%BC%D0%BE+%D0%A1%D1%82%D0%BE%D0%BB"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/8/8n/8/8n/8n92oitk2kbkmosa.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/8/8n/8n92oitk2kbkmosa.jpeg",
+      "originalName": "8n92oitk2kbkmosa.jpeg",
+      "cacheFile": "photos/logicad-3d-magellan-space-mouse-301/01.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 887,7 КБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/m/mb/m/mb/mbou9loprbubmx6m.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/m/mb/mbou9loprbubmx6m.jpeg",
+      "originalName": "mbou9loprbubmx6m.jpeg",
+      "cacheFile": "photos/logicad-3d-magellan-space-mouse-301/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 873,0 КБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/w/wi/w/wi/wibzxo7nnqcvem32.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/wi/wibzxo7nnqcvem32.jpeg",
+      "originalName": "wibzxo7nnqcvem32.jpeg",
+      "cacheFile": "photos/logicad-3d-magellan-space-mouse-301/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,4 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/j/jt/j/jt/jt1rctyf6pl6f1g2.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/j/jt/jt1rctyf6pl6f1g2.jpeg",
+      "originalName": "jt1rctyf6pl6f1g2.jpeg",
+      "cacheFile": "photos/logicad-3d-magellan-space-mouse-301/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 2,2 МБ"
+    }
+  ],
+  "itemFile": "content/mice/logicad-3d-magellan-space-mouse-301.json",
+  "previousPhotoCount": 0
+}

@@ -1,0 +1,191 @@
+{
+  "id": "MP-0030",
+  "slug": "ibm-6450350-30",
+  "title": {
+    "en": "IBM 6450350",
+    "ru": "IBM 6450350"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/30/",
+  "sourceOrder": 59,
+  "order": 69,
+  "sourceProperties": {
+    "Производитель": "IBM",
+    "Год": "1987",
+    "Способ позиционирования": "на потенциометрах",
+    "Интерфейс": "PS/2",
+    "СССР": "нет",
+    "Где посмотреть": "Демо Стол"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/ibm-6450350-30/01.webp",
+      "thumbnail": "assets/photos/ibm-6450350-30/01-thumb.webp",
+      "original": "assets/photos/ibm-6450350-30/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/f/f5/f5b0gjsshxdoilnc.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/f/f5/f5b0gjsshxdoilnc.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/f/f5/f5b0gjsshxdoilnc.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "f5b0gjsshxdoilnc.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1173932,
+      "sha256": "4146015fc394e25dff0258533c079c906027cf7a890bbbebf912c6debb476c62",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/ibm-6450350-30/02.webp",
+      "thumbnail": "assets/photos/ibm-6450350-30/02-thumb.webp",
+      "original": "assets/photos/ibm-6450350-30/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/t/tw/tw5o3xqu10unruht.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/tw/tw5o3xqu10unruht.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/t/tw/tw5o3xqu10unruht.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "tw5o3xqu10unruht.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1279231,
+      "sha256": "3118eba6a495ccfa62d01a921ca5869d099259ab3e14448b7b6a311f211e41d3",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/ibm-6450350-30/03.webp",
+      "thumbnail": "assets/photos/ibm-6450350-30/03-thumb.webp",
+      "original": "assets/photos/ibm-6450350-30/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/v/vj/vjbffgwlpdkdpwy4.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/vj/vjbffgwlpdkdpwy4.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/v/vj/vjbffgwlpdkdpwy4.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "vjbffgwlpdkdpwy4.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2871462,
+      "sha256": "3fb58c17b0733467038728c3c9bd81d4d6f7bd08922461d13d103546eb59ad0c",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/ibm-6450350-30/04.webp",
+      "thumbnail": "assets/photos/ibm-6450350-30/04-thumb.webp",
+      "original": "assets/photos/ibm-6450350-30/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/g/gx/gxqyk746nwfubzct.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gx/gxqyk746nwfubzct.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/g/gx/gxqyk746nwfubzct.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "gxqyk746nwfubzct.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1583698,
+      "sha256": "4053d54c3b86e21d5ed8fa3a1890334c715eeef42c5ff936f472ea8e047b01eb",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/ibm-6450350-30/05.webp",
+      "thumbnail": "assets/photos/ibm-6450350-30/05-thumb.webp",
+      "original": "assets/photos/ibm-6450350-30/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/2/2j/2jj4sokth2tyddgq.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/2/2j/2jj4sokth2tyddgq.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/2/2j/2jj4sokth2tyddgq.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "2jj4sokth2tyddgq.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 2191018,
+      "sha256": "e5195a81ef0ef4bfca8f864bce8977fb591cf7704889687934a01c7e16765893",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/ibm-6450350-30/06.webp",
+      "thumbnail": "assets/photos/ibm-6450350-30/06-thumb.webp",
+      "original": "assets/photos/ibm-6450350-30/originals/06.jpg",
+      "source": "https://collectionerus.ru/media/items-large/e/ev/eves1l0nxkv9fwyu.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/ev/eves1l0nxkv9fwyu.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/e/ev/eves1l0nxkv9fwyu.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "eves1l0nxkv9fwyu.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2540332,
+      "sha256": "bb4fc8036fbc670f5eec96c0fab080ce32de5489789aee45d2425dffa268fc85",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/ibm-6450350-30/07.webp",
+      "thumbnail": "assets/photos/ibm-6450350-30/07-thumb.webp",
+      "original": "assets/photos/ibm-6450350-30/originals/07.jpg",
+      "source": "https://collectionerus.ru/media/items-large/v/vu/vux4zznwlgfrr3ks.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/vu/vux4zznwlgfrr3ks.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/v/vu/vux4zznwlgfrr3ks.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "vux4zznwlgfrr3ks.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1272293,
+      "sha256": "4cd33e7a9a193c41cc7434016a6815e0e771232429c0a7fcf9dc705b87001c4e",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "IBM",
+    "en": "IBM"
+  },
+  "brand": "IBM",
+  "year": 1987,
+  "tracking": {
+    "key": "potentiometer",
+    "ru": "на потенциометрах",
+    "en": "Potentiometers"
+  },
+  "interface": "PS/2",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "IBM 6450350",
+  "whereToSee": {
+    "ru": "Демо Стол",
+    "en": "Demo table"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/ibm-6450350-30/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:48+03:00",
+    "sourcePhotoCount": 7,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 7
+  }
+}

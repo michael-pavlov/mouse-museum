@@ -1,0 +1,100 @@
+{
+  "id": "MP-0135",
+  "slug": "rightin-mousepen-135",
+  "title": {
+    "en": "Rightin MousePen",
+    "ru": "Rightin MousePen"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/135/",
+  "sourceOrder": 163,
+  "order": 166,
+  "sourceProperties": {
+    "Производитель": "Careo Technology",
+    "Год": "1991",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Local"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/rightin-mousepen-135/01.webp",
+      "thumbnail": "assets/photos/rightin-mousepen-135/01-thumb.webp",
+      "original": "assets/photos/rightin-mousepen-135/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/b/bo/b/bo/bouwi5c4wf73emf9.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/bo/bouwi5c4wf73emf9.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/b/bo/bouwi5c4wf73emf9.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "bouwi5c4wf73emf9.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3466,
+      "originalHeight": 2311,
+      "originalBytes": 3689789,
+      "sha256": "9a34beabbdec741e49e4f34a3279c90129bc97e273c9bae7a8c1179ae2be463b",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/rightin-mousepen-135/02.webp",
+      "thumbnail": "assets/photos/rightin-mousepen-135/02-thumb.webp",
+      "original": "assets/photos/rightin-mousepen-135/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/1/1i/1/1i/1iwthsd8uzoy1c2s.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/1/1i/1iwthsd8uzoy1c2s.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/1/1i/1iwthsd8uzoy1c2s.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "1iwthsd8uzoy1c2s.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4331,
+      "originalHeight": 2887,
+      "originalBytes": 6479394,
+      "sha256": "2fd4bb2ae04c52fb5fe2a666cf6ef07544484f818c891e58c3a16469840e7e7c",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Careo Technology",
+    "en": "Careo Technology"
+  },
+  "brand": "Careo Technology",
+  "year": 1991,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Rightin MousePen",
+  "whereToSee": {
+    "ru": "Local",
+    "en": "Local"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/rightin-mousepen-135/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:53+03:00",
+    "sourcePhotoCount": 2,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 2
+  }
+}

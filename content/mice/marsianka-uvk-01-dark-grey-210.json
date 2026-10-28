@@ -1,0 +1,100 @@
+{
+  "id": "MP-0210",
+  "slug": "marsianka-uvk-01-dark-grey-210",
+  "title": {
+    "en": "Marsianka UVK-01 · dark grey",
+    "ru": "Марсианка УВК-01 темно-серая (обычная)"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/210/",
+  "sourceOrder": 43,
+  "order": 59,
+  "sourceProperties": {
+    "Производитель": "КБ Марс",
+    "Год": "1989",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "да",
+    "Где посмотреть": "Демо Стол"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/marsianka-uvk-01-dark-grey-210/01.webp",
+      "thumbnail": "assets/photos/marsianka-uvk-01-dark-grey-210/01-thumb.webp",
+      "original": "assets/photos/marsianka-uvk-01-dark-grey-210/originals/01.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/o/ow/o/ow/owpe6kekjo0v68kx.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/o/ow/owpe6kekjo0v68kx.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/o/ow/owpe6kekjo0v68kx.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "owpe6kekjo0v68kx.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1049493,
+      "sha256": "748d18e858128d46c29b22f87f7c67add74ec8732af65e92ab6a8dc9b0348e30",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/marsianka-uvk-01-dark-grey-210/02.webp",
+      "thumbnail": "assets/photos/marsianka-uvk-01-dark-grey-210/02-thumb.webp",
+      "original": "assets/photos/marsianka-uvk-01-dark-grey-210/originals/02.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/v/vd/v/vd/vd4esichd04mwkul.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/vd/vd4esichd04mwkul.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/v/vd/vd4esichd04mwkul.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "vd4esichd04mwkul.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1212547,
+      "sha256": "25539640d0cc9b576545c7ee42c85558b118a6f664f39f03fbed4d711ae30325",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "КБ Марс",
+    "en": "Mars Design Bureau"
+  },
+  "brand": "КБ Марс",
+  "year": 1989,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": true,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Марсианка УВК-01 темно-серая (обычная)",
+  "whereToSee": {
+    "ru": "Демо Стол",
+    "en": "Demo table"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/marsianka-uvk-01-dark-grey-210/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:46+03:00",
+    "sourcePhotoCount": 2,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 2
+  }
+}

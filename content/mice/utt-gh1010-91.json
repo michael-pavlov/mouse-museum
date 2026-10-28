@@ -1,0 +1,155 @@
+{
+  "id": "MP-0091",
+  "slug": "utt-gh1010-91",
+  "title": {
+    "en": "UTT GH1010",
+    "ru": "UTT GH1010"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/91/",
+  "sourceOrder": 126,
+  "order": 130,
+  "sourceProperties": {
+    "Производитель": "UTT",
+    "Год": "1994",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "COM",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/utt-gh1010-91/01.webp",
+      "thumbnail": "assets/photos/utt-gh1010-91/01-thumb.webp",
+      "original": "assets/photos/utt-gh1010-91/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/r/ro/roxjoavuwcrux6q2.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/ro/roxjoavuwcrux6q2.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/r/ro/roxjoavuwcrux6q2.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "roxjoavuwcrux6q2.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3100,
+      "originalHeight": 2067,
+      "originalBytes": 1157561,
+      "sha256": "905155cd4b4ac4bff6f5fa39ae5c2c7e0df127d9f79062b5a9f3f7003ae0ce1c",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/utt-gh1010-91/02.webp",
+      "thumbnail": "assets/photos/utt-gh1010-91/02-thumb.webp",
+      "original": "assets/photos/utt-gh1010-91/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/h/h2/h2vq9bajuadhy0bd.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/h2/h2vq9bajuadhy0bd.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/h/h2/h2vq9bajuadhy0bd.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "h2vq9bajuadhy0bd.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3100,
+      "originalHeight": 2067,
+      "originalBytes": 1262387,
+      "sha256": "9f80dc75f2f41069cf03e6e34ffcbe867505112df400e17d2ef0c81c0c318977",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/utt-gh1010-91/03.webp",
+      "thumbnail": "assets/photos/utt-gh1010-91/03-thumb.webp",
+      "original": "assets/photos/utt-gh1010-91/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/3/3l/3laj2lxxndqaqhtc.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/3/3l/3laj2lxxndqaqhtc.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/3/3l/3laj2lxxndqaqhtc.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "3laj2lxxndqaqhtc.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3100,
+      "originalHeight": 2067,
+      "originalBytes": 1362555,
+      "sha256": "dbbb9aab1a3c871726b88d77ff351117ae1c6654f566044b4b37663965fb305c",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/utt-gh1010-91/04.webp",
+      "thumbnail": "assets/photos/utt-gh1010-91/04-thumb.webp",
+      "original": "assets/photos/utt-gh1010-91/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/x/xz/xznurpenmds4hwmg.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/xz/xznurpenmds4hwmg.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/x/xz/xznurpenmds4hwmg.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "xznurpenmds4hwmg.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3100,
+      "originalHeight": 2067,
+      "originalBytes": 1354950,
+      "sha256": "007af3d2135a0de4b6b2826de3a75ef0336811ef7ced82498d8a7da6acfb9467",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/utt-gh1010-91/05.webp",
+      "thumbnail": "assets/photos/utt-gh1010-91/05-thumb.webp",
+      "original": "assets/photos/utt-gh1010-91/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/m/mf/mf3pbnfhnxrl26rb.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/m/mf/mf3pbnfhnxrl26rb.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/m/mf/mf3pbnfhnxrl26rb.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "mf3pbnfhnxrl26rb.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3100,
+      "originalHeight": 2067,
+      "originalBytes": 1824929,
+      "sha256": "fb2ab9aec49eb45bddadca45d3b73def2a7fb65778bc1737a4b10efdfc4be457",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "UTT",
+    "en": "UTT"
+  },
+  "brand": "UTT",
+  "year": 1994,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "COM",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "UTT GH1010",
+  "whereToSee": {
+    "ru": "Дальний",
+    "en": "Far"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/utt-gh1010-91/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:51+03:00",
+    "sourcePhotoCount": 5,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 5
+  }
+}

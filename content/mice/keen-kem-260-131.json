@@ -1,0 +1,136 @@
+{
+  "id": "MP-0131",
+  "slug": "keen-kem-260-131",
+  "title": {
+    "en": "Keen kem-260",
+    "ru": "Keen kem-260"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/131/",
+  "sourceOrder": 161,
+  "order": 164,
+  "sourceProperties": {
+    "Производитель": "Sysgration Ltd.",
+    "Год": "1991",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/keen-kem-260-131/01.webp",
+      "thumbnail": "assets/photos/keen-kem-260-131/01-thumb.webp",
+      "original": "assets/photos/keen-kem-260-131/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/x/xj/x/xj/xj9bwwvqpyvixeqd.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/xj/xj9bwwvqpyvixeqd.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/x/xj/xj9bwwvqpyvixeqd.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "xj9bwwvqpyvixeqd.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3349,
+      "originalHeight": 2233,
+      "originalBytes": 2824431,
+      "sha256": "a5303f505c393386e704e64d4861a670dae038e58ed51c9f48907853f6583369",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/keen-kem-260-131/02.webp",
+      "thumbnail": "assets/photos/keen-kem-260-131/02-thumb.webp",
+      "original": "assets/photos/keen-kem-260-131/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/g/gp/g/gp/gplkjkre278ru33s.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gp/gplkjkre278ru33s.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/g/gp/gplkjkre278ru33s.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "gplkjkre278ru33s.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3364,
+      "originalHeight": 2243,
+      "originalBytes": 3080766,
+      "sha256": "d427957e386b40391525bbb387733f6c1093530c3ee11e76f223b1dd29285cfe",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/keen-kem-260-131/03.webp",
+      "thumbnail": "assets/photos/keen-kem-260-131/03-thumb.webp",
+      "original": "assets/photos/keen-kem-260-131/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/i/i7/i/i7/i7ispqpz7beoplsz.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/i7/i7ispqpz7beoplsz.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/i/i7/i7ispqpz7beoplsz.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "i7ispqpz7beoplsz.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3217,
+      "originalHeight": 2145,
+      "originalBytes": 2833231,
+      "sha256": "874b69064a6bd4916ca8a18b7158b88149fe8e811c417643a69af3dcd3fdc44c",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/keen-kem-260-131/04.webp",
+      "thumbnail": "assets/photos/keen-kem-260-131/04-thumb.webp",
+      "original": "assets/photos/keen-kem-260-131/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/t/tz/t/tz/tzba9fvtruni1fzd.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/tz/tzba9fvtruni1fzd.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/t/tz/tzba9fvtruni1fzd.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "tzba9fvtruni1fzd.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3768,
+      "originalHeight": 2512,
+      "originalBytes": 3591408,
+      "sha256": "fbe535cbdb0f374b7d48b27824e2c22757630a11f1e35600867963ccc2f48cef",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Sysgration Ltd.",
+    "en": "Sysgration Ltd."
+  },
+  "brand": "Sysgration Ltd.",
+  "year": 1991,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Keen kem-260",
+  "whereToSee": {
+    "ru": "Дальний",
+    "en": "Far"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/keen-kem-260-131/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:53+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 4
+  }
+}

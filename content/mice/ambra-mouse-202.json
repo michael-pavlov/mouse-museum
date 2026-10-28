@@ -1,0 +1,172 @@
+{
+  "id": "MP-0202",
+  "slug": "ambra-mouse-202",
+  "title": {
+    "en": "Ambra mouse",
+    "ru": "Ambra mouse"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/202/",
+  "sourceOrder": 209,
+  "order": 212,
+  "sourceProperties": {
+    "Производитель": "Ambra Computer Corporation",
+    "Год": "1992",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Демо Витрина"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/ambra-mouse-202/01.webp",
+      "thumbnail": "assets/photos/ambra-mouse-202/01-thumb.webp",
+      "original": "assets/photos/ambra-mouse-202/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/l/lx/l/lx/lx0vj3edi144hf42.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/l/lx/lx0vj3edi144hf42.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/l/lx/lx0vj3edi144hf42.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "lx0vj3edi144hf42.jpg",
+      "width": 1470,
+      "height": 1070,
+      "originalWidth": 1470,
+      "originalHeight": 1070,
+      "originalBytes": 1645625,
+      "sha256": "305033acc834c65141752223770072d42cf4278463bc6f6577103d2fa34c13a7",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/ambra-mouse-202/02.webp",
+      "thumbnail": "assets/photos/ambra-mouse-202/02-thumb.webp",
+      "original": "assets/photos/ambra-mouse-202/originals/02.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/y/yu/y/yu/yublbmjng4syie0s.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/y/yu/yublbmjng4syie0s.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/y/yu/yublbmjng4syie0s.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "yublbmjng4syie0s.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1217509,
+      "sha256": "fd266af6300528d43821f8f472aafe26786b681a179862eb863e7181592c3ac4",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/ambra-mouse-202/03.webp",
+      "thumbnail": "assets/photos/ambra-mouse-202/03-thumb.webp",
+      "original": "assets/photos/ambra-mouse-202/originals/03.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/l/lp/l/lp/lpwto8ks4xl8tgq8.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/l/lp/lpwto8ks4xl8tgq8.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/l/lp/lpwto8ks4xl8tgq8.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "lpwto8ks4xl8tgq8.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1539235,
+      "sha256": "96c833e77504000031148cfdd0e3c12a56c23c68def9fd4be58da845a1bcbf45",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/ambra-mouse-202/04.webp",
+      "thumbnail": "assets/photos/ambra-mouse-202/04-thumb.webp",
+      "original": "assets/photos/ambra-mouse-202/originals/04.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/6/6c/6/6c/6cqpvmpwkbetmqwq.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/6/6c/6cqpvmpwkbetmqwq.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/6/6c/6cqpvmpwkbetmqwq.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "6cqpvmpwkbetmqwq.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1266917,
+      "sha256": "c9ee559f23815f3d887d9ae1d31bf47050aad50a3e80b39f24236a12e77671ee",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/ambra-mouse-202/05.webp",
+      "thumbnail": "assets/photos/ambra-mouse-202/05-thumb.webp",
+      "original": "assets/photos/ambra-mouse-202/originals/05.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/9/9x/9/9x/9xdg5910r6j3dxmg.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/9/9x/9xdg5910r6j3dxmg.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/9/9x/9xdg5910r6j3dxmg.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "9xdg5910r6j3dxmg.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1767641,
+      "sha256": "0ef10c2840e47993bd7838d3934820df6b9467ba2a2cb427119250571f5c6983",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/ambra-mouse-202/06.webp",
+      "thumbnail": "assets/photos/ambra-mouse-202/06-thumb.webp",
+      "original": "assets/photos/ambra-mouse-202/originals/06.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/7/79/7/79/794oc5ehpmj9pjtf.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/7/79/794oc5ehpmj9pjtf.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/7/79/794oc5ehpmj9pjtf.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "794oc5ehpmj9pjtf.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1695611,
+      "sha256": "ae86cea44bd5ab386e3be486bbba5476e04c6f5e917560b5d99dd10d2c892bb5",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Ambra Computer Corporation",
+    "en": "Ambra Computer Corporation"
+  },
+  "brand": "Ambra Computer Corporation",
+  "year": 1992,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Ambra mouse",
+  "whereToSee": {
+    "ru": "Демо Витрина",
+    "en": "Demo display case"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/ambra-mouse-202/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:56+03:00",
+    "sourcePhotoCount": 6,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 6
+  }
+}

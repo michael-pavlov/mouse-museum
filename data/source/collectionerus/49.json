@@ -1,0 +1,93 @@
+{
+  "sourceId": 49,
+  "source": "https://collectionerus.ru/collections/old-mice/49/",
+  "slug": "laser-i-49",
+  "sourceTitle": "Laser I",
+  "retrievedAt": "2026-10-27T23:10:48+03:00",
+  "sourcePageSha256": "d974421fa4682e5a95ab0ad83e8579046bd6f4daf031e3b01db01e7be0c708de",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Laser",
+    "Год": "1988",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Ближайший"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Laser"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1988"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%91%D0%BB%D0%B8%D0%B6%D0%B0%D0%B9%D1%88%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/r/r9/r9n9cviu8xww38p6.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/r9/r9n9cviu8xww38p6.JPG",
+      "originalName": "r9n9cviu8xww38p6.JPG",
+      "cacheFile": "photos/laser-i-49/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,1 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/x/xk/xk3hccf1mrbcrfr9.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/xk/xk3hccf1mrbcrfr9.JPG",
+      "originalName": "xk3hccf1mrbcrfr9.JPG",
+      "cacheFile": "photos/laser-i-49/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,7 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/3/3e/3em4vocaqlf7dd9r.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/3/3e/3em4vocaqlf7dd9r.JPG",
+      "originalName": "3em4vocaqlf7dd9r.JPG",
+      "cacheFile": "photos/laser-i-49/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,6 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/t/te/tewdafwhziv8v8t1.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/te/tewdafwhziv8v8t1.JPG",
+      "originalName": "tewdafwhziv8v8t1.JPG",
+      "cacheFile": "photos/laser-i-49/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,9 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/7/75/755dqgme9fqufdpj.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/7/75/755dqgme9fqufdpj.JPG",
+      "originalName": "755dqgme9fqufdpj.JPG",
+      "cacheFile": "photos/laser-i-49/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 2,4 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/1/1p/1pbpbcsd8lwvifj1.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/1/1p/1pbpbcsd8lwvifj1.JPG",
+      "originalName": "1pbpbcsd8lwvifj1.JPG",
+      "cacheFile": "photos/laser-i-49/06.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 2,4 МБ"
+    }
+  ],
+  "itemFile": "content/mice/laser-i-49.json",
+  "previousPhotoCount": 0
+}

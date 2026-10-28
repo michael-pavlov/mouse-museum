@@ -1,0 +1,85 @@
+{
+  "sourceId": 298,
+  "source": "https://collectionerus.ru/collections/old-mice/298/",
+  "slug": "witty-mouse-vm800l-298",
+  "sourceTitle": "Witty Mouse VM800L",
+  "retrievedAt": "2026-10-27T23:11:02+03:00",
+  "sourcePageSha256": "ff25e06a03af3762cb803d8ecc7f0b48940775f5d527512e18147c85e754a20c",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Ближний"
+  },
+  "propertyLinks": {
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%91%D0%BB%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/b/bi/b/bi/bi4bfwxdspxx7csh.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/bi/bi4bfwxdspxx7csh.jpeg",
+      "originalName": "bi4bfwxdspxx7csh.jpeg",
+      "cacheFile": "photos/witty-mouse-vm800l-298/01.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,2 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/c/ci/c/ci/ci8i3newyqsyakwm.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/ci/ci8i3newyqsyakwm.jpeg",
+      "originalName": "ci8i3newyqsyakwm.jpeg",
+      "cacheFile": "photos/witty-mouse-vm800l-298/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,3 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/ry/r/ry/rycgnh2samc3ugtf.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/ry/rycgnh2samc3ugtf.jpeg",
+      "originalName": "rycgnh2samc3ugtf.jpeg",
+      "cacheFile": "photos/witty-mouse-vm800l-298/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,8 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/5/5l/5/5l/5lkg5lft8r36y2nv.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/5/5l/5lkg5lft8r36y2nv.jpeg",
+      "originalName": "5lkg5lft8r36y2nv.jpeg",
+      "cacheFile": "photos/witty-mouse-vm800l-298/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,4 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/i/ik/i/ik/ikkk6pf00yojmzbg.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/ik/ikkk6pf00yojmzbg.jpeg",
+      "originalName": "ikkk6pf00yojmzbg.jpeg",
+      "cacheFile": "photos/witty-mouse-vm800l-298/05.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,5 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/e/ev/e/ev/evywnlnppmoevfnx.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/ev/evywnlnppmoevfnx.jpeg",
+      "originalName": "evywnlnppmoevfnx.jpeg",
+      "cacheFile": "photos/witty-mouse-vm800l-298/06.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,3 МБ"
+    }
+  ],
+  "itemFile": "content/mice/witty-mouse-vm800l-298.json",
+  "previousPhotoCount": 0
+}

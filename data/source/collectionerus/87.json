@@ -1,0 +1,88 @@
+{
+  "sourceId": 87,
+  "source": "https://collectionerus.ru/collections/old-mice/87/",
+  "slug": "dinos-87",
+  "sourceTitle": "Dinos",
+  "retrievedAt": "2026-10-27T23:10:52+03:00",
+  "sourcePageSha256": "ddf45a7cb81671f41042e621cc6d6d206b52591f0df7ee8c2552fcb887053cde",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Truedox Technology Corp.",
+    "Год": "1993",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "COM",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Truedox+Technology+Corp."
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1993"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=COM"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/u/uw/uwzhsb1pt8ezxqkj.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/uw/uwzhsb1pt8ezxqkj.JPG",
+      "originalName": "uwzhsb1pt8ezxqkj.JPG",
+      "cacheFile": "photos/dinos-87/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3100×2067, 1,1 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/g/ge/ge2mtmadp67d8v8x.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/ge/ge2mtmadp67d8v8x.JPG",
+      "originalName": "ge2mtmadp67d8v8x.JPG",
+      "cacheFile": "photos/dinos-87/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3300×2200, 1,4 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/a/a2/a283kzh1zmus40oi.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/a/a2/a283kzh1zmus40oi.JPG",
+      "originalName": "a283kzh1zmus40oi.JPG",
+      "cacheFile": "photos/dinos-87/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3300×2200, 1,4 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/n/nz/nzdl4voyobejssby.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/nz/nzdl4voyobejssby.JPG",
+      "originalName": "nzdl4voyobejssby.JPG",
+      "cacheFile": "photos/dinos-87/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3300×2200, 1,5 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/g/g4/g4vq9vhigdqlclty.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/g4/g4vq9vhigdqlclty.JPG",
+      "originalName": "g4vq9vhigdqlclty.JPG",
+      "cacheFile": "photos/dinos-87/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3300×2200, 1,7 МБ"
+    }
+  ],
+  "itemFile": "content/mice/dinos-87.json",
+  "previousPhotoCount": 0
+}

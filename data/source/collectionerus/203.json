@@ -1,0 +1,84 @@
+{
+  "sourceId": 203,
+  "source": "https://collectionerus.ru/collections/old-mice/203/",
+  "slug": "atrend-mouse-203",
+  "sourceTitle": "Atrend mouse",
+  "retrievedAt": "2026-10-27T23:10:56+03:00",
+  "sourcePageSha256": "f3163aaa814d3d441bf9662b9176b84141421015c220456e3c491bbe424bac4d",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Ultima Electronics Corp",
+    "Год": "1995",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Ultima+Electronics+Corp"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1995"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/u/ub/u/ub/ubtulu1salsm1a2v.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/ub/ubtulu1salsm1a2v.jpg",
+      "originalName": "ubtulu1salsm1a2v.jpg",
+      "cacheFile": "photos/atrend-mouse-203/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "1448×1086, 1,5 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/u/uc/u/uc/ucqivbpzcjujp5h5.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/uc/ucqivbpzcjujp5h5.jpeg",
+      "originalName": "ucqivbpzcjujp5h5.jpeg",
+      "cacheFile": "photos/atrend-mouse-203/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,3 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/u/ut/u/ut/utaayeyaxeugn5nl.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/ut/utaayeyaxeugn5nl.jpeg",
+      "originalName": "utaayeyaxeugn5nl.jpeg",
+      "cacheFile": "photos/atrend-mouse-203/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,5 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/j/j5/j/j5/j5xfcj06cursn66m.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/j/j5/j5xfcj06cursn66m.jpeg",
+      "originalName": "j5xfcj06cursn66m.jpeg",
+      "cacheFile": "photos/atrend-mouse-203/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,8 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/e/ev/e/ev/evvvlkixot0wtfra.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/ev/evvvlkixot0wtfra.jpeg",
+      "originalName": "evvvlkixot0wtfra.jpeg",
+      "cacheFile": "photos/atrend-mouse-203/05.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,7 МБ"
+    }
+  ],
+  "itemFile": "content/mice/atrend-mouse-203.json",
+  "previousPhotoCount": 0
+}

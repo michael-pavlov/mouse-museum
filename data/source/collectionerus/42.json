@@ -1,0 +1,97 @@
+{
+  "sourceId": 42,
+  "source": "https://collectionerus.ru/collections/old-mice/42/",
+  "slug": "apple-desktop-bus-mouse-g5431-42",
+  "sourceTitle": "Apple Desktop Bus Mouse (G5431)",
+  "retrievedAt": "2026-10-27T23:10:48+03:00",
+  "sourcePageSha256": "500d7d8c9e92f63451159d90bead9d35fd6be29cf80ebfe9ef1bc70ade23477b",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Apple",
+    "Год": "1986",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "ADB",
+    "СССР": "нет",
+    "Где посмотреть": "Краснохолмская"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Apple"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1986"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=ADB"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%85%D0%BE%D0%BB%D0%BC%D1%81%D0%BA%D0%B0%D1%8F"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/l/lj/lj37jq3gygnwh6kv.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/l/lj/lj37jq3gygnwh6kv.JPG",
+      "originalName": "lj37jq3gygnwh6kv.JPG",
+      "cacheFile": "photos/apple-desktop-bus-mouse-g5431-42/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,3 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/9/9c/9c3j1qhvzmnz7e1x.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/9/9c/9c3j1qhvzmnz7e1x.JPG",
+      "originalName": "9c3j1qhvzmnz7e1x.JPG",
+      "cacheFile": "photos/apple-desktop-bus-mouse-g5431-42/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,8 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/4/4s/4sh8kvzjgryu76k2.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/4/4s/4sh8kvzjgryu76k2.JPG",
+      "originalName": "4sh8kvzjgryu76k2.JPG",
+      "cacheFile": "photos/apple-desktop-bus-mouse-g5431-42/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,4 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/f/fp/fpfpnavqdvniqzm0.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/f/fp/fpfpnavqdvniqzm0.JPG",
+      "originalName": "fpfpnavqdvniqzm0.JPG",
+      "cacheFile": "photos/apple-desktop-bus-mouse-g5431-42/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3800×2533, 2,3 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/h/h8/h8mxtjil62dmo3rv.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/h8/h8mxtjil62dmo3rv.JPG",
+      "originalName": "h8mxtjil62dmo3rv.JPG",
+      "cacheFile": "photos/apple-desktop-bus-mouse-g5431-42/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,5 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/l/lk/lknfy9lzuirifc9f.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/l/lk/lknfy9lzuirifc9f.JPG",
+      "originalName": "lknfy9lzuirifc9f.JPG",
+      "cacheFile": "photos/apple-desktop-bus-mouse-g5431-42/06.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 2,4 МБ"
+    }
+  ],
+  "itemFile": "content/mice/apple-desktop-bus-mouse-g5431-42.json",
+  "previousPhotoCount": 0
+}

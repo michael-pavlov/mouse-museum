@@ -1,0 +1,173 @@
+{
+  "id": "MP-0038",
+  "slug": "logitech-m-cg7-38",
+  "title": {
+    "en": "Logitech M-CG7",
+    "ru": "Logitech M-CG7"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/38/",
+  "sourceOrder": 66,
+  "order": 76,
+  "sourceProperties": {
+    "Производитель": "Logitech",
+    "Год": "1988",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "COM",
+    "СССР": "нет",
+    "Где посмотреть": "Ближайший"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/logitech-m-cg7-38/01.webp",
+      "thumbnail": "assets/photos/logitech-m-cg7-38/01-thumb.webp",
+      "original": "assets/photos/logitech-m-cg7-38/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/p/p1/p15kwdo7huvz2tmp.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/p1/p15kwdo7huvz2tmp.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/p/p1/p15kwdo7huvz2tmp.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "p15kwdo7huvz2tmp.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1276699,
+      "sha256": "4a5d8084bbd77b96d71f39faef6455e2d29b27b751f73da2507313eb6bb1eb1a",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/logitech-m-cg7-38/02.webp",
+      "thumbnail": "assets/photos/logitech-m-cg7-38/02-thumb.webp",
+      "original": "assets/photos/logitech-m-cg7-38/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/b/by/byy4fwudt9rww8ze.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/by/byy4fwudt9rww8ze.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/b/by/byy4fwudt9rww8ze.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "byy4fwudt9rww8ze.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1366162,
+      "sha256": "a8d412abfcbd77d68cacd55f3d37e62ff2eb3f179cd07bab9a77024343eb33cb",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/logitech-m-cg7-38/03.webp",
+      "thumbnail": "assets/photos/logitech-m-cg7-38/03-thumb.webp",
+      "original": "assets/photos/logitech-m-cg7-38/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/r/r2/r2os9ls8g38yaegk.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/r2/r2os9ls8g38yaegk.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/r/r2/r2os9ls8g38yaegk.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "r2os9ls8g38yaegk.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1044532,
+      "sha256": "fe559cbbcaa97d4384bf9722b909256a889c311bf7047cf2ddc4a543ae31cf1c",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/logitech-m-cg7-38/04.webp",
+      "thumbnail": "assets/photos/logitech-m-cg7-38/04-thumb.webp",
+      "original": "assets/photos/logitech-m-cg7-38/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/n/np/npbs6bgstazhxog0.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/np/npbs6bgstazhxog0.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/n/np/npbs6bgstazhxog0.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "npbs6bgstazhxog0.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3800,
+      "originalHeight": 2533,
+      "originalBytes": 2013730,
+      "sha256": "32825a1c9b8fcf9396bd36701ffc5dfc7f7550a9db50fd561fbfb11911cdbb8b",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/logitech-m-cg7-38/05.webp",
+      "thumbnail": "assets/photos/logitech-m-cg7-38/05-thumb.webp",
+      "original": "assets/photos/logitech-m-cg7-38/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/z/zm/zmxh9y2ftsmv0yyp.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/zm/zmxh9y2ftsmv0yyp.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/z/zm/zmxh9y2ftsmv0yyp.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "zmxh9y2ftsmv0yyp.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1814798,
+      "sha256": "3717b0de7b1e90195896072f363066b5362d0aafdcdf1cb1df0665cc725ad55b",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/logitech-m-cg7-38/06.webp",
+      "thumbnail": "assets/photos/logitech-m-cg7-38/06-thumb.webp",
+      "original": "assets/photos/logitech-m-cg7-38/originals/06.jpg",
+      "source": "https://collectionerus.ru/media/items-large/p/pq/pqgetvxipwzramac.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/pq/pqgetvxipwzramac.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/p/pq/pqgetvxipwzramac.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "pqgetvxipwzramac.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2538368,
+      "sha256": "947087d7cceeb31145bf3a2a3f066e984bfeff6f328384698bc96351f224dd91",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Logitech",
+    "en": "Logitech"
+  },
+  "brand": "Logitech",
+  "year": 1988,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "COM",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Logitech M-CG7",
+  "whereToSee": {
+    "ru": "Ближайший",
+    "en": "Nearest"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/logitech-m-cg7-38/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:47+03:00",
+    "sourcePhotoCount": 6,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 6
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "id": "MP-0060",
+  "slug": "modemmouse-60",
+  "title": {
+    "en": "ModemMouse",
+    "ru": "ModemMouse"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/60/",
+  "sourceOrder": 94,
+  "order": 99,
+  "sourceProperties": {
+    "Производитель": "Unknown",
+    "Год": "1994",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "PS/2",
+    "СССР": "нет",
+    "Особенности": "встроенный модем",
+    "Где посмотреть": "Демо Стол"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/modemmouse-60/01.webp",
+      "thumbnail": "assets/photos/modemmouse-60/01-thumb.webp",
+      "original": "assets/photos/modemmouse-60/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/m/mb/mbifgfdp1jojwptj.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/m/mb/mbifgfdp1jojwptj.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/m/mb/mbifgfdp1jojwptj.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "mbifgfdp1jojwptj.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1313696,
+      "sha256": "a9e6a87cabbec08af931145bc765229458bb24b2f39c1de97b52ef12c79c5eda",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/modemmouse-60/02.webp",
+      "thumbnail": "assets/photos/modemmouse-60/02-thumb.webp",
+      "original": "assets/photos/modemmouse-60/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/k/kr/krdjb11feobjgsfi.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/kr/krdjb11feobjgsfi.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/k/kr/krdjb11feobjgsfi.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "krdjb11feobjgsfi.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1245970,
+      "sha256": "1b2271730c7832833459a7c061e4f2d769b775170550d857393b1fa6064c69d6",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/modemmouse-60/03.webp",
+      "thumbnail": "assets/photos/modemmouse-60/03-thumb.webp",
+      "original": "assets/photos/modemmouse-60/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/k/k0/k0y28zfaytdh4cq0.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/k0/k0y28zfaytdh4cq0.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/k/k0/k0y28zfaytdh4cq0.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "k0y28zfaytdh4cq0.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1441226,
+      "sha256": "bd9d8349edbf392098cd6e9c354bc6334fb0dea7cf27415aa01247ead37d7443",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/modemmouse-60/04.webp",
+      "thumbnail": "assets/photos/modemmouse-60/04-thumb.webp",
+      "original": "assets/photos/modemmouse-60/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/k/k3/k3oimcmidcixoxyg.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/k3/k3oimcmidcixoxyg.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/k/k3/k3oimcmidcixoxyg.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "k3oimcmidcixoxyg.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3800,
+      "originalHeight": 2533,
+      "originalBytes": 1713793,
+      "sha256": "74eb982ccceea247eef7d537376b9558b64e2841fafe6e11283b64ea08912acf",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/modemmouse-60/05.webp",
+      "thumbnail": "assets/photos/modemmouse-60/05-thumb.webp",
+      "original": "assets/photos/modemmouse-60/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/n/nw/nwyjn3vteebitx1d.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/nw/nwyjn3vteebitx1d.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/n/nw/nwyjn3vteebitx1d.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "nwyjn3vteebitx1d.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1365572,
+      "sha256": "9fd3e7b43ab21a7761f31c73727700024157c86674b802d022fd136450c52035",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/modemmouse-60/06.webp",
+      "thumbnail": "assets/photos/modemmouse-60/06-thumb.webp",
+      "original": "assets/photos/modemmouse-60/originals/06.jpg",
+      "source": "https://collectionerus.ru/media/items-large/p/p8/p8bkad8kaqkfdnsq.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/p8/p8bkad8kaqkfdnsq.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/p/p8/p8bkad8kaqkfdnsq.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "p8bkad8kaqkfdnsq.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3800,
+      "originalHeight": 2533,
+      "originalBytes": 2263132,
+      "sha256": "0658f3af812dc079de68b3c8168874b10ede64d9a3db920045e9fc858aa90b12",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/modemmouse-60/07.webp",
+      "thumbnail": "assets/photos/modemmouse-60/07-thumb.webp",
+      "original": "assets/photos/modemmouse-60/originals/07.jpg",
+      "source": "https://collectionerus.ru/media/items-large/p/pw/pw1kg2h8pndcu4b7.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/pw/pw1kg2h8pndcu4b7.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/p/pw/pw1kg2h8pndcu4b7.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "pw1kg2h8pndcu4b7.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1361946,
+      "sha256": "e3d676dcd957027555f0a61be78a5448978c562df470ce47684fa13031ec670d",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Unknown",
+    "en": "Unknown"
+  },
+  "brand": "Unknown",
+  "year": 1994,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "PS/2",
+  "soviet": false,
+  "features": {
+    "ru": "встроенный модем",
+    "en": "Built-in modem"
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "ModemMouse",
+  "whereToSee": {
+    "ru": "Демо Стол",
+    "en": "Demo table"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/modemmouse-60/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:48+03:00",
+    "sourcePhotoCount": 7,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 7,
+    "availableOriginals": 7
+  }
+}

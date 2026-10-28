@@ -1,0 +1,163 @@
+{
+  "id": "MP-0027",
+  "slug": "aero-im-pc20-27",
+  "title": {
+    "en": "Aero IM-PC20",
+    "ru": "Aero IM-PC20"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/27/",
+  "sourceOrder": 37,
+  "order": 54,
+  "sourceProperties": {
+    "Производитель": "ICA technology",
+    "Год": "1989",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "COM",
+    "СССР": "нет",
+    "Где посмотреть": "Краснохолмская"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/aero-im-pc20-27/01.webp",
+      "thumbnail": "assets/photos/aero-im-pc20-27/01-thumb.webp",
+      "original": "assets/photos/aero-im-pc20-27/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/x/x1/x1ryc2lgilthvumz.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/x1/x1ryc2lgilthvumz.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/x/x1/x1ryc2lgilthvumz.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "x1ryc2lgilthvumz.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1158305,
+      "sha256": "19f1037351e5d3f7db7f6150a159221dd0ff58618af063f802bbbca3f3f8de94",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/aero-im-pc20-27/02.webp",
+      "thumbnail": "assets/photos/aero-im-pc20-27/02-thumb.webp",
+      "original": "assets/photos/aero-im-pc20-27/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/w/w7/w7luc0j4pd2opnpu.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/w7/w7luc0j4pd2opnpu.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/w/w7/w7luc0j4pd2opnpu.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "w7luc0j4pd2opnpu.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1370448,
+      "sha256": "9a64c6703f3fd8290f664faec90acc745a81f8e94c44ae6dd3824794f96d20fb",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/aero-im-pc20-27/03.webp",
+      "thumbnail": "assets/photos/aero-im-pc20-27/03-thumb.webp",
+      "original": "assets/photos/aero-im-pc20-27/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/x/xd/xdetgk7diohftwzi.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/xd/xdetgk7diohftwzi.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/x/xd/xdetgk7diohftwzi.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "xdetgk7diohftwzi.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2286082,
+      "sha256": "c47e97c56e81db3a5a46b988aaae20ee7c04006181d40ecfad0d3bc0636904a5",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/aero-im-pc20-27/04.webp",
+      "thumbnail": "assets/photos/aero-im-pc20-27/04-thumb.webp",
+      "original": "assets/photos/aero-im-pc20-27/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/s/sw/swyk96ulcq2gksdi.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/s/sw/swyk96ulcq2gksdi.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/s/sw/swyk96ulcq2gksdi.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "swyk96ulcq2gksdi.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2415720,
+      "sha256": "b04e111fd96767d99483d1c49482257f1e454794ab6811fbe25e64dd37bfba15",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/aero-im-pc20-27/05.webp",
+      "thumbnail": "assets/photos/aero-im-pc20-27/05-thumb.webp",
+      "original": "assets/photos/aero-im-pc20-27/originals/05.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/d/dz/d/dz/dz9mpmxj4wcwrcqe.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/d/dz/dz9mpmxj4wcwrcqe.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/d/dz/dz9mpmxj4wcwrcqe.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "dz9mpmxj4wcwrcqe.jpeg",
+      "width": 1642,
+      "height": 2400,
+      "originalWidth": 2743,
+      "originalHeight": 4009,
+      "originalBytes": 3183438,
+      "sha256": "23ce495dc08a65ca411f48e6c8babc8f1000d040511b0bc6d94882cf57148b4b",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "ICA technology",
+    "en": "ICA technology"
+  },
+  "brand": "ICA technology",
+  "year": 1989,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "COM",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Aero IM-PC20",
+  "whereToSee": {
+    "ru": "Краснохолмская",
+    "en": "Krasnokholmskaya Gallery"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [
+    {
+      "url": "https://ifdesign.com/en/winner-ranking/project/aero-mouse/18425",
+      "title": {
+        "en": "ifdesign.com",
+        "ru": "ifdesign.com"
+      }
+    }
+  ],
+  "thumbnail": "assets/photos/aero-im-pc20-27/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:46+03:00",
+    "sourcePhotoCount": 5,
+    "sourceDescriptionPresent": true,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 5
+  }
+}

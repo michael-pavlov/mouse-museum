@@ -1,0 +1,79 @@
+{
+  "sourceId": 121,
+  "source": "https://collectionerus.ru/collections/old-mice/121/",
+  "slug": "accel-wany-1-mouse-121",
+  "sourceTitle": "Accel Wany-1 mouse",
+  "retrievedAt": "2026-10-27T22:22:40+03:00",
+  "sourcePageSha256": "b0d74d4b70872352645bdfdb3efd118df64d6cd8c8a2ff5cde83ab9bd62c79b5",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Accel",
+    "Год": "1990",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Ближний",
+    "Обменный фонд": "есть 1"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Accel"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1990"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%91%D0%BB%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9"
+    ],
+    "Обменный фонд": [
+      "https://collectionerus.ru/collections/old-mice/?obmennyi_fond=%D0%B5%D1%81%D1%82%D1%8C+1"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/u/uj/u/uj/ujjjw3cebltbwp4h.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/uj/ujjjw3cebltbwp4h.jpg",
+      "originalName": "ujjjw3cebltbwp4h.jpg",
+      "cacheFile": "photos/accel-wany-1-mouse-121/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3502×2335, 2,7 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/l/lr/l/lr/lrq67zsinjvwnrye.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/l/lr/lrq67zsinjvwnrye.jpg",
+      "originalName": "lrq67zsinjvwnrye.jpg",
+      "cacheFile": "photos/accel-wany-1-mouse-121/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3634×2423, 3,7 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/g/gh/g/gh/ghehdpzmvmzsree3.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gh/ghehdpzmvmzsree3.jpg",
+      "originalName": "ghehdpzmvmzsree3.jpg",
+      "cacheFile": "photos/accel-wany-1-mouse-121/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3268×2179, 2,7 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/s/sl/s/sl/slpf0ugjqgmxmunv.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/s/sl/slpf0ugjqgmxmunv.jpg",
+      "originalName": "slpf0ugjqgmxmunv.jpg",
+      "cacheFile": "photos/accel-wany-1-mouse-121/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3988×2659, 4,0 МБ"
+    }
+  ],
+  "itemFile": "content/mice/accel-wany-1-mouse-121.json",
+  "previousPhotoCount": 4
+}

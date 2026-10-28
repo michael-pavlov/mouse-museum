@@ -1,0 +1,75 @@
+{
+  "sourceId": 185,
+  "source": "https://collectionerus.ru/collections/old-mice/185/",
+  "slug": "lm-anir1-fdm-d00-185",
+  "sourceTitle": "LM Anir1 FDM-D00",
+  "retrievedAt": "2026-10-27T23:10:55+03:00",
+  "sourcePageSha256": "b7caaeffb0a5176d814d9414decad9d87afb8b8210f587447bf53d39cd248651",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Animax International Inc.",
+    "Год": "1994",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Демо Стол"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Animax+International+Inc."
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1994"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B5%D0%BC%D0%BE+%D0%A1%D1%82%D0%BE%D0%BB"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/rv/r/rv/rvlsiraflzcbpmg8.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/rv/rvlsiraflzcbpmg8.jpeg",
+      "originalName": "rvlsiraflzcbpmg8.jpeg",
+      "cacheFile": "photos/lm-anir1-fdm-d00-185/01.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,2 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/4/4z/4/4z/4z3fa9v92duj3jig.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/4/4z/4z3fa9v92duj3jig.jpeg",
+      "originalName": "4z3fa9v92duj3jig.jpeg",
+      "cacheFile": "photos/lm-anir1-fdm-d00-185/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,4 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/y/yp/y/yp/ypincxqushqxlmdc.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/y/yp/ypincxqushqxlmdc.jpeg",
+      "originalName": "ypincxqushqxlmdc.jpeg",
+      "cacheFile": "photos/lm-anir1-fdm-d00-185/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,2 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/i/ie/i/ie/ie9rxat8cxdhj4mo.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/ie/ie9rxat8cxdhj4mo.jpeg",
+      "originalName": "ie9rxat8cxdhj4mo.jpeg",
+      "cacheFile": "photos/lm-anir1-fdm-d00-185/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,4 МБ"
+    }
+  ],
+  "itemFile": "content/mice/lm-anir1-fdm-d00-185.json",
+  "previousPhotoCount": 0
+}

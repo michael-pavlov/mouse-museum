@@ -1,0 +1,93 @@
+{
+  "sourceId": 139,
+  "source": "https://collectionerus.ru/collections/old-mice/139/",
+  "slug": "poltik-mmp-813-139",
+  "sourceTitle": "Poltik MMP 813",
+  "retrievedAt": "2026-10-27T23:10:46+03:00",
+  "sourcePageSha256": "c07ad1b7b11f7ac2511c6c8fda08e6ac6b68b27f00d009bb012362b1676d44cb",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Poltik",
+    "Год": "1990",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Краснохолмская"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Poltik"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1990"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%85%D0%BE%D0%BB%D0%BC%D1%81%D0%BA%D0%B0%D1%8F"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/n/ng/n/ng/ngb1pkncqvuttygg.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/ng/ngb1pkncqvuttygg.jpg",
+      "originalName": "ngb1pkncqvuttygg.jpg",
+      "cacheFile": "photos/poltik-mmp-813-139/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "2163×1442, 1,6 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/t/t8/t/t8/t8uhzrteuwawmydh.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/t8/t8uhzrteuwawmydh.jpg",
+      "originalName": "t8uhzrteuwawmydh.jpg",
+      "cacheFile": "photos/poltik-mmp-813-139/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "2572×1715, 2,2 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/r2/r/r2/r2usjrf9u8blmscm.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/r2/r2usjrf9u8blmscm.jpg",
+      "originalName": "r2usjrf9u8blmscm.jpg",
+      "cacheFile": "photos/poltik-mmp-813-139/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "2674×1783, 2,2 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/y/y4/y/y4/y4nrdeij6g2zt04u.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/y/y4/y4nrdeij6g2zt04u.jpg",
+      "originalName": "y4nrdeij6g2zt04u.jpg",
+      "cacheFile": "photos/poltik-mmp-813-139/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "2529×1689, 2,0 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/v/vh/v/vh/vhgk1pbt2uzzticl.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/vh/vhgk1pbt2uzzticl.jpg",
+      "originalName": "vhgk1pbt2uzzticl.jpg",
+      "cacheFile": "photos/poltik-mmp-813-139/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "2897×2069, 2,6 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/1/1b/1/1b/1bsiayg1ypwe6idu.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/1/1b/1bsiayg1ypwe6idu.jpg",
+      "originalName": "1bsiayg1ypwe6idu.jpg",
+      "cacheFile": "photos/poltik-mmp-813-139/06.jpg",
+      "caption": "",
+      "sourceSizeLabel": "2788×1919, 3,0 МБ"
+    }
+  ],
+  "itemFile": "content/mice/poltik-mmp-813-139.json",
+  "previousPhotoCount": 0
+}

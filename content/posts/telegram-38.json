@@ -1,0 +1,67 @@
+{
+  "id": "telegram-38",
+  "slug": "telegram-38",
+  "title": {
+    "ru": "ЕС 1849",
+    "en": "ES 1849"
+  },
+  "date": "2023-06-29T20:42:45+00:00",
+  "source": "https://t.me/old_mice_and_hw/38",
+  "excerpt": {
+    "ru": "Редкая мышь Минского завода ЭВМ: новый корпус и знакомая схемотехника.",
+    "en": "A rare Minsk Computer Plant mouse: a new case with familiar circuitry."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/telegram-38/01.webp",
+      "original": "assets/posts/telegram-38/01.jpg",
+      "source": "https://cdn4.telesco.pe/file/uW68f7YFg6Pq-XPyUBpHRMHPuVWzhNyXYS0NS4y_3F4gcSCArLV9OXHt2DchpyqhUc7cJnULIBHo523YKMCXksxLCG9JAwJMgW4MXD8ksqOAZvfZDIlLeUFdOE3htJlcUU0sfUKhixvV9X0U215QGIWlke0zLAEnZjhh-tpVTsJL6lc73hdxWztTkCfHIFRl5Fiix2xr4O5KAoWjbgokGunJsxzNxuCVCEQ0Eg4iAHqjt9YOYf4pwkT-65Rcx8cGAFoTI_2TN4fh3cXjTWkZuS_TFoEE2hluNJ1T15LY0-hiAivKxoQYXexJvroGI5DlkgxjFpxFVh4RheCzQD8jdQ.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/telegram-38/02.webp",
+      "original": "assets/posts/telegram-38/02.jpg",
+      "source": "https://cdn4.telesco.pe/file/uEvxOjjycvL94XpLxH4rMl7dopvI8DLbe26qvzjPom3gm_UovBWLUaHBacfhVgBuvAGF-MG8T4BGFW-riXNRvPeQamqPemwYTsWpW4OJrnQZ5Accm2cfUCh4Y7JiBCZ9cLrlny6LP9KiL95y04SAqdwvWgOdXnvBlRUpaPXEyO9Dy_rBU-p4ios3xx7n21E8Lrjpn-75KIcxQMndklMpOJDHll9DIMtmcQxNOX8gJzDYUGCZpq7or2K2ttkY_ke9mpg1jTTZoKRSaBuHUK6KeIAsYFPx_XYLEn0uW4lFJd0ERUrNbaa3wY9v7sgc3wSPk5qrkWHuTMvgfRuHoQKOuA.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/telegram-38/03.webp",
+      "original": "assets/posts/telegram-38/03.jpg",
+      "source": "https://cdn4.telesco.pe/file/JOzSEa5DTnnopXOEAq7AhUR7dlXwyYqOt66c54k-88ocqo0YYJFFVlZOkcS6X3fHn1GBLOWDIcWeJ0w-bWdhxoZsIBPt1YOOAbZgpPEA6m55LoQMhkpIriVRBDJd6WdXVXkmzE7GVGBtDLtVh1GeHlAWwoWtVS87WCGBOxfZmvcCbJyUk05NQLeLukgKD-AQl05UYrz5izDs4-1QIwXmpZSq7eaf30Nk1cXmJHwLtxz02GLCNhxWCTojIznemWp4w5ZGhk0yKi4HQcwgq3G7D4Xd3nj42k2c8pxz-bxg-83CtwruAqtSVzNJFUiOBZVAqaQWd4s5aLCTHXhSggXVBA.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/telegram-38/04.webp",
+      "original": "assets/posts/telegram-38/04.jpg",
+      "source": "https://cdn4.telesco.pe/file/SMLzyN3NkGwq8YqoEA6irBIZDO1MAodERirb-Q6_EMFwawu54hSkPdYE_OWNaap8pqDUSlJXmYkcJVVsfzJTwhZ2gT5ezKoe7dv9YVsF8SbMu_9UsdM9L7G69lfnpo7DocalX8yD598VI3KHV1axPw3m97v1CTNLMZqWhqB3NWC1DP_LLDSYoqP7d6T14zY9BDf19P_5pLlJK8oaxN_l-EEBncjcP_k_aWgF0y2J_ZHsuH7TmV1bDYJob604LPZSgMOuewzhEN_SAPsRWs5jjEJJbcuQlshwmmraiRBavFO041JPl_WG5BUeh_sMQFpZQ_Ubeg-ivACVCG7YZEX-Fg.jpg",
+      "width": 800,
+      "height": 600
+    }
+  ],
+  "cover": "assets/posts/telegram-38/01.webp",
+  "relatedItems": [
+    "es-1849-158",
+    "es-1841-8"
+  ],
+  "category": "stories",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-38/ru.md",
+    "en": "content/posts/telegram-38/en.md"
+  },
+  "references": [
+    {
+      "url": "https://collectionerus.ru/collections/old-mice/158/",
+      "label": {
+        "ru": "Ссылка из оригинала 1",
+        "en": "Original reference 1"
+      }
+    }
+  ]
+}

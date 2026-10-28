@@ -1,0 +1,191 @@
+{
+  "id": "MP-0055",
+  "slug": "neos-mouse-55",
+  "title": {
+    "en": "Neos Mouse",
+    "ru": "Neos Mouse"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/55/",
+  "sourceOrder": 89,
+  "order": 94,
+  "sourceProperties": {
+    "Производитель": "Nihon Electronics Co.",
+    "Год": "1985",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "C64",
+    "СССР": "нет",
+    "Где посмотреть": "Средний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/neos-mouse-55/01-catalog.webp",
+      "thumbnail": "assets/photos/neos-mouse-55/01-catalog-thumb.webp",
+      "original": "assets/photos/neos-mouse-55/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/a/ap/aphrlrlzxqob7zag.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/a/ap/aphrlrlzxqob7zag.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/a/ap/aphrlrlzxqob7zag.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "aphrlrlzxqob7zag.JPG",
+      "width": 1536,
+      "height": 1024,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1147554,
+      "sha256": "6fe7dde751497e2e5d947b656f074d501227cc954032aa026d86965964b3c3d4",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/neos-mouse-55/02.webp",
+      "thumbnail": "assets/photos/neos-mouse-55/02-thumb.webp",
+      "original": "assets/photos/neos-mouse-55/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/a/ac/acim80xv58wstdzz.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/a/ac/acim80xv58wstdzz.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/a/ac/acim80xv58wstdzz.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "acim80xv58wstdzz.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1263983,
+      "sha256": "fd349f0984a86903833033ba168882d705025d9f435bc72fa71a996d6fefc08e",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/neos-mouse-55/03.webp",
+      "thumbnail": "assets/photos/neos-mouse-55/03-thumb.webp",
+      "original": "assets/photos/neos-mouse-55/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/e/e3/e3al46pvmfqpp9yz.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/e3/e3al46pvmfqpp9yz.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/e/e3/e3al46pvmfqpp9yz.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "e3al46pvmfqpp9yz.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1537521,
+      "sha256": "d755a38fb36299863d4aeebd5ddf9f4ab4f1b2da786721bb89a6ee58d4db3325",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/neos-mouse-55/04.webp",
+      "thumbnail": "assets/photos/neos-mouse-55/04-thumb.webp",
+      "original": "assets/photos/neos-mouse-55/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/j/j2/j2hdxkyfpsxa6i4m.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/j/j2/j2hdxkyfpsxa6i4m.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/j/j2/j2hdxkyfpsxa6i4m.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "j2hdxkyfpsxa6i4m.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2636705,
+      "sha256": "5fb30633b0430250f54ee7d82645a93abff1d5b8e9a348f44666cefb0ca576f5",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/neos-mouse-55/05.webp",
+      "thumbnail": "assets/photos/neos-mouse-55/05-thumb.webp",
+      "original": "assets/photos/neos-mouse-55/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/a/ay/ayvwdjo1htx83kzv.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/a/ay/ayvwdjo1htx83kzv.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/a/ay/ayvwdjo1htx83kzv.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "ayvwdjo1htx83kzv.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2058310,
+      "sha256": "539b3677fb828829a3515f77d9d2166d512f85fdd0ba69c76bb06f12117fa8b2",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/neos-mouse-55/06.webp",
+      "thumbnail": "assets/photos/neos-mouse-55/06-thumb.webp",
+      "original": "assets/photos/neos-mouse-55/originals/06.jpg",
+      "source": "https://collectionerus.ru/media/items-large/p/pr/pr50i7grhn6chijg.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/pr/pr50i7grhn6chijg.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/p/pr/pr50i7grhn6chijg.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "pr50i7grhn6chijg.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2358410,
+      "sha256": "a603f3c73f3a85e652d6141e83663b0677c8a13bdcc78beb9cdaf0b826166a6f",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/neos-mouse-55/07.webp",
+      "thumbnail": "assets/photos/neos-mouse-55/07-thumb.webp",
+      "original": "assets/photos/neos-mouse-55/originals/07.jpg",
+      "source": "https://collectionerus.ru/media/items-large/z/z4/z4y9mv0lppyeefvo.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/z4/z4y9mv0lppyeefvo.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/z/z4/z4y9mv0lppyeefvo.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "z4y9mv0lppyeefvo.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2333691,
+      "sha256": "54152e6792d4ad0cc3d5bbea723be889a92e1348b11127d91f52d15d299eb168",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Nihon Electronics Co.",
+    "en": "Nihon Electronics Co."
+  },
+  "brand": "Nihon Electronics Co.",
+  "year": 1985,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "C64",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Neos Mouse",
+  "whereToSee": {
+    "ru": "Средний",
+    "en": "Middle"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/neos-mouse-55/thumb-catalog.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:48+03:00",
+    "sourcePhotoCount": 7,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 7
+  }
+}

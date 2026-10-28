@@ -1,0 +1,84 @@
+{
+  "sourceId": 103,
+  "source": "https://collectionerus.ru/collections/old-mice/103/",
+  "slug": "ec-1845-103",
+  "sourceTitle": "EC 1845",
+  "retrievedAt": "2026-10-27T23:10:46+03:00",
+  "sourcePageSha256": "79f8d965cd75ca8a19de43630ba2db04a86664d027405b2908f05b91c1c3e60e",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "СССР",
+    "Год": "1991",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "да",
+    "Где посмотреть": "Краснохолмская"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=%D0%A1%D0%A1%D0%A1%D0%A0"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1991"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=yes"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%85%D0%BE%D0%BB%D0%BC%D1%81%D0%BA%D0%B0%D1%8F"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/b/bm/b/bm/bmylotlx5e9iwm08.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/bm/bmylotlx5e9iwm08.JPG",
+      "originalName": "bmylotlx5e9iwm08.JPG",
+      "cacheFile": "photos/ec-1845-103/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3701×2467, 1,0 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/3/3p/3/3p/3pdiuf4xpg2z9hhh.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/3/3p/3pdiuf4xpg2z9hhh.JPG",
+      "originalName": "3pdiuf4xpg2z9hhh.JPG",
+      "cacheFile": "photos/ec-1845-103/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3749×2499, 1,2 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/i/ip/i/ip/ip2achwytqqeus2v.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/ip/ip2achwytqqeus2v.JPG",
+      "originalName": "ip2achwytqqeus2v.JPG",
+      "cacheFile": "photos/ec-1845-103/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3217×2145, 735,5 КБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/u/uv/u/uv/uvh3mnonqomkmnir.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/uv/uvh3mnonqomkmnir.JPG",
+      "originalName": "uvh3mnonqomkmnir.JPG",
+      "cacheFile": "photos/ec-1845-103/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4158×2772, 1,8 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/i/ir/i/ir/irnp4bghhgiwsgon.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/ir/irnp4bghhgiwsgon.JPG",
+      "originalName": "irnp4bghhgiwsgon.JPG",
+      "cacheFile": "photos/ec-1845-103/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3270×2180, 1,2 МБ"
+    }
+  ],
+  "itemFile": "content/mice/ec-1845-103.json",
+  "previousPhotoCount": 0
+}

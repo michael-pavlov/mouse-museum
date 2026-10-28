@@ -1,0 +1,106 @@
+{
+  "sourceId": 32,
+  "source": "https://collectionerus.ru/collections/old-mice/32/",
+  "slug": "mouse-systems-m2-32",
+  "sourceTitle": "Mouse Systems M2",
+  "retrievedAt": "2026-10-27T22:22:52+03:00",
+  "sourcePageSha256": "e591816e3e26abe93bc7c742c92e7a656cdd40cd7194e336f362f35d82569716",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Mouse Systems",
+    "Год": "1984",
+    "Способ позиционирования": "Оптический через коврик",
+    "Интерфейс": "DB-25",
+    "СССР": "нет",
+    "Где посмотреть": "Демо Витрина"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Mouse+Systems"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1984"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%D1%87%D0%B5%D1%80%D0%B5%D0%B7+%D0%BA%D0%BE%D0%B2%D1%80%D0%B8%D0%BA"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=DB-25"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B5%D0%BC%D0%BE+%D0%92%D0%B8%D1%82%D1%80%D0%B8%D0%BD%D0%B0"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/t/tl/tl2ebjmrpm4c1k2l.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/tl/tl2ebjmrpm4c1k2l.JPG",
+      "originalName": "tl2ebjmrpm4c1k2l.JPG",
+      "cacheFile": "photos/mouse-systems-m2-32/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,2 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/7/73/73pns57cu1wsydcm.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/7/73/73pns57cu1wsydcm.JPG",
+      "originalName": "73pns57cu1wsydcm.JPG",
+      "cacheFile": "photos/mouse-systems-m2-32/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3657×2438, 1,8 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/v/vb/vbuyukexbvvtucww.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/vb/vbuyukexbvvtucww.JPG",
+      "originalName": "vbuyukexbvvtucww.JPG",
+      "cacheFile": "photos/mouse-systems-m2-32/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,2 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/d/dt/dtjponrpnyxn4d90.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/d/dt/dtjponrpnyxn4d90.JPG",
+      "originalName": "dtjponrpnyxn4d90.JPG",
+      "cacheFile": "photos/mouse-systems-m2-32/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3800×2533, 2,1 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/h/he/hef6t6fmadbm5xr6.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/he/hef6t6fmadbm5xr6.JPG",
+      "originalName": "hef6t6fmadbm5xr6.JPG",
+      "cacheFile": "photos/mouse-systems-m2-32/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 2,4 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/p/pu/pul3fr5efmmds5hx.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/pu/pul3fr5efmmds5hx.JPG",
+      "originalName": "pul3fr5efmmds5hx.JPG",
+      "cacheFile": "photos/mouse-systems-m2-32/06.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,2 МБ"
+    },
+    {
+      "position": 7,
+      "source": "https://collectionerus.ru/media/items-large/9/9t/9tfrn7pxhuft9tka.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/9/9t/9tfrn7pxhuft9tka.JPG",
+      "originalName": "9tfrn7pxhuft9tka.JPG",
+      "cacheFile": "photos/mouse-systems-m2-32/07.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 2,7 МБ"
+    }
+  ],
+  "itemFile": "content/mice/mouse-systems-m2-32.json",
+  "previousPhotoCount": 7
+}

@@ -1,0 +1,55 @@
+{
+  "id": "telegram-188",
+  "slug": "telegram-188",
+  "title": {
+    "ru": "Блок СС-1М",
+    "en": "The SS-1M module"
+  },
+  "date": "2025-07-02T14:51:58+00:00",
+  "source": "https://t.me/old_mice_and_hw/188",
+  "excerpt": {
+    "ru": "Гибридные микросборки в модуле советской системы телеметрии.",
+    "en": "Hybrid microassemblies in a Soviet telemetry-system module."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/telegram-188/01.webp",
+      "original": "assets/posts/telegram-188/01.jpg",
+      "source": "https://cdn4.telesco.pe/file/oyXk8WKDOeXzgk6xl4UGWSmZjHUBnbfWJznadfGIYFQrUGbD5PCC-OlDphpO-AGKFF7rj5fwzI9NBwrST3xpvOKwkG_abOTpjjDTtt99CK27zA9wT7uxV0sWBataABy9jkP-Aq67THWqtydls60L4OZMOavEvP9OjkpaoP1Txn248tFBgHjr1hkKmyg8eIbVCkO2TAxYZ28AX5x48XjKfG1cJyDyP07Ihp8Lw8B1HrOKe-Ssg4EzPgxrdBHi5nLWpdPKlvW5TOBPgBDmrEN0WrpsJ7HmqjTZfN5d7eaQgceiQHQ2TpK0Un6x5TSy9skL4JNrMkkc-85DTNS3gj-11g.jpg",
+      "width": 600,
+      "height": 800
+    },
+    {
+      "file": "assets/posts/telegram-188/02.webp",
+      "original": "assets/posts/telegram-188/02.jpg",
+      "source": "https://cdn4.telesco.pe/file/I8fkOi8UaUZ06KDEaZG31OEN6ihKYQSgYSk_bcw7LhP9RKYjgSpFNl73OoelPW884yD3P9_GbDh-M-7kFicg1pZpGmdQWU3N-m-KYIWFAsz5oq7lRRvy19_LX0fYv40Uy4WgJui7-S0c9pK1dPyLuBIWQUyavMyBn95qwzRaaYXV5-mu6wnWZv3VswWptTDsga-SBs_2Nde68uctd6quZK-XvxMm7OpRroPg3FRZkXofTDS7LewbmLd3G6XhHlAu2H11W6FHaUnPuvckHE_2CLT6r1MN-8T2gnuf4rNtoe7vO1r17LesChWum2pNfAAbl6SQ6D1Hnp8OQ1i3affdcw.jpg",
+      "width": 800,
+      "height": 500
+    },
+    {
+      "file": "assets/posts/telegram-188/03.webp",
+      "original": "assets/posts/telegram-188/03.jpg",
+      "source": "https://cdn4.telesco.pe/file/WSZyfwba9tFGhAmca0ChRUQYkhzkA6GlbP3gu0upBUWrv-PIw--XKBBv1nCk-kIqlHFWQbaYORzGTtHlWUnASLkKet__qQdomPKPCpSgCniP3Z059duppX5rBnjgQHn6Xnd9HdVwRS_eyhOWLARf5me2neohK0oYlbQoT_HV9EqhhHVUDIwZA-5F9oJ6FT1n9W6ZN_ORDVKqrARDrhc-qW1ST_tfELfG0eZTfgEjwozxKjVmqBfrFQdY0DQeRzIUNffEuF-FfW1WJecIJ-xyJDcKxgpGQaqvVZkCYwdUnNhGZEEMXvCOube8nySFn71shMJ_QNQTgdH20GbuN230HA.jpg",
+      "width": 800,
+      "height": 694
+    },
+    {
+      "file": "assets/posts/telegram-188/04.webp",
+      "original": "assets/posts/telegram-188/04.jpg",
+      "source": "https://cdn4.telesco.pe/file/m6sHjpXoPGlzDFxao3U8Ro87X4W9ig5LIw9M5kpLl8XnfxY3oAVRn7RjFONa-urKnWmZwmvJtXypfeQJVJd5w0gXUV4__f_LjWonG_cewygZ64p3NKoN8pHTKQzb2cwDOxPSTAU24Ogo92tq1AVg8VY9hYzUb7qhxzWywYE6okjLNhfaUa0t6ls2tZljvmm5PRWhkdT7egVxN4XAPrXwHXYnidPdB8JTwiaJNw7N2kJmPt0Ved7gjigQo0lMnpvTECxuFpiL9eiEtlUmx31KM9kCJFgi2aBaC-Dn7fGdilWW6drJkxEkgeuuAYMKPl-Dj0ZYWvPdc0sx2ApqK47ygA.jpg",
+      "width": 800,
+      "height": 599
+    }
+  ],
+  "cover": "assets/posts/telegram-188/01.webp",
+  "relatedItems": [],
+  "category": "stories",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-188/ru.md",
+    "en": "content/posts/telegram-188/en.md"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "id": "MP-0167",
+  "slug": "kensigton-thinking-mouse-167",
+  "title": {
+    "en": "Kensigton Thinking Mouse",
+    "ru": "Kensigton Thinking Mouse"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/167/",
+  "sourceOrder": 183,
+  "order": 186,
+  "sourceProperties": {
+    "Производитель": "Kensigton",
+    "Год": "1995",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "ADB",
+    "СССР": "нет",
+    "Где посмотреть": "Средний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/kensigton-thinking-mouse-167/01.webp",
+      "thumbnail": "assets/photos/kensigton-thinking-mouse-167/01-thumb.webp",
+      "original": "assets/photos/kensigton-thinking-mouse-167/originals/01.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/w/wh/w/wh/whplwlacsyiftyvr.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/wh/whplwlacsyiftyvr.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/w/wh/whplwlacsyiftyvr.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "whplwlacsyiftyvr.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 970631,
+      "sha256": "55c6ab86d0b30908f323373ea732a2d45a6bd754c1ca9233f8e10153ce54fdf4",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/kensigton-thinking-mouse-167/02.webp",
+      "thumbnail": "assets/photos/kensigton-thinking-mouse-167/02-thumb.webp",
+      "original": "assets/photos/kensigton-thinking-mouse-167/originals/02.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/m/mz/m/mz/mzuojy8ebv83bbbq.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/m/mz/mzuojy8ebv83bbbq.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/m/mz/mzuojy8ebv83bbbq.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "mzuojy8ebv83bbbq.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1232417,
+      "sha256": "294ef300feb884ed13241d79bf6c550b035f3326ff6208daed44ebd3a5e06eba",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/kensigton-thinking-mouse-167/03.webp",
+      "thumbnail": "assets/photos/kensigton-thinking-mouse-167/03-thumb.webp",
+      "original": "assets/photos/kensigton-thinking-mouse-167/originals/03.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/6/6b/6/6b/6bhhavhutspl3xtt.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/6/6b/6bhhavhutspl3xtt.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/6/6b/6bhhavhutspl3xtt.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "6bhhavhutspl3xtt.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1285536,
+      "sha256": "34d4d51608b7f6bbd3591e911c13f724f18b0c7280c6ecf9735b6438b7008624",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/kensigton-thinking-mouse-167/04.webp",
+      "thumbnail": "assets/photos/kensigton-thinking-mouse-167/04-thumb.webp",
+      "original": "assets/photos/kensigton-thinking-mouse-167/originals/04.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/8/8c/8/8c/8crywochyiyq8kgj.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/8/8c/8crywochyiyq8kgj.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/8/8c/8crywochyiyq8kgj.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "8crywochyiyq8kgj.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1481842,
+      "sha256": "23fb3440ee7808edec834086782d1a0a6022589f23234d15de94d7cfa3c15764",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Kensigton",
+    "en": "Kensigton"
+  },
+  "brand": "Kensigton",
+  "year": 1995,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "ADB",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Kensigton Thinking Mouse",
+  "whereToSee": {
+    "ru": "Средний",
+    "en": "Middle"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/kensigton-thinking-mouse-167/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:54+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 4
+  }
+}

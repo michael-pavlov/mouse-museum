@@ -1,0 +1,83 @@
+{
+  "sourceId": 158,
+  "source": "https://collectionerus.ru/collections/old-mice/158/",
+  "slug": "es-1849-158",
+  "sourceTitle": "ЕС 1849",
+  "retrievedAt": "2026-10-27T22:22:48+03:00",
+  "sourcePageSha256": "eb288391833955b24932c4f3924ea9217a655e8028ff8bb1f4546bc0784bfcdc",
+  "descriptionHtml": "<div class=\"item-description\">\n<p>Мышка Минского завода ЭВМ к компьютеру ЕС 1849</p>\n</div>",
+  "descriptionText": "Мышка Минского завода ЭВМ к компьютеру ЕС 1849",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Минский завод ЭВМ",
+    "Год": "1992",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "COM",
+    "СССР": "да",
+    "Где посмотреть": "Краснохолмская",
+    "Обменный фонд": "есть 1"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4+%D0%AD%D0%92%D0%9C"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1992"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=COM"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=yes"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%85%D0%BE%D0%BB%D0%BC%D1%81%D0%BA%D0%B0%D1%8F"
+    ],
+    "Обменный фонд": [
+      "https://collectionerus.ru/collections/old-mice/?obmennyi_fond=%D0%B5%D1%81%D1%82%D1%8C+1"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/h/he/h/he/her9oejtuomecxxv.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/he/her9oejtuomecxxv.jpeg",
+      "originalName": "her9oejtuomecxxv.jpeg",
+      "cacheFile": "photos/es-1849-158/01.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,2 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/8/87/8/87/87ditvxnicobjeou.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/8/87/87ditvxnicobjeou.jpeg",
+      "originalName": "87ditvxnicobjeou.jpeg",
+      "cacheFile": "photos/es-1849-158/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 2,2 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/4/4v/4/4v/4v91o0m1rnjmmcx5.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/4/4v/4v91o0m1rnjmmcx5.jpeg",
+      "originalName": "4v91o0m1rnjmmcx5.jpeg",
+      "cacheFile": "photos/es-1849-158/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 2,1 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/5/5j/5/5j/5jv28dl8ukezags4.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/5/5j/5jv28dl8ukezags4.jpeg",
+      "originalName": "5jv28dl8ukezags4.jpeg",
+      "cacheFile": "photos/es-1849-158/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,6 МБ"
+    }
+  ],
+  "itemFile": "content/mice/es-1849-158.json",
+  "previousPhotoCount": 4
+}

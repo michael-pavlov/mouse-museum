@@ -1,0 +1,26 @@
+{
+  "id": "telegram-49",
+  "slug": "telegram-49",
+  "title": {
+    "ru": "Мышки в телевизоре",
+    "en": "Mice on television"
+  },
+  "date": "2023-12-09T08:01:01+00:00",
+  "source": "https://t.me/old_mice_and_hw/49",
+  "excerpt": {
+    "ru": "Короткая заметка со ссылкой на телевизионный сюжет о коллекции.",
+    "en": "A short note linking to television coverage of the collection."
+  },
+  "photos": [],
+  "cover": "assets/mouse-museum-logo.png",
+  "relatedItems": [],
+  "category": "stories",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-49/ru.md",
+    "en": "content/posts/telegram-49/en.md"
+  }
+}

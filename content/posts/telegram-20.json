@@ -1,0 +1,66 @@
+{
+  "id": "telegram-20",
+  "slug": "telegram-20",
+  "title": {
+    "ru": "Graphic Mouse",
+    "en": "Graphic Mouse"
+  },
+  "date": "2023-04-16T07:55:43+00:00",
+  "source": "https://t.me/old_mice_and_hw/20",
+  "excerpt": {
+    "ru": "Потенциометры, пассики и регулировка рабочего поля вместо привычных энкодеров.",
+    "en": "Potentiometers, drive belts and an adjustable working area in place of familiar encoders."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/telegram-20/01.webp",
+      "original": "assets/posts/telegram-20/01.jpg",
+      "source": "https://cdn4.telesco.pe/file/j424qfNflPsJk1UEFvdLy7zagzmrnCR80bJEOq_m4UjbMQ_CSRxkiTwvHGOESQIB6LctCI4QxhknQlYzzSZVKw2xLsgUBZ8N5xHG2p_kydtWylJrnZMpAwXrj8-nVAMmByX_Ph-0ZozVhCrEsdkw_SuCEruyPxkcl5Hqd2GJCNjLkt7gY-tQrL2gmCdTLcQY1gVD4eqcdH3C-Re8PiL4UfVXmXSjqGEVVzL9bg0wLx4o-VG7kO4ZGIZuXTbRuQlCcwwPm2Gz_kOGtuQnlJTJB1aaPrpqTMRaTFJCit0JzNQqJDEyhneZdbmztI9pgs_VKuLg1ZzUaXuwl26guTSMeg.jpg",
+      "width": 800,
+      "height": 533
+    },
+    {
+      "file": "assets/posts/telegram-20/02.webp",
+      "original": "assets/posts/telegram-20/02.jpg",
+      "source": "https://cdn4.telesco.pe/file/ixv6ykGuNI4aUmncgqyEa1CdnOrDKblG8MUT9GvfNNIkG2bNurNaUHcSS6C8yrqg0cs46NCwII6APHvP39O7Wig_ri0Qk7zEY6JSmtlxUFeH6dXWvy5E-tfWASMRy1W5Iv2Xg2JuUZ9MyNm1MNujmSt8N6p8yOtZHRa7z2k6xKuf7NSlp9LnnR0O4rHAFEneSxR6-qDN0Q2ec6od-KgEhyaSgNjMuCvkKeGy7aVF-LHhDE7jRo2KKIxO0XGMFx-wrwsmek83NbEvNAhuHIrdaVwip1EtIR8mKlu1cNqMyjXn0xUqVB634sl18jTqpP0nD4On2l48zqus0jaWM8_2wA.jpg",
+      "width": 800,
+      "height": 533
+    },
+    {
+      "file": "assets/posts/telegram-20/03.webp",
+      "original": "assets/posts/telegram-20/03.jpg",
+      "source": "https://cdn4.telesco.pe/file/voj7An_yd9hUj0xoHmWBrqqPM8m8nj5PsJyecHtYh_BAoCfhYPDcd3bww_aUuUsxLNXefDnpNqUnoMH6EtFL2DzHxiyEKH6mckRGcpsS-9IASmIJe2mECGr-YXpR80_y0wwCabZE65wuygxyCjeZleNxK6_3f_Uec4snCLc18pY_ui9OiOBuyMgple0blzgxu2NMiY4CZ4ZtHtYTO1MJp7U1baUQbAFNnQh-ShWnF7GKcr8EPWti0tp-UHkUZA9qLcHk1mO830LpeJpsRkq02yLBI4oWtIx72JLHnNRAzCP_gQRhR7GCCplyRxr19JoazWLFF5LUDfWaPpHuKGxaNg.jpg",
+      "width": 800,
+      "height": 533
+    },
+    {
+      "file": "assets/posts/telegram-20/04.webp",
+      "original": "assets/posts/telegram-20/04.jpg",
+      "source": "https://cdn4.telesco.pe/file/bUt9H0xJ8SK_aSr2luNp9X7ke4Qka0MAyZvEktxD4-JZSyetxaM-sbwz63IHj_socyT7wDCkAG9P-rM5E0mrPXWSYyBmRe93KeXyDBRbTsAwNnzVS9mwak7qo3iO2yV4gUEWAyfELFdc8Yb8p8Pv4HyEK2Y4XFLUuvCVbtJVHEHNIceC6MGVUb8DXSvxWmVSjIbmrHEn3mWKygsNGKgE7UjrEP9Ne-T9CWih4OfvYLAWYuOW04ly0jIMgA37wYJgGnHuzIAixW8IJjkDXQ8hoO8tzxyS2p_08oFG_jpHBXtYXDivDVO_EmqXhRYx4crnEEkIW08RKUDJMAE5sedVvA.jpg",
+      "width": 800,
+      "height": 533
+    }
+  ],
+  "cover": "assets/posts/telegram-20/01.webp",
+  "relatedItems": [
+    "graphic-mouse-17"
+  ],
+  "category": "stories",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-20/ru.md",
+    "en": "content/posts/telegram-20/en.md"
+  },
+  "references": [
+    {
+      "url": "https://collectionerus.ru/collections/old-mice/17/",
+      "label": {
+        "ru": "Ссылка из оригинала 1",
+        "en": "Original reference 1"
+      }
+    }
+  ]
+}

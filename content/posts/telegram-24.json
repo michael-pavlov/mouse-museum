@@ -1,0 +1,59 @@
+{
+  "id": "telegram-24",
+  "slug": "telegram-24",
+  "title": {
+    "ru": "Torrington Manager Mouse",
+    "en": "Torrington Manager Mouse"
+  },
+  "date": "2023-04-23T08:13:10+00:00",
+  "source": "https://t.me/old_mice_and_hw/24",
+  "excerpt": {
+    "ru": "Мышь без шарика: наклонные колёсики и контактные датчики движения.",
+    "en": "A ball-free mouse with angled wheels and contact movement sensors."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/telegram-24/01.webp",
+      "original": "assets/posts/telegram-24/01.jpg",
+      "source": "https://cdn4.telesco.pe/file/HinDIRehI1fgV9h4e8MQLR4HMsFrX1YJw7hanHsUK6e28BfnwxMha_7AWxdU5C9v9M9Jrx631UaMd4br2jUo4Tiv9OcBohwfD59B5BXryd2juOnk-vaz2W1szMn-jgxrB2cIbwwMMR6bx0VQvsd78674AdSef_Rmr3RlyWHdO9p2c3UtrfnHhlCQVUgraHyckLbl1KnIRuBVNJB2KQKyi3QhkXssm6ru_abbs2yAGzuC3ekDxKfjimWdJ6QrSiYJGw5HUx2pot7ipetiDAugh0Kq4U114q3HxGrOoU_3pzQeoP7eMCc7k2Y8j_yw4gKvFu9zioiiTm3JVgZvwMLwQg.jpg",
+      "width": 800,
+      "height": 533
+    },
+    {
+      "file": "assets/posts/telegram-24/02.webp",
+      "original": "assets/posts/telegram-24/02.jpg",
+      "source": "https://cdn4.telesco.pe/file/hiGrcRMz-uTtnu4eYCXKpqNcYgzB4HBCyaE3Nhpswd4b-v0Xk2KZHT_fFTst2M_3oRMk4pzOh3oXijdCrT6A27ZPXQOagnaZrJqI2qzpjRfUrk2hXtfrjNvtGnbAUN3Wn_Nq2wKWewmwQzMeub3mMfAoUoOsdaU-uUUm-mBUm-cwh6awf9PjzeWF1yZDKxjoSjArLSmKAmshFMz2zozDV8CBJnOJpTBc3FA0pq-34BHFEYDHIeMmBXjgtSOVKlJiiOt_WWnNoJ5rZEoFmMoM1MlFqL_01MYA8XwV6IliGLJ-yELGeoa6BzJMYNPo7xM5jx_gzU_J1VscdkkPbSVX1Q.jpg",
+      "width": 800,
+      "height": 533
+    },
+    {
+      "file": "assets/posts/telegram-24/03.webp",
+      "original": "assets/posts/telegram-24/03.jpg",
+      "source": "https://cdn4.telesco.pe/file/VAQr-Vf4-9xmBy-Fmnl7BfhDU4kNMfUoO4HJvChetwJMVbJWGGXaCXceRcXsyS9ZiE-Vi31c0ccGwrbFCudJkj9VZulC-ZDZr7Wio20yAUufHVBwLiNxU6D07lGpbMFOUWQBgSV6yaAiFJKbCDJdvy6pX4aqENbEwjgcaFYaNXFaLF9qCx1LuXhs4IdQqPuRS4kCz13v97MKV2bX-wzCzAJsYy2jrxksj7DmSp83S-TuukU5xoYShCoKHJ7QBl9LNdljSqs4uV17a71g_mtDulI9vOeQ1sU0HMwNm_JE0zwbC-UqEWNT-6eCDYkZzKhPIh8_keuME9HC3Tut34gggw.jpg",
+      "width": 800,
+      "height": 533
+    }
+  ],
+  "cover": "assets/posts/telegram-24/01.webp",
+  "relatedItems": [
+    "torrington-manager-mouse-94"
+  ],
+  "category": "stories",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-24/ru.md",
+    "en": "content/posts/telegram-24/en.md"
+  },
+  "references": [
+    {
+      "url": "https://collectionerus.ru/collections/old-mice/94/",
+      "label": {
+        "ru": "Ссылка из оригинала 1",
+        "en": "Original reference 1"
+      }
+    }
+  ]
+}

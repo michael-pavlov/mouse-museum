@@ -1,0 +1,75 @@
+{
+  "sourceId": 126,
+  "source": "https://collectionerus.ru/collections/old-mice/126/",
+  "slug": "little-tikes-cozy-couple-mouse-126",
+  "sourceTitle": "Little Tikes Cozy Couple Mouse",
+  "retrievedAt": "2026-10-27T23:10:53+03:00",
+  "sourcePageSha256": "f0faf865ecf22ceb1da8ebdb6dd1566b6cc4be477738ff5da86a586924da8a98",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Little Tikes",
+    "Год": "1997",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Демо Стол"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Little+Tikes"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1997"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B5%D0%BC%D0%BE+%D0%A1%D1%82%D0%BE%D0%BB"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/m/mm/m/mm/mmfez4b0imficuak.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/m/mm/mmfez4b0imficuak.jpg",
+      "originalName": "mmfez4b0imficuak.jpg",
+      "cacheFile": "photos/little-tikes-cozy-couple-mouse-126/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4003×2669, 4,0 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/s/sd/s/sd/sd7po40vhq7mbxfq.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/s/sd/sd7po40vhq7mbxfq.jpg",
+      "originalName": "sd7po40vhq7mbxfq.jpg",
+      "cacheFile": "photos/little-tikes-cozy-couple-mouse-126/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4042×2695, 4,0 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/1/1q/1/1q/1qdmjuhjtyl1gocu.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/1/1q/1qdmjuhjtyl1gocu.jpg",
+      "originalName": "1qdmjuhjtyl1gocu.jpg",
+      "cacheFile": "photos/little-tikes-cozy-couple-mouse-126/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3296×2197, 2,6 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/i/iz/i/iz/izzrsxwep1qxnd16.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/iz/izzrsxwep1qxnd16.jpg",
+      "originalName": "izzrsxwep1qxnd16.jpg",
+      "cacheFile": "photos/little-tikes-cozy-couple-mouse-126/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4270×2847, 5,1 МБ"
+    }
+  ],
+  "itemFile": "content/mice/little-tikes-cozy-couple-mouse-126.json",
+  "previousPhotoCount": 0
+}

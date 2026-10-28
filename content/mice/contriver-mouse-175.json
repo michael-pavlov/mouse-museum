@@ -1,0 +1,208 @@
+{
+  "id": "MP-0175",
+  "slug": "contriver-mouse-175",
+  "title": {
+    "en": "Contriver Mouse",
+    "ru": "Contriver Mouse"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/175/",
+  "sourceOrder": 188,
+  "order": 191,
+  "sourceProperties": {
+    "Производитель": "Midasonic Industrial",
+    "Год": "1990",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Средний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/contriver-mouse-175/01.webp",
+      "thumbnail": "assets/photos/contriver-mouse-175/01-thumb.webp",
+      "original": "assets/photos/contriver-mouse-175/originals/01.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/a/ar/a/ar/ar9wd6ymijjtw56g.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/a/ar/ar9wd6ymijjtw56g.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/a/ar/ar9wd6ymijjtw56g.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "ar9wd6ymijjtw56g.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1085856,
+      "sha256": "31ca82c2d21bdc35ce58090b668e15a984da5f9d9951150db5f4dbd97d8c6821",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/contriver-mouse-175/02.webp",
+      "thumbnail": "assets/photos/contriver-mouse-175/02-thumb.webp",
+      "original": "assets/photos/contriver-mouse-175/originals/02.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/x/x4/x/x4/x46pcm3zqvw4egtn.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/x4/x46pcm3zqvw4egtn.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/x/x4/x46pcm3zqvw4egtn.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "x46pcm3zqvw4egtn.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1175060,
+      "sha256": "70d24cb64b57f8fbd85420eb660fa943e8d85b302ff5004539bd22a66ef10992",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/contriver-mouse-175/03.webp",
+      "thumbnail": "assets/photos/contriver-mouse-175/03-thumb.webp",
+      "original": "assets/photos/contriver-mouse-175/originals/03.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/g/ge/g/ge/gekdhu8ykyfdtrey.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/ge/gekdhu8ykyfdtrey.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/g/ge/gekdhu8ykyfdtrey.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "gekdhu8ykyfdtrey.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1399260,
+      "sha256": "fb46f4afe9600e9b15b3e5726c1e75c8d31685b7009b6c2dc201fc73c8f8e91d",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/contriver-mouse-175/04.webp",
+      "thumbnail": "assets/photos/contriver-mouse-175/04-thumb.webp",
+      "original": "assets/photos/contriver-mouse-175/originals/04.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/s/sr/s/sr/srwam6eftertouwx.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/s/sr/srwam6eftertouwx.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/s/sr/srwam6eftertouwx.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "srwam6eftertouwx.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1712045,
+      "sha256": "68143c9a37113b73d8b4c0ccce6baec07b026730de82a8815f371fca7f40c486",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/contriver-mouse-175/05.webp",
+      "thumbnail": "assets/photos/contriver-mouse-175/05-thumb.webp",
+      "original": "assets/photos/contriver-mouse-175/originals/05.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/x/xy/x/xy/xy2wxamkbzczdwe7.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/xy/xy2wxamkbzczdwe7.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/x/xy/xy2wxamkbzczdwe7.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "xy2wxamkbzczdwe7.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1808115,
+      "sha256": "c174b1873455e2ccb1ca69a58a4f61234d33db0dd2fb50f615111f00aca76a41",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/contriver-mouse-175/06.webp",
+      "thumbnail": "assets/photos/contriver-mouse-175/06-thumb.webp",
+      "original": "assets/photos/contriver-mouse-175/originals/06.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/n/no/n/no/nod2wghcg6k8swcm.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/no/nod2wghcg6k8swcm.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/n/no/nod2wghcg6k8swcm.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "nod2wghcg6k8swcm.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1754914,
+      "sha256": "2c79dc2d0b4547b3e1e848ebf3414b20337a8f893bfa7960041d131bb5cc3709",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/contriver-mouse-175/07.webp",
+      "thumbnail": "assets/photos/contriver-mouse-175/07-thumb.webp",
+      "original": "assets/photos/contriver-mouse-175/originals/07.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/n/ni/n/ni/nitqwsux92qs4vva.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/ni/nitqwsux92qs4vva.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/n/ni/nitqwsux92qs4vva.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "nitqwsux92qs4vva.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1745554,
+      "sha256": "9a42b2ba9aa3b932f3e60061cef33954a0b96355374f97422f47111ad8698440",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/contriver-mouse-175/08.webp",
+      "thumbnail": "assets/photos/contriver-mouse-175/08-thumb.webp",
+      "original": "assets/photos/contriver-mouse-175/originals/08.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/w/wp/w/wp/wpvkbb8x2jl4qnor.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/wp/wpvkbb8x2jl4qnor.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/w/wp/wpvkbb8x2jl4qnor.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "wpvkbb8x2jl4qnor.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1709126,
+      "sha256": "8b1312847b7076220f2bc0a7ae69a314a1869ce87bf0a2059458af73b870c829",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Midasonic Industrial",
+    "en": "Midasonic Industrial"
+  },
+  "brand": "Midasonic Industrial",
+  "year": 1990,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Contriver Mouse",
+  "whereToSee": {
+    "ru": "Средний",
+    "en": "Middle"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/contriver-mouse-175/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:54+03:00",
+    "sourcePhotoCount": 8,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 8
+  }
+}

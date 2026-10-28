@@ -1,0 +1,57 @@
+{
+  "sourceId": 210,
+  "source": "https://collectionerus.ru/collections/old-mice/210/",
+  "slug": "marsianka-uvk-01-dark-grey-210",
+  "sourceTitle": "Марсианка УВК-01 темно-серая (обычная)",
+  "retrievedAt": "2026-10-27T23:10:46+03:00",
+  "sourcePageSha256": "4c4c9c7a66768cc1c330dda8101e97e70b9250af8780db36a9dd189929d669c3",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "КБ Марс",
+    "Год": "1989",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "да",
+    "Где посмотреть": "Демо Стол"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=%D0%9A%D0%91+%D0%9C%D0%B0%D1%80%D1%81"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1989"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=yes"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B5%D0%BC%D0%BE+%D0%A1%D1%82%D0%BE%D0%BB"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/o/ow/o/ow/owpe6kekjo0v68kx.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/o/ow/owpe6kekjo0v68kx.jpeg",
+      "originalName": "owpe6kekjo0v68kx.jpeg",
+      "cacheFile": "photos/marsianka-uvk-01-dark-grey-210/01.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,0 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/v/vd/v/vd/vd4esichd04mwkul.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/vd/vd4esichd04mwkul.jpeg",
+      "originalName": "vd4esichd04mwkul.jpeg",
+      "cacheFile": "photos/marsianka-uvk-01-dark-grey-210/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,2 МБ"
+    }
+  ],
+  "itemFile": "content/mice/marsianka-uvk-01-dark-grey-210.json",
+  "previousPhotoCount": 0
+}

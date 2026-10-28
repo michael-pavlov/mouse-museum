@@ -1,0 +1,155 @@
+{
+  "id": "MP-0072",
+  "slug": "at-t-pc-7300-72",
+  "title": {
+    "en": "AT&T PC 7300",
+    "ru": "AT&T PC 7300"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/72/",
+  "sourceOrder": 105,
+  "order": 109,
+  "sourceProperties": {
+    "Производитель": "AT&T",
+    "Год": "1985",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "PC 7300",
+    "СССР": "нет",
+    "Где посмотреть": "Демо Витрина"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/at-t-pc-7300-72/01-catalog.webp",
+      "thumbnail": "assets/photos/at-t-pc-7300-72/01-catalog-thumb.webp",
+      "original": "assets/photos/at-t-pc-7300-72/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/o/ou/ouhanpobcsm9ulwf.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/o/ou/ouhanpobcsm9ulwf.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/o/ou/ouhanpobcsm9ulwf.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "ouhanpobcsm9ulwf.JPG",
+      "width": 1536,
+      "height": 1024,
+      "originalWidth": 3300,
+      "originalHeight": 2200,
+      "originalBytes": 1376060,
+      "sha256": "b15866434764f54d7632e4372141d8809f38d34c82def5effba1c4e89c68c39f",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/at-t-pc-7300-72/02.webp",
+      "thumbnail": "assets/photos/at-t-pc-7300-72/02-thumb.webp",
+      "original": "assets/photos/at-t-pc-7300-72/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/q/q9/q9rtwpp928eejni9.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/q9/q9rtwpp928eejni9.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/q/q9/q9rtwpp928eejni9.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "q9rtwpp928eejni9.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1838876,
+      "sha256": "417bc14fe605b9c3aed96ff569bd78e64c1d030e99ef371ca3eaec04994df3c6",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/at-t-pc-7300-72/03.webp",
+      "thumbnail": "assets/photos/at-t-pc-7300-72/03-thumb.webp",
+      "original": "assets/photos/at-t-pc-7300-72/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/y/yc/ycsccfpqwjeenef0.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/y/yc/ycsccfpqwjeenef0.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/y/yc/ycsccfpqwjeenef0.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "ycsccfpqwjeenef0.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 2103892,
+      "sha256": "f05d47482dde349a90351f4dba4957e3d1736350740cf013439d35248dada50c",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/at-t-pc-7300-72/04.webp",
+      "thumbnail": "assets/photos/at-t-pc-7300-72/04-thumb.webp",
+      "original": "assets/photos/at-t-pc-7300-72/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/u/uh/uhwfvxiefzgltmvt.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/uh/uhwfvxiefzgltmvt.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/u/uh/uhwfvxiefzgltmvt.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "uhwfvxiefzgltmvt.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 2073560,
+      "sha256": "a4283f9fd23f931dd23633fea9ca18fd8c17f84bebf49820941d63ded094a994",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/at-t-pc-7300-72/05.webp",
+      "thumbnail": "assets/photos/at-t-pc-7300-72/05-thumb.webp",
+      "original": "assets/photos/at-t-pc-7300-72/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/j/jh/jhdzs9m1fyukmbxh.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/j/jh/jhdzs9m1fyukmbxh.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/j/jh/jhdzs9m1fyukmbxh.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "jhdzs9m1fyukmbxh.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 2015935,
+      "sha256": "ddb9dfd464ac4fdae5767a77a1f669928d2ac77e4cf1d850c8dd1ba2d9c36d49",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "AT&T",
+    "en": "AT&T"
+  },
+  "brand": "AT&T",
+  "year": 1985,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "PC 7300",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "AT&T PC 7300",
+  "whereToSee": {
+    "ru": "Демо Витрина",
+    "en": "Demo display case"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/at-t-pc-7300-72/thumb-catalog.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:49+03:00",
+    "sourcePhotoCount": 5,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 5
+  }
+}

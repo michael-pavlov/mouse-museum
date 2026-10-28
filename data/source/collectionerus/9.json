@@ -1,0 +1,97 @@
+{
+  "sourceId": 9,
+  "source": "https://collectionerus.ru/collections/old-mice/9/",
+  "slug": "mouse-systems-proagio",
+  "sourceTitle": "Mouse Systems ProAgio Scroll Mouse",
+  "retrievedAt": "2026-10-27T22:22:46+03:00",
+  "sourcePageSha256": "723c8ebad25f6e52efdacaf375d28e9742ed7e6a0d0992fdb927ba0af0f9f3c9",
+  "descriptionHtml": "<div class=\"item-description\">\n<p>Первая мышь с колесиком</p>\n</div>",
+  "descriptionText": "Первая мышь с колесиком",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Mouse Systems",
+    "Год": "1995",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "PS/2",
+    "СССР": "нет",
+    "Где посмотреть": "Краснохолмская"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Mouse+Systems"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1995"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=PS%2F2"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%85%D0%BE%D0%BB%D0%BC%D1%81%D0%BA%D0%B0%D1%8F"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/7/7p/7p9gx82jbosbw53e.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/7/7p/7p9gx82jbosbw53e.JPG",
+      "originalName": "7p9gx82jbosbw53e.JPG",
+      "cacheFile": "photos/mouse-systems-proagio/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,0 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/3/36/36ihqx7qslwkfu4c.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/3/36/36ihqx7qslwkfu4c.JPG",
+      "originalName": "36ihqx7qslwkfu4c.JPG",
+      "cacheFile": "photos/mouse-systems-proagio/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,1 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/z/z7/z7tcz8fjukkg8unb.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/z7/z7tcz8fjukkg8unb.JPG",
+      "originalName": "z7tcz8fjukkg8unb.JPG",
+      "cacheFile": "photos/mouse-systems-proagio/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 1,8 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/d/dq/dqordc18y4ibuqos.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/d/dq/dqordc18y4ibuqos.JPG",
+      "originalName": "dqordc18y4ibuqos.JPG",
+      "cacheFile": "photos/mouse-systems-proagio/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 1,9 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/0/0e/0ewlpum5vj3yw5pb.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/0/0e/0ewlpum5vj3yw5pb.JPG",
+      "originalName": "0ewlpum5vj3yw5pb.JPG",
+      "cacheFile": "photos/mouse-systems-proagio/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 2,0 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/a/ap/apwjkwycxofbpr0m.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/a/ap/apwjkwycxofbpr0m.JPG",
+      "originalName": "apwjkwycxofbpr0m.JPG",
+      "cacheFile": "photos/mouse-systems-proagio/06.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,1 МБ"
+    }
+  ],
+  "itemFile": "content/mice/mouse-systems-proagio.json",
+  "previousPhotoCount": 6
+}

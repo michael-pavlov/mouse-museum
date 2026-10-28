@@ -1,0 +1,88 @@
+{
+  "sourceId": 6,
+  "source": "https://collectionerus.ru/collections/old-mice/6/",
+  "slug": "quadram-m4-6",
+  "sourceTitle": "Quadram M4",
+  "retrievedAt": "2026-10-27T22:22:43+03:00",
+  "sourcePageSha256": "c5d20a7480b40755d5ff22c4988c2b1384209e0804262e713a6d194e787e276a",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Quadram",
+    "Год": "1988",
+    "Способ позиционирования": "Оптический через коврик",
+    "Интерфейс": "COM",
+    "СССР": "нет",
+    "Где посмотреть": "Ближайший"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Quadram"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1988"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%D1%87%D0%B5%D1%80%D0%B5%D0%B7+%D0%BA%D0%BE%D0%B2%D1%80%D0%B8%D0%BA"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=COM"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%91%D0%BB%D0%B8%D0%B6%D0%B0%D0%B9%D1%88%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/a/aw/awkj5fwzjg8b9z3d.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/a/aw/awkj5fwzjg8b9z3d.JPG",
+      "originalName": "awkj5fwzjg8b9z3d.JPG",
+      "cacheFile": "photos/quadram-m4-6/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,0 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/9/94/9485day0jjnjgxri.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/9/94/9485day0jjnjgxri.JPG",
+      "originalName": "9485day0jjnjgxri.JPG",
+      "cacheFile": "photos/quadram-m4-6/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,7 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/j/je/jeyk0mqizine9aol.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/j/je/jeyk0mqizine9aol.JPG",
+      "originalName": "jeyk0mqizine9aol.JPG",
+      "cacheFile": "photos/quadram-m4-6/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,5 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/z/zw/zwqtnjnoz6mwmo5j.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/zw/zwqtnjnoz6mwmo5j.JPG",
+      "originalName": "zwqtnjnoz6mwmo5j.JPG",
+      "cacheFile": "photos/quadram-m4-6/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 2,3 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/f/fk/fknt8udlw7dbwu78.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/f/fk/fknt8udlw7dbwu78.JPG",
+      "originalName": "fknt8udlw7dbwu78.JPG",
+      "cacheFile": "photos/quadram-m4-6/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 1,9 МБ"
+    }
+  ],
+  "itemFile": "content/mice/quadram-m4-6.json",
+  "previousPhotoCount": 5
+}

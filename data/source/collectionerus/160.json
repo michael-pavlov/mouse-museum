@@ -1,0 +1,88 @@
+{
+  "sourceId": 160,
+  "source": "https://collectionerus.ru/collections/old-mice/160/",
+  "slug": "megatron-industriesensoric-mbio38-160",
+  "sourceTitle": "Megatron IndustrieSensoric MBIO38",
+  "retrievedAt": "2026-10-27T23:10:54+03:00",
+  "sourcePageSha256": "5977778a7955908f3e4b1d6748576d7c6258910fe333a354a8de9594e2e1e330",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Megatron IndustrieSensoric",
+    "Год": "2003",
+    "Способ позиционирования": "оптический (классика)",
+    "СССР": "нет",
+    "Производитель платы": "Cursor Controls",
+    "Где посмотреть": "Ближний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Megatron+IndustrieSensoric"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=2003"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Производитель платы": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel_platy=Cursor+Controls"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%91%D0%BB%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/5/5g/5/5g/5gxj3l3heqyqw0n5.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/5/5g/5gxj3l3heqyqw0n5.jpeg",
+      "originalName": "5gxj3l3heqyqw0n5.jpeg",
+      "cacheFile": "photos/megatron-industriesensoric-mbio38-160/01.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,4 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/0/02/0/02/02gfbtzx48d9yisa.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/0/02/02gfbtzx48d9yisa.jpeg",
+      "originalName": "02gfbtzx48d9yisa.jpeg",
+      "cacheFile": "photos/megatron-industriesensoric-mbio38-160/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,4 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/3/3o/3/3o/3onb0sfievyww4it.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/3/3o/3onb0sfievyww4it.jpeg",
+      "originalName": "3onb0sfievyww4it.jpeg",
+      "cacheFile": "photos/megatron-industriesensoric-mbio38-160/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,7 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/p/pd/p/pd/pdkmpt3ccljejbid.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/pd/pdkmpt3ccljejbid.jpeg",
+      "originalName": "pdkmpt3ccljejbid.jpeg",
+      "cacheFile": "photos/megatron-industriesensoric-mbio38-160/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,4 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/f/fv/f/fv/fvad0k5oz4h1f9m8.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/f/fv/fvad0k5oz4h1f9m8.jpeg",
+      "originalName": "fvad0k5oz4h1f9m8.jpeg",
+      "cacheFile": "photos/megatron-industriesensoric-mbio38-160/05.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,4 МБ"
+    }
+  ],
+  "itemFile": "content/mice/megatron-industriesensoric-mbio38-160.json",
+  "previousPhotoCount": 0
+}

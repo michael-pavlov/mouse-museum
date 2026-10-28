@@ -1,0 +1,48 @@
+{
+  "id": "telegram-128",
+  "slug": "telegram-128",
+  "title": {
+    "ru": "Процессор IBM 3090",
+    "en": "The IBM 3090 processor"
+  },
+  "date": "2025-02-11T05:28:01+00:00",
+  "source": "https://t.me/old_mice_and_hw/128",
+  "excerpt": {
+    "ru": "Несколько кристаллов на одной подложке: устройство процессорного модуля.",
+    "en": "Several dies on one substrate: a look at a processor module."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/telegram-128/01.webp",
+      "original": "assets/posts/telegram-128/01.jpg",
+      "source": "https://cdn4.telesco.pe/file/IcoiUuE-tRED0hzoAEUb2RKTrQ2xGsm4mNAWF1OQAv9FNm1-wxqZYtPRWiS1nek4oa1Y1NTlpfKCKnm_JvTs6Pk0hxGOqIkS576v452Z9HO3dkwIU3cm4aw_AoimXAT6BmzGwgNHAWWOj9I88pottcjD_eYBd49KT652fYz5IvbpGymXlBCcCBX1ldCfRClD-aQDGthyuun-1e6Wtr4HdWuDC7KgEYZQFEFMdC15B1KXIDpIszj-1Rju4u6hHeGZGW67UPEuCQm9SMSlLNZXJ6fTXp-J2TrqB8_Hi4fYSrOtGUS4IBDsFmWcjsKz9DKa2ueefyafeI0LYMYPjM7i4w.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/telegram-128/02.webp",
+      "original": "assets/posts/telegram-128/02.jpg",
+      "source": "https://cdn4.telesco.pe/file/bcjx2U_uB12r66sBAbnfUi9dUuQogeRMZ4sMqnFnvTs9ic23f2CA-MkxOTQrKzrpE2aeR7-X0gt3AI7IGJvmgN1t4klzTF7yAenfVOSqk_Ynms9iRA6pce5Ob2q5OUiWZ8bBxHQLq5OWE2TodMUMpMTaVFYI2yXn_iE8zfO9r5flP7CF-drWiFO4wcRD052hT-unQdDFHQLhEFRhODEUPOPKhFGlKDbPxUBEiMqac3nCJRHQdV-lK-UTllrtIqZpWCUY0Tf6sgINA5m2h5MWmkMPGpxuz_j0lfj7jPJtM_di39nct8o82k4y9sLvzHPd3WDYSiMsbwlwMg3KY8XUkA.jpg",
+      "width": 800,
+      "height": 599
+    },
+    {
+      "file": "assets/posts/telegram-128/03.webp",
+      "original": "assets/posts/telegram-128/03.jpg",
+      "source": "https://cdn4.telesco.pe/file/nyAlaSqf-2-5QDc15SHiLD43vp8NOG7q8_tSnr599rD3mDt8RC_5oPAimOx2LAkuR7A_qbGzd7f7CiORwpeyI13JqSrpijfgHGsbUg8J6Vyozl4g0ewdc2w4IummrrumjDdKzynw95k2PQB1DbkxSvM2t9fbEh-jnEyvsBF2sminZnH57wpxU3B4U2uC4gsZIPTqzPmf_Ip25IoS0vJPXUJPeZcyid-gHrn1KYikKpuDaC0Wga7pfIkEWJUnTNPRMSh8vrS_hvXgVW_SiEbooG9JwdOhLgk8YXXdXRm8eEn4Ab3LD88aT8KjBK-q-PDUvrb3cKxzCG_YmODBe5WXNQ.jpg",
+      "width": 800,
+      "height": 600
+    }
+  ],
+  "cover": "assets/posts/telegram-128/01.webp",
+  "relatedItems": [],
+  "category": "stories",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-128/ru.md",
+    "en": "content/posts/telegram-128/en.md"
+  }
+}

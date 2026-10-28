@@ -1,0 +1,138 @@
+{
+  "id": "MP-0146",
+  "slug": "mouse-systems-m3-146",
+  "title": {
+    "en": "Mouse Systems M3",
+    "ru": "Mouse Systems M3"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/146/",
+  "sourceProperties": {
+    "Производитель": "Mouse Systems",
+    "Год": "1986",
+    "Способ позиционирования": "оптический через коврик",
+    "СССР": "нет",
+    "Где посмотреть": "Ближайший"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/mouse-systems-m3-146/01-catalog.webp",
+      "thumbnail": "assets/photos/mouse-systems-m3-146/01-catalog-thumb.webp",
+      "original": "assets/photos/mouse-systems-m3-146/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/p/pe/p/pe/peaynnxlzoct7f5i.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/pe/peaynnxlzoct7f5i.jpg",
+      "originalFilename": "peaynnxlzoct7f5i.jpg",
+      "width": 1536,
+      "height": 1024,
+      "originalWidth": 1984,
+      "originalHeight": 1323,
+      "originalBytes": 1045965,
+      "sha256": "81c194d1379e8d49c73bff1a3caecda1e5e2eacde8ef6e547aa6e9023b808c81",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/mouse-systems-m3-146/02.webp",
+      "thumbnail": "assets/photos/mouse-systems-m3-146/02-thumb.webp",
+      "original": "assets/photos/mouse-systems-m3-146/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/e/eu/e/eu/eukckrdj0rcgtbu1.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/eu/eukckrdj0rcgtbu1.jpg",
+      "originalFilename": "eukckrdj0rcgtbu1.jpg",
+      "width": 1937,
+      "height": 1291,
+      "originalWidth": 1937,
+      "originalHeight": 1291,
+      "originalBytes": 1134181,
+      "sha256": "9deaa7a0b80b45fee4a6d9e3097588084810b1cf7f708dde1e2cc1be3c1d1bf3",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/mouse-systems-m3-146/03.webp",
+      "thumbnail": "assets/photos/mouse-systems-m3-146/03-thumb.webp",
+      "original": "assets/photos/mouse-systems-m3-146/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/n/nx/n/nx/nxade4no5xgrqjec.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/nx/nxade4no5xgrqjec.jpg",
+      "originalFilename": "nxade4no5xgrqjec.jpg",
+      "width": 2125,
+      "height": 1417,
+      "originalWidth": 2125,
+      "originalHeight": 1417,
+      "originalBytes": 1100929,
+      "sha256": "3f47c6a0ff7347c815d26c770e45749eeb4d469eaec25ab59bb081fe3251b797",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/mouse-systems-m3-146/04.webp",
+      "thumbnail": "assets/photos/mouse-systems-m3-146/04-thumb.webp",
+      "original": "assets/photos/mouse-systems-m3-146/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/j/je/j/je/jevukdklesb7woev.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/j/je/jevukdklesb7woev.jpg",
+      "originalFilename": "jevukdklesb7woev.jpg",
+      "width": 2125,
+      "height": 1417,
+      "originalWidth": 2125,
+      "originalHeight": 1417,
+      "originalBytes": 1094267,
+      "sha256": "1ba9115958c5faff2acf33ed65db5804da49cde1ccf44b8c546f3c42bed45d4e",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/mouse-systems-m3-146/05.webp",
+      "thumbnail": "assets/photos/mouse-systems-m3-146/05-thumb.webp",
+      "original": "assets/photos/mouse-systems-m3-146/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/t/td/t/td/tdlm8nbkxdubnp0k.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/td/tdlm8nbkxdubnp0k.jpg",
+      "originalFilename": "tdlm8nbkxdubnp0k.jpg",
+      "width": 2400,
+      "height": 1655,
+      "originalWidth": 2474,
+      "originalHeight": 1706,
+      "originalBytes": 1841038,
+      "sha256": "3dc1ceeb6467f5e1052abf618ad53734bb58c307e401e0dd137d918a7afd5a2b",
+      "caption": ""
+    }
+  ],
+  "thumbnail": "assets/photos/mouse-systems-m3-146/thumb-catalog.webp",
+  "order": 34,
+  "manufacturer": {
+    "ru": "Mouse Systems",
+    "en": "Mouse Systems"
+  },
+  "brand": "Mouse Systems",
+  "year": 1986,
+  "tracking": {
+    "key": "optical-pad",
+    "ru": "оптический через коврик",
+    "en": "Optical · special pad"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Mouse Systems M3",
+  "whereToSee": {
+    "ru": "Ближайший",
+    "en": "Nearest"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T22:22:45+03:00",
+    "sourcePhotoCount": 5,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 5
+  }
+}

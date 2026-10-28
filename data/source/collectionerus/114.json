@@ -1,0 +1,66 @@
+{
+  "sourceId": 114,
+  "source": "https://collectionerus.ru/collections/old-mice/114/",
+  "slug": "mouse-am-29-114",
+  "sourceTitle": "Mouse am-29",
+  "retrievedAt": "2026-10-27T23:10:51+03:00",
+  "sourcePageSha256": "ad0b2be62b7670952a1feeac79d5cd69f1ae1d63f3b7aba78b4fe44277ad0626",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Unknown",
+    "Год": "1994",
+    "Способ позиционирования": "оптический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Средний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Unknown"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1994"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/u/ur/u/ur/urhviabxmwwyzcbz.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/ur/urhviabxmwwyzcbz.jpg",
+      "originalName": "urhviabxmwwyzcbz.jpg",
+      "cacheFile": "photos/mouse-am-29-114/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3217×2145, 2,6 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/d/d7/d/d7/d7l10wa0himgnuti.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/d/d7/d7l10wa0himgnuti.jpg",
+      "originalName": "d7l10wa0himgnuti.jpg",
+      "cacheFile": "photos/mouse-am-29-114/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4174×2783, 3,4 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/o/oc/o/oc/ocbewjdk9zcfx2zq.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/o/oc/ocbewjdk9zcfx2zq.jpg",
+      "originalName": "ocbewjdk9zcfx2zq.jpg",
+      "cacheFile": "photos/mouse-am-29-114/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4124×2749, 3,7 МБ"
+    }
+  ],
+  "itemFile": "content/mice/mouse-am-29-114.json",
+  "previousPhotoCount": 0
+}

@@ -1,0 +1,74 @@
+{
+  "id": "telegram-68",
+  "slug": "telegram-68",
+  "title": {
+    "ru": "Penny & Giles M3/100",
+    "en": "Penny & Giles M3/100"
+  },
+  "date": "2024-06-24T18:36:05+00:00",
+  "source": "https://t.me/old_mice_and_hw/68",
+  "excerpt": {
+    "ru": "Латунная механика, отражающие энкодеры и переделка для Sinclair QL.",
+    "en": "Brass mechanics, reflective encoders and a Sinclair QL conversion."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/telegram-68/01.webp",
+      "original": "assets/posts/telegram-68/01.jpg",
+      "source": "https://cdn4.telesco.pe/file/ABXzrozYcFDD-WVZQ4kTXcSgweP1Jj_cfujTA-g9TPhtsziT9wza81-XE9hCJfISuIYOVdzfirATojjl7T8aeYNdUyGAUI9pp6XULNqmD6BnExJh4un1SGJIXzvMX-12iozw6u9I6UCibTqps5aDdj4As9wKiBBIGy8_xKRw4PpRQIi0IU0L5uM6JBMX_tkGKEd03a99KObJdZ4ZwTYcli4_DWfKWdQ5OSTjEUZhneLQ38Zu2msSuRdU40hRJoAY-63QWwBpYs-IJiHK6CCG9oVH-GGWXoDouRDR55ExN2vOadh285m8sFyvqJ_55rhWT_YbLIeuv_s7cBF6g969dw.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/telegram-68/02.webp",
+      "original": "assets/posts/telegram-68/02.jpg",
+      "source": "https://cdn4.telesco.pe/file/juPPPnGC6bJp_RrLRfUysM3bcEUBMfJJ_oB-WF0wkmcIDxRIkRyqDQQG2cuqZgkJoIfmBi7jnm9pOF00o78UQJfP0aEucQtyM8nrR8T_BLZtBg07YkNqSbIvG_39GzWfyjuqodcNcdOOxDM3LWZGXmX77WTNMKynlTbtV4KM4mvD3lyQPGKO4MFcDdg8Rr1Hnvv6_QJn9AQxAOhUUFdHrsAbQZx2rldTuUR5u7Owz4nSm4mKhzEjQxqWf_VehGzHucuUyumQv5gfob0oDUqq3XhbFNQSrFIK8nfwdPdhNYhnK0k7ne1fHhxLEiIVU8JZC8zPUwpyoKXq-xPjWnMmBg.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/telegram-68/03.webp",
+      "original": "assets/posts/telegram-68/03.jpg",
+      "source": "https://cdn4.telesco.pe/file/k1L-pkWMN-q2-qgaLZ_UHucF1N9f21sbwCaDLX5zC92ypHPOHxWeIQnOotXGkfsSHNCqZYuQrmMXZ1XInVWa2YASc4e8HoNuiLVGACPwxwQq3F5xmzIVHR7BvcnWPEoYZ4bQzX_CxocBHuxqaRuFHfnYImS3X2_b-lYJ9IlcSTDWXlQ0aXUtCf5gMhulGa-yvc8IYqUKw2bu15ICTH52mbTPbdyL17sXUcSZr5GQ9RDFwXEuT-tB643ePm5tBG0KxncIEYU3xbNbQyLXJLdYjacvA5anRUpTpyynhLCS1ccyJILjhKhdKqk-xvxsfotC23UHkHJ-3V1A_NhvASJXCg.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/telegram-68/04.webp",
+      "original": "assets/posts/telegram-68/04.jpg",
+      "source": "https://cdn4.telesco.pe/file/VUMpMj4KBDk4BPMdeJWVV07R-USIaDGixmaxO7Fh6QhTmhfZKwId6-uQZ7_H4_2qzrZUICte_GdOMku9DI5MrLUeNkMbhAdmPeqPYMLQLLB5QHbi-XBOFmozdhGsOEXCoLxg4hXAQOeyYzYZZkM0ZVqPtKHhvd8bIYfLEx3OT3XFbDrNkpee9nydk25R9YLDi6ddO3FYng9z2nSFzAJtJtjs0ByXiI_bsjVCC17SXek7XVujE-w3h4piksOw-uRGBj2MVRRb9__u_Yrk8h9L3VZrCUK6xCNI2ej4vHsxgOvvEcvZfitcIsNodmmfrWSlYmCicDKvTazA_onz3ZCqrw.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/telegram-68/05.webp",
+      "original": "assets/posts/telegram-68/05.jpg",
+      "source": "https://cdn4.telesco.pe/file/ItCpcuWdxTVamxEamVJ3VeQVGdHNrKFOJpRHXGJGlHBUJ2d9M1dSrfpug6z_dNz066N08Yp6zTVSLlXy_iVCgEY1zkz6blReG4tbJ5Cj52rYoayICMWNwXjiVii05LpNGL8PdFQddD94cW0IQBVt4nj2KDwi7FK-WFe-0bgUktHjUkFc39QWp0pa2qFanG4LJUmsXElwVmRMn00FdSUozpfnG7LTAGFucSrU3Gpfj0lXqJEqFgZHHS_N85C3fnyo8xNYwbkfN2lGHG14IJppgxx1EqbeteN1KZceK0Nd0jwQP28HggYpSU-yir3zz79GiUKdjbTkVT-y8JzXkUv8Kw.jpg",
+      "width": 800,
+      "height": 600
+    }
+  ],
+  "cover": "assets/posts/telegram-68/01.webp",
+  "relatedItems": [
+    "penny-giles-m3-100-for-acorn-a500-191",
+    "penny-giles-trackball-for-apricot-143"
+  ],
+  "category": "stories",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-68/ru.md",
+    "en": "content/posts/telegram-68/en.md"
+  },
+  "references": [
+    {
+      "url": "https://collectionerus.ru/collections/old-mice/191/",
+      "label": {
+        "ru": "Ссылка из оригинала 1",
+        "en": "Original reference 1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "MP-0092",
+  "slug": "genius-mouse-one-92",
+  "title": {
+    "en": "Genius Mouse One",
+    "ru": "Genius Mouse One"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/92/",
+  "sourceOrder": 127,
+  "order": 131,
+  "sourceProperties": {
+    "Производитель": "KYE Systems Corp",
+    "Год": "1995",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "COM",
+    "СССР": "нет",
+    "Где посмотреть": "Средний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/genius-mouse-one-92/01.webp",
+      "thumbnail": "assets/photos/genius-mouse-one-92/01-thumb.webp",
+      "original": "assets/photos/genius-mouse-one-92/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/z/z0/z0rbh1my59r0peld.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/z0/z0rbh1my59r0peld.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/z/z0/z0rbh1my59r0peld.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "z0rbh1my59r0peld.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3100,
+      "originalHeight": 2067,
+      "originalBytes": 1099094,
+      "sha256": "bf3e4e3e644ee24588843e6f35d7e2306c62b15582d24a0a3ec0606b5fb97d0f",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/genius-mouse-one-92/02.webp",
+      "thumbnail": "assets/photos/genius-mouse-one-92/02-thumb.webp",
+      "original": "assets/photos/genius-mouse-one-92/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/v/vy/vy02tzdq23vziwgb.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/vy/vy02tzdq23vziwgb.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/v/vy/vy02tzdq23vziwgb.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "vy02tzdq23vziwgb.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3100,
+      "originalHeight": 2067,
+      "originalBytes": 1515702,
+      "sha256": "7369cbd4c7fc99962a7aa96d43d096a96b79b696441ae85093ef5642b4f8c736",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/genius-mouse-one-92/03.webp",
+      "thumbnail": "assets/photos/genius-mouse-one-92/03-thumb.webp",
+      "original": "assets/photos/genius-mouse-one-92/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/e/ef/efazsy91ek641rb6.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/ef/efazsy91ek641rb6.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/e/ef/efazsy91ek641rb6.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "efazsy91ek641rb6.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3100,
+      "originalHeight": 2067,
+      "originalBytes": 1415162,
+      "sha256": "2842efd3c057e3feb8d2af6641dcf0c3bc54ff550e5c3c8f704dbe3398c02e36",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/genius-mouse-one-92/04.webp",
+      "thumbnail": "assets/photos/genius-mouse-one-92/04-thumb.webp",
+      "original": "assets/photos/genius-mouse-one-92/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/1/1q/1qqwbw4nbdko77wd.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/1/1q/1qqwbw4nbdko77wd.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/1/1q/1qqwbw4nbdko77wd.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "1qqwbw4nbdko77wd.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3100,
+      "originalHeight": 2067,
+      "originalBytes": 1247436,
+      "sha256": "048542a3c60b9fffacc967bd58a5b3cc5e0d32765ecb40ec6870f7dca62d9a31",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "KYE Systems Corp",
+    "en": "KYE Systems Corp"
+  },
+  "brand": "KYE Systems Corp",
+  "year": 1995,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "COM",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Genius Mouse One",
+  "whereToSee": {
+    "ru": "Средний",
+    "en": "Middle"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/genius-mouse-one-92/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:51+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 4
+  }
+}

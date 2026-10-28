@@ -1,0 +1,66 @@
+{
+  "sourceId": 150,
+  "source": "https://collectionerus.ru/collections/old-mice/150/",
+  "slug": "fellowes-mouse-150",
+  "sourceTitle": "Fellowes mouse",
+  "retrievedAt": "2026-10-27T23:10:53+03:00",
+  "sourcePageSha256": "30f9695c30c6ea948dbb1f20319c40c66f5c07ad7c7f41066a4bbfd11ddfb21e",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Fellowes Inc",
+    "Год": "1994",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Средний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Fellowes+Inc"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1994"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/e/es/e/es/es4vodisywecckan.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/es/es4vodisywecckan.jpg",
+      "originalName": "es4vodisywecckan.jpg",
+      "cacheFile": "photos/fellowes-mouse-150/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "2125×1417, 938,1 КБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/h/hx/h/hx/hxa2nhxxkenawybf.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hx/hxa2nhxxkenawybf.jpg",
+      "originalName": "hxa2nhxxkenawybf.jpg",
+      "cacheFile": "photos/fellowes-mouse-150/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3318×2212, 2,3 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/d/da/d/da/dafsxkgsdgvsdrmr.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/d/da/dafsxkgsdgvsdrmr.jpg",
+      "originalName": "dafsxkgsdgvsdrmr.jpg",
+      "cacheFile": "photos/fellowes-mouse-150/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3062×2041, 2,4 МБ"
+    }
+  ],
+  "itemFile": "content/mice/fellowes-mouse-150.json",
+  "previousPhotoCount": 0
+}

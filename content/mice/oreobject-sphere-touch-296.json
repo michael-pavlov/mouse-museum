@@ -1,0 +1,118 @@
+{
+  "id": "MP-0296",
+  "slug": "oreobject-sphere-touch-296",
+  "title": {
+    "en": "OreObject Sphere touch",
+    "ru": "OreObject Sphere touch"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/296/",
+  "sourceOrder": 291,
+  "order": 292,
+  "sourceProperties": {
+    "Год": "2011",
+    "Способ позиционирования": "оптический (классика)",
+    "Интерфейс": "USB",
+    "СССР": "нет",
+    "Где посмотреть": "Ближайший"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/oreobject-sphere-touch-296/01.webp",
+      "thumbnail": "assets/photos/oreobject-sphere-touch-296/01-thumb.webp",
+      "original": "assets/photos/oreobject-sphere-touch-296/originals/01.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/c/cb/c/cb/cbazhurrahjclc4c.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/cb/cbazhurrahjclc4c.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/c/cb/cbazhurrahjclc4c.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "cbazhurrahjclc4c.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1339205,
+      "sha256": "e89ca231accc40bce1e446607cfad242c1f2be1d97512b31ab17f8b3cc0e96c9",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/oreobject-sphere-touch-296/02.webp",
+      "thumbnail": "assets/photos/oreobject-sphere-touch-296/02-thumb.webp",
+      "original": "assets/photos/oreobject-sphere-touch-296/originals/02.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/p/ps/p/ps/psfxtfsynu2fpeda.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/ps/psfxtfsynu2fpeda.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/p/ps/psfxtfsynu2fpeda.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "psfxtfsynu2fpeda.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1557634,
+      "sha256": "294abe4c33ac9916dbab0159972a0dbef422b87debfb22b0b36fcbce038672fe",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/oreobject-sphere-touch-296/03.webp",
+      "thumbnail": "assets/photos/oreobject-sphere-touch-296/03-thumb.webp",
+      "original": "assets/photos/oreobject-sphere-touch-296/originals/03.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/i/i7/i/i7/i7leprj2sckfmbwr.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/i7/i7leprj2sckfmbwr.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/i/i7/i7leprj2sckfmbwr.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "i7leprj2sckfmbwr.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1510277,
+      "sha256": "2bd2207aac39d5cc416359ec7c6b99bc8bd42bd29bada9e08d176717da4aa36a",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Не указан",
+    "en": "Not recorded"
+  },
+  "brand": "Unknown",
+  "year": 2011,
+  "tracking": {
+    "key": "optical",
+    "ru": "оптический (классика)",
+    "en": "Optical"
+  },
+  "interface": "USB",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "OreObject Sphere touch",
+  "whereToSee": {
+    "ru": "Ближайший",
+    "en": "Nearest"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/oreobject-sphere-touch-296/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:11:02+03:00",
+    "sourcePhotoCount": 3,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 3
+  }
+}

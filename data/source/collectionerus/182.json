@@ -1,0 +1,93 @@
+{
+  "sourceId": 182,
+  "source": "https://collectionerus.ru/collections/old-mice/182/",
+  "slug": "info-mouse-ms-10-182",
+  "sourceTitle": "Info Mouse MS-10",
+  "retrievedAt": "2026-10-27T23:10:55+03:00",
+  "sourcePageSha256": "f3156c85fc596a53f9fa483dbfb786e46942ec653165b7171d82ab0a65d599bd",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Primax Electronics Ltd",
+    "Год": "1990",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Primax+Electronics+Ltd"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1990"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/c/cn/c/cn/cnebasqukdm0lx34.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/cn/cnebasqukdm0lx34.jpeg",
+      "originalName": "cnebasqukdm0lx34.jpeg",
+      "cacheFile": "photos/info-mouse-ms-10-182/01.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,0 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/l/lq/l/lq/lqszj2wg9l2tznhh.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/l/lq/lqszj2wg9l2tznhh.jpeg",
+      "originalName": "lqszj2wg9l2tznhh.jpeg",
+      "cacheFile": "photos/info-mouse-ms-10-182/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,2 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/k/kd/k/kd/kdxyklnioy9wwlis.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/kd/kdxyklnioy9wwlis.jpeg",
+      "originalName": "kdxyklnioy9wwlis.jpeg",
+      "cacheFile": "photos/info-mouse-ms-10-182/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,3 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/y/y2/y/y2/y2rkyc7sunw9jykp.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/y/y2/y2rkyc7sunw9jykp.jpeg",
+      "originalName": "y2rkyc7sunw9jykp.jpeg",
+      "cacheFile": "photos/info-mouse-ms-10-182/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,4 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/n/na/n/na/naeefswtfxdhxifb.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/na/naeefswtfxdhxifb.jpeg",
+      "originalName": "naeefswtfxdhxifb.jpeg",
+      "cacheFile": "photos/info-mouse-ms-10-182/05.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,7 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/i/ij/i/ij/ijhr5fifidh2fm7v.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/ij/ijhr5fifidh2fm7v.jpeg",
+      "originalName": "ijhr5fifidh2fm7v.jpeg",
+      "cacheFile": "photos/info-mouse-ms-10-182/06.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,6 МБ"
+    }
+  ],
+  "itemFile": "content/mice/info-mouse-ms-10-182.json",
+  "previousPhotoCount": 0
+}

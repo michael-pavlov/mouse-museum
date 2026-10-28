@@ -1,0 +1,66 @@
+{
+  "id": "telegram-45",
+  "slug": "telegram-45",
+  "title": {
+    "ru": "Hi-Bon Optical Laser Mouse",
+    "en": "Hi-Bon Optical Laser Mouse"
+  },
+  "date": "2023-09-10T12:16:51+00:00",
+  "source": "https://t.me/old_mice_and_hw/45",
+  "excerpt": {
+    "ru": "Инфракрасные световоды, специальный коврик и три аппаратных режима.",
+    "en": "Infrared light guides, a special pad and three hardware operating modes."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/telegram-45/01.webp",
+      "original": "assets/posts/telegram-45/01.jpg",
+      "source": "https://cdn4.telesco.pe/file/ayXy2Q2odFATIC9cN7I4iwqO4lpXC6LWrCkRVfZH6-noAIz8hFsp99jsA2EkT17MnH4WwhE4FlI3JYFTKvZOZtBjXlV9mMP01KqLNze67wi9_Z3W4DczfId08Y1umdy_U86xjFUJLzkXIhQRJx7vnIgyAaSf7udxjLOF_plwSBQpHRVvJY6fSx5GRI9oVoWx5B143kjqZFOmb9i0QyR1Aj1_GeBZqplzuDlr_Isf46sAH050txAztqpe33do2znUZPP-ZX98wakEk-XzhAPeTmnSjRgCYmNjM0MwUjbq7lPF6E0OBsR7TWCLg9ZZZYu5mKTuW0WX_AE2DFHYSlB7MA.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/telegram-45/02.webp",
+      "original": "assets/posts/telegram-45/02.jpg",
+      "source": "https://cdn4.telesco.pe/file/Ahm8SAWIRGevE2xZ_z4Z1K4PIvpw3TyOr5zzDzhA8M63toSAbMmRkrig2ZbmEMVkfBB6VdF3T2CJrUz3juulid_wIfAKU40lMtcCp345nJ79y5p2rBlnYrpKm3XWzCkTUH7mps-VUPRxfszXVCFgtIV7PmukmPcww7rtUqAFxVP-D5VUy6RXNLCx1NadJ6DeBbFn27ksV2qEypv9-I9kGfQLPx-c8KQ5w7CHRcZPKJDQyEHZruhr4QLoyb3JDfXuKu8GKC98Nk9TAiozNpGHsJIEN0i5LMp0plbxVYNhc3zVB3JSFjGCoJSG9LIhjUY9k6y-YJV4WLAg262phwlsaA.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/telegram-45/03.webp",
+      "original": "assets/posts/telegram-45/03.jpg",
+      "source": "https://cdn4.telesco.pe/file/cqV-38s-2O5YyiiQVXz9U_1Ak2deMzCvaU8-6prLkP07RLmXgJj1_GseYTMmjyovofrJVZ1EQbNeTA5tz6lpqR2YrSISNZe89XSzDBO-zo65V96xFFnUvN_S_0rSkupu3JPliO35jgNxTlkSyKJwxSK1w8g6gqIuB7dMyIsEshbMYFh81BESa61Y3rWvz8WYmGu0QY4Xlk30FeyyAXj8lnagUYngkOIxayi9pLIoPoParqwb7lGhgq_YV9aY6DY17eYbquVzKF0dlFaqUGj2jSBitMvkLnUA1C01R-8HGEBEw6wE89PEwoJ-y2R6txPUBF8xN-O25Tbb_HEd8y_Lew.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/telegram-45/04.webp",
+      "original": "assets/posts/telegram-45/04.jpg",
+      "source": "https://cdn4.telesco.pe/file/KwC2PezA6rX8r9Ej3PWlLzIQ7BMzVejxh8OJYl8SlvqP-QbCdmUb_YvGRrm2EoBiQZoX1CphiNhFfVWVeNYUuLde9YH0eFIjj7Fqs5d1R_dwjOma84bCKBfSCr8taBzAA1dheWRsErlBzfqrEGo5qyaiUBDeqOsfq9aSkyTgP4Bk7z9dTQRCvnqlWVQt_41_uIzSoyAl1-nVLs-jf2PF5aMumQdnjs2l1_6y3chI4jLk9L9B96ucShUABAssKnq7mwq0uA7NsAmk77Or5G0HUUkUACHYFMQs5tBvS572XWToGi7WpXmqjHA9fckeG-eOKxLFR1Ti5iOYgVsp7R-boQ.jpg",
+      "width": 800,
+      "height": 600
+    }
+  ],
+  "cover": "assets/posts/telegram-45/01.webp",
+  "relatedItems": [
+    "hi-bon-optical-laser-mouse-159"
+  ],
+  "category": "stories",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-45/ru.md",
+    "en": "content/posts/telegram-45/en.md"
+  },
+  "references": [
+    {
+      "url": "https://collectionerus.ru/collections/old-mice/159/",
+      "label": {
+        "ru": "Ссылка из оригинала 1",
+        "en": "Original reference 1"
+      }
+    }
+  ]
+}

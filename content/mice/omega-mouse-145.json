@@ -1,0 +1,118 @@
+{
+  "id": "MP-0145",
+  "slug": "omega-mouse-145",
+  "title": {
+    "en": "Omega mouse",
+    "ru": "Omega mouse"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/145/",
+  "sourceOrder": 167,
+  "order": 170,
+  "sourceProperties": {
+    "Производитель": "Tremon Enterprises Co Ltd",
+    "Год": "1993",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/omega-mouse-145/01.webp",
+      "thumbnail": "assets/photos/omega-mouse-145/01-thumb.webp",
+      "original": "assets/photos/omega-mouse-145/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/n/nz/n/nz/nznkwtjce31axifk.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/nz/nznkwtjce31axifk.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/n/nz/nznkwtjce31axifk.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "nznkwtjce31axifk.jpg",
+      "width": 2125,
+      "height": 1417,
+      "originalWidth": 2125,
+      "originalHeight": 1417,
+      "originalBytes": 1073883,
+      "sha256": "782a70aeb6011837ec043bfbac8441f06d540306162e3043e33b27271ef12c08",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/omega-mouse-145/02.webp",
+      "thumbnail": "assets/photos/omega-mouse-145/02-thumb.webp",
+      "original": "assets/photos/omega-mouse-145/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/u/uw/u/uw/uwniosz48bvhvn5y.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/uw/uwniosz48bvhvn5y.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/u/uw/uwniosz48bvhvn5y.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "uwniosz48bvhvn5y.jpg",
+      "width": 2125,
+      "height": 1417,
+      "originalWidth": 2125,
+      "originalHeight": 1417,
+      "originalBytes": 1023084,
+      "sha256": "7c55c413b290b098b1ec8dacbf43baf5aaaa8de3d6083d9f0986f2d05884ae71",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/omega-mouse-145/03.webp",
+      "thumbnail": "assets/photos/omega-mouse-145/03-thumb.webp",
+      "original": "assets/photos/omega-mouse-145/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/n/nj/n/nj/njboif8zk3h8vksq.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/nj/njboif8zk3h8vksq.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/n/nj/njboif8zk3h8vksq.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "njboif8zk3h8vksq.jpg",
+      "width": 2125,
+      "height": 1417,
+      "originalWidth": 2125,
+      "originalHeight": 1417,
+      "originalBytes": 1152556,
+      "sha256": "f492e3da1757278e2fc746f9b6c33157e6c572dac431e48ff906e7d6ceacef6b",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Tremon Enterprises Co Ltd",
+    "en": "Tremon Enterprises Co Ltd"
+  },
+  "brand": "Tremon Enterprises Co Ltd",
+  "year": 1993,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Omega mouse",
+  "whereToSee": {
+    "ru": "Дальний",
+    "en": "Far"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/omega-mouse-145/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:53+03:00",
+    "sourcePhotoCount": 3,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 3
+  }
+}

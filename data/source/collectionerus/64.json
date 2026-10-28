@@ -1,0 +1,101 @@
+{
+  "sourceId": 64,
+  "source": "https://collectionerus.ru/collections/old-mice/64/",
+  "slug": "genius-mymouse-optical-rev-1-3-64",
+  "sourceTitle": "Genius MyMouse Optical rev 1.3",
+  "retrievedAt": "2026-10-27T22:22:39+03:00",
+  "sourcePageSha256": "2d861ed8a6a24eb6329d1e403216f01637c4f57f4004457e522a707641fda11a",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Genius",
+    "Год": "1997",
+    "Способ позиционирования": "Оптический через коврик",
+    "Интерфейс": "COM",
+    "СССР": "нет",
+    "Где посмотреть": "Средний",
+    "Обменный фонд": "есть 1"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Genius"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1997"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%D1%87%D0%B5%D1%80%D0%B5%D0%B7+%D0%BA%D0%BE%D0%B2%D1%80%D0%B8%D0%BA"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=COM"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9"
+    ],
+    "Обменный фонд": [
+      "https://collectionerus.ru/collections/old-mice/?obmennyi_fond=%D0%B5%D1%81%D1%82%D1%8C+1"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/w/wc/wcke6f25p3ijxjfq.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/wc/wcke6f25p3ijxjfq.JPG",
+      "originalName": "wcke6f25p3ijxjfq.JPG",
+      "cacheFile": "photos/genius-mymouse-optical-rev-1-3-64/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,2 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/y/yj/yjjo1zkukicu5bll.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/y/yj/yjjo1zkukicu5bll.JPG",
+      "originalName": "yjjo1zkukicu5bll.JPG",
+      "cacheFile": "photos/genius-mymouse-optical-rev-1-3-64/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,3 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/r/rx/rxrhqq7npnljsdvr.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/rx/rxrhqq7npnljsdvr.JPG",
+      "originalName": "rxrhqq7npnljsdvr.JPG",
+      "cacheFile": "photos/genius-mymouse-optical-rev-1-3-64/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,1 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/h/hk/hkdj102dfvvawixq.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hk/hkdj102dfvvawixq.JPG",
+      "originalName": "hkdj102dfvvawixq.JPG",
+      "cacheFile": "photos/genius-mymouse-optical-rev-1-3-64/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 1,8 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/c/cf/cfnhidjajikznhbi.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/cf/cfnhidjajikznhbi.JPG",
+      "originalName": "cfnhidjajikznhbi.JPG",
+      "cacheFile": "photos/genius-mymouse-optical-rev-1-3-64/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 1,7 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/n/ni/niswq4djlztdweue.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/ni/niswq4djlztdweue.JPG",
+      "originalName": "niswq4djlztdweue.JPG",
+      "cacheFile": "photos/genius-mymouse-optical-rev-1-3-64/06.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 2,2 МБ"
+    }
+  ],
+  "itemFile": "content/mice/genius-mymouse-optical-rev-1-3-64.json",
+  "previousPhotoCount": 6
+}

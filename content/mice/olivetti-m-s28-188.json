@@ -1,0 +1,190 @@
+{
+  "id": "MP-0188",
+  "slug": "olivetti-m-s28-188",
+  "title": {
+    "en": "Olivetti M-S28",
+    "ru": "Olivetti M-S28"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/188/",
+  "sourceOrder": 200,
+  "order": 203,
+  "sourceProperties": {
+    "Производитель": "Logitech",
+    "Год": "1993",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Средний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/olivetti-m-s28-188/01.webp",
+      "thumbnail": "assets/photos/olivetti-m-s28-188/01-thumb.webp",
+      "original": "assets/photos/olivetti-m-s28-188/originals/01.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/k/kn/k/kn/knupi7scyvbw88in.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/kn/knupi7scyvbw88in.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/k/kn/knupi7scyvbw88in.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "knupi7scyvbw88in.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1180158,
+      "sha256": "c80c0c2c209d58cf4c5cbfa75a4b8826e19db746dff886a63f52b747c92c335c",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/olivetti-m-s28-188/02.webp",
+      "thumbnail": "assets/photos/olivetti-m-s28-188/02-thumb.webp",
+      "original": "assets/photos/olivetti-m-s28-188/originals/02.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/9/9n/9/9n/9nj6i4dvchis2mfw.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/9/9n/9nj6i4dvchis2mfw.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/9/9n/9nj6i4dvchis2mfw.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "9nj6i4dvchis2mfw.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1414857,
+      "sha256": "c18cfff1d52fa5fbaddcc60dbc19473703a4a794a7a4db755a7574ff1586dd17",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/olivetti-m-s28-188/03.webp",
+      "thumbnail": "assets/photos/olivetti-m-s28-188/03-thumb.webp",
+      "original": "assets/photos/olivetti-m-s28-188/originals/03.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/a/ad/a/ad/adupbdtmwrwcicsa.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/a/ad/adupbdtmwrwcicsa.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/a/ad/adupbdtmwrwcicsa.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "adupbdtmwrwcicsa.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1415510,
+      "sha256": "30d937ea2f315b3c5a7b9e3149b662e2393d119e7afda231f1ad20e086115040",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/olivetti-m-s28-188/04.webp",
+      "thumbnail": "assets/photos/olivetti-m-s28-188/04-thumb.webp",
+      "original": "assets/photos/olivetti-m-s28-188/originals/04.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/m/m4/m/m4/m4odycwqfaa2sr6i.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/m/m4/m4odycwqfaa2sr6i.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/m/m4/m4odycwqfaa2sr6i.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "m4odycwqfaa2sr6i.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1478955,
+      "sha256": "0f7a39849321173685a34a378c39b123e5dbdb253ff2f32fcc2e9c6ceb5acff0",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/olivetti-m-s28-188/05.webp",
+      "thumbnail": "assets/photos/olivetti-m-s28-188/05-thumb.webp",
+      "original": "assets/photos/olivetti-m-s28-188/originals/05.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/h/hl/h/hl/hlkpadjwaqzsr7hq.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hl/hlkpadjwaqzsr7hq.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/h/hl/hlkpadjwaqzsr7hq.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "hlkpadjwaqzsr7hq.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1771260,
+      "sha256": "64ca92f782c44808c9d9b085d2ef4cab976e9677340b7c9816e9a978e9424f43",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/olivetti-m-s28-188/06.webp",
+      "thumbnail": "assets/photos/olivetti-m-s28-188/06-thumb.webp",
+      "original": "assets/photos/olivetti-m-s28-188/originals/06.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/5/56/5/56/56uh23yspyd5a1zg.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/5/56/56uh23yspyd5a1zg.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/5/56/56uh23yspyd5a1zg.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "56uh23yspyd5a1zg.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1657259,
+      "sha256": "eda1c009a21c88ae0d921ead6a6cc728aed7a56bc89e8054a2de8a44b8bce679",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/olivetti-m-s28-188/07.webp",
+      "thumbnail": "assets/photos/olivetti-m-s28-188/07-thumb.webp",
+      "original": "assets/photos/olivetti-m-s28-188/originals/07.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/u/us/u/us/ushh9f4u8pb75fx7.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/us/ushh9f4u8pb75fx7.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/u/us/ushh9f4u8pb75fx7.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "ushh9f4u8pb75fx7.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1672559,
+      "sha256": "921cfff4ea45400609bcd27ef8c07a65585a07b7014c0e1c02fe233488236805",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Logitech",
+    "en": "Logitech"
+  },
+  "brand": "Logitech",
+  "year": 1993,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Olivetti M-S28",
+  "whereToSee": {
+    "ru": "Средний",
+    "en": "Middle"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/olivetti-m-s28-188/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:55+03:00",
+    "sourcePhotoCount": 7,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 7
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "sourceId": 70,
+  "source": "https://collectionerus.ru/collections/old-mice/70/",
+  "slug": "ibm-00f2383-70",
+  "sourceTitle": "IBM 00F2383",
+  "retrievedAt": "2026-10-27T23:10:49+03:00",
+  "sourcePageSha256": "d707e2c671d4256c28b166b84333f1ad93a6e5c8530fe91520ab99272d301454",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "IBM",
+    "Год": "1986",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "PC/RT",
+    "СССР": "нет",
+    "Где посмотреть": "Краснохолмская"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=IBM"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1986"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=PC%2FRT"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%85%D0%BE%D0%BB%D0%BC%D1%81%D0%BA%D0%B0%D1%8F"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/w/w1/w1ki7akur0moogul.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/w1/w1ki7akur0moogul.JPG",
+      "originalName": "w1ki7akur0moogul.JPG",
+      "cacheFile": "photos/ibm-00f2383-70/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3300×2200, 1,3 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/a/am/amy1bb5hodbmlwsl.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/a/am/amy1bb5hodbmlwsl.JPG",
+      "originalName": "amy1bb5hodbmlwsl.JPG",
+      "cacheFile": "photos/ibm-00f2383-70/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,2 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/o/od/od6d3c1n8hykqykh.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/o/od/od6d3c1n8hykqykh.JPG",
+      "originalName": "od6d3c1n8hykqykh.JPG",
+      "cacheFile": "photos/ibm-00f2383-70/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4896×3264, 5,1 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/i/ia/ia44u7tld7vpr2uj.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/ia/ia44u7tld7vpr2uj.JPG",
+      "originalName": "ia44u7tld7vpr2uj.JPG",
+      "cacheFile": "photos/ibm-00f2383-70/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3204×2134, 1,7 МБ"
+    }
+  ],
+  "itemFile": "content/mice/ibm-00f2383-70.json",
+  "previousPhotoCount": 0
+}

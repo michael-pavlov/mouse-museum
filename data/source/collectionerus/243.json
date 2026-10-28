@@ -1,0 +1,72 @@
+{
+  "sourceId": 243,
+  "source": "https://collectionerus.ru/collections/old-mice/243/",
+  "slug": "dashine-ams-1068-243",
+  "sourceTitle": "Dashine AMS-1068",
+  "retrievedAt": "2026-10-27T23:10:58+03:00",
+  "sourcePageSha256": "566ebc65ebcfbb59482a3267538cec228ebe979b06f8805551879dcc218e6645",
+  "descriptionHtml": "<div class=\"item-description\">\n<p>PlayStation 1</p>\n</div>",
+  "descriptionText": "PlayStation 1",
+  "externalLinks": [],
+  "properties": {
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "propertyLinks": {
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/x/xk/x/xk/xk3rlq7hkquhl1xa.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/xk/xk3rlq7hkquhl1xa.jpeg",
+      "originalName": "xk3rlq7hkquhl1xa.jpeg",
+      "cacheFile": "photos/dashine-ams-1068-243/01.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 979,8 КБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/u/um/u/um/umawxczlbyx9ruav.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/um/umawxczlbyx9ruav.jpeg",
+      "originalName": "umawxczlbyx9ruav.jpeg",
+      "cacheFile": "photos/dashine-ams-1068-243/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 885,0 КБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/l/lz/l/lz/lzlctd1lnd6fkncc.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/l/lz/lzlctd1lnd6fkncc.jpeg",
+      "originalName": "lzlctd1lnd6fkncc.jpeg",
+      "cacheFile": "photos/dashine-ams-1068-243/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 886,8 КБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/i/ix/i/ix/ixi6v2rcnfmopaco.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/ix/ixi6v2rcnfmopaco.jpeg",
+      "originalName": "ixi6v2rcnfmopaco.jpeg",
+      "cacheFile": "photos/dashine-ams-1068-243/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 872,7 КБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/i/ik/i/ik/ikqmkwiaobhv1lov.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/ik/ikqmkwiaobhv1lov.jpeg",
+      "originalName": "ikqmkwiaobhv1lov.jpeg",
+      "cacheFile": "photos/dashine-ams-1068-243/05.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,2 МБ"
+    }
+  ],
+  "itemFile": "content/mice/dashine-ams-1068-243.json",
+  "previousPhotoCount": 0
+}

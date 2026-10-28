@@ -1,0 +1,138 @@
+{
+  "id": "MP-0029",
+  "slug": "logitech-p7-3f-29",
+  "title": {
+    "en": "Logitech P7-3F",
+    "ru": "Logitech P7-3F"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/29/",
+  "sourceOrder": 65,
+  "order": 75,
+  "sourceProperties": {
+    "Производитель": "Logitech",
+    "Год": "1986",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "COM",
+    "СССР": "нет",
+    "Производитель платы": "DigiMouse",
+    "Где посмотреть": "Демо Стол"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/logitech-p7-3f-29/01-catalog.webp",
+      "thumbnail": "assets/photos/logitech-p7-3f-29/01-catalog-thumb.webp",
+      "original": "assets/photos/logitech-p7-3f-29/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/d/dx/dxy7lmzidbbkvpkk.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/d/dx/dxy7lmzidbbkvpkk.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/d/dx/dxy7lmzidbbkvpkk.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "dxy7lmzidbbkvpkk.JPG",
+      "width": 1536,
+      "height": 1024,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1185902,
+      "sha256": "c78d5416371268f0f649372e8a594781c5597bf2beb73b6a21a9883536982949",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/logitech-p7-3f-29/02.webp",
+      "thumbnail": "assets/photos/logitech-p7-3f-29/02-thumb.webp",
+      "original": "assets/photos/logitech-p7-3f-29/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/p/pg/pg4du6gcegkcseba.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/pg/pg4du6gcegkcseba.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/p/pg/pg4du6gcegkcseba.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "pg4du6gcegkcseba.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1541902,
+      "sha256": "246b12ce2017f8f9ee18423c1a0eb16e3027c146790b322d241e96a360e9df01",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/logitech-p7-3f-29/03.webp",
+      "thumbnail": "assets/photos/logitech-p7-3f-29/03-thumb.webp",
+      "original": "assets/photos/logitech-p7-3f-29/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/q/qo/qombkeoatyuhketl.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qo/qombkeoatyuhketl.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/q/qo/qombkeoatyuhketl.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "qombkeoatyuhketl.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1852331,
+      "sha256": "1f4f8f3f374c714469a4ffd9619a4c01876588b76de7599d52f8ad370c282ec8",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/logitech-p7-3f-29/04.webp",
+      "thumbnail": "assets/photos/logitech-p7-3f-29/04-thumb.webp",
+      "original": "assets/photos/logitech-p7-3f-29/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/f/fd/fd1pomkqta19kfgi.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/f/fd/fd1pomkqta19kfgi.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/f/fd/fd1pomkqta19kfgi.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "fd1pomkqta19kfgi.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2553907,
+      "sha256": "6a9bc96f2f0529ec072830f0c66d19192661bd0dd97437289e789a0bcdc8a2f5",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Logitech",
+    "en": "Logitech"
+  },
+  "brand": "Logitech",
+  "year": 1986,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "COM",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Logitech P7-3F",
+  "whereToSee": {
+    "ru": "Демо Стол",
+    "en": "Demo table"
+  },
+  "boardManufacturer": {
+    "ru": "DigiMouse",
+    "en": "DigiMouse"
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/logitech-p7-3f-29/thumb-catalog.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:47+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 7,
+    "availableOriginals": 4
+  }
+}

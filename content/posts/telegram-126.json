@@ -1,0 +1,41 @@
+{
+  "id": "telegram-126",
+  "slug": "telegram-126",
+  "title": {
+    "ru": "Ферритовая память «Минск-32»",
+    "en": "Minsk-32 magnetic-core memory"
+  },
+  "date": "2025-02-04T07:16:01+00:00",
+  "source": "https://t.me/old_mice_and_hw/126",
+  "excerpt": {
+    "ru": "Как устроен куб памяти и что хранит одна рамка «Минск-32».",
+    "en": "How a memory cube works and what one Minsk-32 core plane stores."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/telegram-126/01.webp",
+      "original": "assets/posts/telegram-126/01.jpg",
+      "source": "https://cdn4.telesco.pe/file/Ct0zjl0RvdaZrWUpVlZu-Xr8ClfLtaZm_tGThcVACmawo_Nk55SpQ09tq4CzMNHbZL4PKno3dfKWoTd_zn9rGHV_cy69FhF48czrnjtTni53XD6pabs47WPoTF2uG_xfoeIrGAONdB3w9WmFrzar4YVgNQYjt5oDb-HQWAj5nVtr6EPJHTnDzwfmHO8tod47yK2D0mntRHqGe2eLrYump8tmn479V2cjp-Hk3lIax-314xKcyOF7uEeC_dcJ6rEIffYxG5CSnRQqGFjh_Yeiv2Wql7u6mU_MLLvgFb79kibGyM5hRzz6SXdDplXu1N1AAdutR33ECMFGNvJ3dYl4sg.jpg",
+      "width": 800,
+      "height": 762
+    },
+    {
+      "file": "assets/posts/telegram-126/02.webp",
+      "original": "assets/posts/telegram-126/02.jpg",
+      "source": "https://cdn4.telesco.pe/file/uBrCpkOjI96vGaxjuxpkg1nGgkyaT4oIQ7we_JDK7U_VQtZbVDEhbR1JQuK7X9MY4dJuBB4J9M1lMyGAjTMVWHnmzWCNt3g-3aVIAMPmR5RtoUcLG12nFIa_iRR4xoGuMFup0m7e6l8lr8qM1I_VC44ylo0vKsNVcdBcMz8J4jWVwR7K1UsFzeoGbozStymqctpeYiWPMP62BF3ZWwBOKkjShkXm6TC89hVwMmVq9VOOcbOzvxm55qItFd0szFnehtBZz2nv2ahLGOxVtXcjKbaX0a980Ac5gBELZZHj1leBkFbNO1-bZrt8aXqxpVG8Ehz94DCjlbBukqMWAIIcoQ.jpg",
+      "width": 800,
+      "height": 599
+    }
+  ],
+  "cover": "assets/posts/telegram-126/01.webp",
+  "relatedItems": [],
+  "category": "stories",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-126/ru.md",
+    "en": "content/posts/telegram-126/en.md"
+  }
+}

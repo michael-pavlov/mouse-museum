@@ -1,0 +1,66 @@
+{
+  "id": "telegram-78",
+  "slug": "telegram-78",
+  "title": {
+    "ru": "IBM PS/2 Trackpoint",
+    "en": "IBM PS/2 Trackpoint"
+  },
+  "date": "2024-09-04T14:49:42+00:00",
+  "source": "https://t.me/old_mice_and_hw/78",
+  "excerpt": {
+    "ru": "Комбинированная мышь-трекбол с переключением механики и двух пар кнопок.",
+    "en": "A combined mouse and trackball with a transforming case and two pairs of buttons."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/telegram-78/01.webp",
+      "original": "assets/posts/telegram-78/01.jpg",
+      "source": "https://cdn4.telesco.pe/file/uxJ_V7pluwsjliIpWfYnTKlkjdKZxQKDHpRCJOXX-HC6Fj7iCOctec3q4TMZfM6feuplFWCp2K5EkGbrz4AhptJTPl9AcC6fiMRa2Z5RODDkxA_s4bc1Z1Bxix6PFFjQAOE7gx3Db0o6ndLyhSW5uusrFILR0wNrDpkigE4a-pE1US9DHB79-So3Z12fcvHd81WyjmVnUkkQBRQW6ui5xGl2ZSFyowKI-xxUUKDqjgGSkoHvG4BrVy-ItTzIwYXeQxwlJJEUbxVtFmSyBhrrRPkSxcFGBDq1mcKeybaOiy5VP4WzrgK_r5MtJ6r7QoJSA4A2MRuVsZwFgYEXcNCD4A.jpg",
+      "width": 800,
+      "height": 533
+    },
+    {
+      "file": "assets/posts/telegram-78/02.webp",
+      "original": "assets/posts/telegram-78/02.jpg",
+      "source": "https://cdn4.telesco.pe/file/Pxvs00h-o1nv88hwFcQuPJlE5OrtzTIAzdzPF0vTRmJZHIn7Q7zx-i4LkjffkvLukpmxsiWp-JpA6TXFkulPKn4VqkKPVvWajlA3VxQ6wIB31NCHber3KWYRr5gejXdZ-ow4KOf4GkPCs3kSMGdE1PC5qWN6jTInMm7q3IFZLXMKQ7ns022zDyLgpc5GhD7ADTUMuL-sJ-txd5J6UUFwgQ57jptfVgaQhsVrcgv_JYPLnabVbZ733xpuLF5aGGzBkIC-YAQpRmO0qHrTHu8ssKV2aZe3tnaoFpzpxkmt_B8F9MIJiWgYgFe9MJoYmoAFx4L7a6lhFrbhIKNNK0e4wQ.jpg",
+      "width": 800,
+      "height": 533
+    },
+    {
+      "file": "assets/posts/telegram-78/03.webp",
+      "original": "assets/posts/telegram-78/03.jpg",
+      "source": "https://cdn4.telesco.pe/file/GZLK4evG-YRZrtF_UyntEaNDW5TnLYblXPIn7oK1fj6VT3v6cQTp9XJ8QVvq4ISgtapqV4bErTdaXX1-aiSaqSWjK-ejabRFEtIskRsJvSE9sA_DOpHBd4B7oKJ5D3x4M45GfF_OzncLtja3U0ukZNwx1Y2DPCum6nH7gFjuaOWEyTYOB6HcFqc0elvNTOpjKRHRIfKFDrB704CpVspanRpVlL2SkEkdof4cZoF66w4dWbZHjzK5m04wFQVUxZnXTXZEuEoZt9OkvI_C4WZ0pAIltd_ADpMZ28-2dfeqxFwsXCqiPjbA4Eyp5vcQrFqC3_a5NpvsENDjJIBNX4sYEA.jpg",
+      "width": 800,
+      "height": 533
+    },
+    {
+      "file": "assets/posts/telegram-78/04.webp",
+      "original": "assets/posts/telegram-78/04.jpg",
+      "source": "https://cdn4.telesco.pe/file/D4_QxYkPeuZPxazftl2pFNsuQe8ehTRN2cDQ310Eq8f8kx-u6ZKgZhEaieFBOw0TTHbdzpxddrByOWZAdM3h5_CKLCkhBL79MFEXRYklZnHTTmV1q5edhyKOju7vqvYwdxGGj0Tri65A_Nyz4b4mxCtll5ls5u2BzgAF_Iud8yKwd_0iVwHWijvybKaCvp2vx2PZWcup2p3w_qMRmr7rMtxTc5wLqkYmd1IDERdNWr40LW_Km3QjUbj1CjltsxjIRU2ht08ZDONALD11FuRqghiR5Tny189oNfTN2S4G482udQMxS7iIXZ0cGjM-IDTVyDoRVRnyLZcntO1R-7sPVg.jpg",
+      "width": 800,
+      "height": 483
+    }
+  ],
+  "cover": "assets/posts/telegram-78/01.webp",
+  "relatedItems": [
+    "ibm-trackpoint-convertible"
+  ],
+  "category": "stories",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-78/ru.md",
+    "en": "content/posts/telegram-78/en.md"
+  },
+  "references": [
+    {
+      "url": "https://collectionerus.ru/collections/old-mice/26/",
+      "label": {
+        "ru": "Ссылка из оригинала 1",
+        "en": "Original reference 1"
+      }
+    }
+  ]
+}

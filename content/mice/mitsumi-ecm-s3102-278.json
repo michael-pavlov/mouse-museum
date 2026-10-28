@@ -1,0 +1,125 @@
+{
+  "id": "MP-0278",
+  "slug": "mitsumi-ecm-s3102-278",
+  "title": {
+    "en": "Mitsumi ECM-S3102",
+    "ru": "Mitsumi ECM-S3102"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/278/",
+  "sourceProperties": {
+    "Производитель": "Mitsumi Electronics corp",
+    "Год": "1993",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "ps/2",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний",
+    "Обменный фонд": "есть 1"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/mitsumi-ecm-s3102-278/01.webp",
+      "thumbnail": "assets/photos/mitsumi-ecm-s3102-278/01-thumb.webp",
+      "original": "assets/photos/mitsumi-ecm-s3102-278/originals/01.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/v/vt/v/vt/vttewbtksigutz6l.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/vt/vttewbtksigutz6l.jpeg",
+      "originalFilename": "vttewbtksigutz6l.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 927923,
+      "sha256": "b1e427bd563cce95d8fd063597faea2e73e417b69761436f742e552b8253dbc4",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/mitsumi-ecm-s3102-278/02.webp",
+      "thumbnail": "assets/photos/mitsumi-ecm-s3102-278/02-thumb.webp",
+      "original": "assets/photos/mitsumi-ecm-s3102-278/originals/02.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/w/wa/w/wa/wapdssxpdmtpukpx.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/wa/wapdssxpdmtpukpx.jpeg",
+      "originalFilename": "wapdssxpdmtpukpx.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 968871,
+      "sha256": "065ff7546d90170d251f3d20e2df94398f22245bcd45399a8125247141dccffa",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/mitsumi-ecm-s3102-278/03.webp",
+      "thumbnail": "assets/photos/mitsumi-ecm-s3102-278/03-thumb.webp",
+      "original": "assets/photos/mitsumi-ecm-s3102-278/originals/03.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/f/fg/f/fg/fgrhsb6ye8qtbxkt.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/f/fg/fgrhsb6ye8qtbxkt.jpeg",
+      "originalFilename": "fgrhsb6ye8qtbxkt.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 954291,
+      "sha256": "6582dab273ffe7d464921116bf16169d486776a48495cad8acd8c85ce56f25b9",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/mitsumi-ecm-s3102-278/04.webp",
+      "thumbnail": "assets/photos/mitsumi-ecm-s3102-278/04-thumb.webp",
+      "original": "assets/photos/mitsumi-ecm-s3102-278/originals/04.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/l/l5/l/l5/l5sixvuve9kk0nv0.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/l/l5/l5sixvuve9kk0nv0.jpeg",
+      "originalFilename": "l5sixvuve9kk0nv0.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1587070,
+      "sha256": "2e4009c1c769625f623c98218d719865b5116035b34242e94c761620ce361ef4",
+      "caption": ""
+    }
+  ],
+  "thumbnail": "assets/photos/mitsumi-ecm-s3102-278/thumb.webp",
+  "order": 42,
+  "manufacturer": {
+    "ru": "Mitsumi Electronics corp",
+    "en": "Mitsumi Electronics corp"
+  },
+  "brand": "Mitsumi Electronics corp",
+  "year": 1993,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "ps/2",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Mitsumi ECM-S3102",
+  "whereToSee": {
+    "ru": "Дальний",
+    "en": "Far"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T22:22:50+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 7,
+    "availableOriginals": 4
+  }
+}

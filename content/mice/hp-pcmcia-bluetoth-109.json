@@ -1,0 +1,100 @@
+{
+  "id": "MP-0109",
+  "slug": "hp-pcmcia-bluetoth-109",
+  "title": {
+    "en": "HP PCMCIA Bluetoth",
+    "ru": "HP PCMCIA Bluetoth"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/109/",
+  "sourceOrder": 137,
+  "order": 141,
+  "sourceProperties": {
+    "Производитель": "Primax Electronics",
+    "Год": "2006",
+    "Способ позиционирования": "оптический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Краснохолмская"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/hp-pcmcia-bluetoth-109/01.webp",
+      "thumbnail": "assets/photos/hp-pcmcia-bluetoth-109/01-thumb.webp",
+      "original": "assets/photos/hp-pcmcia-bluetoth-109/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/rn/r/rn/rnrepq3cpdw9zlda.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/rn/rnrepq3cpdw9zlda.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/r/rn/rnrepq3cpdw9zlda.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "rnrepq3cpdw9zlda.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 2859,
+      "originalHeight": 1906,
+      "originalBytes": 571301,
+      "sha256": "3f97f9bac0571f4815a6892c274d34a09103da4bdcf54c68caf25e0e0260d79d",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/hp-pcmcia-bluetoth-109/02.webp",
+      "thumbnail": "assets/photos/hp-pcmcia-bluetoth-109/02-thumb.webp",
+      "original": "assets/photos/hp-pcmcia-bluetoth-109/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/h/ho/h/ho/ho1izpu3uvdixcyt.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/ho/ho1izpu3uvdixcyt.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/h/ho/ho1izpu3uvdixcyt.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "ho1izpu3uvdixcyt.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 2912,
+      "originalHeight": 1941,
+      "originalBytes": 629456,
+      "sha256": "f9df2a99bfe993c8da44355508de183924118de2d4a88ed3e16dc86c1fd3ccb6",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Primax Electronics",
+    "en": "Primax Electronics"
+  },
+  "brand": "Primax Electronics",
+  "year": 2006,
+  "tracking": {
+    "key": "optical",
+    "ru": "оптический (классика)",
+    "en": "Optical"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "HP PCMCIA Bluetoth",
+  "whereToSee": {
+    "ru": "Краснохолмская",
+    "en": "Krasnokholmskaya Gallery"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/hp-pcmcia-bluetoth-109/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:52+03:00",
+    "sourcePhotoCount": 2,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 2
+  }
+}

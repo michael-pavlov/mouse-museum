@@ -1,0 +1,70 @@
+{
+  "sourceId": 80,
+  "source": "https://collectionerus.ru/collections/old-mice/80/",
+  "slug": "marsianka-uvk-01-black-80",
+  "sourceTitle": "Марсианка УВК-01 Черная",
+  "retrievedAt": "2026-10-27T23:10:46+03:00",
+  "sourcePageSha256": "aeddf0ff1e16c9f3ca0d84cb039e6dd4c34dba5d53f524e4eea79d9832255472",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "СССР",
+    "Год": "1989",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "БК",
+    "СССР": "да",
+    "Где посмотреть": "Краснохолмская"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=%D0%A1%D0%A1%D0%A1%D0%A0"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1989"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=%D0%91%D0%9A"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=yes"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%85%D0%BE%D0%BB%D0%BC%D1%81%D0%BA%D0%B0%D1%8F"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/x/xw/xwfsobsuevordcle.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/xw/xwfsobsuevordcle.JPG",
+      "originalName": "xwfsobsuevordcle.JPG",
+      "cacheFile": "photos/marsianka-uvk-01-black-80/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3000×2000, 930,2 КБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/y/yt/ytpqiajeisevavpq.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/y/yt/ytpqiajeisevavpq.JPG",
+      "originalName": "ytpqiajeisevavpq.JPG",
+      "cacheFile": "photos/marsianka-uvk-01-black-80/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3300×2200, 1,2 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/g/gc/gcdzfryi4nhn2jd2.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gc/gcdzfryi4nhn2jd2.JPG",
+      "originalName": "gcdzfryi4nhn2jd2.JPG",
+      "cacheFile": "photos/marsianka-uvk-01-black-80/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3300×2200, 1,3 МБ"
+    }
+  ],
+  "itemFile": "content/mice/marsianka-uvk-01-black-80.json",
+  "previousPhotoCount": 0
+}

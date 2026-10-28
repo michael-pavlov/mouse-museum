@@ -1,0 +1,98 @@
+{
+  "sourceId": 303,
+  "source": "https://collectionerus.ru/collections/old-mice/303/",
+  "slug": "e6q-mousex-21-303",
+  "sourceTitle": "E6Q MOUSEX 21",
+  "retrievedAt": "2026-10-27T23:11:02+03:00",
+  "sourcePageSha256": "32639c39ae967dff21dedef5df3f72bf53fd746669fe544409ff6849694baca2",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Jow Dian Enterprise Co Ltd",
+    "Год": "1989",
+    "СССР": "нет",
+    "Где посмотреть": "Демо Стол"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Jow+Dian+Enterprise+Co+Ltd"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1989"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B5%D0%BC%D0%BE+%D0%A1%D1%82%D0%BE%D0%BB"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/rq/r/rq/rqznon4c7fth8jbw.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/rq/rqznon4c7fth8jbw.jpeg",
+      "originalName": "rqznon4c7fth8jbw.jpeg",
+      "cacheFile": "photos/e6q-mousex-21-303/01.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 923,1 КБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/y/yk/y/yk/ykhno9dxjvxtcype.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/y/yk/ykhno9dxjvxtcype.jpeg",
+      "originalName": "ykhno9dxjvxtcype.jpeg",
+      "cacheFile": "photos/e6q-mousex-21-303/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 840,8 КБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/rl/r/rl/rl0j7p2ue9pgnxl4.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/rl/rl0j7p2ue9pgnxl4.jpeg",
+      "originalName": "rl0j7p2ue9pgnxl4.jpeg",
+      "cacheFile": "photos/e6q-mousex-21-303/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,1 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/h/hn/h/hn/hneu8n8yyekjwrwg.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hn/hneu8n8yyekjwrwg.jpeg",
+      "originalName": "hneu8n8yyekjwrwg.jpeg",
+      "cacheFile": "photos/e6q-mousex-21-303/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,4 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/h/hc/h/hc/hchoplydxtldmeba.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hc/hchoplydxtldmeba.jpeg",
+      "originalName": "hchoplydxtldmeba.jpeg",
+      "cacheFile": "photos/e6q-mousex-21-303/05.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,4 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/t/tu/t/tu/tuggzy2ejpo0vqdb.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/tu/tuggzy2ejpo0vqdb.jpeg",
+      "originalName": "tuggzy2ejpo0vqdb.jpeg",
+      "cacheFile": "photos/e6q-mousex-21-303/06.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,1 МБ"
+    },
+    {
+      "position": 7,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/b/bd/b/bd/bdiftusmfl9hmozq.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/bd/bdiftusmfl9hmozq.jpeg",
+      "originalName": "bdiftusmfl9hmozq.jpeg",
+      "cacheFile": "photos/e6q-mousex-21-303/07.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,2 МБ"
+    }
+  ],
+  "itemFile": "content/mice/e6q-mousex-21-303.json",
+  "previousPhotoCount": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "telegram-5",
+  "slug": "telegram-5",
+  "title": {
+    "ru": "Первая запись",
+    "en": "The first post"
+  },
+  "date": "2023-02-11T20:25:59+00:00",
+  "source": "https://t.me/old_mice_and_hw/5",
+  "excerpt": {
+    "ru": "Самая первая запись канала — точка отсчёта архива.",
+    "en": "The channel's very first post: the starting point of the archive."
+  },
+  "photos": [],
+  "cover": "assets/mouse-museum-logo.png",
+  "relatedItems": [],
+  "category": "stories",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-5/ru.md",
+    "en": "content/posts/telegram-5/en.md"
+  }
+}

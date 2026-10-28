@@ -1,0 +1,185 @@
+{
+  "id": "MP-0059",
+  "slug": "logitech-mouseman-cordless",
+  "title": {
+    "en": "Logitech MouseMan Cordless (M-RA12)",
+    "ru": "Logitech MouseMan Cordless (M-RA12)"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/59/",
+  "sourceProperties": {
+    "Производитель": "Logitech",
+    "Год": "1990",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "COM",
+    "СССР": "нет",
+    "Особенности": "Беспроводная , радио",
+    "Где посмотреть": "Дальний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/logitech-mouseman-cordless/01.webp",
+      "thumbnail": "assets/photos/logitech-mouseman-cordless/01-thumb.webp",
+      "original": "assets/photos/logitech-mouseman-cordless/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/c/c2/c25jely7ubdvlv8h.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/c2/c25jely7ubdvlv8h.JPG",
+      "originalFilename": "c25jely7ubdvlv8h.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3800,
+      "originalHeight": 2533,
+      "originalBytes": 1280602,
+      "sha256": "fb0b362af248382e8221555feffa8cb31b22d97ad31b5a803ecb57c5e8fb77d7",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/logitech-mouseman-cordless/02.webp",
+      "thumbnail": "assets/photos/logitech-mouseman-cordless/02-thumb.webp",
+      "original": "assets/photos/logitech-mouseman-cordless/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/g/gm/gmuix01ujokqbfdn.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gm/gmuix01ujokqbfdn.JPG",
+      "originalFilename": "gmuix01ujokqbfdn.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3800,
+      "originalHeight": 2533,
+      "originalBytes": 1405339,
+      "sha256": "7aa4538d5b12a0ca60d9c51ffa73136e1a99ac851214b02097d62119917a6e33",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/logitech-mouseman-cordless/03.webp",
+      "thumbnail": "assets/photos/logitech-mouseman-cordless/03-thumb.webp",
+      "original": "assets/photos/logitech-mouseman-cordless/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/g/ge/geyqr2zmhzcdechy.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/ge/geyqr2zmhzcdechy.JPG",
+      "originalFilename": "geyqr2zmhzcdechy.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3800,
+      "originalHeight": 2533,
+      "originalBytes": 1610356,
+      "sha256": "90eb4594de4efdec81c12ca9989982971b3dbfd3637cd0dee5d9a0dc67a2342e",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/logitech-mouseman-cordless/04.webp",
+      "thumbnail": "assets/photos/logitech-mouseman-cordless/04-thumb.webp",
+      "original": "assets/photos/logitech-mouseman-cordless/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/k/kq/kqltxcobwx7mzyya.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/kq/kqltxcobwx7mzyya.JPG",
+      "originalFilename": "kqltxcobwx7mzyya.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 1724619,
+      "sha256": "41c844ba4a7bebd9737cd87cebe3b6683aff73dedcb122d708163e27f5497697",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/logitech-mouseman-cordless/05.webp",
+      "thumbnail": "assets/photos/logitech-mouseman-cordless/05-thumb.webp",
+      "original": "assets/photos/logitech-mouseman-cordless/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/4/4n/4nhhyrzietvzq3e0.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/4/4n/4nhhyrzietvzq3e0.JPG",
+      "originalFilename": "4nhhyrzietvzq3e0.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4196,
+      "originalHeight": 2798,
+      "originalBytes": 2481515,
+      "sha256": "7678c693bd4cf19b800a853ed6188fee27ca5b77760f4c66de693830867f50a4",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/logitech-mouseman-cordless/06.webp",
+      "thumbnail": "assets/photos/logitech-mouseman-cordless/06-thumb.webp",
+      "original": "assets/photos/logitech-mouseman-cordless/originals/06.jpg",
+      "source": "https://collectionerus.ru/media/items-large/9/9y/9y1ktiotchyomxd9.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/9/9y/9y1ktiotchyomxd9.JPG",
+      "originalFilename": "9y1ktiotchyomxd9.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4196,
+      "originalHeight": 2798,
+      "originalBytes": 2927764,
+      "sha256": "60b8c289f0af079027785e3c7375052571cdbd3bfabb2ba250681ca6bbdba438",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/logitech-mouseman-cordless/07.webp",
+      "thumbnail": "assets/photos/logitech-mouseman-cordless/07-thumb.webp",
+      "original": "assets/photos/logitech-mouseman-cordless/originals/07.jpg",
+      "source": "https://collectionerus.ru/media/items-large/m/m2/m2n7yopbcipxspzz.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/m/m2/m2n7yopbcipxspzz.JPG",
+      "originalFilename": "m2n7yopbcipxspzz.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1918558,
+      "sha256": "9f54756f09dc73ed6e411ee3a24062a44602e817d9bf36b6bdc8e18dbaeecfce",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/logitech-mouseman-cordless/08.webp",
+      "thumbnail": "assets/photos/logitech-mouseman-cordless/08-thumb.webp",
+      "original": "assets/photos/logitech-mouseman-cordless/originals/08.jpg",
+      "source": "https://collectionerus.ru/media/items-large/z/zr/zrvjkwuswfsnartx.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/zr/zrvjkwuswfsnartx.JPG",
+      "originalFilename": "zrvjkwuswfsnartx.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1695311,
+      "sha256": "e44925760c8ed1f0c88b617757d713bb99a38a0af664d1de66deb05391fc3f52",
+      "caption": ""
+    }
+  ],
+  "thumbnail": "assets/photos/logitech-mouseman-cordless/thumb.webp",
+  "order": 9,
+  "manufacturer": {
+    "ru": "Logitech",
+    "en": "Logitech"
+  },
+  "brand": "Logitech",
+  "year": 1990,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "COM",
+  "soviet": false,
+  "features": {
+    "ru": "Беспроводная , радио",
+    "en": "Wireless · radio"
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Logitech MouseMan Cordless (M-RA12)",
+  "whereToSee": {
+    "ru": "Дальний",
+    "en": "Far"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T22:22:53+03:00",
+    "sourcePhotoCount": 8,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 7,
+    "availableOriginals": 8
+  }
+}

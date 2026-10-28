@@ -1,0 +1,170 @@
+{
+  "id": "MP-0003",
+  "slug": "microsoft-green-eye",
+  "title": {
+    "en": "Microsoft Green Eye",
+    "ru": "Microsoft Green Eye"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/3/",
+  "sourceProperties": {
+    "Производитель": "Microsoft",
+    "Год": "1983",
+    "Способ позиционирования": "на дискретных датчиках",
+    "Интерфейс": "Microsoft",
+    "СССР": "нет",
+    "Особенности": "Металлический шарик",
+    "Где посмотреть": "Краснохолмская"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/microsoft-green-eye/01-catalog.webp",
+      "thumbnail": "assets/photos/microsoft-green-eye/01-catalog-thumb.webp",
+      "original": "assets/photos/microsoft-green-eye/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/e/ew/ew80vzobaukusdz6.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/ew/ew80vzobaukusdz6.JPG",
+      "originalFilename": "ew80vzobaukusdz6.JPG",
+      "width": 1536,
+      "height": 1024,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1034985,
+      "sha256": "f5ab795d46f88a226dab54c36afc37f5db200aa31fae8f764408dcda00766731",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/microsoft-green-eye/02.webp",
+      "thumbnail": "assets/photos/microsoft-green-eye/02-thumb.webp",
+      "original": "assets/photos/microsoft-green-eye/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/w/wt/wtwcbxsihklhlcry.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/wt/wtwcbxsihklhlcry.JPG",
+      "originalFilename": "wtwcbxsihklhlcry.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1348248,
+      "sha256": "94272d172fc72916c6f72651394abd1d58e9c97bd8ce4dd22507bb0f0dea9cf0",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/microsoft-green-eye/03.webp",
+      "thumbnail": "assets/photos/microsoft-green-eye/03-thumb.webp",
+      "original": "assets/photos/microsoft-green-eye/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/k/ka/katqkhnkxx3igyov.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/ka/katqkhnkxx3igyov.JPG",
+      "originalFilename": "katqkhnkxx3igyov.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4896,
+      "originalHeight": 3264,
+      "originalBytes": 6047513,
+      "sha256": "56b2979421f662d332cf027e0b2ff575acb91deb012e2cab3d6b3f87c801a944",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/microsoft-green-eye/04.webp",
+      "thumbnail": "assets/photos/microsoft-green-eye/04-thumb.webp",
+      "original": "assets/photos/microsoft-green-eye/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/n/nm/nmwbli3krgw4slq7.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/nm/nmwbli3krgw4slq7.JPG",
+      "originalFilename": "nmwbli3krgw4slq7.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4896,
+      "originalHeight": 3264,
+      "originalBytes": 5918454,
+      "sha256": "d6cceeca179784a86dffc5204088dd99224b272b487abbdaee5d21e848a516b9",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/microsoft-green-eye/05.webp",
+      "thumbnail": "assets/photos/microsoft-green-eye/05-thumb.webp",
+      "original": "assets/photos/microsoft-green-eye/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/3/3p/3p6xcfakgtkrvzmc.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/3/3p/3p6xcfakgtkrvzmc.JPG",
+      "originalFilename": "3p6xcfakgtkrvzmc.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4896,
+      "originalHeight": 3264,
+      "originalBytes": 6583849,
+      "sha256": "18c77179bc69d4219b35d3a32b35788e352c424dc51bdf11cfb1f90d3d55d84c",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/microsoft-green-eye/06.webp",
+      "thumbnail": "assets/photos/microsoft-green-eye/06-thumb.webp",
+      "original": "assets/photos/microsoft-green-eye/originals/06.jpg",
+      "source": "https://collectionerus.ru/media/items-large/c/cu/cuhs0fdhc25px1yi.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/cu/cuhs0fdhc25px1yi.JPG",
+      "originalFilename": "cuhs0fdhc25px1yi.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4896,
+      "originalHeight": 3264,
+      "originalBytes": 5097951,
+      "sha256": "3d3d1cf85b6a926937926efa0883e19e6747288fabd4faf4ced9677566dfc9bc",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/microsoft-green-eye/07.webp",
+      "thumbnail": "assets/photos/microsoft-green-eye/07-thumb.webp",
+      "original": "assets/photos/microsoft-green-eye/originals/07.jpg",
+      "source": "https://collectionerus.ru/media/items-large/e/ef/efzd7vicvqsbsbk3.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/ef/efzd7vicvqsbsbk3.JPG",
+      "originalFilename": "efzd7vicvqsbsbk3.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1322367,
+      "sha256": "6182a9551ee874c32081eb32c48284a0137ce78ed1c98e04110ef898f6fc6378",
+      "caption": ""
+    }
+  ],
+  "thumbnail": "assets/photos/microsoft-green-eye/thumb-catalog.webp",
+  "order": 0,
+  "manufacturer": {
+    "ru": "Microsoft",
+    "en": "Microsoft"
+  },
+  "brand": "Microsoft",
+  "year": 1983,
+  "tracking": {
+    "key": "discrete",
+    "ru": "на дискретных датчиках",
+    "en": "Discrete sensors"
+  },
+  "interface": "Microsoft",
+  "soviet": false,
+  "features": {
+    "ru": "Металлический шарик",
+    "en": "Metal ball"
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Microsoft Green Eye",
+  "whereToSee": {
+    "ru": "Краснохолмская",
+    "en": "Krasnokholmskaya Gallery"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T22:22:52+03:00",
+    "sourcePhotoCount": 7,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 7,
+    "availableOriginals": 7
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "sourceId": 104,
+  "source": "https://collectionerus.ru/collections/old-mice/104/",
+  "slug": "microsoft-serial-ps-2-compatible-mouse-104",
+  "sourceTitle": "Microsoft Serial-PS/2 Compatible Mouse",
+  "retrievedAt": "2026-10-27T23:10:51+03:00",
+  "sourcePageSha256": "37befe5e42b678ea9f844b81e62416da49bb14a182086127ac86ac3ce8574750",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Microsoft",
+    "Год": "1991",
+    "Способ позиционирования": "на потенциометрах",
+    "Интерфейс": "PS/2",
+    "СССР": "нет",
+    "Где посмотреть": "Средний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Microsoft"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1991"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BD%D0%B0+%D0%BF%D0%BE%D1%82%D0%B5%D0%BD%D1%86%D0%B8%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B0%D1%85"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=PS%2F2"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/o/ol/o/ol/ol2abnwwmzjbdghl.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/o/ol/ol2abnwwmzjbdghl.JPG",
+      "originalName": "ol2abnwwmzjbdghl.JPG",
+      "cacheFile": "photos/microsoft-serial-ps-2-compatible-mouse-104/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3318×2212, 888,8 КБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/3/3n/3/3n/3nn18iqnofnf88vz.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/3/3n/3nn18iqnofnf88vz.JPG",
+      "originalName": "3nn18iqnofnf88vz.JPG",
+      "cacheFile": "photos/microsoft-serial-ps-2-compatible-mouse-104/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3382×2255, 916,5 КБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/6/6y/6/6y/6yb3rwawn2iqtux4.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/6/6y/6yb3rwawn2iqtux4.JPG",
+      "originalName": "6yb3rwawn2iqtux4.JPG",
+      "cacheFile": "photos/microsoft-serial-ps-2-compatible-mouse-104/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3276×2184, 940,8 КБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/a/af/a/af/af7xbdy8bepewk5d.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/a/af/af7xbdy8bepewk5d.jpeg",
+      "originalName": "af7xbdy8bepewk5d.jpeg",
+      "cacheFile": "photos/microsoft-serial-ps-2-compatible-mouse-104/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,8 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/f/f8/f/f8/f8cm7cu6qalxaejw.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/f/f8/f8cm7cu6qalxaejw.jpeg",
+      "originalName": "f8cm7cu6qalxaejw.jpeg",
+      "cacheFile": "photos/microsoft-serial-ps-2-compatible-mouse-104/05.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,6 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/h/h4/h/h4/h4fdwur3jt4pfvmc.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/h4/h4fdwur3jt4pfvmc.jpeg",
+      "originalName": "h4fdwur3jt4pfvmc.jpeg",
+      "cacheFile": "photos/microsoft-serial-ps-2-compatible-mouse-104/06.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,5 МБ"
+    }
+  ],
+  "itemFile": "content/mice/microsoft-serial-ps-2-compatible-mouse-104.json",
+  "previousPhotoCount": 0
+}

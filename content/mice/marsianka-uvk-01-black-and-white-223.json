@@ -1,0 +1,137 @@
+{
+  "id": "MP-0223",
+  "slug": "marsianka-uvk-01-black-and-white-223",
+  "title": {
+    "en": "Marsianka UVK-01 · black and white",
+    "ru": "Марсианка УВК-01 черно-белая"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/223/",
+  "sourceOrder": 45,
+  "order": 61,
+  "sourceProperties": {
+    "Производитель": "КБ Марс",
+    "Год": "1991",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "БК",
+    "СССР": "нет",
+    "Где посмотреть": "Ближний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/marsianka-uvk-01-black-and-white-223/01.webp",
+      "thumbnail": "assets/photos/marsianka-uvk-01-black-and-white-223/01-thumb.webp",
+      "original": "assets/photos/marsianka-uvk-01-black-and-white-223/originals/01.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/t/tt/t/tt/ttwcnhtpnfldwnmc.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/tt/ttwcnhtpnfldwnmc.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/t/tt/ttwcnhtpnfldwnmc.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "ttwcnhtpnfldwnmc.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1012743,
+      "sha256": "a89cd72ee5d40f6a12d158b2a894097fab6d880bb41f56162b6f04670702dd23",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/marsianka-uvk-01-black-and-white-223/02.webp",
+      "thumbnail": "assets/photos/marsianka-uvk-01-black-and-white-223/02-thumb.webp",
+      "original": "assets/photos/marsianka-uvk-01-black-and-white-223/originals/02.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/j/jf/j/jf/jfnqxi3niva8yhgg.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/j/jf/jfnqxi3niva8yhgg.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/j/jf/jfnqxi3niva8yhgg.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "jfnqxi3niva8yhgg.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 952461,
+      "sha256": "64927d3a43875f289de967af7498424fa83163569bc6b305208fd693f58ea5de",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/marsianka-uvk-01-black-and-white-223/03.webp",
+      "thumbnail": "assets/photos/marsianka-uvk-01-black-and-white-223/03-thumb.webp",
+      "original": "assets/photos/marsianka-uvk-01-black-and-white-223/originals/03.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/h/hg/h/hg/hgzqljxk0bhtbttf.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hg/hgzqljxk0bhtbttf.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/h/hg/hgzqljxk0bhtbttf.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "hgzqljxk0bhtbttf.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1115466,
+      "sha256": "d8b7d1dc4843c2802ece2d62093fad8cebb7b76b79c4e6efcb81799b0ddd96aa",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/marsianka-uvk-01-black-and-white-223/04.webp",
+      "thumbnail": "assets/photos/marsianka-uvk-01-black-and-white-223/04-thumb.webp",
+      "original": "assets/photos/marsianka-uvk-01-black-and-white-223/originals/04.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/m/md/m/md/mdm7wfta335mbvb1.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/m/md/mdm7wfta335mbvb1.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/m/md/mdm7wfta335mbvb1.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "mdm7wfta335mbvb1.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1362653,
+      "sha256": "bc04387e70262389403ae2789a4e4edf372ab5b58eb3bfbc3aa4d70cd13e26ae",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "КБ Марс",
+    "en": "Mars Design Bureau"
+  },
+  "brand": "КБ Марс",
+  "year": 1991,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "БК",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Марсианка УВК-01 черно-белая",
+  "whereToSee": {
+    "ru": "Ближний",
+    "en": "Near"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/marsianka-uvk-01-black-and-white-223/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:46+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 4
+  }
+}

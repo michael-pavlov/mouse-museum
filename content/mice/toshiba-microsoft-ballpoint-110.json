@@ -1,0 +1,100 @@
+{
+  "id": "MP-0110",
+  "slug": "toshiba-microsoft-ballpoint-110",
+  "title": {
+    "en": "Toshiba/Microsoft BallPoint",
+    "ru": "Toshiba/Microsoft BallPoint"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/110/",
+  "sourceOrder": 138,
+  "order": 142,
+  "sourceProperties": {
+    "Производитель": "Microsoft",
+    "Год": "1993",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Ближний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/toshiba-microsoft-ballpoint-110/01.webp",
+      "thumbnail": "assets/photos/toshiba-microsoft-ballpoint-110/01-thumb.webp",
+      "original": "assets/photos/toshiba-microsoft-ballpoint-110/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/8/8u/8/8u/8uoqswewsdxwvl4x.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/8/8u/8uoqswewsdxwvl4x.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/8/8u/8uoqswewsdxwvl4x.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "8uoqswewsdxwvl4x.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 2978,
+      "originalHeight": 1985,
+      "originalBytes": 739985,
+      "sha256": "fd284a4954c0c7cf8f53cdc3ae485b22cb2a60824348150290a20c05b2d7eb9b",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/toshiba-microsoft-ballpoint-110/02.webp",
+      "thumbnail": "assets/photos/toshiba-microsoft-ballpoint-110/02-thumb.webp",
+      "original": "assets/photos/toshiba-microsoft-ballpoint-110/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/rr/r/rr/rrjmkjs7hudxlo6y.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/rr/rrjmkjs7hudxlo6y.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/r/rr/rrjmkjs7hudxlo6y.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "rrjmkjs7hudxlo6y.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3014,
+      "originalHeight": 2009,
+      "originalBytes": 784571,
+      "sha256": "df4e7ef2315e8a66e05987d1b16602f9d7cef4729e4379cecfd6ca8a27ca2d3f",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Microsoft",
+    "en": "Microsoft"
+  },
+  "brand": "Microsoft",
+  "year": 1993,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Toshiba/Microsoft BallPoint",
+  "whereToSee": {
+    "ru": "Ближний",
+    "en": "Near"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/toshiba-microsoft-ballpoint-110/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:51+03:00",
+    "sourcePhotoCount": 2,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 2
+  }
+}

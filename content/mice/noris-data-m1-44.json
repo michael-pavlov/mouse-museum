@@ -1,0 +1,155 @@
+{
+  "id": "MP-0044",
+  "slug": "noris-data-m1-44",
+  "title": {
+    "en": "Noris Data M1",
+    "ru": "Noris Data M1"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/44/",
+  "sourceOrder": 82,
+  "order": 87,
+  "sourceProperties": {
+    "Производитель": "Noris Data",
+    "Год": "1986",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "C64",
+    "СССР": "нет",
+    "Где посмотреть": "Демо Витрина"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/noris-data-m1-44/01-catalog.webp",
+      "thumbnail": "assets/photos/noris-data-m1-44/01-catalog-thumb.webp",
+      "original": "assets/photos/noris-data-m1-44/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/w/wu/wudddvcita1djvke.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/wu/wudddvcita1djvke.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/w/wu/wudddvcita1djvke.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "wudddvcita1djvke.JPG",
+      "width": 1536,
+      "height": 1024,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1375158,
+      "sha256": "0ba56d464f175529bee378b8da21e6dd0c45963cfd27c46ccdb9af7540d6707b",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/noris-data-m1-44/02.webp",
+      "thumbnail": "assets/photos/noris-data-m1-44/02-thumb.webp",
+      "original": "assets/photos/noris-data-m1-44/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/a/au/auw4ag0hgbmmaz2l.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/a/au/auw4ag0hgbmmaz2l.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/a/au/auw4ag0hgbmmaz2l.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "auw4ag0hgbmmaz2l.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2401536,
+      "sha256": "72a4da52b989ba8fc5ee1efc1aad5f01f8ce62e3b3c7dc6018a2e3f48387e92e",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/noris-data-m1-44/03.webp",
+      "thumbnail": "assets/photos/noris-data-m1-44/03-thumb.webp",
+      "original": "assets/photos/noris-data-m1-44/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/n/nm/nmox8mgt3cwc2jzz.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/nm/nmox8mgt3cwc2jzz.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/n/nm/nmox8mgt3cwc2jzz.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "nmox8mgt3cwc2jzz.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2289988,
+      "sha256": "3bad323a1276ef9c4d2b9d51b44eefeaee07ba2666b849ac05e7b78a26d6ed41",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/noris-data-m1-44/04.webp",
+      "thumbnail": "assets/photos/noris-data-m1-44/04-thumb.webp",
+      "original": "assets/photos/noris-data-m1-44/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/t/ta/taxxtu5sqqzlqdnh.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/ta/taxxtu5sqqzlqdnh.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/t/ta/taxxtu5sqqzlqdnh.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "taxxtu5sqqzlqdnh.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2490402,
+      "sha256": "7b4a2fc0fd0966bf3c740667f24d69b22c70393bcf96122f127660bda8ebad75",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/noris-data-m1-44/05.webp",
+      "thumbnail": "assets/photos/noris-data-m1-44/05-thumb.webp",
+      "original": "assets/photos/noris-data-m1-44/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/b/b8/b8ez3xbz8qvq8fmi.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/b8/b8ez3xbz8qvq8fmi.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/b/b8/b8ez3xbz8qvq8fmi.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "b8ez3xbz8qvq8fmi.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2336516,
+      "sha256": "ed920138aea0214d4f6437c1e8323f749463650e1fce9ed9322878cfc67f0186",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Noris Data",
+    "en": "Noris Data"
+  },
+  "brand": "Noris Data",
+  "year": 1986,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "C64",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Noris Data M1",
+  "whereToSee": {
+    "ru": "Демо Витрина",
+    "en": "Demo display case"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/noris-data-m1-44/thumb-catalog.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:48+03:00",
+    "sourcePhotoCount": 5,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 5
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "sourceId": 142,
+  "source": "https://collectionerus.ru/collections/old-mice/142/",
+  "slug": "new-idea-mouse-142",
+  "sourceTitle": "New Idea mouse",
+  "retrievedAt": "2026-10-27T23:10:54+03:00",
+  "sourcePageSha256": "30759f904b77b5c6ce6ac76180a10a1b92c67c263081ac5f0bfec2a25a0c171c",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "New Idea",
+    "Год": "1990",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Ближайший"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=New+Idea"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1990"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%91%D0%BB%D0%B8%D0%B6%D0%B0%D0%B9%D1%88%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/w/w6/w/w6/w6umg5trggbpput9.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/w6/w6umg5trggbpput9.jpg",
+      "originalName": "w6umg5trggbpput9.jpg",
+      "cacheFile": "photos/new-idea-mouse-142/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "1895×1263, 1,1 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/0/0t/0/0t/0tma2nufuz7gly0a.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/0/0t/0tma2nufuz7gly0a.jpg",
+      "originalName": "0tma2nufuz7gly0a.jpg",
+      "cacheFile": "photos/new-idea-mouse-142/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "2606×1737, 1,7 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/u/uu/u/uu/uuj6h2lwwxiajyap.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/uu/uuj6h2lwwxiajyap.jpg",
+      "originalName": "uuj6h2lwwxiajyap.jpg",
+      "cacheFile": "photos/new-idea-mouse-142/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "2866×1911, 1,4 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/g/g8/g/g8/g8krjhiaa7toferj.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/g8/g8krjhiaa7toferj.jpg",
+      "originalName": "g8krjhiaa7toferj.jpg",
+      "cacheFile": "photos/new-idea-mouse-142/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3113×2075, 2,3 МБ"
+    }
+  ],
+  "itemFile": "content/mice/new-idea-mouse-142.json",
+  "previousPhotoCount": 0
+}

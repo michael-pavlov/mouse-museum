@@ -1,0 +1,27 @@
+{
+  "id": "telegram-207",
+  "slug": "telegram-207",
+  "title": {
+    "ru": "Мышки на Винзаводе",
+    "en": "Mice at Winzavod"
+  },
+  "date": "2025-09-17T14:09:46+00:00",
+  "source": "https://t.me/old_mice_and_hw/207",
+  "excerpt": {
+    "ru": "Приглашение увидеть и попробовать коллекцию на Винзаводе.",
+    "en": "An invitation to see and try the collection at Winzavod."
+  },
+  "photos": [],
+  "cover": "assets/posts/telegram-208/01.webp",
+  "relatedItems": [],
+  "category": "exhibitions",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-207/ru.md",
+    "en": "content/posts/telegram-207/en.md"
+  },
+  "eventDate": "2025-09-27"
+}

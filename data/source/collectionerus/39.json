@@ -1,0 +1,105 @@
+{
+  "sourceId": 39,
+  "source": "https://collectionerus.ru/collections/old-mice/39/",
+  "slug": "ibm-13h6690-39",
+  "sourceTitle": "IBM 13H6690",
+  "retrievedAt": "2026-10-27T22:22:45+03:00",
+  "sourcePageSha256": "17e1d1f153059d7ba31b9530ecb16599e2eb39093f1522a6b605ba7dad48e01d",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "IBM",
+    "Год": "1994",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "PS/2",
+    "СССР": "нет",
+    "Производитель платы": "Logitech",
+    "Где посмотреть": "Средний",
+    "Обменный фонд": "есть 1"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=IBM"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1994"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=PS%2F2"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Производитель платы": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel_platy=Logitech"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9"
+    ],
+    "Обменный фонд": [
+      "https://collectionerus.ru/collections/old-mice/?obmennyi_fond=%D0%B5%D1%81%D1%82%D1%8C+1"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/q/qt/qtz4a8t8pupfkzdc.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qt/qtz4a8t8pupfkzdc.JPG",
+      "originalName": "qtz4a8t8pupfkzdc.JPG",
+      "cacheFile": "photos/ibm-13h6690-39/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,2 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/e/ex/ex9ut3ordwgk6kwg.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/ex/ex9ut3ordwgk6kwg.JPG",
+      "originalName": "ex9ut3ordwgk6kwg.JPG",
+      "cacheFile": "photos/ibm-13h6690-39/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,4 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/p/py/pylg0qn5w7bttz3n.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/py/pylg0qn5w7bttz3n.JPG",
+      "originalName": "pylg0qn5w7bttz3n.JPG",
+      "cacheFile": "photos/ibm-13h6690-39/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,0 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/0/0w/0wqj7czqqvilaaqa.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/0/0w/0wqj7czqqvilaaqa.JPG",
+      "originalName": "0wqj7czqqvilaaqa.JPG",
+      "cacheFile": "photos/ibm-13h6690-39/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3800×2533, 2,1 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/o/oq/oqc5jj97v3ussygo.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/o/oq/oqc5jj97v3ussygo.JPG",
+      "originalName": "oqc5jj97v3ussygo.JPG",
+      "cacheFile": "photos/ibm-13h6690-39/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 2,3 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/b/by/bywpl7j7lfneculw.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/by/bywpl7j7lfneculw.JPG",
+      "originalName": "bywpl7j7lfneculw.JPG",
+      "cacheFile": "photos/ibm-13h6690-39/06.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 2,3 МБ"
+    }
+  ],
+  "itemFile": "content/mice/ibm-13h6690-39.json",
+  "previousPhotoCount": 6
+}

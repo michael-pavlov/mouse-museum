@@ -1,0 +1,136 @@
+{
+  "id": "MP-0106",
+  "slug": "primax-electronics-microspot-106",
+  "title": {
+    "en": "Primax Electronics Microspot",
+    "ru": "Primax Electronics Microspot"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/106/",
+  "sourceOrder": 134,
+  "order": 138,
+  "sourceProperties": {
+    "Производитель": "Primax Electronics Ltd",
+    "Год": "1993",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/primax-electronics-microspot-106/01.webp",
+      "thumbnail": "assets/photos/primax-electronics-microspot-106/01-thumb.webp",
+      "original": "assets/photos/primax-electronics-microspot-106/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/q/qu/q/qu/quajsn5bqgbveutf.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qu/quajsn5bqgbveutf.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/q/qu/quajsn5bqgbveutf.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "quajsn5bqgbveutf.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3217,
+      "originalHeight": 2145,
+      "originalBytes": 898291,
+      "sha256": "b27f77a768aa814e427befa263d82f0e9589274b9e3f41de476fb560e7ac26f2",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/primax-electronics-microspot-106/02.webp",
+      "thumbnail": "assets/photos/primax-electronics-microspot-106/02-thumb.webp",
+      "original": "assets/photos/primax-electronics-microspot-106/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/p/pk/p/pk/pkf1cpquvxjupqtb.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/pk/pkf1cpquvxjupqtb.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/p/pk/pkf1cpquvxjupqtb.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "pkf1cpquvxjupqtb.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3217,
+      "originalHeight": 2145,
+      "originalBytes": 911090,
+      "sha256": "bb5b88fe30a5edd653e81434d6426617f8b00d616e913b2cc2f94c15af90fc3f",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/primax-electronics-microspot-106/03.webp",
+      "thumbnail": "assets/photos/primax-electronics-microspot-106/03-thumb.webp",
+      "original": "assets/photos/primax-electronics-microspot-106/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/h/hi/h/hi/hiqrbeahivi3izqu.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hi/hiqrbeahivi3izqu.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/h/hi/hiqrbeahivi3izqu.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "hiqrbeahivi3izqu.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3217,
+      "originalHeight": 2145,
+      "originalBytes": 1032123,
+      "sha256": "d2b006c6646aa70a553ebbbb7fae6df50c1de06f8df4ee9a67f98a29b5ae4404",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/primax-electronics-microspot-106/04.webp",
+      "thumbnail": "assets/photos/primax-electronics-microspot-106/04-thumb.webp",
+      "original": "assets/photos/primax-electronics-microspot-106/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/y/yt/y/yt/ytqnqnil3x8z30lv.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/y/yt/ytqnqnil3x8z30lv.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/y/yt/ytqnqnil3x8z30lv.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "ytqnqnil3x8z30lv.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3217,
+      "originalHeight": 2145,
+      "originalBytes": 1021884,
+      "sha256": "62a82a0b606737ace0f77b4534f39445e049787687264a29efdbf31b39b817b9",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Primax Electronics Ltd",
+    "en": "Primax Electronics Ltd"
+  },
+  "brand": "Primax Electronics Ltd",
+  "year": 1993,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Primax Electronics Microspot",
+  "whereToSee": {
+    "ru": "Дальний",
+    "en": "Far"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/primax-electronics-microspot-106/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:51+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 4
+  }
+}

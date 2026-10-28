@@ -1,0 +1,34 @@
+{
+  "id": "telegram-172",
+  "slug": "telegram-172",
+  "title": {
+    "ru": "Что в чемодане?",
+    "en": "What's in the case?"
+  },
+  "date": "2025-05-25T16:59:59+00:00",
+  "source": "https://t.me/old_mice_and_hw/172",
+  "excerpt": {
+    "ru": "Фотография чемодана перед опросом о его содержимом.",
+    "en": "A photograph of a case before a quiz about its contents."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/telegram-172/01.webp",
+      "original": "assets/posts/telegram-172/01.jpg",
+      "source": "https://cdn4.telesco.pe/file/C3KOz4fR0QwbjWhaYvzgLvtZnJ7R9R8dfNBTZzcQ8tX7LgdNUbGEg_d1cPeGRRk666FfTJqF_zSHywx2XA0grcl_FmVKZHnMV4qhakz_7lendqhVtr8WcZDqIQY436_eSqur2OOgK0oRj-B7tnsDSMIQ5qaPP6gs1ZvRC5cLQROPTjcGFmMqkdGTRUrJUpK3HGxPffHG-cITIbuzT_AAa62ylaY92Tihsy3Sf1N5WOC0G9Oo-3uEqfJ-qgxIOIuib_XPs3iZTwcG3nfEQu73lK_7gcKReZmw-fyJwo4NzhNnonPNSsZfO9YY5vZasskz5o5fF54kbJil9mvAAzlllA.jpg",
+      "width": 800,
+      "height": 600
+    }
+  ],
+  "cover": "assets/posts/telegram-172/01.webp",
+  "relatedItems": [],
+  "category": "stories",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-172/ru.md",
+    "en": "content/posts/telegram-172/en.md"
+  }
+}

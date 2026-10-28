@@ -1,0 +1,118 @@
+{
+  "id": "MP-0122",
+  "slug": "kompass-mouse-122",
+  "title": {
+    "en": "Kompass mouse",
+    "ru": "Kompass mouse"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/122/",
+  "sourceOrder": 153,
+  "order": 156,
+  "sourceProperties": {
+    "Производитель": "Midasonic Industrial Co Ltd",
+    "Год": "1991",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/kompass-mouse-122/01.webp",
+      "thumbnail": "assets/photos/kompass-mouse-122/01-thumb.webp",
+      "original": "assets/photos/kompass-mouse-122/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/g/gv/g/gv/gvmgrua8k2omkzgs.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gv/gvmgrua8k2omkzgs.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/g/gv/gvmgrua8k2omkzgs.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "gvmgrua8k2omkzgs.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3331,
+      "originalHeight": 2221,
+      "originalBytes": 2750635,
+      "sha256": "ba626c8d3a7373c6c0305e02240355c4f850b8d23af6ea246e6df74a7b8dac79",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/kompass-mouse-122/02.webp",
+      "thumbnail": "assets/photos/kompass-mouse-122/02-thumb.webp",
+      "original": "assets/photos/kompass-mouse-122/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/9/9d/9/9d/9dxezslgsnhxtjpj.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/9/9d/9dxezslgsnhxtjpj.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/9/9d/9dxezslgsnhxtjpj.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "9dxezslgsnhxtjpj.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3217,
+      "originalHeight": 2145,
+      "originalBytes": 2589980,
+      "sha256": "0105bc40002c1f142e375e0e680d59a34528532d95c145e8bd43a44a3cafac27",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/kompass-mouse-122/03.webp",
+      "thumbnail": "assets/photos/kompass-mouse-122/03-thumb.webp",
+      "original": "assets/photos/kompass-mouse-122/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/x/xn/x/xn/xnowuct1motjayql.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/xn/xnowuct1motjayql.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/x/xn/xnowuct1motjayql.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "xnowuct1motjayql.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3217,
+      "originalHeight": 2145,
+      "originalBytes": 2978995,
+      "sha256": "5b964268e2d54ae04a40830f9b4a9bef688c423b151676e15996c07d3da17791",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Midasonic Industrial Co Ltd",
+    "en": "Midasonic Industrial Co Ltd"
+  },
+  "brand": "Midasonic Industrial Co Ltd",
+  "year": 1991,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Kompass mouse",
+  "whereToSee": {
+    "ru": "Дальний",
+    "en": "Far"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/kompass-mouse-122/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:52+03:00",
+    "sourcePhotoCount": 3,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 3
+  }
+}

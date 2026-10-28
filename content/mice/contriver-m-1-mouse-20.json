@@ -1,0 +1,124 @@
+{
+  "id": "MP-0020",
+  "slug": "contriver-m-1-mouse-20",
+  "title": {
+    "en": "Contriver M-1 Mouse",
+    "ru": "Contriver M-1 Mouse"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/20/",
+  "sourceProperties": {
+    "Производитель": "Commodore",
+    "Год": "1986",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "Commodore",
+    "СССР": "нет",
+    "Где посмотреть": "Средний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/contriver-m-1-mouse-20/01-catalog.webp",
+      "thumbnail": "assets/photos/contriver-m-1-mouse-20/01-catalog-thumb.webp",
+      "original": "assets/photos/contriver-m-1-mouse-20/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/c/ch/chtpjmf9hdkhpr0z.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/ch/chtpjmf9hdkhpr0z.JPG",
+      "originalFilename": "chtpjmf9hdkhpr0z.JPG",
+      "width": 1536,
+      "height": 1024,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1147396,
+      "sha256": "1580c7e1b03991f938a931ac7cecccb51f85556c12dd0013a59583aa3ee6bf9b",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/contriver-m-1-mouse-20/02.webp",
+      "thumbnail": "assets/photos/contriver-m-1-mouse-20/02-thumb.webp",
+      "original": "assets/photos/contriver-m-1-mouse-20/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/g/gc/gc8bphld5udvbx4a.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gc/gc8bphld5udvbx4a.JPG",
+      "originalFilename": "gc8bphld5udvbx4a.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1384280,
+      "sha256": "6ae6aed9388372fda8c1e8a46e43d68e8437e002243e5cd5ccea3b3e56d21f91",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/contriver-m-1-mouse-20/03.webp",
+      "thumbnail": "assets/photos/contriver-m-1-mouse-20/03-thumb.webp",
+      "original": "assets/photos/contriver-m-1-mouse-20/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/h/hm/hmrj7zp6r4wvxad3.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hm/hmrj7zp6r4wvxad3.JPG",
+      "originalFilename": "hmrj7zp6r4wvxad3.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2248210,
+      "sha256": "89e3990fd549fc6c6ceaeb5257eddd204fb62793b3331deaeb8d563a0c2acb79",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/contriver-m-1-mouse-20/04.webp",
+      "thumbnail": "assets/photos/contriver-m-1-mouse-20/04-thumb.webp",
+      "original": "assets/photos/contriver-m-1-mouse-20/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/h/hb/hbgk0bmu57cpfkgk.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hb/hbgk0bmu57cpfkgk.JPG",
+      "originalFilename": "hbgk0bmu57cpfkgk.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2529226,
+      "sha256": "6f29c4ddeccd3440a58d316775563ba49beb5d438b504d757d1f59e369e5cc7a",
+      "caption": ""
+    }
+  ],
+  "thumbnail": "assets/photos/contriver-m-1-mouse-20/thumb-catalog.webp",
+  "order": 28,
+  "manufacturer": {
+    "ru": "Commodore",
+    "en": "Commodore"
+  },
+  "brand": "Commodore",
+  "year": 1986,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "Commodore",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Contriver M-1 Mouse",
+  "whereToSee": {
+    "ru": "Средний",
+    "en": "Middle"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T22:22:51+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 4
+  }
+}

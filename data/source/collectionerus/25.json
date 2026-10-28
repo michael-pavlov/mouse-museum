@@ -1,0 +1,97 @@
+{
+  "sourceId": 25,
+  "source": "https://collectionerus.ru/collections/old-mice/25/",
+  "slug": "mouse-systems-a-m3a1-25",
+  "sourceTitle": "Mouse Systems A+ M3A1",
+  "retrievedAt": "2026-10-27T22:22:41+03:00",
+  "sourcePageSha256": "3e6083d6d7f4667e1f0ef09273999fa9edac64b39ff84081e0fcfe0a460d49d4",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Mouse Systems",
+    "Год": "1984",
+    "Способ позиционирования": "Оптический через коврик",
+    "Интерфейс": "Apple IIc",
+    "СССР": "нет",
+    "Где посмотреть": "Ближайший"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Mouse+Systems"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1984"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%D1%87%D0%B5%D1%80%D0%B5%D0%B7+%D0%BA%D0%BE%D0%B2%D1%80%D0%B8%D0%BA"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=Apple+IIc"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%91%D0%BB%D0%B8%D0%B6%D0%B0%D0%B9%D1%88%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/i/ij/ij0x9f3eho315axo.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/ij/ij0x9f3eho315axo.JPG",
+      "originalName": "ij0x9f3eho315axo.JPG",
+      "cacheFile": "photos/mouse-systems-a-m3a1-25/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,1 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/q/qu/qu9izxc8vkesy0og.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qu/qu9izxc8vkesy0og.JPG",
+      "originalName": "qu9izxc8vkesy0og.JPG",
+      "cacheFile": "photos/mouse-systems-a-m3a1-25/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,7 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/k/kr/krshvejhqwrjalxa.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/kr/krshvejhqwrjalxa.JPG",
+      "originalName": "krshvejhqwrjalxa.JPG",
+      "cacheFile": "photos/mouse-systems-a-m3a1-25/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 2,3 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/e/e7/e7kcuywjfskgr9zv.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/e7/e7kcuywjfskgr9zv.JPG",
+      "originalName": "e7kcuywjfskgr9zv.JPG",
+      "cacheFile": "photos/mouse-systems-a-m3a1-25/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 2,4 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/n/n2/n2xoxh5doh0h3sjb.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/n2/n2xoxh5doh0h3sjb.JPG",
+      "originalName": "n2xoxh5doh0h3sjb.JPG",
+      "cacheFile": "photos/mouse-systems-a-m3a1-25/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 2,5 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/i/id/idjzvkjbjl0qpsso.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/id/idjzvkjbjl0qpsso.JPG",
+      "originalName": "idjzvkjbjl0qpsso.JPG",
+      "cacheFile": "photos/mouse-systems-a-m3a1-25/06.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2666, 2,7 МБ"
+    }
+  ],
+  "itemFile": "content/mice/mouse-systems-a-m3a1-25.json",
+  "previousPhotoCount": 6
+}

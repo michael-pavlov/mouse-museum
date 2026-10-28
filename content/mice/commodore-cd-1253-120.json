@@ -1,0 +1,136 @@
+{
+  "id": "MP-0120",
+  "slug": "commodore-cd-1253-120",
+  "title": {
+    "en": "Commodore CD-1253",
+    "ru": "Commodore CD-1253"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/120/",
+  "sourceOrder": 151,
+  "order": 155,
+  "sourceProperties": {
+    "Производитель": "Commodore",
+    "Год": "1992",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Средний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/commodore-cd-1253-120/01.webp",
+      "thumbnail": "assets/photos/commodore-cd-1253-120/01-thumb.webp",
+      "original": "assets/photos/commodore-cd-1253-120/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/e/ei/e/ei/eix9e9h01edllw1q.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/ei/eix9e9h01edllw1q.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/e/ei/eix9e9h01edllw1q.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "eix9e9h01edllw1q.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3408,
+      "originalHeight": 2272,
+      "originalBytes": 2501301,
+      "sha256": "b723fb5adfeff300a4557b37a5ca525d8058f78d0df311de01a25d83054913df",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/commodore-cd-1253-120/02.webp",
+      "thumbnail": "assets/photos/commodore-cd-1253-120/02-thumb.webp",
+      "original": "assets/photos/commodore-cd-1253-120/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/i/ix/i/ix/ixgmxd3zly4zcfc2.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/ix/ixgmxd3zly4zcfc2.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/i/ix/ixgmxd3zly4zcfc2.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "ixgmxd3zly4zcfc2.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3469,
+      "originalHeight": 2313,
+      "originalBytes": 2586564,
+      "sha256": "7d4371f4d4548d12a4972f64d244b098b5c9885de1bbe1773dc7c085ae976511",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/commodore-cd-1253-120/03.webp",
+      "thumbnail": "assets/photos/commodore-cd-1253-120/03-thumb.webp",
+      "original": "assets/photos/commodore-cd-1253-120/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/i/ih/i/ih/ih1nhwyhldn7dg68.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/ih/ih1nhwyhldn7dg68.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/i/ih/ih1nhwyhldn7dg68.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "ih1nhwyhldn7dg68.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3103,
+      "originalHeight": 2069,
+      "originalBytes": 2168572,
+      "sha256": "4d0ce3ca66adc5cf705559a5fb8832ea7bc8c05d21042a1b246cd7adfb2f29f2",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/commodore-cd-1253-120/04.webp",
+      "thumbnail": "assets/photos/commodore-cd-1253-120/04-thumb.webp",
+      "original": "assets/photos/commodore-cd-1253-120/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/g/g8/g/g8/g81epknb2ehf8kjr.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/g8/g81epknb2ehf8kjr.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/g/g8/g81epknb2ehf8kjr.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "g81epknb2ehf8kjr.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4106,
+      "originalHeight": 2737,
+      "originalBytes": 4202449,
+      "sha256": "dcb37e73aa5e24d523f2129cd849c8c8ed09291636598ba6c3699de58547cd28",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Commodore",
+    "en": "Commodore"
+  },
+  "brand": "Commodore",
+  "year": 1992,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Commodore CD-1253",
+  "whereToSee": {
+    "ru": "Средний",
+    "en": "Middle"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/commodore-cd-1253-120/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:52+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 4
+  }
+}

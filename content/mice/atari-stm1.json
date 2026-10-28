@@ -1,0 +1,124 @@
+{
+  "id": "MP-0015",
+  "slug": "atari-stm1",
+  "title": {
+    "en": "Atari STM1",
+    "ru": "Atari STM1"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/15/",
+  "sourceProperties": {
+    "Производитель": "Atari",
+    "Год": "1986",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "Atari",
+    "СССР": "нет",
+    "Где посмотреть": "Краснохолмская"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/atari-stm1/01-catalog.webp",
+      "thumbnail": "assets/photos/atari-stm1/01-catalog-thumb.webp",
+      "original": "assets/photos/atari-stm1/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/u/ux/uxy63acbp22yl0d3.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/ux/uxy63acbp22yl0d3.JPG",
+      "originalFilename": "uxy63acbp22yl0d3.JPG",
+      "width": 1536,
+      "height": 1024,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1209551,
+      "sha256": "56574499a6e498eea1f7b49c1c0b3686e98c1c43b993dec15a176be397e059b6",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/atari-stm1/02.webp",
+      "thumbnail": "assets/photos/atari-stm1/02-thumb.webp",
+      "original": "assets/photos/atari-stm1/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/h/ht/htlhkreje9wk8kiy.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/ht/htlhkreje9wk8kiy.JPG",
+      "originalFilename": "htlhkreje9wk8kiy.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1523740,
+      "sha256": "a66f347cc6f63c1f601f18535924873e283d8386a1c7b73ac1bb96f8f2716b4a",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/atari-stm1/03.webp",
+      "thumbnail": "assets/photos/atari-stm1/03-thumb.webp",
+      "original": "assets/photos/atari-stm1/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/t/tp/tppgs1v7sc9snpcw.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/tp/tppgs1v7sc9snpcw.JPG",
+      "originalFilename": "tppgs1v7sc9snpcw.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2412459,
+      "sha256": "1548e63c31a121d126ebef9e2c668b90c1216aaaf54272852d6974a5fc307473",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/atari-stm1/04.webp",
+      "thumbnail": "assets/photos/atari-stm1/04-thumb.webp",
+      "original": "assets/photos/atari-stm1/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/8/8v/8vyfdqjaz3nkhb2j.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/8/8v/8vyfdqjaz3nkhb2j.JPG",
+      "originalFilename": "8vyfdqjaz3nkhb2j.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2354567,
+      "sha256": "51e95d2c33cd107e4708da8e4afdb9c5aacad85839a74a9041e8dfac45d42cc1",
+      "caption": ""
+    }
+  ],
+  "thumbnail": "assets/photos/atari-stm1/thumb-catalog.webp",
+  "order": 5,
+  "manufacturer": {
+    "ru": "Atari",
+    "en": "Atari"
+  },
+  "brand": "Atari",
+  "year": 1986,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "Atari",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Atari STM1",
+  "whereToSee": {
+    "ru": "Краснохолмская",
+    "en": "Krasnokholmskaya Gallery"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T22:22:39+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 4
+  }
+}

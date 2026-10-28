@@ -1,0 +1,89 @@
+{
+  "sourceId": 258,
+  "source": "https://collectionerus.ru/collections/old-mice/258/",
+  "slug": "dtk-computer-mouse-258",
+  "sourceTitle": "DTK Computer mouse",
+  "retrievedAt": "2026-10-27T23:10:59+03:00",
+  "sourcePageSha256": "40408c97883e1bb679f81ebd0ac82a88d50e71a3c64cf1ad6185fe1879bbae92",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Год": "1994",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "propertyLinks": {
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1994"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/l/lx/l/lx/lxo5wkwiostfapta.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/l/lx/lxo5wkwiostfapta.jpeg",
+      "originalName": "lxo5wkwiostfapta.jpeg",
+      "cacheFile": "photos/dtk-computer-mouse-258/01.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 830,0 КБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/d/dt/d/dt/dtcjfqn594t2lhff.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/d/dt/dtcjfqn594t2lhff.jpeg",
+      "originalName": "dtcjfqn594t2lhff.jpeg",
+      "cacheFile": "photos/dtk-computer-mouse-258/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 975,3 КБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/w/wj/w/wj/wjt0mth2ljnjn8kw.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/wj/wjt0mth2ljnjn8kw.jpeg",
+      "originalName": "wjt0mth2ljnjn8kw.jpeg",
+      "cacheFile": "photos/dtk-computer-mouse-258/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,3 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/q/qf/q/qf/qfn8gkbgz9gjvvvv.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qf/qfn8gkbgz9gjvvvv.jpeg",
+      "originalName": "qfn8gkbgz9gjvvvv.jpeg",
+      "cacheFile": "photos/dtk-computer-mouse-258/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,2 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/b/b0/b/b0/b0kyknkxy0y9lgcr.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/b0/b0kyknkxy0y9lgcr.jpeg",
+      "originalName": "b0kyknkxy0y9lgcr.jpeg",
+      "cacheFile": "photos/dtk-computer-mouse-258/05.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,4 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/z/zi/z/zi/zirztivfrv6n37g2.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/zi/zirztivfrv6n37g2.jpeg",
+      "originalName": "zirztivfrv6n37g2.jpeg",
+      "cacheFile": "photos/dtk-computer-mouse-258/06.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,6 МБ"
+    }
+  ],
+  "itemFile": "content/mice/dtk-computer-mouse-258.json",
+  "previousPhotoCount": 0
+}

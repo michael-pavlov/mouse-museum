@@ -1,0 +1,84 @@
+{
+  "sourceId": 146,
+  "source": "https://collectionerus.ru/collections/old-mice/146/",
+  "slug": "mouse-systems-m3-146",
+  "sourceTitle": "Mouse Systems M3",
+  "retrievedAt": "2026-10-27T22:22:45+03:00",
+  "sourcePageSha256": "0a3699cbc3ab67ff1d36c59ff0bd9e0e5dc3a38a6194d837ebb9a5f8a1cfa465",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Mouse Systems",
+    "Год": "1986",
+    "Способ позиционирования": "оптический через коврик",
+    "СССР": "нет",
+    "Где посмотреть": "Ближайший"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Mouse+Systems"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1986"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%D1%87%D0%B5%D1%80%D0%B5%D0%B7+%D0%BA%D0%BE%D0%B2%D1%80%D0%B8%D0%BA"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%91%D0%BB%D0%B8%D0%B6%D0%B0%D0%B9%D1%88%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/p/pe/p/pe/peaynnxlzoct7f5i.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/pe/peaynnxlzoct7f5i.jpg",
+      "originalName": "peaynnxlzoct7f5i.jpg",
+      "cacheFile": "photos/mouse-systems-m3-146/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "1984×1323, 1021,5 КБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/e/eu/e/eu/eukckrdj0rcgtbu1.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/eu/eukckrdj0rcgtbu1.jpg",
+      "originalName": "eukckrdj0rcgtbu1.jpg",
+      "cacheFile": "photos/mouse-systems-m3-146/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "1937×1291, 1,1 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/n/nx/n/nx/nxade4no5xgrqjec.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/nx/nxade4no5xgrqjec.jpg",
+      "originalName": "nxade4no5xgrqjec.jpg",
+      "cacheFile": "photos/mouse-systems-m3-146/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "2125×1417, 1,0 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/j/je/j/je/jevukdklesb7woev.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/j/je/jevukdklesb7woev.jpg",
+      "originalName": "jevukdklesb7woev.jpg",
+      "cacheFile": "photos/mouse-systems-m3-146/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "2125×1417, 1,0 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/t/td/t/td/tdlm8nbkxdubnp0k.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/td/tdlm8nbkxdubnp0k.jpg",
+      "originalName": "tdlm8nbkxdubnp0k.jpg",
+      "cacheFile": "photos/mouse-systems-m3-146/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "2474×1706, 1,8 МБ"
+    }
+  ],
+  "itemFile": "content/mice/mouse-systems-m3-146.json",
+  "previousPhotoCount": 5
+}

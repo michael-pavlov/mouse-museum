@@ -1,0 +1,106 @@
+{
+  "sourceId": 55,
+  "source": "https://collectionerus.ru/collections/old-mice/55/",
+  "slug": "neos-mouse-55",
+  "sourceTitle": "Neos Mouse",
+  "retrievedAt": "2026-10-27T23:10:48+03:00",
+  "sourcePageSha256": "ebcd45dbb2b052203dad28a859bc3eeb35e03d48a197b7078456415d5ef49a4d",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Nihon Electronics Co.",
+    "Год": "1985",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "C64",
+    "СССР": "нет",
+    "Где посмотреть": "Средний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Nihon+Electronics+Co."
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1985"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=C64"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/a/ap/aphrlrlzxqob7zag.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/a/ap/aphrlrlzxqob7zag.JPG",
+      "originalName": "aphrlrlzxqob7zag.JPG",
+      "cacheFile": "photos/neos-mouse-55/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,1 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/a/ac/acim80xv58wstdzz.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/a/ac/acim80xv58wstdzz.JPG",
+      "originalName": "acim80xv58wstdzz.JPG",
+      "cacheFile": "photos/neos-mouse-55/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,2 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/e/e3/e3al46pvmfqpp9yz.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/e3/e3al46pvmfqpp9yz.JPG",
+      "originalName": "e3al46pvmfqpp9yz.JPG",
+      "cacheFile": "photos/neos-mouse-55/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,5 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/j/j2/j2hdxkyfpsxa6i4m.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/j/j2/j2hdxkyfpsxa6i4m.JPG",
+      "originalName": "j2hdxkyfpsxa6i4m.JPG",
+      "cacheFile": "photos/neos-mouse-55/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 2,5 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/a/ay/ayvwdjo1htx83kzv.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/a/ay/ayvwdjo1htx83kzv.JPG",
+      "originalName": "ayvwdjo1htx83kzv.JPG",
+      "cacheFile": "photos/neos-mouse-55/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 2,0 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/p/pr/pr50i7grhn6chijg.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/pr/pr50i7grhn6chijg.JPG",
+      "originalName": "pr50i7grhn6chijg.JPG",
+      "cacheFile": "photos/neos-mouse-55/06.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 2,2 МБ"
+    },
+    {
+      "position": 7,
+      "source": "https://collectionerus.ru/media/items-large/z/z4/z4y9mv0lppyeefvo.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/z4/z4y9mv0lppyeefvo.JPG",
+      "originalName": "z4y9mv0lppyeefvo.JPG",
+      "cacheFile": "photos/neos-mouse-55/07.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 2,2 МБ"
+    }
+  ],
+  "itemFile": "content/mice/neos-mouse-55.json",
+  "previousPhotoCount": 0
+}

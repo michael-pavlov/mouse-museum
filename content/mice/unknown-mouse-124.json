@@ -1,0 +1,136 @@
+{
+  "id": "MP-0124",
+  "slug": "unknown-mouse-124",
+  "title": {
+    "en": "Unknown mouse",
+    "ru": "Unknown mouse"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/124/",
+  "sourceOrder": 155,
+  "order": 158,
+  "sourceProperties": {
+    "Производитель": "Unknown",
+    "Год": "1992",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/unknown-mouse-124/01.webp",
+      "thumbnail": "assets/photos/unknown-mouse-124/01-thumb.webp",
+      "original": "assets/photos/unknown-mouse-124/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/p/pd/p/pd/pdcbgaf8pnzwcguq.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/pd/pdcbgaf8pnzwcguq.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/p/pd/pdcbgaf8pnzwcguq.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "pdcbgaf8pnzwcguq.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3406,
+      "originalHeight": 2271,
+      "originalBytes": 2674291,
+      "sha256": "38dc672b6412eb8a46ce51df7bb9833a2677ff196958efe717d6ed020ff88e58",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/unknown-mouse-124/02.webp",
+      "thumbnail": "assets/photos/unknown-mouse-124/02-thumb.webp",
+      "original": "assets/photos/unknown-mouse-124/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/r2/r/r2/r2q5tx6eso967gkp.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/r2/r2q5tx6eso967gkp.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/r/r2/r2q5tx6eso967gkp.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "r2q5tx6eso967gkp.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3293,
+      "originalHeight": 2195,
+      "originalBytes": 2897254,
+      "sha256": "1b2b4093c1b2dabb0dc46c52500e06f85b652b20268e85ed143e692e89be0682",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/unknown-mouse-124/03.webp",
+      "thumbnail": "assets/photos/unknown-mouse-124/03-thumb.webp",
+      "original": "assets/photos/unknown-mouse-124/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/rj/r/rj/rjca6vsi0d3ijlym.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/rj/rjca6vsi0d3ijlym.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/r/rj/rjca6vsi0d3ijlym.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "rjca6vsi0d3ijlym.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3394,
+      "originalHeight": 2263,
+      "originalBytes": 3228597,
+      "sha256": "335df5aa0410d974b2074a8ecc705bea5363945766d16c245830bfd2120c58cf",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/unknown-mouse-124/04.webp",
+      "thumbnail": "assets/photos/unknown-mouse-124/04-thumb.webp",
+      "original": "assets/photos/unknown-mouse-124/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/v/vl/v/vl/vloaulxesbysc136.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/vl/vloaulxesbysc136.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/v/vl/vloaulxesbysc136.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "vloaulxesbysc136.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3817,
+      "originalHeight": 2545,
+      "originalBytes": 3908168,
+      "sha256": "a8e34ff71c4e16067aaf0e410c863b430047088abd8f6cb022a8f789092ee4a2",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Unknown",
+    "en": "Unknown"
+  },
+  "brand": "Unknown",
+  "year": 1992,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Unknown mouse",
+  "whereToSee": {
+    "ru": "Дальний",
+    "en": "Far"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/unknown-mouse-124/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:52+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 4
+  }
+}

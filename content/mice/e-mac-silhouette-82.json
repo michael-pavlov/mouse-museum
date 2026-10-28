@@ -1,0 +1,155 @@
+{
+  "id": "MP-0082",
+  "slug": "e-mac-silhouette-82",
+  "title": {
+    "en": "e-Mac Silhouette",
+    "ru": "e-Mac Silhouette"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/82/",
+  "sourceOrder": 118,
+  "order": 122,
+  "sourceProperties": {
+    "Производитель": "e-Mac Silhouette",
+    "Год": "1990",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "ADB",
+    "СССР": "нет",
+    "Где посмотреть": "unknown"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/e-mac-silhouette-82/01.webp",
+      "thumbnail": "assets/photos/e-mac-silhouette-82/01-thumb.webp",
+      "original": "assets/photos/e-mac-silhouette-82/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/s/s0/s0plvpiujou5dwvr.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/s/s0/s0plvpiujou5dwvr.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/s/s0/s0plvpiujou5dwvr.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "s0plvpiujou5dwvr.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1308292,
+      "sha256": "46831ed71d2dd1d827053a99729e354ec2b05ca3936a0c52433ec3f90e2b4a7b",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/e-mac-silhouette-82/02.webp",
+      "thumbnail": "assets/photos/e-mac-silhouette-82/02-thumb.webp",
+      "original": "assets/photos/e-mac-silhouette-82/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/7/7x/7xpjfwuyg7y5tuct.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/7/7x/7xpjfwuyg7y5tuct.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/7/7x/7xpjfwuyg7y5tuct.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "7xpjfwuyg7y5tuct.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1214329,
+      "sha256": "1bc9bc717dc9a37ba94f6c13fb28cb8029d1df67da9169f9ee6062c1261d8e39",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/e-mac-silhouette-82/03.webp",
+      "thumbnail": "assets/photos/e-mac-silhouette-82/03-thumb.webp",
+      "original": "assets/photos/e-mac-silhouette-82/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/x/x6/x6ffdiqtgpkbyrtt.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/x6/x6ffdiqtgpkbyrtt.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/x/x6/x6ffdiqtgpkbyrtt.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "x6ffdiqtgpkbyrtt.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3872,
+      "originalHeight": 2581,
+      "originalBytes": 2034126,
+      "sha256": "dd0b01fc1423c97824e37afdc22c047a666dfa29621460356f40f7e0011053a7",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/e-mac-silhouette-82/04.webp",
+      "thumbnail": "assets/photos/e-mac-silhouette-82/04-thumb.webp",
+      "original": "assets/photos/e-mac-silhouette-82/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/e/ei/eilhg9erzqkluzzi.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/ei/eilhg9erzqkluzzi.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/e/ei/eilhg9erzqkluzzi.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "eilhg9erzqkluzzi.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3872,
+      "originalHeight": 2581,
+      "originalBytes": 1550378,
+      "sha256": "7c08af0536bf2dad8a3b824d119f0047102f58aad9e4c78f5eb17197c9007715",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/e-mac-silhouette-82/05.webp",
+      "thumbnail": "assets/photos/e-mac-silhouette-82/05-thumb.webp",
+      "original": "assets/photos/e-mac-silhouette-82/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/q/qf/qf890zaukyagfffb.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qf/qf890zaukyagfffb.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/q/qf/qf890zaukyagfffb.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "qf890zaukyagfffb.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1423200,
+      "sha256": "dfe6753f5e7c2463d03d7f8760f85dad79bdd7eb7a22d4b9f2072084f7ee4131",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "e-Mac Silhouette",
+    "en": "e-Mac Silhouette"
+  },
+  "brand": "e-Mac Silhouette",
+  "year": 1990,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "ADB",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "e-Mac Silhouette",
+  "whereToSee": {
+    "ru": "unknown",
+    "en": "Unknown"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/e-mac-silhouette-82/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:50+03:00",
+    "sourcePhotoCount": 5,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 5
+  }
+}

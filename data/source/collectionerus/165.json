@@ -1,0 +1,84 @@
+{
+  "sourceId": 165,
+  "source": "https://collectionerus.ru/collections/old-mice/165/",
+  "slug": "mouse-2100-165",
+  "sourceTitle": "Mouse 2100",
+  "retrievedAt": "2026-10-27T23:10:54+03:00",
+  "sourcePageSha256": "1e295001a43daa83df5cc69d51916edfdc424ad49b27940e96b9b1d7e28dc564",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Sysgration Ltd. - HQX",
+    "Год": "1993",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Sysgration+Ltd.+-+HQX"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1993"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/g/ga/g/ga/gahabajbgeosmkk0.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/ga/gahabajbgeosmkk0.jpeg",
+      "originalName": "gahabajbgeosmkk0.jpeg",
+      "cacheFile": "photos/mouse-2100-165/01.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,0 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/y/ym/y/ym/ymcbaana6pkjg0kn.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/y/ym/ymcbaana6pkjg0kn.jpeg",
+      "originalName": "ymcbaana6pkjg0kn.jpeg",
+      "cacheFile": "photos/mouse-2100-165/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,2 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/i/iv/i/iv/ivnuzb6xr5zmsogz.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/iv/ivnuzb6xr5zmsogz.jpeg",
+      "originalName": "ivnuzb6xr5zmsogz.jpeg",
+      "cacheFile": "photos/mouse-2100-165/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,1 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/u/ul/u/ul/ulpyd7f2bk78qmxx.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/ul/ulpyd7f2bk78qmxx.jpeg",
+      "originalName": "ulpyd7f2bk78qmxx.jpeg",
+      "cacheFile": "photos/mouse-2100-165/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,4 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/s/s8/s/s8/s8ckmgi5xkxmbo27.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/s/s8/s8ckmgi5xkxmbo27.jpeg",
+      "originalName": "s8ckmgi5xkxmbo27.jpeg",
+      "cacheFile": "photos/mouse-2100-165/05.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,5 МБ"
+    }
+  ],
+  "itemFile": "content/mice/mouse-2100-165.json",
+  "previousPhotoCount": 0
+}

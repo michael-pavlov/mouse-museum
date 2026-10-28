@@ -1,0 +1,79 @@
+{
+  "sourceId": 101,
+  "source": "https://collectionerus.ru/collections/old-mice/101/",
+  "slug": "xerox-x063x-101",
+  "sourceTitle": "Xerox X063X",
+  "retrievedAt": "2026-10-27T22:22:47+03:00",
+  "sourcePageSha256": "2a5d77a5920e7e961401f8c48cc7f823273c32894aa35302222d5c0e518d1f51",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Hawley",
+    "Год": "1983",
+    "Способ позиционирования": "на дискретных датчиках (Hawley)",
+    "СССР": "нет",
+    "Производитель платы": "Hawley",
+    "Где посмотреть": "Краснохолмская"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Hawley"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1983"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BD%D0%B0+%D0%B4%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D1%8B%D1%85+%D0%B4%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B0%D1%85+%28Hawley%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Производитель платы": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel_platy=Hawley"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%85%D0%BE%D0%BB%D0%BC%D1%81%D0%BA%D0%B0%D1%8F"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/rz/r/rz/rzylvhqmzh51p8mf.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/rz/rzylvhqmzh51p8mf.JPG",
+      "originalName": "rzylvhqmzh51p8mf.JPG",
+      "cacheFile": "photos/xerox-x063x-101/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3343×2229, 876,2 КБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/u/uh/u/uh/uhjw4hssgba6fxi4.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/uh/uhjw4hssgba6fxi4.JPG",
+      "originalName": "uhjw4hssgba6fxi4.JPG",
+      "cacheFile": "photos/xerox-x063x-101/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3343×2229, 1000,7 КБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/e/ez/e/ez/ezrvu64zkpnskzjl.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/ez/ezrvu64zkpnskzjl.JPG",
+      "originalName": "ezrvu64zkpnskzjl.JPG",
+      "cacheFile": "photos/xerox-x063x-101/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3905×2603, 1,2 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/1/19/1/19/19bdnwmlz5bvfzqz.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/1/19/19bdnwmlz5bvfzqz.JPG",
+      "originalName": "19bdnwmlz5bvfzqz.JPG",
+      "cacheFile": "photos/xerox-x063x-101/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3582×2388, 1,2 МБ"
+    }
+  ],
+  "itemFile": "content/mice/xerox-x063x-101.json",
+  "previousPhotoCount": 4
+}

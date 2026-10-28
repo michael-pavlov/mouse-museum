@@ -1,0 +1,155 @@
+{
+  "id": "MP-0074",
+  "slug": "contriver-74",
+  "title": {
+    "en": "Contriver",
+    "ru": "Contriver"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/74/",
+  "sourceOrder": 106,
+  "order": 110,
+  "sourceProperties": {
+    "Производитель": "Contriver",
+    "Год": "1990",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "Atari",
+    "СССР": "нет",
+    "Где посмотреть": "Ближайший"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/contriver-74/01.webp",
+      "thumbnail": "assets/photos/contriver-74/01-thumb.webp",
+      "original": "assets/photos/contriver-74/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/k/kc/kc5ottranih5phsk.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/kc/kc5ottranih5phsk.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/k/kc/kc5ottranih5phsk.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "kc5ottranih5phsk.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1140251,
+      "sha256": "f0d7069511ee2800851f343bed8e834526d934e61a1154b41d1863cb7b9614ce",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/contriver-74/02.webp",
+      "thumbnail": "assets/photos/contriver-74/02-thumb.webp",
+      "original": "assets/photos/contriver-74/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/w/wk/wkincb924hbwzyk7.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/wk/wkincb924hbwzyk7.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/w/wk/wkincb924hbwzyk7.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "wkincb924hbwzyk7.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1640265,
+      "sha256": "f0e632cfdccbc22587a5fc502deea2d0bd7424e7d10ee11349a87f7512c8cc80",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/contriver-74/03.webp",
+      "thumbnail": "assets/photos/contriver-74/03-thumb.webp",
+      "original": "assets/photos/contriver-74/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/0/0q/0q6rgcgqehei2iro.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/0/0q/0q6rgcgqehei2iro.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/0/0q/0q6rgcgqehei2iro.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "0q6rgcgqehei2iro.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1802965,
+      "sha256": "6d785212505c23677b2a8fd570d003aa78236191e72b51a5a2aa1029c0d38e66",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/contriver-74/04.webp",
+      "thumbnail": "assets/photos/contriver-74/04-thumb.webp",
+      "original": "assets/photos/contriver-74/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/b/b8/b81p1kuv9bqy4xko.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/b8/b81p1kuv9bqy4xko.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/b/b8/b81p1kuv9bqy4xko.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "b81p1kuv9bqy4xko.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 2193329,
+      "sha256": "5fcc17d0bb2e27ccb71261f788762d8bbef9a9fbe4fc4f226a523fd7b693ea67",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/contriver-74/05.webp",
+      "thumbnail": "assets/photos/contriver-74/05-thumb.webp",
+      "original": "assets/photos/contriver-74/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/l/lc/lc9xi53rzo0fblrf.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/l/lc/lc9xi53rzo0fblrf.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/l/lc/lc9xi53rzo0fblrf.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "lc9xi53rzo0fblrf.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 2206414,
+      "sha256": "1f333c38a35718d1d84c2f22c7b75e27caf1b70acc289e1817f07d8ae42cdaef",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Contriver",
+    "en": "Contriver"
+  },
+  "brand": "Contriver",
+  "year": 1990,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "Atari",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Contriver",
+  "whereToSee": {
+    "ru": "Ближайший",
+    "en": "Nearest"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/contriver-74/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:49+03:00",
+    "sourcePhotoCount": 5,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 5
+  }
+}

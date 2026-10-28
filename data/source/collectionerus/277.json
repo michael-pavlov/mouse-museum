@@ -1,0 +1,102 @@
+{
+  "sourceId": 277,
+  "source": "https://collectionerus.ru/collections/old-mice/277/",
+  "slug": "emag-com-277",
+  "sourceTitle": "Emag-Com",
+  "retrievedAt": "2026-10-27T23:11:00+03:00",
+  "sourcePageSha256": "10bf3ffab4d9fb8883c1dfc498ecc0fa70e6ee3d67a1146fa186d65a57af7202",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "EmagCom",
+    "Год": "1992",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=EmagCom"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1992"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/g/g9/g/g9/g9zsgc1sy7ay34xa.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/g9/g9zsgc1sy7ay34xa.jpeg",
+      "originalName": "g9zsgc1sy7ay34xa.jpeg",
+      "cacheFile": "photos/emag-com-277/01.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 786,0 КБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/e/ei/e/ei/eifrlqnkbinz7xn9.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/ei/eifrlqnkbinz7xn9.jpeg",
+      "originalName": "eifrlqnkbinz7xn9.jpeg",
+      "cacheFile": "photos/emag-com-277/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 827,2 КБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/g/ge/g/ge/gealot84nrsunzsh.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/ge/gealot84nrsunzsh.jpeg",
+      "originalName": "gealot84nrsunzsh.jpeg",
+      "cacheFile": "photos/emag-com-277/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 962,1 КБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/8/8n/8/8n/8nzza7fe14utu0kv.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/8/8n/8nzza7fe14utu0kv.jpeg",
+      "originalName": "8nzza7fe14utu0kv.jpeg",
+      "cacheFile": "photos/emag-com-277/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 823,6 КБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/k/kf/k/kf/kfrrrvjxsqulomcf.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/kf/kfrrrvjxsqulomcf.jpeg",
+      "originalName": "kfrrrvjxsqulomcf.jpeg",
+      "cacheFile": "photos/emag-com-277/05.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,4 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/p/pl/p/pl/plv8q8dntolc3vur.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/pl/plv8q8dntolc3vur.jpeg",
+      "originalName": "plv8q8dntolc3vur.jpeg",
+      "cacheFile": "photos/emag-com-277/06.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,7 МБ"
+    },
+    {
+      "position": 7,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/t/tz/t/tz/tzxkg1jz20ozijyi.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/tz/tzxkg1jz20ozijyi.jpeg",
+      "originalName": "tzxkg1jz20ozijyi.jpeg",
+      "cacheFile": "photos/emag-com-277/07.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,6 МБ"
+    }
+  ],
+  "itemFile": "content/mice/emag-com-277.json",
+  "previousPhotoCount": 0
+}

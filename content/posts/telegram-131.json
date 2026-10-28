@@ -1,0 +1,59 @@
+{
+  "id": "telegram-131",
+  "slug": "telegram-131",
+  "title": {
+    "ru": "Mouse Systems ProAgio / Genius EasyScroll",
+    "en": "Mouse Systems ProAgio / Genius EasyScroll"
+  },
+  "date": "2025-02-24T06:45:42+00:00",
+  "source": "https://t.me/old_mice_and_hw/131",
+  "excerpt": {
+    "ru": "Раннее колесо прокрутки, ременная передача и история выбора функции скролла.",
+    "en": "An early scroll wheel, a belt drive and the story behind scrolling's role."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/telegram-131/01.webp",
+      "original": "assets/posts/telegram-131/01.jpg",
+      "source": "https://cdn4.telesco.pe/file/r7yS1vcSK8XXIMjHl8WH-bHovFA38lpO45PcobnSV4nyMIlw9xHSw2iSo86z_52VBHychq4OMoC78_uS5pMhq3dsb_92ml4WdWsaYfu7JpWs9lMtXXbpQoW4PWJl3ww77nbLIrB_l3LiLq7p_fTShgas8GYFGzzAH9c_FD0OW-Vf-yHU1M2JfIqEOHieb3vdDPUIx2iu7-QYbZzDxGtkjpJ2gxlvPwrQrRswDjROMa2quGiUn4yzcH_EnOB4f5NarpCwiwH_OochaRdWQ2zflB4V7APlJWp6_mA7zyevt61VAjA0lJ8F8j8EkUO_iDRxBbOT_cl-gf_wUEfvpQEAMg.jpg",
+      "width": 759,
+      "height": 509
+    },
+    {
+      "file": "assets/posts/telegram-131/02.webp",
+      "original": "assets/posts/telegram-131/02.jpg",
+      "source": "https://cdn4.telesco.pe/file/UFlKMTtO3cyPjtDv74nwyimMh4c2k-1DKrawJ4tfLqpzFS6G1lkjnC_MVcPvrQwY2rgjyDa61tVJHjOl0yT-p2QsOrpl0o653qTkJfQ6sRlU-B0f-3dXoC860P7IOKtc6mAI9kGp6JaACYLJtzeHBlqa7yftjqRF6V43behoSH2aXlxpkRzlKpZ8XV0SYhWFB1bEYAuNP2AKa-pkDDJsBSfcOnKkM7sNq9LU37EKeeF9Es8i8zmqtBaABLCjNbQqZXaqlW7ET_gzB61vsJzHV7SDOXottzGbiS-AN-6Z5oynXTMXOEcndsb6plsomWyg244GaALvGsvG_n4lJVgUHA.jpg",
+      "width": 800,
+      "height": 608
+    },
+    {
+      "file": "assets/posts/telegram-131/03.webp",
+      "original": "assets/posts/telegram-131/03.jpg",
+      "source": "https://cdn4.telesco.pe/file/lEIfpc9_TZJQDDAirm49gOgOUOtBVBRdFZw7DCqb8JwWrMrNRhhIw7Cxd1M0oSKKq4K1MDoWsdKtusKmG-THKA33gM0RkpCgrLPyZCxdhaClIx2Weburx7b2Q6RPNJCeSMEgS5VqxYmE_Ap0vgGnR4pJhoOM4IGRfT0Cj4JaW-L_wKggXtBYMm0qLzTxolmWu_vzY1I90sRmQn4mRcFTYJx4M-0-mwy2Oe3Y3bpFHl9G3DL3uWR-YAikmcGKehwTOXz0lCvGXThzxKSvrQgn1x204mKkFiZP7HxmBAcfotAn53N7UhSXIPv1qJGk4dakhBd97UVQq4H8Yn-gdbSC8Q.jpg",
+      "width": 544,
+      "height": 800
+    }
+  ],
+  "cover": "assets/posts/telegram-131/01.webp",
+  "relatedItems": [
+    "mouse-systems-proagio"
+  ],
+  "category": "stories",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-131/ru.md",
+    "en": "content/posts/telegram-131/en.md"
+  },
+  "references": [
+    {
+      "url": "https://collectionerus.ru/collections/old-mice/9/",
+      "label": {
+        "ru": "Ссылка из оригинала 1",
+        "en": "Original reference 1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "MP-0057",
+  "slug": "genius-gm-6-57",
+  "title": {
+    "en": "Genius GM-6",
+    "ru": "Genius GM-6"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/57/",
+  "sourceOrder": 95,
+  "order": 100,
+  "sourceProperties": {
+    "Производитель": "Genius",
+    "Год": "1987",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "COM",
+    "СССР": "нет",
+    "Где посмотреть": "Средний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/genius-gm-6-57/01.webp",
+      "thumbnail": "assets/photos/genius-gm-6-57/01-thumb.webp",
+      "original": "assets/photos/genius-gm-6-57/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/h/hz/hz4gdevrrztmvrkz.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hz/hz4gdevrrztmvrkz.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/h/hz/hz4gdevrrztmvrkz.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "hz4gdevrrztmvrkz.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1312059,
+      "sha256": "4f70a47525a0c057bfa756d3621f897028ea824ca8adf600f001aef52a1d7a1d",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/genius-gm-6-57/02.webp",
+      "thumbnail": "assets/photos/genius-gm-6-57/02-thumb.webp",
+      "original": "assets/photos/genius-gm-6-57/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/l/lv/lvrhcjdp2qzzjkym.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/l/lv/lvrhcjdp2qzzjkym.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/l/lv/lvrhcjdp2qzzjkym.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "lvrhcjdp2qzzjkym.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1850838,
+      "sha256": "1f7dfb005754ec173baeaff6901da98c3758c08db4ee1ba80feb807a939ed069",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/genius-gm-6-57/03.webp",
+      "thumbnail": "assets/photos/genius-gm-6-57/03-thumb.webp",
+      "original": "assets/photos/genius-gm-6-57/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/9/9q/9qrtawv2k4d1kesi.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/9/9q/9qrtawv2k4d1kesi.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/9/9q/9qrtawv2k4d1kesi.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "9qrtawv2k4d1kesi.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1216843,
+      "sha256": "c26b2f4321818bd121587787c97a30f00b5dafa00dc6539a37bbdebf4753cf3f",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/genius-gm-6-57/04.webp",
+      "thumbnail": "assets/photos/genius-gm-6-57/04-thumb.webp",
+      "original": "assets/photos/genius-gm-6-57/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/p/pn/pnfhbbp5jljoc3nz.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/pn/pnfhbbp5jljoc3nz.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/p/pn/pnfhbbp5jljoc3nz.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "pnfhbbp5jljoc3nz.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3800,
+      "originalHeight": 2533,
+      "originalBytes": 2403597,
+      "sha256": "725b03456a1147dc62044cce1178cc7b3c2144e332d9c35f6c6674411a03b211",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/genius-gm-6-57/05.webp",
+      "thumbnail": "assets/photos/genius-gm-6-57/05-thumb.webp",
+      "original": "assets/photos/genius-gm-6-57/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/5/5j/5j2th6hnsqxmsz7r.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/5/5j/5j2th6hnsqxmsz7r.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/5/5j/5j2th6hnsqxmsz7r.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "5j2th6hnsqxmsz7r.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2652402,
+      "sha256": "b3c2f51ff501f1738861cb34f268ff97cddd5eb812d8c11a42e35ce7fb031103",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/genius-gm-6-57/06.webp",
+      "thumbnail": "assets/photos/genius-gm-6-57/06-thumb.webp",
+      "original": "assets/photos/genius-gm-6-57/originals/06.jpg",
+      "source": "https://collectionerus.ru/media/items-large/r/rv/rv31b5xq0rbkdr4c.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/rv/rv31b5xq0rbkdr4c.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/r/rv/rv31b5xq0rbkdr4c.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "rv31b5xq0rbkdr4c.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2910717,
+      "sha256": "cb849b4d099bed80c93abc3bb13308774035ce9b5abf83acdd7a5728986f9204",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Genius",
+    "en": "Genius"
+  },
+  "brand": "Genius",
+  "year": 1987,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "COM",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Genius GM-6",
+  "whereToSee": {
+    "ru": "Средний",
+    "en": "Middle"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/genius-gm-6-57/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:49+03:00",
+    "sourcePhotoCount": 6,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 6
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "MP-0117",
+  "slug": "db-boeder-m-10-117",
+  "title": {
+    "en": "Db Boeder m-10",
+    "ru": "Db Boeder m-10"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/117/",
+  "sourceOrder": 146,
+  "order": 150,
+  "sourceProperties": {
+    "Производитель": "Db Boeder",
+    "Год": "1994",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/db-boeder-m-10-117/01.webp",
+      "thumbnail": "assets/photos/db-boeder-m-10-117/01-thumb.webp",
+      "original": "assets/photos/db-boeder-m-10-117/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/2/2m/2/2m/2mufkjwwrke5mbpz.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/2/2m/2mufkjwwrke5mbpz.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/2/2m/2mufkjwwrke5mbpz.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "2mufkjwwrke5mbpz.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3025,
+      "originalHeight": 2017,
+      "originalBytes": 1539945,
+      "sha256": "2955a67135712e45c4652df728709060222b368c5926ad030cd52f228f199f3c",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/db-boeder-m-10-117/02.webp",
+      "thumbnail": "assets/photos/db-boeder-m-10-117/02-thumb.webp",
+      "original": "assets/photos/db-boeder-m-10-117/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/q/qx/q/qx/qximzgudorgduvz5.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qx/qximzgudorgduvz5.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/q/qx/qximzgudorgduvz5.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "qximzgudorgduvz5.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3379,
+      "originalHeight": 2253,
+      "originalBytes": 1988042,
+      "sha256": "14c750f0f6eeae52234661dbae1021fcb17b0aaf53479536e6d000bac646fad9",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/db-boeder-m-10-117/03.webp",
+      "thumbnail": "assets/photos/db-boeder-m-10-117/03-thumb.webp",
+      "original": "assets/photos/db-boeder-m-10-117/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/q/qp/q/qp/qpzgtcgorkytyrdv.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qp/qpzgtcgorkytyrdv.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/q/qp/qpzgtcgorkytyrdv.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "qpzgtcgorkytyrdv.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3391,
+      "originalHeight": 2261,
+      "originalBytes": 3133561,
+      "sha256": "87d3a41fef10d1dec9b718b162b6b2f973cadd044eeb0f22f00be4dce04e1eb4",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Db Boeder",
+    "en": "Db Boeder"
+  },
+  "brand": "Db Boeder",
+  "year": 1994,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Db Boeder m-10",
+  "whereToSee": {
+    "ru": "Дальний",
+    "en": "Far"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/db-boeder-m-10-117/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:52+03:00",
+    "sourcePhotoCount": 3,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 3
+  }
+}

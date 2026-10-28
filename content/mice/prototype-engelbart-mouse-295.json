@@ -1,0 +1,190 @@
+{
+  "id": "MP-0295",
+  "slug": "prototype-engelbart-mouse-295",
+  "title": {
+    "en": "Prototype Engelbart Mouse",
+    "ru": "Prototype Engelbart Mouse"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/295/",
+  "sourceOrder": 290,
+  "order": 291,
+  "sourceProperties": {
+    "Производитель": "Douglas Carl Engelbart",
+    "Год": "1964",
+    "Способ позиционирования": "на потенциометрах",
+    "СССР": "нет",
+    "Где посмотреть": "Краснохолмская"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/prototype-engelbart-mouse-295/01-catalog.webp",
+      "thumbnail": "assets/photos/prototype-engelbart-mouse-295/01-catalog-thumb.webp",
+      "original": "assets/photos/prototype-engelbart-mouse-295/originals/01.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/u/uv/u/uv/uvxlrjazczlbwh9g.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/uv/uvxlrjazczlbwh9g.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/u/uv/uvxlrjazczlbwh9g.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "uvxlrjazczlbwh9g.jpeg",
+      "width": 1448,
+      "height": 1086,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1267299,
+      "sha256": "6ec5409aa38d0670ba650246d2dd67adb7468f523220b0ceb36e2f471d8e4036",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/prototype-engelbart-mouse-295/02.webp",
+      "thumbnail": "assets/photos/prototype-engelbart-mouse-295/02-thumb.webp",
+      "original": "assets/photos/prototype-engelbart-mouse-295/originals/02.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/z/zc/z/zc/zclx5zss5z9lz04n.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/zc/zclx5zss5z9lz04n.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/z/zc/zclx5zss5z9lz04n.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "zclx5zss5z9lz04n.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1331017,
+      "sha256": "77610eae5b5c7667b948aa25bb7030ee0b6657621ab66a0c7685b05612a87b18",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/prototype-engelbart-mouse-295/03.webp",
+      "thumbnail": "assets/photos/prototype-engelbart-mouse-295/03-thumb.webp",
+      "original": "assets/photos/prototype-engelbart-mouse-295/originals/03.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/3/3f/3/3f/3fxj0bdsm9k36ul2.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/3/3f/3fxj0bdsm9k36ul2.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/3/3f/3fxj0bdsm9k36ul2.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "3fxj0bdsm9k36ul2.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1556321,
+      "sha256": "510e4edf9b17cbefeff9b3c1d860880a01d08a5d9bf639814cbe9e066aa1cf16",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/prototype-engelbart-mouse-295/04.webp",
+      "thumbnail": "assets/photos/prototype-engelbart-mouse-295/04-thumb.webp",
+      "original": "assets/photos/prototype-engelbart-mouse-295/originals/04.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/g/gw/g/gw/gwiizw7hzw5pqfha.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gw/gwiizw7hzw5pqfha.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/g/gw/gwiizw7hzw5pqfha.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "gwiizw7hzw5pqfha.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1481006,
+      "sha256": "827cddca3863d6ea79e30941f7e95da7332a472657966a50b1dd783c93632f91",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/prototype-engelbart-mouse-295/05.webp",
+      "thumbnail": "assets/photos/prototype-engelbart-mouse-295/05-thumb.webp",
+      "original": "assets/photos/prototype-engelbart-mouse-295/originals/05.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/j/ja/j/ja/jabvggxiwf9n7suz.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/j/ja/jabvggxiwf9n7suz.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/j/ja/jabvggxiwf9n7suz.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "jabvggxiwf9n7suz.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1464797,
+      "sha256": "be60707a36068ac36e15954767e3ea877e842101ef2fe0d6b9a8a481499800d6",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/prototype-engelbart-mouse-295/06.webp",
+      "thumbnail": "assets/photos/prototype-engelbart-mouse-295/06-thumb.webp",
+      "original": "assets/photos/prototype-engelbart-mouse-295/originals/06.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/v/vm/v/vm/vmm0n1yw9cecgixl.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/vm/vmm0n1yw9cecgixl.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/v/vm/vmm0n1yw9cecgixl.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "vmm0n1yw9cecgixl.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1317625,
+      "sha256": "e9332d5485b4f816cfb2701adf8ab7e68f712f518cccbf56899c5d2fe318c336",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/prototype-engelbart-mouse-295/07.webp",
+      "thumbnail": "assets/photos/prototype-engelbart-mouse-295/07-thumb.webp",
+      "original": "assets/photos/prototype-engelbart-mouse-295/originals/07.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/7/7e/7/7e/7ermu1hnk5pzexqo.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/7/7e/7ermu1hnk5pzexqo.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/7/7e/7ermu1hnk5pzexqo.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "7ermu1hnk5pzexqo.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1246157,
+      "sha256": "d735110bf4493d534303056366a387e419d4779a21e89682944a0b4b9e2d3b92",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Douglas Carl Engelbart",
+    "en": "Douglas Carl Engelbart"
+  },
+  "brand": "Douglas Carl Engelbart",
+  "year": 1964,
+  "tracking": {
+    "key": "potentiometer",
+    "ru": "на потенциометрах",
+    "en": "Potentiometers"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "Прототип первой мыши (реплика)",
+    "en": "A replica of the first mouse prototype."
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Prototype Engelbart Mouse",
+  "whereToSee": {
+    "ru": "Краснохолмская",
+    "en": "Krasnokholmskaya Gallery"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/prototype-engelbart-mouse-295/thumb-catalog.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:11:02+03:00",
+    "sourcePhotoCount": 7,
+    "sourceDescriptionPresent": true,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 7
+  }
+}

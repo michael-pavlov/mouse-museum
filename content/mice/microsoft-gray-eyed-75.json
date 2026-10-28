@@ -1,0 +1,209 @@
+{
+  "id": "MP-0075",
+  "slug": "microsoft-gray-eyed-75",
+  "title": {
+    "en": "Microsoft Gray Eyed",
+    "ru": "Microsoft Gray Eyed"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/75/",
+  "sourceOrder": 107,
+  "order": 111,
+  "sourceProperties": {
+    "Производитель": "Microsoft",
+    "Год": "1986",
+    "Способ позиционирования": "на потенциометрах",
+    "Интерфейс": "DB-25",
+    "СССР": "нет",
+    "Где посмотреть": "Ближайший"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/microsoft-gray-eyed-75/01-catalog.webp",
+      "thumbnail": "assets/photos/microsoft-gray-eyed-75/01-catalog-thumb.webp",
+      "original": "assets/photos/microsoft-gray-eyed-75/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/x/x6/x6rr2tlh1oy2drth.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/x6/x6rr2tlh1oy2drth.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/x/x6/x6rr2tlh1oy2drth.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "x6rr2tlh1oy2drth.JPG",
+      "width": 1536,
+      "height": 1024,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1395754,
+      "sha256": "64259618bc0112750ac1cb835a65ce103233eb4ac471b77f0e26b33be8b0ce0e",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/microsoft-gray-eyed-75/02.webp",
+      "thumbnail": "assets/photos/microsoft-gray-eyed-75/02-thumb.webp",
+      "original": "assets/photos/microsoft-gray-eyed-75/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/y/yh/yhbw09rjudnjcfsx.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/y/yh/yhbw09rjudnjcfsx.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/y/yh/yhbw09rjudnjcfsx.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "yhbw09rjudnjcfsx.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1320840,
+      "sha256": "f45d4bb928cc86d3841084fbb5285d9c448635d3b063aee5270892cb3ad3cc85",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/microsoft-gray-eyed-75/03.webp",
+      "thumbnail": "assets/photos/microsoft-gray-eyed-75/03-thumb.webp",
+      "original": "assets/photos/microsoft-gray-eyed-75/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/l/ly/lyrbhjeq81xannfi.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/l/ly/lyrbhjeq81xannfi.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/l/ly/lyrbhjeq81xannfi.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "lyrbhjeq81xannfi.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 2025438,
+      "sha256": "3fbcb32fd6cf3497582a71af7e707f2421013ea9097c2f6f6bd1da283f198f3f",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/microsoft-gray-eyed-75/04.webp",
+      "thumbnail": "assets/photos/microsoft-gray-eyed-75/04-thumb.webp",
+      "original": "assets/photos/microsoft-gray-eyed-75/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/1/1l/1ldm6wtnbompiywj.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/1/1l/1ldm6wtnbompiywj.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/1/1l/1ldm6wtnbompiywj.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "1ldm6wtnbompiywj.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3000,
+      "originalHeight": 2000,
+      "originalBytes": 1757551,
+      "sha256": "f8b951d21f64ba0d10baebbef67b530bf3d1be4e3e429c3f19c18f4e7b174662",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/microsoft-gray-eyed-75/05.webp",
+      "thumbnail": "assets/photos/microsoft-gray-eyed-75/05-thumb.webp",
+      "original": "assets/photos/microsoft-gray-eyed-75/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/x/x6/x6qwvzpaecnzykyx.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/x6/x6qwvzpaecnzykyx.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/x/x6/x6qwvzpaecnzykyx.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "x6qwvzpaecnzykyx.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3300,
+      "originalHeight": 2200,
+      "originalBytes": 1946756,
+      "sha256": "5a976c8c93feca29afdf05d6eaae417a7c74a8ce435fa8ae8cb1b4aa192bce83",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/microsoft-gray-eyed-75/06.webp",
+      "thumbnail": "assets/photos/microsoft-gray-eyed-75/06-thumb.webp",
+      "original": "assets/photos/microsoft-gray-eyed-75/originals/06.jpg",
+      "source": "https://collectionerus.ru/media/items-large/n/nu/nusnvwp3azj8cmpj.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/nu/nusnvwp3azj8cmpj.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/n/nu/nusnvwp3azj8cmpj.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "nusnvwp3azj8cmpj.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3300,
+      "originalHeight": 2200,
+      "originalBytes": 1943693,
+      "sha256": "6b80199ec4f013180cf32b2b5a5d7accdc2e53240aca6d07eb1d2b7a9c37cddc",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/microsoft-gray-eyed-75/07.webp",
+      "thumbnail": "assets/photos/microsoft-gray-eyed-75/07-thumb.webp",
+      "original": "assets/photos/microsoft-gray-eyed-75/originals/07.jpg",
+      "source": "https://collectionerus.ru/media/items-large/n/nd/ndf7nwqwzxvki2ah.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/nd/ndf7nwqwzxvki2ah.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/n/nd/ndf7nwqwzxvki2ah.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "ndf7nwqwzxvki2ah.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3300,
+      "originalHeight": 2200,
+      "originalBytes": 1129673,
+      "sha256": "6637411da33d1585dc93544ef445a488fe4c1119ac61db17e368b25c6bdf1603",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/microsoft-gray-eyed-75/08.webp",
+      "thumbnail": "assets/photos/microsoft-gray-eyed-75/08-thumb.webp",
+      "original": "assets/photos/microsoft-gray-eyed-75/originals/08.jpg",
+      "source": "https://collectionerus.ru/media/items-large/y/yh/yhgqd9slzrfmumdn.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/y/yh/yhgqd9slzrfmumdn.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/y/yh/yhgqd9slzrfmumdn.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "yhgqd9slzrfmumdn.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3300,
+      "originalHeight": 2200,
+      "originalBytes": 1510508,
+      "sha256": "f854f4054da8d3702d3bcee8787a5fd10359d574f1973f01a3254a27ec5cfd0b",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Microsoft",
+    "en": "Microsoft"
+  },
+  "brand": "Microsoft",
+  "year": 1986,
+  "tracking": {
+    "key": "potentiometer",
+    "ru": "на потенциометрах",
+    "en": "Potentiometers"
+  },
+  "interface": "DB-25",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Microsoft Gray Eyed",
+  "whereToSee": {
+    "ru": "Ближайший",
+    "en": "Nearest"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/microsoft-gray-eyed-75/thumb-catalog.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:50+03:00",
+    "sourcePhotoCount": 8,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 8
+  }
+}

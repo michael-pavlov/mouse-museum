@@ -1,0 +1,93 @@
+{
+  "sourceId": 292,
+  "source": "https://collectionerus.ru/collections/old-mice/292/",
+  "slug": "e6qmouse-ps2-292",
+  "sourceTitle": "E6QMouse PS2",
+  "retrievedAt": "2026-10-27T23:11:02+03:00",
+  "sourcePageSha256": "48f40422874e6925dd421923b81333c1d7671cf706c3c8ec49080652b20422ce",
+  "descriptionHtml": "<div class=\"item-description\">\n<p>MOUSEPS2</p>\n</div>",
+  "descriptionText": "MOUSEPS2",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Jow Dian Enterprise Co Ltd",
+    "Год": "1991",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Демо Стол"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Jow+Dian+Enterprise+Co+Ltd"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1991"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B5%D0%BC%D0%BE+%D0%A1%D1%82%D0%BE%D0%BB"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/8/8a/8/8a/8aexceplx6nitam2.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/8/8a/8aexceplx6nitam2.jpeg",
+      "originalName": "8aexceplx6nitam2.jpeg",
+      "cacheFile": "photos/e6qmouse-ps2-292/01.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 833,3 КБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/3/3j/3/3j/3j4epxmqm5fl9n5d.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/3/3j/3j4epxmqm5fl9n5d.jpeg",
+      "originalName": "3j4epxmqm5fl9n5d.jpeg",
+      "cacheFile": "photos/e6qmouse-ps2-292/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 843,0 КБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/5/57/5/57/571006zc4vnindom.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/5/57/571006zc4vnindom.jpeg",
+      "originalName": "571006zc4vnindom.jpeg",
+      "cacheFile": "photos/e6qmouse-ps2-292/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "3024×4032, 800,3 КБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/2/2s/2/2s/2sknl474wx80isdr.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/2/2s/2sknl474wx80isdr.jpeg",
+      "originalName": "2sknl474wx80isdr.jpeg",
+      "cacheFile": "photos/e6qmouse-ps2-292/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "3024×4032, 1021,4 КБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/q/qk/q/qk/qkzxmjiahrdnekjq.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qk/qkzxmjiahrdnekjq.jpeg",
+      "originalName": "qkzxmjiahrdnekjq.jpeg",
+      "cacheFile": "photos/e6qmouse-ps2-292/05.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,6 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/g/gw/g/gw/gwj7q8we2ievwmwj.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gw/gwj7q8we2ievwmwj.jpeg",
+      "originalName": "gwj7q8we2ievwmwj.jpeg",
+      "cacheFile": "photos/e6qmouse-ps2-292/06.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,6 МБ"
+    }
+  ],
+  "itemFile": "content/mice/e6qmouse-ps2-292.json",
+  "previousPhotoCount": 0
+}

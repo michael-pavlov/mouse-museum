@@ -1,0 +1,34 @@
+{
+  "id": "telegram-166",
+  "slug": "telegram-166",
+  "title": {
+    "ru": "Иллюстрации в патентах",
+    "en": "Patent illustrations"
+  },
+  "date": "2025-05-16T20:28:28+00:00",
+  "source": "https://t.me/old_mice_and_hw/166",
+  "excerpt": {
+    "ru": "Небольшая заметка о неожиданной иллюстрации в патентной заявке.",
+    "en": "A short note about an unexpected drawing in a patent application."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/telegram-166/01.webp",
+      "original": "assets/posts/telegram-166/01.jpg",
+      "source": "https://cdn4.telesco.pe/file/TuU-al6rC2NbFaBjelTgTFQZiVGlc4LFw4rtPyRTM5E0hxQc26lk42gZyRW2cvy0nSfJBTztDboV-NycrS5C383mrvew_F8Bakx5tSh-uiCslo5PS6PhGBEcdkM-GDg-igWBNn-bFD399GmgR6BQQiH_hzTgVYwi1eRD7R5t7w7js16EXMfpfs3c336_lqz0mmLrYCITaBl39uc6Df0DZMxESnhqPLXrdZVMCOmmKCHhzgnyDRsxLODDePH0YTAsoKaOpoq9gMos0-PbdzaC_3_a25f9OrFaEwtUaMNw9ftZGbT-MqFaSlPt2m27V8Lc97rhndOCrnSU-sXhVIrJXg.jpg",
+      "width": 639,
+      "height": 800
+    }
+  ],
+  "cover": "assets/posts/telegram-166/01.webp",
+  "relatedItems": [],
+  "category": "stories",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-166/ru.md",
+    "en": "content/posts/telegram-166/en.md"
+  }
+}

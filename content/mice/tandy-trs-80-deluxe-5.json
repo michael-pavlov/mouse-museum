@@ -1,0 +1,140 @@
+{
+  "id": "MP-0005",
+  "slug": "tandy-trs-80-deluxe-5",
+  "title": {
+    "en": "Tandy TRS-80 Deluxe",
+    "ru": "Tandy TRS-80 Deluxe"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/5/",
+  "sourceProperties": {
+    "Производитель": "Tandy",
+    "Год": "1987",
+    "Способ позиционирования": "на потенциометрах",
+    "Интерфейс": "Tandy",
+    "СССР": "нет",
+    "Особенности": "Металлический шарик",
+    "Где посмотреть": "Ближайший"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/tandy-trs-80-deluxe-5/01.webp",
+      "thumbnail": "assets/photos/tandy-trs-80-deluxe-5/01-thumb.webp",
+      "original": "assets/photos/tandy-trs-80-deluxe-5/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/j/jy/jykdgrzm153yl5zi.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/j/jy/jykdgrzm153yl5zi.JPG",
+      "originalFilename": "jykdgrzm153yl5zi.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1115589,
+      "sha256": "cdc8e997b48afe3113122a070fd395b5349eec4e02d11a22d78a31a3cb9bd391",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/tandy-trs-80-deluxe-5/02.webp",
+      "thumbnail": "assets/photos/tandy-trs-80-deluxe-5/02-thumb.webp",
+      "original": "assets/photos/tandy-trs-80-deluxe-5/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/z/zt/ztpo4yj8payqsncd.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/zt/ztpo4yj8payqsncd.JPG",
+      "originalFilename": "ztpo4yj8payqsncd.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1313269,
+      "sha256": "b52616bb5a69c3750db7da6c497a05dacbf16ec3b931cf9efa4be4bb9bb7b38f",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/tandy-trs-80-deluxe-5/03.webp",
+      "thumbnail": "assets/photos/tandy-trs-80-deluxe-5/03-thumb.webp",
+      "original": "assets/photos/tandy-trs-80-deluxe-5/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/a/av/av72w16jvvbvskik.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/a/av/av72w16jvvbvskik.JPG",
+      "originalFilename": "av72w16jvvbvskik.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1406291,
+      "sha256": "70f330bb852919232ffa28cc1e30636770b909204f166cd77fe030d0b2c09821",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/tandy-trs-80-deluxe-5/04.webp",
+      "thumbnail": "assets/photos/tandy-trs-80-deluxe-5/04-thumb.webp",
+      "original": "assets/photos/tandy-trs-80-deluxe-5/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/c/c3/c32e5bko6rxiwzdm.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/c3/c32e5bko6rxiwzdm.JPG",
+      "originalFilename": "c32e5bko6rxiwzdm.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4896,
+      "originalHeight": 3264,
+      "originalBytes": 5459341,
+      "sha256": "9d977ec1b170fc2df8dabfbdc88c26203824dd78abe50e4a379bcc625fdf32c0",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/tandy-trs-80-deluxe-5/05.webp",
+      "thumbnail": "assets/photos/tandy-trs-80-deluxe-5/05-thumb.webp",
+      "original": "assets/photos/tandy-trs-80-deluxe-5/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/p/p8/p8ljces5irwrw6l7.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/p8/p8ljces5irwrw6l7.JPG",
+      "originalFilename": "p8ljces5irwrw6l7.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4896,
+      "originalHeight": 3264,
+      "originalBytes": 6132829,
+      "sha256": "fde2a9b98b10a698d9b99f90ee2c56cec1e0e3054b341fd37eb98813335b22b8",
+      "caption": ""
+    }
+  ],
+  "thumbnail": "assets/photos/tandy-trs-80-deluxe-5/thumb.webp",
+  "order": 16,
+  "manufacturer": {
+    "ru": "Tandy",
+    "en": "Tandy"
+  },
+  "brand": "Tandy",
+  "year": 1987,
+  "tracking": {
+    "key": "potentiometer",
+    "ru": "на потенциометрах",
+    "en": "Potentiometers"
+  },
+  "interface": "Tandy",
+  "soviet": false,
+  "features": {
+    "ru": "Металлический шарик",
+    "en": "Metal ball"
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Tandy TRS-80 Deluxe",
+  "whereToSee": {
+    "ru": "Ближайший",
+    "en": "Nearest"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T22:22:53+03:00",
+    "sourcePhotoCount": 5,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 7,
+    "availableOriginals": 5
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "id": "MP-0012",
+  "slug": "hp-46060b-12",
+  "title": {
+    "en": "HP 46060B",
+    "ru": "HP 46060B"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/12/",
+  "sourceProperties": {
+    "Производитель": "HP",
+    "Год": "1984",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "HP-HIL",
+    "СССР": "нет",
+    "Где посмотреть": "Ближайший"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/hp-46060b-12/01-catalog.webp",
+      "thumbnail": "assets/photos/hp-46060b-12/01-catalog-thumb.webp",
+      "original": "assets/photos/hp-46060b-12/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/t/ts/tsf9k9vvfurwglkx.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/ts/tsf9k9vvfurwglkx.JPG",
+      "originalFilename": "tsf9k9vvfurwglkx.JPG",
+      "width": 1536,
+      "height": 1024,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1034719,
+      "sha256": "0b5575c99a961469cb8ec76fc45778411431b89caca5567aab10e3b1170a1591",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/hp-46060b-12/02.webp",
+      "thumbnail": "assets/photos/hp-46060b-12/02-thumb.webp",
+      "original": "assets/photos/hp-46060b-12/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/f/fa/facvhelgkgmkdysp.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/f/fa/facvhelgkgmkdysp.JPG",
+      "originalFilename": "facvhelgkgmkdysp.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1646993,
+      "sha256": "b5744b8b937bd6789624b6160c5c7603843b4f9a3c381815cac54b48799467bd",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/hp-46060b-12/03.webp",
+      "thumbnail": "assets/photos/hp-46060b-12/03-thumb.webp",
+      "original": "assets/photos/hp-46060b-12/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/2/2w/2whjln8bsm6aeqd7.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/2/2w/2whjln8bsm6aeqd7.JPG",
+      "originalFilename": "2whjln8bsm6aeqd7.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2114020,
+      "sha256": "e6b82fc0b809494a2d4e017ce64743981dc6ef1bb1b3b182838b03d8d29f12b9",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/hp-46060b-12/04.webp",
+      "thumbnail": "assets/photos/hp-46060b-12/04-thumb.webp",
+      "original": "assets/photos/hp-46060b-12/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/7/7o/7oij2qlslccch4mk.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/7/7o/7oij2qlslccch4mk.JPG",
+      "originalFilename": "7oij2qlslccch4mk.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2469057,
+      "sha256": "f09e77b3c71640b5ed4b5f275b492e116e9cc6d4a1290c33771b4ee48f2d3147",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/hp-46060b-12/05.webp",
+      "thumbnail": "assets/photos/hp-46060b-12/05-thumb.webp",
+      "original": "assets/photos/hp-46060b-12/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/t/tk/tkmlx0o8qxk9nrfs.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/tk/tkmlx0o8qxk9nrfs.JPG",
+      "originalFilename": "tkmlx0o8qxk9nrfs.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4896,
+      "originalHeight": 3264,
+      "originalBytes": 5719493,
+      "sha256": "fb16224db6d9992e00cf6032e43fbca40a3e7a593cb622f8f12ce579c22ef8eb",
+      "caption": ""
+    }
+  ],
+  "thumbnail": "assets/photos/hp-46060b-12/thumb-catalog.webp",
+  "order": 24,
+  "manufacturer": {
+    "ru": "HP",
+    "en": "HP"
+  },
+  "brand": "HP",
+  "year": 1984,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "HP-HIL",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "HP 46060B",
+  "whereToSee": {
+    "ru": "Ближайший",
+    "en": "Nearest"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T22:22:46+03:00",
+    "sourcePhotoCount": 5,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 5
+  }
+}

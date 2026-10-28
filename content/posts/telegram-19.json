@@ -1,0 +1,34 @@
+{
+  "id": "telegram-19",
+  "slug": "telegram-19",
+  "title": {
+    "ru": "Инженерный образец «Марсианки»",
+    "en": "A Martian Mouse engineering sample"
+  },
+  "date": "2023-04-09T07:58:09+00:00",
+  "source": "https://t.me/old_mice_and_hw/19",
+  "excerpt": {
+    "ru": "Необычный цвет, маркировка на днище и поиски истории советской «Марсианки».",
+    "en": "An unusual colour, underside markings and a search through Martian Mouse history."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/telegram-19/01.webp",
+      "original": "assets/posts/telegram-19/01.jpg",
+      "source": "https://cdn4.telesco.pe/file/YZSjVy6fV6ndl_s3Oflk1aq05WpFfHdQYHiMAI2PvhDB3W1ZUazoocAn_R51GeqaWbMbPUc22BfxvtjLAxb1K2kw8Ssakd7Fbsud9oiUDUDIFzY4xJPFaffWLAuPvPf-2BLSE_k3d_vLyqwfMnywiCQ4z_FN2n9gemfMNbBzaNNw0FQrnK-mz_Gep8-7mrjwLgd7xH3djExc5plQfFLAVoP5PhoKjzlYfxpp2sr8O71Sc4YuCmzhYUVaKtCQ5o3uk1gbFwoSyI8U8QGeISAkB0nqb_3Y4dNOn4ExW5imQhzMefj0raMZLcDow-u3r5DvksPSlSILwNyCpANrahKCYw.jpg",
+      "width": 800,
+      "height": 467
+    }
+  ],
+  "cover": "assets/posts/telegram-19/01.webp",
+  "relatedItems": [],
+  "category": "stories",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-19/ru.md",
+    "en": "content/posts/telegram-19/en.md"
+  }
+}

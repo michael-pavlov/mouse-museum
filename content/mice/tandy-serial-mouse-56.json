@@ -1,0 +1,173 @@
+{
+  "id": "MP-0056",
+  "slug": "tandy-serial-mouse-56",
+  "title": {
+    "en": "Tandy Serial Mouse",
+    "ru": "Tandy Serial Mouse"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/56/",
+  "sourceOrder": 91,
+  "order": 96,
+  "sourceProperties": {
+    "Производитель": "Tandy",
+    "Год": "1990",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "COM",
+    "СССР": "нет",
+    "Где посмотреть": "Средний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/tandy-serial-mouse-56/01.webp",
+      "thumbnail": "assets/photos/tandy-serial-mouse-56/01-thumb.webp",
+      "original": "assets/photos/tandy-serial-mouse-56/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/o/o8/o8czjrvmevmxu7pi.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/o/o8/o8czjrvmevmxu7pi.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/o/o8/o8czjrvmevmxu7pi.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "o8czjrvmevmxu7pi.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1334805,
+      "sha256": "295be6b8c440f07eba76232c881581307b362bd9f70cbb03d9b633f426dbee7e",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/tandy-serial-mouse-56/02.webp",
+      "thumbnail": "assets/photos/tandy-serial-mouse-56/02-thumb.webp",
+      "original": "assets/photos/tandy-serial-mouse-56/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/x/xf/xfuwgvdjolbtqmbk.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/xf/xfuwgvdjolbtqmbk.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/x/xf/xfuwgvdjolbtqmbk.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "xfuwgvdjolbtqmbk.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3800,
+      "originalHeight": 2533,
+      "originalBytes": 1786596,
+      "sha256": "140f7d9fe492ffea739284dff87d8a575accacb31d2865700e7ff31d4d7ca648",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/tandy-serial-mouse-56/03.webp",
+      "thumbnail": "assets/photos/tandy-serial-mouse-56/03-thumb.webp",
+      "original": "assets/photos/tandy-serial-mouse-56/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/s/sj/sjqfkds2mphokrsj.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/s/sj/sjqfkds2mphokrsj.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/s/sj/sjqfkds2mphokrsj.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "sjqfkds2mphokrsj.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1845220,
+      "sha256": "63d4f0082957d77a3d993aa31f0516cf5cdbce65e8e6926f3f8d7172366cf223",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/tandy-serial-mouse-56/04.webp",
+      "thumbnail": "assets/photos/tandy-serial-mouse-56/04-thumb.webp",
+      "original": "assets/photos/tandy-serial-mouse-56/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/k/ka/kashyvkxrzmun82e.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/ka/kashyvkxrzmun82e.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/k/ka/kashyvkxrzmun82e.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "kashyvkxrzmun82e.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 2003470,
+      "sha256": "6744cd08bff451d40814c896bbcfb96d2e9c56c5413af8fc79f0fea07589f253",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/tandy-serial-mouse-56/05.webp",
+      "thumbnail": "assets/photos/tandy-serial-mouse-56/05-thumb.webp",
+      "original": "assets/photos/tandy-serial-mouse-56/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/f/fn/fnhlsqz540qyujto.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/f/fn/fnhlsqz540qyujto.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/f/fn/fnhlsqz540qyujto.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "fnhlsqz540qyujto.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2336701,
+      "sha256": "9631ebd91f3e8f954cf670b480bf4ced7744570dd4efcece417eaa33f23b7807",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/tandy-serial-mouse-56/06.webp",
+      "thumbnail": "assets/photos/tandy-serial-mouse-56/06-thumb.webp",
+      "original": "assets/photos/tandy-serial-mouse-56/originals/06.jpg",
+      "source": "https://collectionerus.ru/media/items-large/z/z5/z5dmoqi5btf8rrys.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/z5/z5dmoqi5btf8rrys.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/z/z5/z5dmoqi5btf8rrys.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "z5dmoqi5btf8rrys.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2365166,
+      "sha256": "40cd0f6aaf5425af51ff6883bf4c7dba2bf1cf970dfb514ee72480694db6ca66",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Tandy",
+    "en": "Tandy"
+  },
+  "brand": "Tandy",
+  "year": 1990,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "COM",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Tandy Serial Mouse",
+  "whereToSee": {
+    "ru": "Средний",
+    "en": "Middle"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/tandy-serial-mouse-56/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:49+03:00",
+    "sourcePhotoCount": 6,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 6
+  }
+}

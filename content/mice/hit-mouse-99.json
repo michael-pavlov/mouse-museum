@@ -1,0 +1,136 @@
+{
+  "id": "MP-0099",
+  "slug": "hit-mouse-99",
+  "title": {
+    "en": "Hit Mouse",
+    "ru": "Hit Mouse"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/99/",
+  "sourceOrder": 130,
+  "order": 134,
+  "sourceProperties": {
+    "Производитель": "Hit Mouse",
+    "Год": "1986",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Демо Витрина"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/hit-mouse-99/01-catalog.webp",
+      "thumbnail": "assets/photos/hit-mouse-99/01-catalog-thumb.webp",
+      "original": "assets/photos/hit-mouse-99/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/o/od/o/od/odenl66wqejjgudv.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/o/od/odenl66wqejjgudv.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/o/od/odenl66wqejjgudv.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "odenl66wqejjgudv.JPG",
+      "width": 1536,
+      "height": 1024,
+      "originalWidth": 3294,
+      "originalHeight": 2196,
+      "originalBytes": 640483,
+      "sha256": "6823dd20f9246793d8ea22a441105d56f0052fa0c279c9606f52e3ccc8bdb19d",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/hit-mouse-99/02.webp",
+      "thumbnail": "assets/photos/hit-mouse-99/02-thumb.webp",
+      "original": "assets/photos/hit-mouse-99/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/rz/r/rz/rzbjsgcuoexo5jk1.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/rz/rzbjsgcuoexo5jk1.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/r/rz/rzbjsgcuoexo5jk1.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "rzbjsgcuoexo5jk1.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3409,
+      "originalHeight": 2273,
+      "originalBytes": 696836,
+      "sha256": "cf46e18535b265eb854b6d66b8548407b7580224869fcf94d83d5d6279c118ab",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/hit-mouse-99/03.webp",
+      "thumbnail": "assets/photos/hit-mouse-99/03-thumb.webp",
+      "original": "assets/photos/hit-mouse-99/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/t/tz/t/tz/tzagwpc7ei8ttlrm.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/tz/tzagwpc7ei8ttlrm.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/t/tz/tzagwpc7ei8ttlrm.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "tzagwpc7ei8ttlrm.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3929,
+      "originalHeight": 2619,
+      "originalBytes": 1388946,
+      "sha256": "7bf2d479d4f83c8b32a712b632c3afbc829b59db2a9fa3484f3f9363d0c56fab",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/hit-mouse-99/04.webp",
+      "thumbnail": "assets/photos/hit-mouse-99/04-thumb.webp",
+      "original": "assets/photos/hit-mouse-99/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/j/jc/j/jc/jccyh2arhsaplwvk.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/j/jc/jccyh2arhsaplwvk.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/j/jc/jccyh2arhsaplwvk.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "jccyh2arhsaplwvk.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3396,
+      "originalHeight": 2264,
+      "originalBytes": 1205661,
+      "sha256": "b25515f9f252ec1fa834bcb56482c6932ac0ff801872e86c1988ffb551504af4",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Hit Mouse",
+    "en": "Hit Mouse"
+  },
+  "brand": "Hit Mouse",
+  "year": 1986,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Hit Mouse",
+  "whereToSee": {
+    "ru": "Демо Витрина",
+    "en": "Demo display case"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/hit-mouse-99/thumb-catalog.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:51+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 4
+  }
+}

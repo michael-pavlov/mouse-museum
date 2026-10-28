@@ -1,0 +1,136 @@
+{
+  "id": "MP-0105",
+  "slug": "dtk-computer-105",
+  "title": {
+    "en": "DTK Computer",
+    "ru": "DTK Computer"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/105/",
+  "sourceOrder": 133,
+  "order": 137,
+  "sourceProperties": {
+    "Производитель": "Primax Electronics Ltd",
+    "Год": "1989",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/dtk-computer-105/01.webp",
+      "thumbnail": "assets/photos/dtk-computer-105/01-thumb.webp",
+      "original": "assets/photos/dtk-computer-105/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/n/no/n/no/nof5tlafecm80nzn.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/no/nof5tlafecm80nzn.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/n/no/nof5tlafecm80nzn.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "nof5tlafecm80nzn.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3217,
+      "originalHeight": 2145,
+      "originalBytes": 927107,
+      "sha256": "36c701e0f5d83b80fb9d08d4686dc82146b7fe5eb1f9a6cab563bc7c49d087a1",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/dtk-computer-105/02.webp",
+      "thumbnail": "assets/photos/dtk-computer-105/02-thumb.webp",
+      "original": "assets/photos/dtk-computer-105/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/i/iz/i/iz/izbybzpfic8qzbof.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/iz/izbybzpfic8qzbof.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/i/iz/izbybzpfic8qzbof.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "izbybzpfic8qzbof.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3217,
+      "originalHeight": 2145,
+      "originalBytes": 962063,
+      "sha256": "d1ced83b7017a0a9d88fe05561a364cf399c76608cb4a17a3e66d267e60998b9",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/dtk-computer-105/03.webp",
+      "thumbnail": "assets/photos/dtk-computer-105/03-thumb.webp",
+      "original": "assets/photos/dtk-computer-105/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/k/kg/k/kg/kggxyvdizdi8yizk.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/kg/kggxyvdizdi8yizk.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/k/kg/kggxyvdizdi8yizk.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "kggxyvdizdi8yizk.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3592,
+      "originalHeight": 2395,
+      "originalBytes": 988226,
+      "sha256": "fec8cedc8acb2c3f3c9497a4b1ef3fcaba00178611abdeefa5be9f664abd4618",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/dtk-computer-105/04.webp",
+      "thumbnail": "assets/photos/dtk-computer-105/04-thumb.webp",
+      "original": "assets/photos/dtk-computer-105/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/c/c4/c/c4/c47qfwlzccaazvxo.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/c4/c47qfwlzccaazvxo.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/c/c4/c47qfwlzccaazvxo.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "c47qfwlzccaazvxo.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3217,
+      "originalHeight": 2145,
+      "originalBytes": 1021884,
+      "sha256": "62a82a0b606737ace0f77b4534f39445e049787687264a29efdbf31b39b817b9",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Primax Electronics Ltd",
+    "en": "Primax Electronics Ltd"
+  },
+  "brand": "Primax Electronics Ltd",
+  "year": 1989,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "DTK Computer",
+  "whereToSee": {
+    "ru": "Дальний",
+    "en": "Far"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/dtk-computer-105/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:52+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 4
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "MP-0108",
+  "slug": "ultima-electronics-ytf-108",
+  "title": {
+    "en": "Ultima Electronics YTF",
+    "ru": "Ultima Electronics YTF"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/108/",
+  "sourceOrder": 136,
+  "order": 140,
+  "sourceProperties": {
+    "Производитель": "Ultima Electronics Corp",
+    "Год": "1990",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/ultima-electronics-ytf-108/01.webp",
+      "thumbnail": "assets/photos/ultima-electronics-ytf-108/01-thumb.webp",
+      "original": "assets/photos/ultima-electronics-ytf-108/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/p/pd/p/pd/pdwzdc83e42s0fm1.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/pd/pdwzdc83e42s0fm1.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/p/pd/pdwzdc83e42s0fm1.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "pdwzdc83e42s0fm1.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3106,
+      "originalHeight": 2071,
+      "originalBytes": 784640,
+      "sha256": "05010fe2a5dfbdaea566800e294ac41866236690e2fc37209d1a88d2a9bbb8e5",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/ultima-electronics-ytf-108/02.webp",
+      "thumbnail": "assets/photos/ultima-electronics-ytf-108/02-thumb.webp",
+      "original": "assets/photos/ultima-electronics-ytf-108/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/n/nn/n/nn/nntpxclasjueiems.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/nn/nntpxclasjueiems.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/n/nn/nntpxclasjueiems.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "nntpxclasjueiems.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3303,
+      "originalHeight": 2202,
+      "originalBytes": 826637,
+      "sha256": "14594f9cad2e577a5d628de6bfbc3f0976c265d6781ab13ee599dfa77ea0d9e1",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/ultima-electronics-ytf-108/03.webp",
+      "thumbnail": "assets/photos/ultima-electronics-ytf-108/03-thumb.webp",
+      "original": "assets/photos/ultima-electronics-ytf-108/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/q/qt/q/qt/qtqyrtxgmhrlnzyf.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qt/qtqyrtxgmhrlnzyf.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/q/qt/qtqyrtxgmhrlnzyf.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "qtqyrtxgmhrlnzyf.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3654,
+      "originalHeight": 2436,
+      "originalBytes": 1158657,
+      "sha256": "2b1f19a55744e8489eac80b0fd4fffa038be381368d3612235d96c1481ae7f4e",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Ultima Electronics Corp",
+    "en": "Ultima Electronics Corp"
+  },
+  "brand": "Ultima Electronics Corp",
+  "year": 1990,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Ultima Electronics YTF",
+  "whereToSee": {
+    "ru": "Дальний",
+    "en": "Far"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/ultima-electronics-ytf-108/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:51+03:00",
+    "sourcePhotoCount": 3,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 3
+  }
+}

@@ -1,0 +1,6 @@
+dist/
+.openai/
+__pycache__/
+.DS_Store
+assets/photos/*/originals/
+assets/photos/*/source-images/

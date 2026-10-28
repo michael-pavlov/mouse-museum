@@ -1,0 +1,57 @@
+{
+  "id": "telegram-50",
+  "slug": "telegram-50",
+  "title": {
+    "ru": "Мышка American Computer",
+    "en": "The American Computer mouse"
+  },
+  "date": "2024-05-02T15:39:38+00:00",
+  "source": "https://t.me/old_mice_and_hw/50",
+  "excerpt": {
+    "ru": "Мышь с огромными узкими кнопками и длинной дорогой из Египта.",
+    "en": "A mouse with enormous narrow buttons and a long journey from Egypt."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/telegram-50/01.webp",
+      "original": "assets/posts/telegram-50/01.jpg",
+      "source": "https://cdn4.telesco.pe/file/K8u5NkA65lNS_kd3sDOuXvC7OhQRNSn-gHOa6y72bp9D7a7Qi8wtDRwG7FdoJZTE8cQGY3mDNfr6zDo0MwXKcPrqJKClSHHJmyVoiW6QxRLE4RRZ62MKYWX-BKCK4J77ZV98OiWN02KllUmcb9m4hTMW-pRkL6Egz49NrQagOzC0kOFsWCiLRJxLGpE9543eD2k3XKHbTV3JqFJScY4kejiL0M0AoiPDOeJIoPoFRnEdr8MyRoo1ewQRCuQHbc3h3ss5ZyIPkYkC0d4Qcu1eg9LstGen2WLgpcSqdGhlg0vjuPq8jFzULP8JhV0TakZDXvxh3Vdhsmowe7ptUMchRg.jpg",
+      "width": 800,
+      "height": 603
+    },
+    {
+      "file": "assets/posts/telegram-50/02.webp",
+      "original": "assets/posts/telegram-50/02.jpg",
+      "source": "https://cdn4.telesco.pe/file/kWYmgS1GQ7WG7Xi67KYyGUkYFpP4Jj6fk7ZzbmEIh74efc34NiXsrXb4lUy_Ituvu_ISCuETbud0Gda-gfOU91NM-3FFVTbS6CNBJY2jQkVMLoyYTq5BdEEh7x8cCOe3s8-K85NPV6n-48oecdHDQrtQlGJOP59py_-gQ2auANUwXNCAKmvwjUlDgYiqVZoRWHKMK8QxDeVyY0poWfpdj09XY4rG7r1rITVPn9AU-KFpO9uqUNGOuNSLbeNZsx-GyG8kmeX3NqW7fYwsihZoQblDv4ktmwbn0LgZSeL4Kd4iYOsKYJvpDd65yY351aRbRAgqFr4tCgh90g65a3N3kw.jpg",
+      "width": 800,
+      "height": 644
+    },
+    {
+      "file": "assets/posts/telegram-50/03.webp",
+      "original": "assets/posts/telegram-50/03.jpg",
+      "source": "https://cdn4.telesco.pe/file/X5Sb-jvfN0_einB_DptAwxbqIa-TRFSn5R-CzZc0OBadWg2uLZA22MnZlZY7bfvF1_PWG_Q5xGbkhJcgdeJXOnZm8qFbhGtlzoO-Mpch-j1Iw1IsrVi9VIDyTGJqzsXGoWYfSNPWDTVN_p_VpLuwzeKYvx-2VWgnXXcjnnQCaHvVHZXv8NYBPGyFFOZymAr4jyk8QDYgJsFqV2Hk31-zojiI68ACFYzK3pxZZSaQypvK57QysUFzGiFKICapnnctyoE5cqcOQz9Mo9TbQ4tXyV4WAnzZj9T49ud3u0-3Vh56fI0iSx2SHR9rcGaci1C0Y4y8PqqFCvKShfR0_olplQ.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/telegram-50/04.webp",
+      "original": "assets/posts/telegram-50/04.jpg",
+      "source": "https://cdn4.telesco.pe/file/VRVVHmHw7v7yf0un6WSaeUtJ2TX8RHtgc5toLY5jyn8s4EOvDLWbYcgF6-z0UHNqvp4O547uE8a7_Lpr3dPfxdIVMwCmVqzajCd8maQPvqpxvIE9uzOeere1QOyN_agwC3hsgjYI6omg1bV45_AzcqSyr5TcN7i68q05umLshzo8jSQew1F_4hHRrPquojEHZOrkiZZ1pOUvhYUkF1YmvKi0JRJeuASQFXnVIBm3jyKelZXRf7NM58dAiCMH61RQ2yNjkDqkFVeYMypGcpAUjMLVZQ-HOAv7tGQHvmsWwFgEF31Q-GSf8BS4lKFZFEaV1cZ75tk0heqt6iKWMeEF8g.jpg",
+      "width": 800,
+      "height": 600
+    }
+  ],
+  "cover": "assets/posts/telegram-50/01.webp",
+  "relatedItems": [
+    "american-mouse-174"
+  ],
+  "category": "stories",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-50/ru.md",
+    "en": "content/posts/telegram-50/en.md"
+  }
+}

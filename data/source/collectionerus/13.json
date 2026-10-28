@@ -1,0 +1,97 @@
+{
+  "sourceId": 13,
+  "source": "https://collectionerus.ru/collections/old-mice/13/",
+  "slug": "next-n4000a",
+  "sourceTitle": "NeXT N4000A",
+  "retrievedAt": "2026-10-27T22:22:43+03:00",
+  "sourcePageSha256": "166a5c575ccc22669af11a1d4070a190b091a3060b99e2d085a4c51a96613a2c",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "NeXT",
+    "Год": "1985",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "ADB",
+    "СССР": "нет",
+    "Где посмотреть": "Краснохолмская"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=NeXT"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1985"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=ADB"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%85%D0%BE%D0%BB%D0%BC%D1%81%D0%BA%D0%B0%D1%8F"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/k/kx/kxxbpllmtsvxidem.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/kx/kxxbpllmtsvxidem.JPG",
+      "originalName": "kxxbpllmtsvxidem.JPG",
+      "cacheFile": "photos/next-n4000a/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,0 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/w/wm/wmwvizwicxgrxv9a.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/wm/wmwvizwicxgrxv9a.JPG",
+      "originalName": "wmwvizwicxgrxv9a.JPG",
+      "cacheFile": "photos/next-n4000a/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 1,8 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/s/sf/sf2bcc4fgiir2dwl.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/s/sf/sf2bcc4fgiir2dwl.JPG",
+      "originalName": "sf2bcc4fgiir2dwl.JPG",
+      "cacheFile": "photos/next-n4000a/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 2,0 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/h/hd/hd86r58zc9fshwt5.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hd/hd86r58zc9fshwt5.JPG",
+      "originalName": "hd86r58zc9fshwt5.JPG",
+      "cacheFile": "photos/next-n4000a/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 1,5 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/0/0i/0iqvxcjmqr2mil7l.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/0/0i/0iqvxcjmqr2mil7l.JPG",
+      "originalName": "0iqvxcjmqr2mil7l.JPG",
+      "cacheFile": "photos/next-n4000a/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 2,1 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/q/qw/qw1at1pdng1efuj7.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qw/qw1at1pdng1efuj7.JPG",
+      "originalName": "qw1at1pdng1efuj7.JPG",
+      "cacheFile": "photos/next-n4000a/06.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,8 МБ"
+    }
+  ],
+  "itemFile": "content/mice/next-n4000a.json",
+  "previousPhotoCount": 6
+}

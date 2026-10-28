@@ -1,0 +1,75 @@
+{
+  "sourceId": 105,
+  "source": "https://collectionerus.ru/collections/old-mice/105/",
+  "slug": "dtk-computer-105",
+  "sourceTitle": "DTK Computer",
+  "retrievedAt": "2026-10-27T23:10:52+03:00",
+  "sourcePageSha256": "1a1f3ac85bd991d90644e03d7be81862636a363254f91dd3b0e3985d3d413d6b",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Primax Electronics Ltd",
+    "Год": "1989",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Primax+Electronics+Ltd"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1989"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/n/no/n/no/nof5tlafecm80nzn.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/no/nof5tlafecm80nzn.JPG",
+      "originalName": "nof5tlafecm80nzn.JPG",
+      "cacheFile": "photos/dtk-computer-105/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3217×2145, 905,4 КБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/i/iz/i/iz/izbybzpfic8qzbof.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/iz/izbybzpfic8qzbof.JPG",
+      "originalName": "izbybzpfic8qzbof.JPG",
+      "cacheFile": "photos/dtk-computer-105/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3217×2145, 939,5 КБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/k/kg/k/kg/kggxyvdizdi8yizk.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/kg/kggxyvdizdi8yizk.JPG",
+      "originalName": "kggxyvdizdi8yizk.JPG",
+      "cacheFile": "photos/dtk-computer-105/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3592×2395, 965,1 КБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/c/c4/c/c4/c47qfwlzccaazvxo.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/c4/c47qfwlzccaazvxo.JPG",
+      "originalName": "c47qfwlzccaazvxo.JPG",
+      "cacheFile": "photos/dtk-computer-105/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3217×2145, 997,9 КБ"
+    }
+  ],
+  "itemFile": "content/mice/dtk-computer-105.json",
+  "previousPhotoCount": 0
+}

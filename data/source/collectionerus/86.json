@@ -1,0 +1,88 @@
+{
+  "sourceId": 86,
+  "source": "https://collectionerus.ru/collections/old-mice/86/",
+  "slug": "sigma-m30-86",
+  "sourceTitle": "Sigma M30",
+  "retrievedAt": "2026-10-27T23:10:50+03:00",
+  "sourcePageSha256": "5339e8e69578a45a7c4fcc78c418e11ed3518c167124ac30ee35ac3131f1e27b",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Sigma",
+    "Год": "1990",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "COM",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Sigma"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1990"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=COM"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/c/cd/cd0flgkarysec8nr.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/cd/cd0flgkarysec8nr.JPG",
+      "originalName": "cd0flgkarysec8nr.JPG",
+      "cacheFile": "photos/sigma-m30-86/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3300×2200, 1,1 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/d/de/demoxyawwymyh5ay.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/d/de/demoxyawwymyh5ay.JPG",
+      "originalName": "demoxyawwymyh5ay.JPG",
+      "cacheFile": "photos/sigma-m30-86/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3100×2067, 1,2 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/z/z7/z7hoq67df9yp6sro.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/z7/z7hoq67df9yp6sro.JPG",
+      "originalName": "z7hoq67df9yp6sro.JPG",
+      "cacheFile": "photos/sigma-m30-86/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3100×2067, 1,2 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/x/xu/xuimfxzfjto14ajy.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/xu/xuimfxzfjto14ajy.JPG",
+      "originalName": "xuimfxzfjto14ajy.JPG",
+      "cacheFile": "photos/sigma-m30-86/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,6 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/t/tb/tbjtxm5a6mozrlv6.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/tb/tbjtxm5a6mozrlv6.JPG",
+      "originalName": "tbjtxm5a6mozrlv6.JPG",
+      "cacheFile": "photos/sigma-m30-86/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 2,1 МБ"
+    }
+  ],
+  "itemFile": "content/mice/sigma-m30-86.json",
+  "previousPhotoCount": 0
+}

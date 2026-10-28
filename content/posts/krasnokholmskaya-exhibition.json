@@ -1,0 +1,34 @@
+{
+  "id": "telegram-248",
+  "slug": "krasnokholmskaya-exhibition",
+  "title": {
+    "ru": "Мыши в Галерее Краснохолмской",
+    "en": "Mice at Krasnokholmskaya Gallery"
+  },
+  "date": "2026-08-10T10:55:10+00:00",
+  "source": "https://t.me/old_mice_and_hw/248",
+  "excerpt": {
+    "ru": "Открытие постоянной экспозиции: больше 50 мышей разных эпох и конструкций.",
+    "en": "Opening a permanent exhibition of more than 50 mice from different eras."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/krasnokholmskaya-exhibition/01.webp",
+      "source": "https://cdn4.telesco.pe/file/Pm-uebtGKq_VQnHG5wybCaauckUtYGNtXfAwyisUiIg9scGzsFPt6_T-jFoqZEOSrfsce8EfdtRCCt5BFCq7Ad1-Af5JD7W-ubdC07WU4f06M5ut7t9EKd2FbzUF_uQ3Xkcm_VLj68NYh8j5c-LP-4t9_4KfmiICIGGX7YPwGPvKBAqg7BgpyCIAYQVJ0GicH3Y4gekcgMCDM8VkPWEd0_bychSkfmN2bEWsg6EjLtS6xNR1rVGET5OzVapDIbGWS5cdv5rAg7jq9PK-wTReKr3hsx-REjbU8PfP94CzJDBMjRdO3Je2QwsYIgFIhg6ICYwAvnXPMZHLZ7KnYVA9vg.jpg",
+      "width": 160,
+      "height": 160
+    }
+  ],
+  "relatedItems": [],
+  "category": "exhibitions",
+  "translationNote": {
+    "en": "Translated from the original Russian post.",
+    "ru": ""
+  },
+  "eventDate": "2026-08-13",
+  "cover": "assets/posts/krasnokholmskaya-exhibition/cover.webp",
+  "bodyFiles": {
+    "en": "content/posts/krasnokholmskaya-exhibition/en.md",
+    "ru": "content/posts/krasnokholmskaya-exhibition/ru.md"
+  }
+}

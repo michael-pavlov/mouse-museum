@@ -1,0 +1,97 @@
+{
+  "sourceId": 43,
+  "source": "https://collectionerus.ru/collections/old-mice/43/",
+  "slug": "commodore-1351-bremen-43",
+  "sourceTitle": "Commodore 1351 (Bremen)",
+  "retrievedAt": "2026-10-27T23:10:52+03:00",
+  "sourcePageSha256": "d165b068b8a1519114671b0da1b11573d3e0277efa055df1742af669fa9a4256",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Commodore",
+    "Год": "1986",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "C64",
+    "СССР": "нет",
+    "Где посмотреть": "Демо Стол"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Commodore"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1986"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=C64"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B5%D0%BC%D0%BE+%D0%A1%D1%82%D0%BE%D0%BB"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/w/wo/wovwkhlhh9daksd0.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/wo/wovwkhlhh9daksd0.JPG",
+      "originalName": "wovwkhlhh9daksd0.JPG",
+      "cacheFile": "photos/commodore-1351-bremen-43/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,2 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/c/cf/cfbru8c00fgmoard.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/cf/cfbru8c00fgmoard.JPG",
+      "originalName": "cfbru8c00fgmoard.JPG",
+      "cacheFile": "photos/commodore-1351-bremen-43/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 2,0 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/p/po/powsyfkmlpm3j9a3.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/po/powsyfkmlpm3j9a3.JPG",
+      "originalName": "powsyfkmlpm3j9a3.JPG",
+      "cacheFile": "photos/commodore-1351-bremen-43/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,2 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/p/pl/plvp6sskiueagfgv.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/pl/plvp6sskiueagfgv.JPG",
+      "originalName": "plvp6sskiueagfgv.JPG",
+      "cacheFile": "photos/commodore-1351-bremen-43/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3800×2533, 1,8 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/c/c9/c9elpcdt78wonycd.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/c9/c9elpcdt78wonycd.JPG",
+      "originalName": "c9elpcdt78wonycd.JPG",
+      "cacheFile": "photos/commodore-1351-bremen-43/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 2,2 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/z/zd/zdcmbtf9z3soswkf.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/zd/zdcmbtf9z3soswkf.JPG",
+      "originalName": "zdcmbtf9z3soswkf.JPG",
+      "cacheFile": "photos/commodore-1351-bremen-43/06.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 2,4 МБ"
+    }
+  ],
+  "itemFile": "content/mice/commodore-1351-bremen-43.json",
+  "previousPhotoCount": 0
+}

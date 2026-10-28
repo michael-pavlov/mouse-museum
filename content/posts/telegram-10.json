@@ -1,0 +1,57 @@
+{
+  "id": "telegram-10",
+  "slug": "telegram-10",
+  "title": {
+    "ru": "ЕС 1845",
+    "en": "ES 1845"
+  },
+  "date": "2023-04-07T08:25:02+00:00",
+  "source": "https://t.me/old_mice_and_hw/10",
+  "excerpt": {
+    "ru": "Полностью металлическая советская мышь для защищённой рабочей станции.",
+    "en": "An all-metal Soviet mouse for a protected workstation."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/telegram-10/01.webp",
+      "original": "assets/posts/telegram-10/01.jpg",
+      "source": "https://cdn4.telesco.pe/file/OZmQv-uXmIBX7APfPzUOzzwfmIgZP5ZBIEEAvSjXHsuo4r1ObzwuQtgoDzOZODf3j1ZLhPMTzLyYUzQnfLyanDAuzi85Iza20T-kkvTtc967_gY-Xp64IncPL4vOPe-U8QODrTl8RlqctlRAPh2QK2PyFTLnAMsk7MHb3gYB_45tGK1ES-POM_VdHPv4l1US-kVnsQxgImfjGMNGU7y0PkWn12GV_iqgMKrOR6DtypCT2GrgJ97v39DeIHDlvSwgJiswRURfrGPztktsWXx0PMRKHuQzunIH8jlUSfY9gcFA_9RAiTt5tRMoi6gbUXpKLbyiBsJUK_P-h4ukERXdKg.jpg",
+      "width": 800,
+      "height": 533
+    },
+    {
+      "file": "assets/posts/telegram-10/02.webp",
+      "original": "assets/posts/telegram-10/02.jpg",
+      "source": "https://cdn4.telesco.pe/file/XPybZeUm3_vdMWPVKsgTUSld6vRbhm61eHwO4_UW8xJNY3Jxn-1SV4kHeYSlH9TG8D2dwelMzOsJmLwT_hpiMOCLChg66k3iacU8jV6-nF-zZfAhgG4wkweK1ThGtuy78YvFkLzqnvnRpBXJQW2SkA_Lolzmj_j49XsSo8V7g78bfWcnajWXCZoY43a4tabnuhNTpTMa53QCXO6qkt0EBzjiEiLzzT9iR2Nnv28SgORpbDgJsWxhQgDs9KrTbSUsLe0T9RFUByVoH2c8LqbXmntQrRwFpgXx9XiKjIT7daPH7adQtT0qeVSM661Fk533y7HvxJ6W_KIIIrd0Zhf0Iw.jpg",
+      "width": 800,
+      "height": 533
+    },
+    {
+      "file": "assets/posts/telegram-10/03.webp",
+      "original": "assets/posts/telegram-10/03.jpg",
+      "source": "https://cdn4.telesco.pe/file/uOsWkWjF4-7NoTcJnfIbirU_LGCflK2KrX8wCXjmMhhefHJZH7oN3V9PVxPC_WxaS1fSl663LRjvhj8DqNXJdMfxR0WC5umTqIWEOE8pWhzw6AFK5aLWV-HoWsj7NWCE1D0wwTrNLWUJjrf4F7rBl_HYDUfT6g0zvUJT9jIOr4AxV14q5sjzdQh86EWtZG5CE4yoNVwyfz-QJCj3QpcIHm1NKB5T1CqkO1dc2ZdF8X3_mtyUiv-2oaocVlOPkSrp_vC6WMRD2S4FnhguznozUN5E1ZRXlCaDQQ9h1Wg2XgJ99I8CDUbcKr3sEW5YLlstepKTvX50ie-_W8LEsGBQIA.jpg",
+      "width": 800,
+      "height": 533
+    },
+    {
+      "file": "assets/posts/telegram-10/04.webp",
+      "original": "assets/posts/telegram-10/04.jpg",
+      "source": "https://cdn4.telesco.pe/file/E0NNwptVfaXaipzzLviobJ1KgoHhKwZBPN2G4vjv_xJ62YXCqCoS_fW0YSKJv2p4jrzgmu-XbIhy4roF94P1Bw7jY04sQH4PKhfD2etuoimsmRF5hCjoBdbtMDn3zUB4AG647HW9yFxfdNNKUxfUuTkT0543orOfcbPyVFsMIIFhmwLbs4LmVjWGtNRWNqC671DryRzllhWiKCcoh8JMRNxf0HZZB76ZEL_UydP4w_DBDS39Di-MgppsDjf7yy4g_cA4A6-qR4IKa0RF8tyYBordT80T2jdZ8uDjb15axs06Nb_toJasFq5O0__QAUa-Mr8eNm0gOYjRYE16R5F9bQ.jpg",
+      "width": 553,
+      "height": 604
+    }
+  ],
+  "cover": "assets/posts/telegram-10/01.webp",
+  "relatedItems": [
+    "ec-1845-103"
+  ],
+  "category": "stories",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-10/ru.md",
+    "en": "content/posts/telegram-10/en.md"
+  }
+}

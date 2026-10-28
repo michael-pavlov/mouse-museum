@@ -1,0 +1,66 @@
+{
+  "sourceId": 122,
+  "source": "https://collectionerus.ru/collections/old-mice/122/",
+  "slug": "kompass-mouse-122",
+  "sourceTitle": "Kompass mouse",
+  "retrievedAt": "2026-10-27T23:10:52+03:00",
+  "sourcePageSha256": "287616761dcedcd838b8ba2e3c1e60f8ad291fe8d0b153e6c2021ecf4f0ded0e",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Midasonic Industrial Co Ltd",
+    "Год": "1991",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Midasonic+Industrial+Co+Ltd"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1991"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/g/gv/g/gv/gvmgrua8k2omkzgs.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gv/gvmgrua8k2omkzgs.jpg",
+      "originalName": "gvmgrua8k2omkzgs.jpg",
+      "cacheFile": "photos/kompass-mouse-122/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3331×2221, 2,6 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/9/9d/9/9d/9dxezslgsnhxtjpj.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/9/9d/9dxezslgsnhxtjpj.jpg",
+      "originalName": "9dxezslgsnhxtjpj.jpg",
+      "cacheFile": "photos/kompass-mouse-122/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3217×2145, 2,5 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/x/xn/x/xn/xnowuct1motjayql.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/xn/xnowuct1motjayql.jpg",
+      "originalName": "xnowuct1motjayql.jpg",
+      "cacheFile": "photos/kompass-mouse-122/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3217×2145, 2,8 МБ"
+    }
+  ],
+  "itemFile": "content/mice/kompass-mouse-122.json",
+  "previousPhotoCount": 0
+}

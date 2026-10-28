@@ -1,0 +1,172 @@
+{
+  "id": "MP-0066",
+  "slug": "amconics-witty-mouse-c-400-66",
+  "title": {
+    "en": "Amconics (Witty) Mouse C-400",
+    "ru": "Amconics (Witty) Mouse C-400"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/66/",
+  "sourceOrder": 99,
+  "order": 103,
+  "sourceProperties": {
+    "Производитель": "Witty",
+    "Год": "1988",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Средний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/amconics-witty-mouse-c-400-66/01.webp",
+      "thumbnail": "assets/photos/amconics-witty-mouse-c-400-66/01-thumb.webp",
+      "original": "assets/photos/amconics-witty-mouse-c-400-66/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/v/v1/v1wq3uznkzurovjh.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/v1/v1wq3uznkzurovjh.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/v/v1/v1wq3uznkzurovjh.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "v1wq3uznkzurovjh.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1329624,
+      "sha256": "41a47465cfb76a0b9f93200c40b25ec3370b5fd06b7cf21d20bb69e5d2efcff0",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/amconics-witty-mouse-c-400-66/02.webp",
+      "thumbnail": "assets/photos/amconics-witty-mouse-c-400-66/02-thumb.webp",
+      "original": "assets/photos/amconics-witty-mouse-c-400-66/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/q/qc/qcsp0adgqez6nzdy.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qc/qcsp0adgqez6nzdy.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/q/qc/qcsp0adgqez6nzdy.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "qcsp0adgqez6nzdy.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1665558,
+      "sha256": "d2d82cbd2ec92a2c9f290b69586183ee06c0c244003f803172b2d81357701b86",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/amconics-witty-mouse-c-400-66/03.webp",
+      "thumbnail": "assets/photos/amconics-witty-mouse-c-400-66/03-thumb.webp",
+      "original": "assets/photos/amconics-witty-mouse-c-400-66/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/s/s3/s35j6itga5ckabw4.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/s/s3/s35j6itga5ckabw4.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/s/s3/s35j6itga5ckabw4.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "s35j6itga5ckabw4.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1371961,
+      "sha256": "51de1becd319c9553977455157e4943030be082a410c74c420aeec9cd9fe9443",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/amconics-witty-mouse-c-400-66/04.webp",
+      "thumbnail": "assets/photos/amconics-witty-mouse-c-400-66/04-thumb.webp",
+      "original": "assets/photos/amconics-witty-mouse-c-400-66/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/f/fd/fdryw9yfgzg2anli.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/f/fd/fdryw9yfgzg2anli.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/f/fd/fdryw9yfgzg2anli.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "fdryw9yfgzg2anli.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3800,
+      "originalHeight": 2533,
+      "originalBytes": 2200682,
+      "sha256": "bb7bdf5aa8aae4e5a74581c5a705b603878eba4ac9af11434a604541b5ee5043",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/amconics-witty-mouse-c-400-66/05.webp",
+      "thumbnail": "assets/photos/amconics-witty-mouse-c-400-66/05-thumb.webp",
+      "original": "assets/photos/amconics-witty-mouse-c-400-66/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/6/64/64yjdicyr37v049j.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/6/64/64yjdicyr37v049j.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/6/64/64yjdicyr37v049j.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "64yjdicyr37v049j.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3800,
+      "originalHeight": 2533,
+      "originalBytes": 2103776,
+      "sha256": "8b0d97619e41261f575d456ab02be86ce25e7ed4e1154ae68042d13ffd114af4",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/amconics-witty-mouse-c-400-66/06.webp",
+      "thumbnail": "assets/photos/amconics-witty-mouse-c-400-66/06-thumb.webp",
+      "original": "assets/photos/amconics-witty-mouse-c-400-66/originals/06.jpg",
+      "source": "https://collectionerus.ru/media/items-large/r/rn/rn7jgvq6hnalerzj.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/rn/rn7jgvq6hnalerzj.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/r/rn/rn7jgvq6hnalerzj.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "rn7jgvq6hnalerzj.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3800,
+      "originalHeight": 2533,
+      "originalBytes": 2160218,
+      "sha256": "478338ec85f0d600c94af067dfb3433f131a56e10a300cb08ff6e6f75f40857c",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Witty",
+    "en": "Witty"
+  },
+  "brand": "Witty",
+  "year": 1988,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Amconics (Witty) Mouse C-400",
+  "whereToSee": {
+    "ru": "Средний",
+    "en": "Middle"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/amconics-witty-mouse-c-400-66/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:50+03:00",
+    "sourcePhotoCount": 6,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 6
+  }
+}

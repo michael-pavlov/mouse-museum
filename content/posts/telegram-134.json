@@ -1,0 +1,48 @@
+{
+  "id": "telegram-134",
+  "slug": "telegram-134",
+  "title": {
+    "ru": "Mighty Mouse",
+    "en": "Mighty Mouse"
+  },
+  "date": "2025-03-01T16:28:13+00:00",
+  "source": "https://t.me/old_mice_and_hw/134",
+  "excerpt": {
+    "ru": "Прототип 1985 года с пятью кнопками, чувствительностью к нажатию и колесом.",
+    "en": "A 1985 prototype with five buttons, pressure-sensitive controls and a wheel."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/telegram-134/01.webp",
+      "original": "assets/posts/telegram-134/01.jpg",
+      "source": "https://cdn4.telesco.pe/file/UXnu5XNb7V4rl6zH7KOXUFol5VXQe0pG2xFS3PIKNdbnFpcmesYHFMtqW8ZLzJt_4zsEWEtzNW-kZeV-2N8ijxoJ24L_DexOSmxnZkonaPW8vBXVflNft3jOF7nmGmvjkwXT0XN-r5HwEW-tldcdknUljMvNHCxY14vcGbfIkfxas5n0B4ypZOWEbnEu4V4d4xvj73bTBbvDh42NN8u5Qsc02_XIzPHWj26mRKWtcop6Dn3YwEQh4N9KI5GxX1fxIOPdd0-F8KxBtHMhAeVaF9yNXkbP8IGHh5e7ixMB-k23lIqTYfUZ2tiN0g-B6cZBGJGr_0L4uxHArH0vfUbDbQ.jpg",
+      "width": 343,
+      "height": 180
+    },
+    {
+      "file": "assets/posts/telegram-134/02.webp",
+      "original": "assets/posts/telegram-134/02.jpg",
+      "source": "https://cdn4.telesco.pe/file/nIbAMEHs8DUiC5ethh5cAHG0kI1y-gFKyV9QIaeUSfD2o72Ea-VUk9lRcR2WNu9pDcA6rA9A5bNA_54sEeuXG0NbS6--BgQqwrrBQdQX2BrL6AfNR1k2WIvjMb6djn6lgpBWKE0F9zfvTvIbtX3mRzNID9Y6EC7q4hOql1BLjMOEwsO7RevpsMer8vEQsCsVYI3s6qDvleaAo2mn5KwyX_NT6FejwGY9ujUtfGaUbZ895LbIib2Y1KerqKepbfgk3bn-i5QOb-1-ZvuSAURW52tk0lQyB3Bcw0fRCOxatu5fkVoBM4MjuPd77s4UYkx1hySDzMglZLNUbgC3yP5Wmw.jpg",
+      "width": 620,
+      "height": 388
+    }
+  ],
+  "cover": "assets/posts/telegram-134/01.webp",
+  "relatedItems": [
+    "depraz-p4",
+    "apple-lisa-207"
+  ],
+  "category": "stories",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-134/ru.md",
+    "en": "content/posts/telegram-134/en.md"
+  },
+  "archiveNote": {
+    "ru": "В оригинале упоминаются материалы в комментариях. Здесь сохранена публикация канала; обсуждение смотрите в Telegram.",
+    "en": "The original refers to material in the comments. This archive preserves the channel post; the discussion remains on Telegram."
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "id": "MP-0078",
+  "slug": "philips-78",
+  "title": {
+    "en": "Philips",
+    "ru": "Philips"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/78/",
+  "sourceOrder": 115,
+  "order": 119,
+  "sourceProperties": {
+    "Производитель": "Philips",
+    "Год": "1985",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "COM",
+    "СССР": "нет",
+    "Производитель платы": "Genius",
+    "Где посмотреть": "Средний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/philips-78/01-catalog.webp",
+      "thumbnail": "assets/photos/philips-78/01-catalog-thumb.webp",
+      "original": "assets/photos/philips-78/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/k/kw/kwmdwyqdr9zm3wh9.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/kw/kwmdwyqdr9zm3wh9.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/k/kw/kwmdwyqdr9zm3wh9.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "kwmdwyqdr9zm3wh9.JPG",
+      "width": 1536,
+      "height": 1024,
+      "originalWidth": 3300,
+      "originalHeight": 2200,
+      "originalBytes": 1334998,
+      "sha256": "d6a9690b0e487b64750d09ab83d04589cb0591529b7b8c97e34b78dc13d18be2",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/philips-78/02.webp",
+      "thumbnail": "assets/photos/philips-78/02-thumb.webp",
+      "original": "assets/photos/philips-78/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/5/5y/5yoi6hm0ubpglj4r.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/5/5y/5yoi6hm0ubpglj4r.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/5/5y/5yoi6hm0ubpglj4r.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "5yoi6hm0ubpglj4r.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3300,
+      "originalHeight": 2200,
+      "originalBytes": 1938465,
+      "sha256": "f24335851e8392bb166c97501b75d84ba5ce53fa2ad05e7c66eeb8f8829afd6e",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/philips-78/03.webp",
+      "thumbnail": "assets/photos/philips-78/03-thumb.webp",
+      "original": "assets/photos/philips-78/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/v/v0/v08e2nuj6ml4dmfj.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/v0/v08e2nuj6ml4dmfj.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/v/v0/v08e2nuj6ml4dmfj.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "v08e2nuj6ml4dmfj.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3300,
+      "originalHeight": 2200,
+      "originalBytes": 2201244,
+      "sha256": "ba594c9f5c4be63c78a1a00d408b3f01ebaf06cccffa63940802e49236dbc181",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/philips-78/04.webp",
+      "thumbnail": "assets/photos/philips-78/04-thumb.webp",
+      "original": "assets/photos/philips-78/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/6/65/65mutadpimvou2pa.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/6/65/65mutadpimvou2pa.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/6/65/65mutadpimvou2pa.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "65mutadpimvou2pa.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3300,
+      "originalHeight": 2200,
+      "originalBytes": 1975639,
+      "sha256": "e2f89828c7cee59973b7a5363e6629179386656c9d81e045d2a0a29482ef71a9",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/philips-78/05.webp",
+      "thumbnail": "assets/photos/philips-78/05-thumb.webp",
+      "original": "assets/photos/philips-78/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/v/va/vazruq5il1vpzjwj.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/va/vazruq5il1vpzjwj.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/v/va/vazruq5il1vpzjwj.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "vazruq5il1vpzjwj.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3300,
+      "originalHeight": 2200,
+      "originalBytes": 2106999,
+      "sha256": "366c77b4cfba7b3b92210c326bc9dfb5b62c427f30aa0ed3a1f6f2ef029fa8d1",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Philips",
+    "en": "Philips"
+  },
+  "brand": "Philips",
+  "year": 1985,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "COM",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Philips",
+  "whereToSee": {
+    "ru": "Средний",
+    "en": "Middle"
+  },
+  "boardManufacturer": {
+    "ru": "Genius",
+    "en": "Genius"
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/philips-78/thumb-catalog.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:51+03:00",
+    "sourcePhotoCount": 5,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 7,
+    "availableOriginals": 5
+  }
+}

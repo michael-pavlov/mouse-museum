@@ -1,0 +1,135 @@
+{
+  "id": "MP-0187",
+  "slug": "mousepen-sunnyline-187",
+  "title": {
+    "en": "MousePen Sunnyline",
+    "ru": "MousePen Sunnyline"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/187/",
+  "sourceOrder": 198,
+  "order": 201,
+  "sourceProperties": {
+    "Год": "1992",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Демо Стол"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/mousepen-sunnyline-187/01.webp",
+      "thumbnail": "assets/photos/mousepen-sunnyline-187/01-thumb.webp",
+      "original": "assets/photos/mousepen-sunnyline-187/originals/01.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/a/ar/a/ar/arknbeeu6xamijsc.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/a/ar/arknbeeu6xamijsc.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/a/ar/arknbeeu6xamijsc.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "arknbeeu6xamijsc.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 980117,
+      "sha256": "ccb53501f3b48373ec8302fcf64976349ca45cee1791f91f3b744e0d3d0b2ac4",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/mousepen-sunnyline-187/02.webp",
+      "thumbnail": "assets/photos/mousepen-sunnyline-187/02-thumb.webp",
+      "original": "assets/photos/mousepen-sunnyline-187/originals/02.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/t/tg/t/tg/tgsqvb0ji7yo2cuv.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/tg/tgsqvb0ji7yo2cuv.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/t/tg/tgsqvb0ji7yo2cuv.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "tgsqvb0ji7yo2cuv.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 826199,
+      "sha256": "7b3fcc3fb2c89048676f2ea2e5762157190c8319ffb2f3387af1b7024dcda693",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/mousepen-sunnyline-187/03.webp",
+      "thumbnail": "assets/photos/mousepen-sunnyline-187/03-thumb.webp",
+      "original": "assets/photos/mousepen-sunnyline-187/originals/03.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/q/qa/q/qa/qav0a0za4y2rzkas.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qa/qav0a0za4y2rzkas.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/q/qa/qav0a0za4y2rzkas.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "qav0a0za4y2rzkas.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1207693,
+      "sha256": "6193d01e705f30df83f1114f408587e7f05241acc953bea3650b7d49cb7a1837",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/mousepen-sunnyline-187/04.webp",
+      "thumbnail": "assets/photos/mousepen-sunnyline-187/04-thumb.webp",
+      "original": "assets/photos/mousepen-sunnyline-187/originals/04.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/e/es/e/es/esiknglut5skeejc.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/es/esiknglut5skeejc.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/e/es/esiknglut5skeejc.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "esiknglut5skeejc.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1369062,
+      "sha256": "4c633bd12c2f2ce179ed82740c52d35ca94b611f4bdd5f900e07e9266a1fa01a",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Не указан",
+    "en": "Not recorded"
+  },
+  "brand": "Unknown",
+  "year": 1992,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "MousePen Sunnyline",
+  "whereToSee": {
+    "ru": "Демо Стол",
+    "en": "Demo table"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/mousepen-sunnyline-187/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:55+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 4,
+    "availableOriginals": 4
+  }
+}

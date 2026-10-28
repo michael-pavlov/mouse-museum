@@ -1,0 +1,173 @@
+{
+  "id": "MP-0067",
+  "slug": "soap-mouse-67",
+  "title": {
+    "en": "Soap Mouse",
+    "ru": "Soap Mouse"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/67/",
+  "sourceOrder": 100,
+  "order": 104,
+  "sourceProperties": {
+    "Производитель": "Unknown",
+    "Год": "1993",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "COM",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/soap-mouse-67/01.webp",
+      "thumbnail": "assets/photos/soap-mouse-67/01-thumb.webp",
+      "original": "assets/photos/soap-mouse-67/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/i/ia/ialdisxsmvqnqui5.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/ia/ialdisxsmvqnqui5.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/i/ia/ialdisxsmvqnqui5.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "ialdisxsmvqnqui5.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1131143,
+      "sha256": "cef9e026fa6320391157fd669b6c0007ebc10da2a423b589348e94a692d5846e",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/soap-mouse-67/02.webp",
+      "thumbnail": "assets/photos/soap-mouse-67/02-thumb.webp",
+      "original": "assets/photos/soap-mouse-67/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/w/wj/wjjqupuzdvekuqew.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/wj/wjjqupuzdvekuqew.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/w/wj/wjjqupuzdvekuqew.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "wjjqupuzdvekuqew.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1434541,
+      "sha256": "d3e47f1f8caad8162ff91a178520a155e787f686902e92f57ddbfac7b5d77f30",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/soap-mouse-67/03.webp",
+      "thumbnail": "assets/photos/soap-mouse-67/03-thumb.webp",
+      "original": "assets/photos/soap-mouse-67/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/h/hf/hf5joqqhrdv4gbap.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hf/hf5joqqhrdv4gbap.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/h/hf/hf5joqqhrdv4gbap.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "hf5joqqhrdv4gbap.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1157710,
+      "sha256": "ccca1e58449fedc76c42ff8f2a3de1e11da6b7458a9123a5a0134dd020993299",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/soap-mouse-67/04.webp",
+      "thumbnail": "assets/photos/soap-mouse-67/04-thumb.webp",
+      "original": "assets/photos/soap-mouse-67/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/y/yp/ypuwmhaeulip2by2.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/y/yp/ypuwmhaeulip2by2.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/y/yp/ypuwmhaeulip2by2.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "ypuwmhaeulip2by2.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4306,
+      "originalHeight": 2871,
+      "originalBytes": 2455502,
+      "sha256": "5b0ef61ad09ed5ebde2ca72254ed3cd3ccd1e79d056688312b6785bcca03bfd7",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/soap-mouse-67/05.webp",
+      "thumbnail": "assets/photos/soap-mouse-67/05-thumb.webp",
+      "original": "assets/photos/soap-mouse-67/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/v/vn/vn9uuzh52ppqsbes.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/vn/vn9uuzh52ppqsbes.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/v/vn/vn9uuzh52ppqsbes.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "vn9uuzh52ppqsbes.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4306,
+      "originalHeight": 2871,
+      "originalBytes": 2323621,
+      "sha256": "4d2898d9b78c66935b67ac2ddc9ecf1051d4fbb8be36e837f804047c58b60c96",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/soap-mouse-67/06.webp",
+      "thumbnail": "assets/photos/soap-mouse-67/06-thumb.webp",
+      "original": "assets/photos/soap-mouse-67/originals/06.jpg",
+      "source": "https://collectionerus.ru/media/items-large/p/pd/pdgxirmn7cc4seph.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/pd/pdgxirmn7cc4seph.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/p/pd/pdgxirmn7cc4seph.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "pdgxirmn7cc4seph.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4306,
+      "originalHeight": 2871,
+      "originalBytes": 2736342,
+      "sha256": "2fbdf965f367834c986706a57808726a84b5d890736773d48dcb75de1af36246",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Unknown",
+    "en": "Unknown"
+  },
+  "brand": "Unknown",
+  "year": 1993,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "COM",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Soap Mouse",
+  "whereToSee": {
+    "ru": "Дальний",
+    "en": "Far"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/soap-mouse-67/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:50+03:00",
+    "sourcePhotoCount": 6,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 6
+  }
+}

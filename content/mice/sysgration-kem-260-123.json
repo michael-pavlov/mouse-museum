@@ -1,0 +1,136 @@
+{
+  "id": "MP-0123",
+  "slug": "sysgration-kem-260-123",
+  "title": {
+    "en": "Sysgration KEM-260",
+    "ru": "Sysgration KEM-260"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/123/",
+  "sourceOrder": 154,
+  "order": 157,
+  "sourceProperties": {
+    "Производитель": "Sysgration Ltd.",
+    "Год": "1991",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/sysgration-kem-260-123/01.webp",
+      "thumbnail": "assets/photos/sysgration-kem-260-123/01-thumb.webp",
+      "original": "assets/photos/sysgration-kem-260-123/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/x/xr/x/xr/xryjumsp4n6pg3ft.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/xr/xryjumsp4n6pg3ft.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/x/xr/xryjumsp4n6pg3ft.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "xryjumsp4n6pg3ft.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3323,
+      "originalHeight": 2215,
+      "originalBytes": 3081046,
+      "sha256": "e6553220250cfdcb23712645253a1e1dbf3f11b15e6fb40af2ba770f3d0b46c0",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/sysgration-kem-260-123/02.webp",
+      "thumbnail": "assets/photos/sysgration-kem-260-123/02-thumb.webp",
+      "original": "assets/photos/sysgration-kem-260-123/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/g/gk/g/gk/gka07xhjpmzvcux7.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gk/gka07xhjpmzvcux7.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/g/gk/gka07xhjpmzvcux7.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "gka07xhjpmzvcux7.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3217,
+      "originalHeight": 2145,
+      "originalBytes": 2603719,
+      "sha256": "0e7ff4e2b1ec8fe5cd4f4214c44688adf860a8691ad533d8bb796789675de84e",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/sysgration-kem-260-123/03.webp",
+      "thumbnail": "assets/photos/sysgration-kem-260-123/03-thumb.webp",
+      "original": "assets/photos/sysgration-kem-260-123/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/z/zb/z/zb/zb0d0tjtje60ytqj.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/zb/zb0d0tjtje60ytqj.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/z/zb/zb0d0tjtje60ytqj.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "zb0d0tjtje60ytqj.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3217,
+      "originalHeight": 2145,
+      "originalBytes": 3227249,
+      "sha256": "8a77e99f720baaee1acf63b9cbe8b778cc26a16b12940f84ef8505ef6191fcfd",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/sysgration-kem-260-123/04.webp",
+      "thumbnail": "assets/photos/sysgration-kem-260-123/04-thumb.webp",
+      "original": "assets/photos/sysgration-kem-260-123/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/j/jx/j/jx/jxbqild8p93qmyrs.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/j/jx/jxbqild8p93qmyrs.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/j/jx/jxbqild8p93qmyrs.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "jxbqild8p93qmyrs.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3918,
+      "originalHeight": 2612,
+      "originalBytes": 4566602,
+      "sha256": "43897e3087f93bba66be987e275070a0a240443ccfd9fa7c48f82ff7ec79f43d",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Sysgration Ltd.",
+    "en": "Sysgration Ltd."
+  },
+  "brand": "Sysgration Ltd.",
+  "year": 1991,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Sysgration KEM-260",
+  "whereToSee": {
+    "ru": "Дальний",
+    "en": "Far"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/sysgration-kem-260-123/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:53+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 4
+  }
+}

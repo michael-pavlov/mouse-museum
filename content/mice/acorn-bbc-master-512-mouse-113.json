@@ -1,0 +1,126 @@
+{
+  "id": "MP-0113",
+  "slug": "acorn-bbc-master-512-mouse-113",
+  "title": {
+    "en": "Acorn BBC Master 512 Mouse",
+    "ru": "Acorn BBC Master 512 Mouse"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/113/",
+  "sourceOrder": 141,
+  "order": 145,
+  "sourceProperties": {
+    "Производитель": "Acorn",
+    "Год": "1987",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Краснохолмская"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/acorn-bbc-master-512-mouse-113/01.webp",
+      "thumbnail": "assets/photos/acorn-bbc-master-512-mouse-113/01-thumb.webp",
+      "original": "assets/photos/acorn-bbc-master-512-mouse-113/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/5/5n/5/5n/5nrzhwy8oimqse5d.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/5/5n/5nrzhwy8oimqse5d.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/5/5n/5nrzhwy8oimqse5d.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "5nrzhwy8oimqse5d.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3217,
+      "originalHeight": 2145,
+      "originalBytes": 2206087,
+      "sha256": "76f00289f63395041f108a7b27b09edd5cd95c541ee5bbed00af9b87e16b0e22",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/acorn-bbc-master-512-mouse-113/02.webp",
+      "thumbnail": "assets/photos/acorn-bbc-master-512-mouse-113/02-thumb.webp",
+      "original": "assets/photos/acorn-bbc-master-512-mouse-113/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/y/y4/y/y4/y4wsmkc8fiy5s6cc.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/y/y4/y4wsmkc8fiy5s6cc.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/y/y4/y4wsmkc8fiy5s6cc.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "y4wsmkc8fiy5s6cc.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3871,
+      "originalHeight": 2581,
+      "originalBytes": 3155131,
+      "sha256": "637130afef552d896eb70c6a5f7f09131391a0b9e5c30fd3447d61bc31879ba9",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/acorn-bbc-master-512-mouse-113/03.webp",
+      "thumbnail": "assets/photos/acorn-bbc-master-512-mouse-113/03-thumb.webp",
+      "original": "assets/photos/acorn-bbc-master-512-mouse-113/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/l/lw/l/lw/lwyaptzglui4svfy.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/l/lw/lwyaptzglui4svfy.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/l/lw/lwyaptzglui4svfy.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "lwyaptzglui4svfy.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3999,
+      "originalHeight": 2666,
+      "originalBytes": 3606684,
+      "sha256": "6df04b0f2a43a5dca4dcaaa50e62cd1c08de48a8f60a9834c3850ded398531b8",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Acorn",
+    "en": "Acorn"
+  },
+  "brand": "Acorn",
+  "year": 1987,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Acorn BBC Master 512 Mouse",
+  "whereToSee": {
+    "ru": "Краснохолмская",
+    "en": "Krasnokholmskaya Gallery"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [
+    {
+      "url": "https://chrisacorns.computinghistory.org.uk/docs/Acorn/Brochures/Acorn_APP110_OpenUptotheWorldofMSDOS.pdf",
+      "title": {
+        "en": "chrisacorns.computinghistory.org.uk",
+        "ru": "chrisacorns.computinghistory.org.uk"
+      }
+    }
+  ],
+  "thumbnail": "assets/photos/acorn-bbc-master-512-mouse-113/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:51+03:00",
+    "sourcePhotoCount": 3,
+    "sourceDescriptionPresent": true,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 3
+  }
+}

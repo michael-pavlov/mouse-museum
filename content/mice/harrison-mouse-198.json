@@ -1,0 +1,189 @@
+{
+  "id": "MP-0198",
+  "slug": "harrison-mouse-198",
+  "title": {
+    "en": "Harrison mouse",
+    "ru": "Harrison mouse"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/198/",
+  "sourceOrder": 207,
+  "order": 210,
+  "sourceProperties": {
+    "Год": "1990",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Демо Витрина"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/harrison-mouse-198/01.webp",
+      "thumbnail": "assets/photos/harrison-mouse-198/01-thumb.webp",
+      "original": "assets/photos/harrison-mouse-198/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/t/ts/t/ts/tsgxndly7harscz6.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/ts/tsgxndly7harscz6.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/t/ts/tsgxndly7harscz6.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "tsgxndly7harscz6.jpg",
+      "width": 1448,
+      "height": 1086,
+      "originalWidth": 1448,
+      "originalHeight": 1086,
+      "originalBytes": 1634610,
+      "sha256": "0069789294c73ecefdae231a26c479c9f2ee07a9979d1b6fc94cbc29ab6376d3",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/harrison-mouse-198/02.webp",
+      "thumbnail": "assets/photos/harrison-mouse-198/02-thumb.webp",
+      "original": "assets/photos/harrison-mouse-198/originals/02.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/u/ui/u/ui/uiz8d3fznwgyq1ev.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/ui/uiz8d3fznwgyq1ev.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/u/ui/uiz8d3fznwgyq1ev.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "uiz8d3fznwgyq1ev.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1276376,
+      "sha256": "869d923803eeebf8591aaced1530ccdb2243724bb76648924db2d381a444567b",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/harrison-mouse-198/03.webp",
+      "thumbnail": "assets/photos/harrison-mouse-198/03-thumb.webp",
+      "original": "assets/photos/harrison-mouse-198/originals/03.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/i/i0/i/i0/i0l1fxdjog9x4yf3.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/i0/i0l1fxdjog9x4yf3.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/i/i0/i0l1fxdjog9x4yf3.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "i0l1fxdjog9x4yf3.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1355644,
+      "sha256": "d057ea5103501c0beacf703ba3c8148b05c5cffd0842cdbc7cebabd44da34437",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/harrison-mouse-198/04.webp",
+      "thumbnail": "assets/photos/harrison-mouse-198/04-thumb.webp",
+      "original": "assets/photos/harrison-mouse-198/originals/04.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/1/1j/1/1j/1jcvhxmugohwczzg.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/1/1j/1jcvhxmugohwczzg.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/1/1j/1jcvhxmugohwczzg.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "1jcvhxmugohwczzg.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1314661,
+      "sha256": "2109245d343aeae90632af8203c1c2e7d223d2a3b15b68912ccf0d3de12ae27f",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/harrison-mouse-198/05.webp",
+      "thumbnail": "assets/photos/harrison-mouse-198/05-thumb.webp",
+      "original": "assets/photos/harrison-mouse-198/originals/05.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/z/zb/z/zb/zbk3x9utedn6b0d8.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/zb/zbk3x9utedn6b0d8.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/z/zb/zbk3x9utedn6b0d8.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "zbk3x9utedn6b0d8.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1573247,
+      "sha256": "192c52931440fc1f0d1aa7930a6a4ae6ff9301a2af3f6f403ed8c91c5690401c",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/harrison-mouse-198/06.webp",
+      "thumbnail": "assets/photos/harrison-mouse-198/06-thumb.webp",
+      "original": "assets/photos/harrison-mouse-198/originals/06.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/b/bb/b/bb/bbbar70prwm5gvz2.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/bb/bbbar70prwm5gvz2.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/b/bb/bbbar70prwm5gvz2.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "bbbar70prwm5gvz2.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1762998,
+      "sha256": "1c8820951253a31985812b6286d8039c6a5977cee4ae8b493bb98d89d7598c15",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/harrison-mouse-198/07.webp",
+      "thumbnail": "assets/photos/harrison-mouse-198/07-thumb.webp",
+      "original": "assets/photos/harrison-mouse-198/originals/07.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/7/7p/7/7p/7pa6ir8lngv4qq7q.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/7/7p/7pa6ir8lngv4qq7q.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/7/7p/7pa6ir8lngv4qq7q.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "7pa6ir8lngv4qq7q.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1614211,
+      "sha256": "33cd2109dfb1ebbabad240ef087fb7339aa3d949b4180c86ab64f5d91c8b7daf",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Не указан",
+    "en": "Not recorded"
+  },
+  "brand": "Unknown",
+  "year": 1990,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Harrison mouse",
+  "whereToSee": {
+    "ru": "Демо Витрина",
+    "en": "Demo display case"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/harrison-mouse-198/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:56+03:00",
+    "sourcePhotoCount": 7,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 4,
+    "availableOriginals": 7
+  }
+}

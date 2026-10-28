@@ -1,0 +1,119 @@
+{
+  "id": "MP-0080",
+  "slug": "marsianka-uvk-01-black-80",
+  "title": {
+    "en": "Marsianka UVK-01 · black",
+    "ru": "Марсианка УВК-01 Черная"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/80/",
+  "sourceOrder": 42,
+  "order": 58,
+  "sourceProperties": {
+    "Производитель": "СССР",
+    "Год": "1989",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "БК",
+    "СССР": "да",
+    "Где посмотреть": "Краснохолмская"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/marsianka-uvk-01-black-80/01.webp",
+      "thumbnail": "assets/photos/marsianka-uvk-01-black-80/01-thumb.webp",
+      "original": "assets/photos/marsianka-uvk-01-black-80/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/x/xw/xwfsobsuevordcle.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/xw/xwfsobsuevordcle.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/x/xw/xwfsobsuevordcle.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "xwfsobsuevordcle.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3000,
+      "originalHeight": 2000,
+      "originalBytes": 952571,
+      "sha256": "2b34ee3a9f9e74cfe3dd002de144da83d0ff19c5718df04f9a724d7d1183bc32",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/marsianka-uvk-01-black-80/02.webp",
+      "thumbnail": "assets/photos/marsianka-uvk-01-black-80/02-thumb.webp",
+      "original": "assets/photos/marsianka-uvk-01-black-80/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/y/yt/ytpqiajeisevavpq.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/y/yt/ytpqiajeisevavpq.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/y/yt/ytpqiajeisevavpq.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "ytpqiajeisevavpq.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3300,
+      "originalHeight": 2200,
+      "originalBytes": 1234289,
+      "sha256": "48379936edf08916d3878c5b61c756b3caa5e66460b7316d514e742a736d55db",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/marsianka-uvk-01-black-80/03.webp",
+      "thumbnail": "assets/photos/marsianka-uvk-01-black-80/03-thumb.webp",
+      "original": "assets/photos/marsianka-uvk-01-black-80/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/g/gc/gcdzfryi4nhn2jd2.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gc/gcdzfryi4nhn2jd2.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/g/gc/gcdzfryi4nhn2jd2.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "gcdzfryi4nhn2jd2.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3300,
+      "originalHeight": 2200,
+      "originalBytes": 1380136,
+      "sha256": "2869f18551ece80bacd36771729748132009d8468ab2d3c2c7e67ce2fa01a24b",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "СССР",
+    "en": "USSR / manufacturer not specified"
+  },
+  "brand": "СССР",
+  "year": 1989,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "БК",
+  "soviet": true,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Марсианка УВК-01 Черная",
+  "whereToSee": {
+    "ru": "Краснохолмская",
+    "en": "Krasnokholmskaya Gallery"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/marsianka-uvk-01-black-80/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:46+03:00",
+    "sourcePhotoCount": 3,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 3
+  }
+}

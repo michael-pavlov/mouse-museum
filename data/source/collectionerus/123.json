@@ -1,0 +1,75 @@
+{
+  "sourceId": 123,
+  "source": "https://collectionerus.ru/collections/old-mice/123/",
+  "slug": "sysgration-kem-260-123",
+  "sourceTitle": "Sysgration KEM-260",
+  "retrievedAt": "2026-10-27T23:10:53+03:00",
+  "sourcePageSha256": "5a55ab0652ff02abb21b5a69da9e6d26be1530c6c03e660db27ac3771e508e87",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Sysgration Ltd.",
+    "Год": "1991",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Sysgration+Ltd."
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1991"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/x/xr/x/xr/xryjumsp4n6pg3ft.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/xr/xryjumsp4n6pg3ft.jpg",
+      "originalName": "xryjumsp4n6pg3ft.jpg",
+      "cacheFile": "photos/sysgration-kem-260-123/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3323×2215, 2,9 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/g/gk/g/gk/gka07xhjpmzvcux7.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gk/gka07xhjpmzvcux7.jpg",
+      "originalName": "gka07xhjpmzvcux7.jpg",
+      "cacheFile": "photos/sysgration-kem-260-123/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3217×2145, 2,5 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/z/zb/z/zb/zb0d0tjtje60ytqj.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/zb/zb0d0tjtje60ytqj.jpg",
+      "originalName": "zb0d0tjtje60ytqj.jpg",
+      "cacheFile": "photos/sysgration-kem-260-123/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3217×2145, 3,1 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/j/jx/j/jx/jxbqild8p93qmyrs.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/j/jx/jxbqild8p93qmyrs.jpg",
+      "originalName": "jxbqild8p93qmyrs.jpg",
+      "cacheFile": "photos/sysgration-kem-260-123/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3918×2612, 4,4 МБ"
+    }
+  ],
+  "itemFile": "content/mice/sysgration-kem-260-123.json",
+  "previousPhotoCount": 0
+}

@@ -1,0 +1,173 @@
+{
+  "id": "MP-0050",
+  "slug": "ibm-33g3835-50",
+  "title": {
+    "en": "IBM 33G3835",
+    "ru": "IBM 33G3835"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/50/",
+  "sourceOrder": 87,
+  "order": 92,
+  "sourceProperties": {
+    "Производитель": "IBM",
+    "Год": "1989",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Производитель платы": "Logitech",
+    "Где посмотреть": "Средний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/ibm-33g3835-50/01.webp",
+      "thumbnail": "assets/photos/ibm-33g3835-50/01-thumb.webp",
+      "original": "assets/photos/ibm-33g3835-50/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/w/wt/wt46y7rv4osnuobh.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/wt/wt46y7rv4osnuobh.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/w/wt/wt46y7rv4osnuobh.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "wt46y7rv4osnuobh.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1397034,
+      "sha256": "7a7789f4dc49e92c02b1d0bf54409fd309f79caac3932f6e1535e5f7f105036b",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/ibm-33g3835-50/02.webp",
+      "thumbnail": "assets/photos/ibm-33g3835-50/02-thumb.webp",
+      "original": "assets/photos/ibm-33g3835-50/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/4/4c/4cdlzdakb2lopoek.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/4/4c/4cdlzdakb2lopoek.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/4/4c/4cdlzdakb2lopoek.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "4cdlzdakb2lopoek.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1812895,
+      "sha256": "8ebf2c7a02a996843356127a4a6c39658b102f70060bb04539151eec74bc948c",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/ibm-33g3835-50/03.webp",
+      "thumbnail": "assets/photos/ibm-33g3835-50/03-thumb.webp",
+      "original": "assets/photos/ibm-33g3835-50/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/d/dp/dpnxmcxk8pippvql.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/d/dp/dpnxmcxk8pippvql.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/d/dp/dpnxmcxk8pippvql.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "dpnxmcxk8pippvql.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1666674,
+      "sha256": "d11f6ca513a719057c0b5bcd747c57b508d4ebeabc3803dc285fb2cc347e8f46",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/ibm-33g3835-50/04.webp",
+      "thumbnail": "assets/photos/ibm-33g3835-50/04-thumb.webp",
+      "original": "assets/photos/ibm-33g3835-50/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/z/z9/z9rrjv72imllfsnr.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/z9/z9rrjv72imllfsnr.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/z/z9/z9rrjv72imllfsnr.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "z9rrjv72imllfsnr.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 2189750,
+      "sha256": "9d3afba165e26b91de675534dc70a2ba3dd2a7b7a853d21625e78d884ad7cdcd",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/ibm-33g3835-50/05.webp",
+      "thumbnail": "assets/photos/ibm-33g3835-50/05-thumb.webp",
+      "original": "assets/photos/ibm-33g3835-50/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/6/60/60msohowbnsufhvt.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/6/60/60msohowbnsufhvt.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/6/60/60msohowbnsufhvt.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "60msohowbnsufhvt.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1810280,
+      "sha256": "89db0c3dabadeeca9cabb1ea59705774ca3eac4a344e5ed4a69a639d5b391404",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/ibm-33g3835-50/06.webp",
+      "thumbnail": "assets/photos/ibm-33g3835-50/06-thumb.webp",
+      "original": "assets/photos/ibm-33g3835-50/originals/06.jpg",
+      "source": "https://collectionerus.ru/media/items-large/g/gj/gjiq1qjrekjljplc.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gj/gjiq1qjrekjljplc.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/g/gj/gjiq1qjrekjljplc.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "gjiq1qjrekjljplc.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1953358,
+      "sha256": "483376cb7e7132077918e365c7e67d697a2eb66361b87c8f1ec2c6c6eb7c60be",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "IBM",
+    "en": "IBM"
+  },
+  "brand": "IBM",
+  "year": 1989,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "IBM 33G3835",
+  "whereToSee": {
+    "ru": "Средний",
+    "en": "Middle"
+  },
+  "boardManufacturer": {
+    "ru": "Logitech",
+    "en": "Logitech"
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/ibm-33g3835-50/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:48+03:00",
+    "sourcePhotoCount": 6,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 6
+  }
+}

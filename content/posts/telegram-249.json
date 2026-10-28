@@ -1,0 +1,35 @@
+{
+  "id": "telegram-249",
+  "slug": "telegram-249",
+  "title": {
+    "ru": "Мышки на FestTech",
+    "en": "Mice at FestTech"
+  },
+  "date": "2026-09-03T09:06:46+00:00",
+  "source": "https://t.me/old_mice_and_hw/249",
+  "excerpt": {
+    "ru": "Архив анонса выездной экспозиции на фестивале в музее «АТОМ».",
+    "en": "An archived announcement of a travelling exhibition at the ATOM Museum festival."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/telegram-249/01.webp",
+      "original": "assets/posts/telegram-249/01.jpg",
+      "source": "https://cdn4.telesco.pe/file/hKRXo1ikFkMlJc6Ib8t1KUJpeiYDwgiXK6zwY7XD0b82NpdT-WmL4wSrwB6w6uqSeIR5m6EkhwLxA50YE1VVNnZbxbJ87Nu38ArvOoPsxbHmR936D1BWzIv3VA3zqz-4iG-r6sYR6NwnGLFryfwPPc1wNjdURR2n-hRS9b00AAALejbBfBhUk7FMUto2OcphPJH22uLSKVtcTdLBGhcvDER0xEzikr-88I_BvVJ94dPn3bX69mWUjmyBycY1qXm8rOS5h_bA5JlErpSh97JC3BnMfWr3HBLAUo0Yg1mA79txh4dt4iAvm9aQ1uNPPY0Vns0n_ggmqDEGR-KXuj-YMQ.jpg",
+      "width": 800,
+      "height": 420
+    }
+  ],
+  "cover": "assets/posts/telegram-249/01.webp",
+  "relatedItems": [],
+  "category": "exhibitions",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-249/ru.md",
+    "en": "content/posts/telegram-249/en.md"
+  },
+  "eventDate": "2026-09-05"
+}

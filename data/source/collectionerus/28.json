@@ -1,0 +1,79 @@
+{
+  "sourceId": 28,
+  "source": "https://collectionerus.ru/collections/old-mice/28/",
+  "slug": "amx-watford-clone-28",
+  "sourceTitle": "AMX Watford clone",
+  "retrievedAt": "2026-10-27T23:10:46+03:00",
+  "sourcePageSha256": "4fb593afcd70c12a50732051e100f17ffba749ae5e1cdbb109e893440cc35690",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Unknown",
+    "Год": "1988",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "COM",
+    "СССР": "нет",
+    "Где посмотреть": "Средний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Unknown"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1988"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=COM"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/g/gw/gwvdwn4h43ckslte.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gw/gwvdwn4h43ckslte.JPG",
+      "originalName": "gwvdwn4h43ckslte.JPG",
+      "cacheFile": "photos/amx-watford-clone-28/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,1 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/b/bg/bgxprayq3do6wifv.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/bg/bgxprayq3do6wifv.JPG",
+      "originalName": "bgxprayq3do6wifv.JPG",
+      "cacheFile": "photos/amx-watford-clone-28/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,5 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/y/y3/y3v4rwdz59byzcra.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/y/y3/y3v4rwdz59byzcra.JPG",
+      "originalName": "y3v4rwdz59byzcra.JPG",
+      "cacheFile": "photos/amx-watford-clone-28/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 2,2 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/n/nm/nmumzgzkxcvwlrf5.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/nm/nmumzgzkxcvwlrf5.JPG",
+      "originalName": "nmumzgzkxcvwlrf5.JPG",
+      "cacheFile": "photos/amx-watford-clone-28/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 2,0 МБ"
+    }
+  ],
+  "itemFile": "content/mice/amx-watford-clone-28.json",
+  "previousPhotoCount": 0
+}

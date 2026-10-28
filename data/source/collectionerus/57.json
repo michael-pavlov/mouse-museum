@@ -1,0 +1,97 @@
+{
+  "sourceId": 57,
+  "source": "https://collectionerus.ru/collections/old-mice/57/",
+  "slug": "genius-gm-6-57",
+  "sourceTitle": "Genius GM-6",
+  "retrievedAt": "2026-10-27T23:10:49+03:00",
+  "sourcePageSha256": "5c45747202e1643c60e9ff754cd9fbcdf90f45a126526598c672fb174c500e24",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Genius",
+    "Год": "1987",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "COM",
+    "СССР": "нет",
+    "Где посмотреть": "Средний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Genius"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1987"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=COM"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/h/hz/hz4gdevrrztmvrkz.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hz/hz4gdevrrztmvrkz.JPG",
+      "originalName": "hz4gdevrrztmvrkz.JPG",
+      "cacheFile": "photos/genius-gm-6-57/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,3 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/l/lv/lvrhcjdp2qzzjkym.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/l/lv/lvrhcjdp2qzzjkym.JPG",
+      "originalName": "lvrhcjdp2qzzjkym.JPG",
+      "cacheFile": "photos/genius-gm-6-57/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,8 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/9/9q/9qrtawv2k4d1kesi.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/9/9q/9qrtawv2k4d1kesi.JPG",
+      "originalName": "9qrtawv2k4d1kesi.JPG",
+      "cacheFile": "photos/genius-gm-6-57/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,2 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/p/pn/pnfhbbp5jljoc3nz.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/pn/pnfhbbp5jljoc3nz.JPG",
+      "originalName": "pnfhbbp5jljoc3nz.JPG",
+      "cacheFile": "photos/genius-gm-6-57/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3800×2533, 2,3 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/5/5j/5j2th6hnsqxmsz7r.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/5/5j/5j2th6hnsqxmsz7r.JPG",
+      "originalName": "5j2th6hnsqxmsz7r.JPG",
+      "cacheFile": "photos/genius-gm-6-57/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 2,5 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/r/rv/rv31b5xq0rbkdr4c.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/rv/rv31b5xq0rbkdr4c.JPG",
+      "originalName": "rv31b5xq0rbkdr4c.JPG",
+      "cacheFile": "photos/genius-gm-6-57/06.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 2,8 МБ"
+    }
+  ],
+  "itemFile": "content/mice/genius-gm-6-57.json",
+  "previousPhotoCount": 0
+}

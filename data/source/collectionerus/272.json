@@ -1,0 +1,97 @@
+{
+  "sourceId": 272,
+  "source": "https://collectionerus.ru/collections/old-mice/272/",
+  "slug": "logitech-m-s60-272",
+  "sourceTitle": "Logitech M-S60",
+  "retrievedAt": "2026-10-27T23:11:00+03:00",
+  "sourcePageSha256": "6d8d9b1ef89bcd7a48e5ebfdbdf487ef6d29516c5ae93686f2e7999fd2058c08",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Logitech",
+    "Год": "1999",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "PS/2",
+    "СССР": "нет",
+    "Где посмотреть": "Ближний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Logitech"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1999"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=PS%2F2"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%91%D0%BB%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/c/cu/c/cu/cuhplx3r4n1db3of.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/cu/cuhplx3r4n1db3of.jpeg",
+      "originalName": "cuhplx3r4n1db3of.jpeg",
+      "cacheFile": "photos/logitech-m-s60-272/01.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 880,7 КБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/r3/r/r3/r3nwecn2px8ftzb2.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/r3/r3nwecn2px8ftzb2.jpeg",
+      "originalName": "r3nwecn2px8ftzb2.jpeg",
+      "cacheFile": "photos/logitech-m-s60-272/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 984,0 КБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/o/oc/o/oc/ocldcas7etd3zw3l.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/o/oc/ocldcas7etd3zw3l.jpeg",
+      "originalName": "ocldcas7etd3zw3l.jpeg",
+      "cacheFile": "photos/logitech-m-s60-272/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 962,7 КБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/x/xn/x/xn/xnehtj9wo6zcajwh.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/xn/xnehtj9wo6zcajwh.jpeg",
+      "originalName": "xnehtj9wo6zcajwh.jpeg",
+      "cacheFile": "photos/logitech-m-s60-272/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,2 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/p/ph/p/ph/pho1yxbs7dta74z1.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/ph/pho1yxbs7dta74z1.jpeg",
+      "originalName": "pho1yxbs7dta74z1.jpeg",
+      "cacheFile": "photos/logitech-m-s60-272/05.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,0 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/0/0u/0/0u/0utp4qupbcwchj5h.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/0/0u/0utp4qupbcwchj5h.jpeg",
+      "originalName": "0utp4qupbcwchj5h.jpeg",
+      "cacheFile": "photos/logitech-m-s60-272/06.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "3024×4032, 1,0 МБ"
+    }
+  ],
+  "itemFile": "content/mice/logitech-m-s60-272.json",
+  "previousPhotoCount": 0
+}

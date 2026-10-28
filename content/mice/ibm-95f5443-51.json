@@ -1,0 +1,174 @@
+{
+  "id": "MP-0051",
+  "slug": "ibm-95f5443-51",
+  "title": {
+    "en": "IBM 95F5443",
+    "ru": "IBM 95F5443"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/51/",
+  "sourceOrder": 88,
+  "order": 93,
+  "sourceProperties": {
+    "Производитель": "IBM",
+    "Год": "1989",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "PS/2",
+    "СССР": "нет",
+    "Производитель платы": "Logitech",
+    "Где посмотреть": "Средний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/ibm-95f5443-51/01.webp",
+      "thumbnail": "assets/photos/ibm-95f5443-51/01-thumb.webp",
+      "original": "assets/photos/ibm-95f5443-51/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/c/c2/c2mr5tifglnt0jym.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/c2/c2mr5tifglnt0jym.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/c/c2/c2mr5tifglnt0jym.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "c2mr5tifglnt0jym.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1300600,
+      "sha256": "b99244549d0b850eb4b4729f44c6569ae41b7d7d2f25d44ccfc1fcd4f2a5113c",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/ibm-95f5443-51/02.webp",
+      "thumbnail": "assets/photos/ibm-95f5443-51/02-thumb.webp",
+      "original": "assets/photos/ibm-95f5443-51/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/e/ew/ewesalnoufq1q3ap.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/ew/ewesalnoufq1q3ap.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/e/ew/ewesalnoufq1q3ap.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "ewesalnoufq1q3ap.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1793249,
+      "sha256": "a4077d252f34acea0862cbe847ce83de03b654eee6ddf38b75c155e5ab725abd",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/ibm-95f5443-51/03.webp",
+      "thumbnail": "assets/photos/ibm-95f5443-51/03-thumb.webp",
+      "original": "assets/photos/ibm-95f5443-51/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/z/zq/zqigphiz1i0i4nga.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/zq/zqigphiz1i0i4nga.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/z/zq/zqigphiz1i0i4nga.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "zqigphiz1i0i4nga.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1628447,
+      "sha256": "c8383bcdfb260870fb5e71ee18714b6dc04724070a8762a703eb4466bda45a45",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/ibm-95f5443-51/04.webp",
+      "thumbnail": "assets/photos/ibm-95f5443-51/04-thumb.webp",
+      "original": "assets/photos/ibm-95f5443-51/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/n/nn/nno9o03acfes202s.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/nn/nno9o03acfes202s.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/n/nn/nno9o03acfes202s.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "nno9o03acfes202s.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3800,
+      "originalHeight": 2533,
+      "originalBytes": 2329404,
+      "sha256": "bfc0f05eef592e19b7b8588a4c29c60e72dc8b06c78e4d3d1ccc02cf8876f069",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/ibm-95f5443-51/05.webp",
+      "thumbnail": "assets/photos/ibm-95f5443-51/05-thumb.webp",
+      "original": "assets/photos/ibm-95f5443-51/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/h/hj/hjxjlrsd8tnrqlb7.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hj/hjxjlrsd8tnrqlb7.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/h/hj/hjxjlrsd8tnrqlb7.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "hjxjlrsd8tnrqlb7.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3800,
+      "originalHeight": 2533,
+      "originalBytes": 2597571,
+      "sha256": "e72b2ce455aa7b0a41b8c3afa521077e771cfc734ab3acaa1d485eef7ee05075",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/ibm-95f5443-51/06.webp",
+      "thumbnail": "assets/photos/ibm-95f5443-51/06-thumb.webp",
+      "original": "assets/photos/ibm-95f5443-51/originals/06.jpg",
+      "source": "https://collectionerus.ru/media/items-large/t/tu/tu6cd8dsideuslxh.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/tu/tu6cd8dsideuslxh.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/t/tu/tu6cd8dsideuslxh.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "tu6cd8dsideuslxh.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3800,
+      "originalHeight": 2533,
+      "originalBytes": 2195538,
+      "sha256": "0eb86470cfb3698a0d3db577ff1bb0194c4d961f2d133f48ad3daae6e00a19d2",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "IBM",
+    "en": "IBM"
+  },
+  "brand": "IBM",
+  "year": 1989,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "PS/2",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "IBM 95F5443",
+  "whereToSee": {
+    "ru": "Средний",
+    "en": "Middle"
+  },
+  "boardManufacturer": {
+    "ru": "Logitech",
+    "en": "Logitech"
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/ibm-95f5443-51/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:48+03:00",
+    "sourcePhotoCount": 6,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 7,
+    "availableOriginals": 6
+  }
+}

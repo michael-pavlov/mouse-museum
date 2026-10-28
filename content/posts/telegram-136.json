@@ -1,0 +1,48 @@
+{
+  "id": "telegram-136",
+  "slug": "telegram-136",
+  "title": {
+    "ru": "Первая флешка",
+    "en": "The first USB flash drive"
+  },
+  "date": "2025-03-03T05:41:02+00:00",
+  "source": "https://t.me/old_mice_and_hw/136",
+  "excerpt": {
+    "ru": "DiskOnKey: патент, восемь мегабайт и идея диска на связке ключей.",
+    "en": "DiskOnKey: a patent, eight megabytes and the idea of a disk on a key ring."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/telegram-136/01.webp",
+      "original": "assets/posts/telegram-136/01.jpg",
+      "source": "https://cdn4.telesco.pe/file/Rng1lhJWQVMp_brhr2J0h20T5qtqmbXMUKyluypHrUN2C3jglBW4XviTRViuEmEhIyxdJ1TjeCvgfLJ2s_ALdpYT-RF06tqp4xKXq8wn2mW9x11mUyLhnRxJnhq_xGkXeq4QBHZm0PwSmCgJx-Ibc6Ee4ym-qyQiLODzwb6FM4BK7jYr38F7qTpR7jjqajUF8g-WrYLecnhhxqn9dXn_z87mTf6lzd8W3GeQNOu_A1BeWW79KSiqh5QB0aS3RWEHN66asYvNm-SQIR85wxXJpsP7lXsQBEVKPAsiYs7pQH8Ftu4eflcJimXouU0E5kRlgj7N7qbPY6DaVlvCet6SSA.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/telegram-136/02.webp",
+      "original": "assets/posts/telegram-136/02.jpg",
+      "source": "https://cdn4.telesco.pe/file/D7mL0mmL81zw0es799JKJRdaCDOFZejS-FYkrUIu9scmnPtQ_tFscJ7Af2yymo3xAtL3hWED6I13-_8fSA0s0XN9LPhJZ1FMJRTSER4wvQn5DFhpUhlgAxxPdrU-M0A2otHy-PoXCdvlMb7wo3BDUDnPo9kJpSXbEGCcV3PgqjMOSesi1CsFT9XAUMmvBIDRhiVjfVllikKBQmbcn0L0Fy55vpuO6t6D4Cuhc96aEnJ0ovMmhtgFJmfq6Sn7KBWAACi_M8nYRDsD086VXKqpLvdbI_U9zSky2DSY5tdA-xQZSDEcJE-vT1kqy1t-NgzEeXM3mT7tX5nWMl5rS362ow.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/telegram-136/03.webp",
+      "original": "assets/posts/telegram-136/03.jpg",
+      "source": "https://cdn4.telesco.pe/file/eJno5lnUf5p65ibXFivqHQss7vKAe1k6OoUFaUkGxpmU-xH1-UeoBweC7_365eKuD1xjbRcefEFZMNt9Y0XoxMGP8vnnBHO96vqJ--q3moDEig4_xzAiKhoKfo4jYwOe3VE0GibQTArfYKr_Q_axiXGSDL-pmdWKrmSMhKvjqkW0CAGKiDz5pYLfzr1emUQ5XPXKHwogznQiQXhasD1SYRjKEe4ltOZDU4_DIUtPdzxVnwvpRjhjbhuu3Jlgs3Xy39gSK7B1tnIb0UaHEItOV_Fa24TXxkUwcVx3QpYNWyHHjj2itshzeQEZfE6pxGUmtARhFN1vVN7fbMMfOQxeaQ.jpg",
+      "width": 800,
+      "height": 600
+    }
+  ],
+  "cover": "assets/posts/telegram-136/01.webp",
+  "relatedItems": [],
+  "category": "stories",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-136/ru.md",
+    "en": "content/posts/telegram-136/en.md"
+  }
+}

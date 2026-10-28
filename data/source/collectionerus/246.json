@@ -1,0 +1,94 @@
+{
+  "sourceId": 246,
+  "source": "https://collectionerus.ru/collections/old-mice/246/",
+  "slug": "mitsuba-optical-mouse-246",
+  "sourceTitle": "Mitsuba Optical Mouse",
+  "retrievedAt": "2026-10-27T23:10:56+03:00",
+  "sourcePageSha256": "f770c17c8e368851a9658170a22aaf5842ba2504998debae5b22a2e4d72085a4",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Способ позиционирования": "Оптический через коврик",
+    "СССР": "нет",
+    "Где посмотреть": "Демо Витрина"
+  },
+  "propertyLinks": {
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%D1%87%D0%B5%D1%80%D0%B5%D0%B7+%D0%BA%D0%BE%D0%B2%D1%80%D0%B8%D0%BA"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B5%D0%BC%D0%BE+%D0%92%D0%B8%D1%82%D1%80%D0%B8%D0%BD%D0%B0"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/1/1b/1/1b/1btt56oddpzfqv4q.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/1/1b/1btt56oddpzfqv4q.jpeg",
+      "originalName": "1btt56oddpzfqv4q.jpeg",
+      "cacheFile": "photos/mitsuba-optical-mouse-246/01.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,1 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/r9/r/r9/r9fsatijcfqq6jbh.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/r9/r9fsatijcfqq6jbh.jpeg",
+      "originalName": "r9fsatijcfqq6jbh.jpeg",
+      "cacheFile": "photos/mitsuba-optical-mouse-246/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,2 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/e/e6/e/e6/e6bnjeqgfi5wryha.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/e6/e6bnjeqgfi5wryha.jpeg",
+      "originalName": "e6bnjeqgfi5wryha.jpeg",
+      "cacheFile": "photos/mitsuba-optical-mouse-246/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,1 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/v/v5/v/v5/v5bc9rbwioctjiyn.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/v5/v5bc9rbwioctjiyn.jpeg",
+      "originalName": "v5bc9rbwioctjiyn.jpeg",
+      "cacheFile": "photos/mitsuba-optical-mouse-246/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "2850×3021, 949,5 КБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/g/gb/g/gb/gb4gm68sqtzuygta.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gb/gb4gm68sqtzuygta.jpeg",
+      "originalName": "gb4gm68sqtzuygta.jpeg",
+      "cacheFile": "photos/mitsuba-optical-mouse-246/05.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "3833×3020, 1,5 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/x/x0/x/x0/x06xv3dxeiloqeys.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/x0/x06xv3dxeiloqeys.jpeg",
+      "originalName": "x06xv3dxeiloqeys.jpeg",
+      "cacheFile": "photos/mitsuba-optical-mouse-246/06.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,4 МБ"
+    },
+    {
+      "position": 7,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/y/yq/y/yq/yq14lylovijfmgsd.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/y/yq/yq14lylovijfmgsd.jpeg",
+      "originalName": "yq14lylovijfmgsd.jpeg",
+      "cacheFile": "photos/mitsuba-optical-mouse-246/07.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "3024×4032, 1,2 МБ"
+    }
+  ],
+  "itemFile": "content/mice/mitsuba-optical-mouse-246.json",
+  "previousPhotoCount": 0
+}

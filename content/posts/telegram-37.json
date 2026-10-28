@@ -1,0 +1,35 @@
+{
+  "id": "telegram-37",
+  "slug": "telegram-37",
+  "title": {
+    "ru": "Вечер в Музее: «Мышеловка»",
+    "en": "An evening at the museum: Mousetrap"
+  },
+  "date": "2023-06-20T11:45:04+00:00",
+  "source": "https://t.me/old_mice_and_hw/37",
+  "excerpt": {
+    "ru": "Архив анонса встречи с коллекционером на выставке «Мышеловка».",
+    "en": "An archived invitation to meet the collector at the Mousetrap exhibition."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/telegram-37/01.webp",
+      "original": "assets/posts/telegram-37/01.jpg",
+      "source": "https://cdn4.telesco.pe/file/WvDIA6_FCsMOs_JqejTadLVlO2xUP0XthwUDCgFLmDIT3rwYu-1IIl7SEmw58RQ-h-v6x1QpCGm-o7dpxdWg62P_13CZ_RlPLvzg8WKEOEP4ZHnSf5CxO_eGPe3kbr6MGxGFPFnVfLC2J4Vf3vqIv5A6fBAjWyX0pMtsB7k3Nu-0THwqZpz5LQ9t9_t0m7MWlwnYItaDWOuOWKnYqFM14cvb472fhJOVjecNX6mXjSMaMlvcZWDv-z6yDTx6TfBefsMsJ7T2cFSNDk3xa5HnAP3W3Siwz6oTsFxIVtpHYKFpxzBrQ10dUYXkr98QVDbV-SZM_hKpJQCwh_GNp8dXcw.jpg",
+      "width": 800,
+      "height": 799
+    }
+  ],
+  "cover": "assets/posts/telegram-37/01.webp",
+  "relatedItems": [],
+  "category": "exhibitions",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-37/ru.md",
+    "en": "content/posts/telegram-37/en.md"
+  },
+  "eventDate": "2023-06-24"
+}

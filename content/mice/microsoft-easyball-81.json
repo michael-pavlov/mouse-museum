@@ -1,0 +1,119 @@
+{
+  "id": "MP-0081",
+  "slug": "microsoft-easyball-81",
+  "title": {
+    "en": "Microsoft Easyball",
+    "ru": "Microsoft Easyball"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/81/",
+  "sourceOrder": 117,
+  "order": 121,
+  "sourceProperties": {
+    "Производитель": "Microsoft",
+    "Год": "1996",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "COM",
+    "СССР": "нет",
+    "Где посмотреть": "Демо Стол"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/microsoft-easyball-81/01.webp",
+      "thumbnail": "assets/photos/microsoft-easyball-81/01-thumb.webp",
+      "original": "assets/photos/microsoft-easyball-81/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/t/tv/tvvl07mfizf5oehe.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/tv/tvvl07mfizf5oehe.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/t/tv/tvvl07mfizf5oehe.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "tvvl07mfizf5oehe.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1183304,
+      "sha256": "9ff92af84bf433dfb2bea6c168268a03bd9adfd72cfb68bc07696165d2f130d1",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/microsoft-easyball-81/02.webp",
+      "thumbnail": "assets/photos/microsoft-easyball-81/02-thumb.webp",
+      "original": "assets/photos/microsoft-easyball-81/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/m/mf/mfh5hukhcjsh7iw8.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/m/mf/mfh5hukhcjsh7iw8.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/m/mf/mfh5hukhcjsh7iw8.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "mfh5hukhcjsh7iw8.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1168794,
+      "sha256": "d068848edca016d09c8427b0122c64a9ccb0d1271acbdb863fe20e4c0d0f292e",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/microsoft-easyball-81/03.webp",
+      "thumbnail": "assets/photos/microsoft-easyball-81/03-thumb.webp",
+      "original": "assets/photos/microsoft-easyball-81/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/v/vh/vhi8oeuwf7ofqj8m.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/vh/vhi8oeuwf7ofqj8m.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/v/vh/vhi8oeuwf7ofqj8m.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "vhi8oeuwf7ofqj8m.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1395867,
+      "sha256": "346e767e2471ec93312c6fe42169eda41e77bbac262484af287634d870d6b66c",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Microsoft",
+    "en": "Microsoft"
+  },
+  "brand": "Microsoft",
+  "year": 1996,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "COM",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Microsoft Easyball",
+  "whereToSee": {
+    "ru": "Демо Стол",
+    "en": "Demo table"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/microsoft-easyball-81/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:50+03:00",
+    "sourcePhotoCount": 3,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 3
+  }
+}

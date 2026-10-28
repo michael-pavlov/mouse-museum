@@ -1,0 +1,100 @@
+{
+  "id": "MP-0125",
+  "slug": "hp-46060a-125",
+  "title": {
+    "en": "HP 46060A",
+    "ru": "HP 46060A"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/125/",
+  "sourceOrder": 156,
+  "order": 159,
+  "sourceProperties": {
+    "Производитель": "HP",
+    "Год": "1991",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Демо Витрина"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/hp-46060a-125/01.webp",
+      "thumbnail": "assets/photos/hp-46060a-125/01-thumb.webp",
+      "original": "assets/photos/hp-46060a-125/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/g/g7/g/g7/g7eolluf9osgryll.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/g7/g7eolluf9osgryll.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/g/g7/g7eolluf9osgryll.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "g7eolluf9osgryll.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3070,
+      "originalHeight": 2047,
+      "originalBytes": 2639619,
+      "sha256": "a3f0be5862d8de83220d55ce93bd55e07f6f066243f77a0bc8366096de613e25",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/hp-46060a-125/02.webp",
+      "thumbnail": "assets/photos/hp-46060a-125/02-thumb.webp",
+      "original": "assets/photos/hp-46060a-125/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/9/9g/9/9g/9gvmupqmdf33sczh.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/9/9g/9gvmupqmdf33sczh.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/9/9g/9gvmupqmdf33sczh.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "9gvmupqmdf33sczh.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3217,
+      "originalHeight": 2145,
+      "originalBytes": 3228690,
+      "sha256": "478d71ef501971de0138c1ad3207a1dc8207ed8426b4f7ae5fcf524015146b6c",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "HP",
+    "en": "HP"
+  },
+  "brand": "HP",
+  "year": 1991,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "HP 46060A",
+  "whereToSee": {
+    "ru": "Демо Витрина",
+    "en": "Demo display case"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/hp-46060a-125/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:52+03:00",
+    "sourcePhotoCount": 2,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 2
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "sourceId": 144,
+  "source": "https://collectionerus.ru/collections/old-mice/144/",
+  "slug": "depraz-clone-mouse-144",
+  "sourceTitle": "Depraz clone mouse",
+  "retrievedAt": "2026-10-27T23:10:53+03:00",
+  "sourcePageSha256": "ad6a5d8a741657b839d90383718343f9b3dc6624540a8af11892bfb99f745151",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Unknown",
+    "Год": "1988",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Ближайший"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Unknown"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1988"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%91%D0%BB%D0%B8%D0%B6%D0%B0%D0%B9%D1%88%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/j/jy/j/jy/jydva3tscatkdjfy.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/j/jy/jydva3tscatkdjfy.jpg",
+      "originalName": "jydva3tscatkdjfy.jpg",
+      "cacheFile": "photos/depraz-clone-mouse-144/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "1869×1246, 1,0 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/m/m7/m/m7/m7l9cjcbrbvnaofy.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/m/m7/m7l9cjcbrbvnaofy.jpg",
+      "originalName": "m7l9cjcbrbvnaofy.jpg",
+      "cacheFile": "photos/depraz-clone-mouse-144/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "2304×1536, 1,4 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/y/yp/y/yp/ypvpln9aquezjueb.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/y/yp/ypvpln9aquezjueb.jpg",
+      "originalName": "ypvpln9aquezjueb.jpg",
+      "cacheFile": "photos/depraz-clone-mouse-144/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "2440×1627, 1,3 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/g/gj/g/gj/gjl4eozmfmasxzqt.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gj/gjl4eozmfmasxzqt.jpg",
+      "originalName": "gjl4eozmfmasxzqt.jpg",
+      "cacheFile": "photos/depraz-clone-mouse-144/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "2725×1817, 1,8 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/o/o6/o/o6/o67csqyzlxyevmdl.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/o/o6/o67csqyzlxyevmdl.jpg",
+      "originalName": "o67csqyzlxyevmdl.jpg",
+      "cacheFile": "photos/depraz-clone-mouse-144/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "2619×1746, 1,3 МБ"
+    }
+  ],
+  "itemFile": "content/mice/depraz-clone-mouse-144.json",
+  "previousPhotoCount": 0
+}

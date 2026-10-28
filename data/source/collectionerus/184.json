@@ -1,0 +1,93 @@
+{
+  "sourceId": 184,
+  "source": "https://collectionerus.ru/collections/old-mice/184/",
+  "slug": "primax-mouse-184",
+  "sourceTitle": "Primax Mouse",
+  "retrievedAt": "2026-10-27T23:10:55+03:00",
+  "sourcePageSha256": "df049bd066ad9a3035828cc7d717435fbe52403799b75a062a7356d5a078356d",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Primax Manufacturing Ltd.",
+    "Год": "1993",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Primax+Manufacturing+Ltd."
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1993"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/u/ur/u/ur/uri4zkv4qslmmizq.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/ur/uri4zkv4qslmmizq.jpeg",
+      "originalName": "uri4zkv4qslmmizq.jpeg",
+      "cacheFile": "photos/primax-mouse-184/01.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 988,1 КБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/p/pm/p/pm/pmmojivxcqndqrie.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/pm/pmmojivxcqndqrie.jpeg",
+      "originalName": "pmmojivxcqndqrie.jpeg",
+      "cacheFile": "photos/primax-mouse-184/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,3 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/h/hs/h/hs/hswvqq2vzyv7gdix.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hs/hswvqq2vzyv7gdix.jpeg",
+      "originalName": "hswvqq2vzyv7gdix.jpeg",
+      "cacheFile": "photos/primax-mouse-184/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,3 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/w/w5/w/w5/w5vndvkzukdrvcjy.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/w5/w5vndvkzukdrvcjy.jpeg",
+      "originalName": "w5vndvkzukdrvcjy.jpeg",
+      "cacheFile": "photos/primax-mouse-184/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,4 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/h/hd/h/hd/hdfl32upb0zfbwah.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hd/hdfl32upb0zfbwah.jpeg",
+      "originalName": "hdfl32upb0zfbwah.jpeg",
+      "cacheFile": "photos/primax-mouse-184/05.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,6 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/m/mh/m/mh/mhdfyxobbshvr54n.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/m/mh/mhdfyxobbshvr54n.jpeg",
+      "originalName": "mhdfyxobbshvr54n.jpeg",
+      "cacheFile": "photos/primax-mouse-184/06.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,8 МБ"
+    }
+  ],
+  "itemFile": "content/mice/primax-mouse-184.json",
+  "previousPhotoCount": 0
+}

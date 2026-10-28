@@ -1,0 +1,93 @@
+{
+  "sourceId": 157,
+  "source": "https://collectionerus.ru/collections/old-mice/157/",
+  "slug": "hp-omnibook-mouse-157",
+  "sourceTitle": "HP Omnibook Mouse",
+  "retrievedAt": "2026-10-27T23:10:54+03:00",
+  "sourcePageSha256": "ecc4f2f0298a90c0af7377f25b9400848a1159733ac6313531c03e9a5afec623",
+  "descriptionHtml": "<div class=\"item-description\">\n<p>Выдвигающаяся мышка, встроенная в ноутбуки OmniBook и серию InternetAdvisor</p>\n</div>",
+  "descriptionText": "Выдвигающаяся мышка, встроенная в ноутбуки OmniBook и серию InternetAdvisor",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "HP",
+    "Год": "1996",
+    "Способ позиционирования": "Емкостный",
+    "СССР": "нет",
+    "Где посмотреть": "Local"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=HP"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1996"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%95%D0%BC%D0%BA%D0%BE%D1%81%D1%82%D0%BD%D1%8B%D0%B9"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=Local"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/k/ka/k/ka/kacjpooxyd3vhxem.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/ka/kacjpooxyd3vhxem.jpg",
+      "originalName": "kacjpooxyd3vhxem.jpg",
+      "cacheFile": "photos/hp-omnibook-mouse-157/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "1280×960, 105,5 КБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/f/ft/f/ft/ft7cmwdx2a7zd743.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/f/ft/ft7cmwdx2a7zd743.jpg",
+      "originalName": "ft7cmwdx2a7zd743.jpg",
+      "cacheFile": "photos/hp-omnibook-mouse-157/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "1280×960, 132,7 КБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/j/jd/j/jd/jd7kxaf9xljk2kij.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/j/jd/jd7kxaf9xljk2kij.jpg",
+      "originalName": "jd7kxaf9xljk2kij.jpg",
+      "cacheFile": "photos/hp-omnibook-mouse-157/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "1600×1200, 452,3 КБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/h/ha/h/ha/ha7liycnku5lyzor.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/ha/ha7liycnku5lyzor.jpg",
+      "originalName": "ha7liycnku5lyzor.jpg",
+      "cacheFile": "photos/hp-omnibook-mouse-157/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "1600×1200, 432,1 КБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/h/hd/h/hd/hdcney7s3xe97inv.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hd/hdcney7s3xe97inv.jpg",
+      "originalName": "hdcney7s3xe97inv.jpg",
+      "cacheFile": "photos/hp-omnibook-mouse-157/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "1600×1467, 496,6 КБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/j/jw/j/jw/jwisdhfrng5femaz.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/j/jw/jwisdhfrng5femaz.jpg",
+      "originalName": "jwisdhfrng5femaz.jpg",
+      "cacheFile": "photos/hp-omnibook-mouse-157/06.jpg",
+      "caption": "",
+      "sourceSizeLabel": "750×750, 87,8 КБ"
+    }
+  ],
+  "itemFile": "content/mice/hp-omnibook-mouse-157.json",
+  "previousPhotoCount": 0
+}

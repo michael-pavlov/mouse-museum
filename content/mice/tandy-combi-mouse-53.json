@@ -1,0 +1,173 @@
+{
+  "id": "MP-0053",
+  "slug": "tandy-combi-mouse-53",
+  "title": {
+    "en": "Tandy Combi Mouse",
+    "ru": "Tandy Combi Mouse"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/53/",
+  "sourceOrder": 92,
+  "order": 97,
+  "sourceProperties": {
+    "Производитель": "Tandy",
+    "Год": "1991",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "COM",
+    "СССР": "нет",
+    "Где посмотреть": "Средний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/tandy-combi-mouse-53/01.webp",
+      "thumbnail": "assets/photos/tandy-combi-mouse-53/01-thumb.webp",
+      "original": "assets/photos/tandy-combi-mouse-53/source-images/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/c/ca/ca16exhig30aiwvi.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/ca/ca16exhig30aiwvi.JPG",
+      "originalAvailable": false,
+      "downloadSource": "https://collectionerus.ru/media/items-large/c/ca/ca16exhig30aiwvi.JPG",
+      "sourceOriginalError": "HTTP 403 from the original URL; source preview is publicly available",
+      "originalFilename": "ca16exhig30aiwvi.JPG",
+      "width": 1000,
+      "height": 666,
+      "originalWidth": 1000,
+      "originalHeight": 666,
+      "originalBytes": 34334,
+      "sha256": "314567b9fb11deba3c804895379fe5a9a93fd27b7a89ce1c742d463955f414f3",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/tandy-combi-mouse-53/02.webp",
+      "thumbnail": "assets/photos/tandy-combi-mouse-53/02-thumb.webp",
+      "original": "assets/photos/tandy-combi-mouse-53/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/7/77/77urko0zplbv93uq.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/7/77/77urko0zplbv93uq.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/7/77/77urko0zplbv93uq.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "77urko0zplbv93uq.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1330978,
+      "sha256": "db5d21718ddff4ff081bc2457d157b7a44920d26a08d636df840067aebc65ac0",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/tandy-combi-mouse-53/03.webp",
+      "thumbnail": "assets/photos/tandy-combi-mouse-53/03-thumb.webp",
+      "original": "assets/photos/tandy-combi-mouse-53/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/m/m5/m5wtytvxyw6x5nkh.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/m/m5/m5wtytvxyw6x5nkh.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/m/m5/m5wtytvxyw6x5nkh.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "m5wtytvxyw6x5nkh.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1390544,
+      "sha256": "92791a06ee7b8c5db68feaf570ba06bd5f6d450be66250838649e038c934d4a0",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/tandy-combi-mouse-53/04.webp",
+      "thumbnail": "assets/photos/tandy-combi-mouse-53/04-thumb.webp",
+      "original": "assets/photos/tandy-combi-mouse-53/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/g/gm/gmo4z7zofs5xothi.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gm/gmo4z7zofs5xothi.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/g/gm/gmo4z7zofs5xothi.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "gmo4z7zofs5xothi.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1606931,
+      "sha256": "86757e9b8988b890933ba03663bfc3476a2383cf21f9b1a29b1d3a09f13dbf0c",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/tandy-combi-mouse-53/05.webp",
+      "thumbnail": "assets/photos/tandy-combi-mouse-53/05-thumb.webp",
+      "original": "assets/photos/tandy-combi-mouse-53/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/5/5g/5gggy4fg7vgeiaha.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/5/5g/5gggy4fg7vgeiaha.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/5/5g/5gggy4fg7vgeiaha.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "5gggy4fg7vgeiaha.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 1445591,
+      "sha256": "7dfe8b1bbc5d5d80fce62de70be1ddc7c64877c0bf4ba3b73ee8874d700911e0",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/tandy-combi-mouse-53/06.webp",
+      "thumbnail": "assets/photos/tandy-combi-mouse-53/06-thumb.webp",
+      "original": "assets/photos/tandy-combi-mouse-53/originals/06.jpg",
+      "source": "https://collectionerus.ru/media/items-large/5/5c/5cqfasuqcor8eprn.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/5/5c/5cqfasuqcor8eprn.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/5/5c/5cqfasuqcor8eprn.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "5cqfasuqcor8eprn.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2581775,
+      "sha256": "239d5d21ecfe907da3900231f4535f2f119027b8a6ebabaff2f45d60ee21a8c7",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Tandy",
+    "en": "Tandy"
+  },
+  "brand": "Tandy",
+  "year": 1991,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "COM",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Tandy Combi Mouse",
+  "whereToSee": {
+    "ru": "Средний",
+    "en": "Middle"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/tandy-combi-mouse-53/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:48+03:00",
+    "sourcePhotoCount": 6,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 5
+  }
+}

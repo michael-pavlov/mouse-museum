@@ -1,0 +1,137 @@
+{
+  "id": "MP-0014",
+  "slug": "next-n8003-14",
+  "title": {
+    "en": "NeXT N8003",
+    "ru": "NeXT N8003"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/14/",
+  "sourceOrder": 81,
+  "order": 86,
+  "sourceProperties": {
+    "Производитель": "NeXT",
+    "Год": "1985",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "ADB",
+    "СССР": "нет",
+    "Где посмотреть": "Краснохолмская"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/next-n8003-14/01-catalog.webp",
+      "thumbnail": "assets/photos/next-n8003-14/01-catalog-thumb.webp",
+      "original": "assets/photos/next-n8003-14/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/0/0g/0gehcqtgrgcmfd6q.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/0/0g/0gehcqtgrgcmfd6q.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/0/0g/0gehcqtgrgcmfd6q.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "0gehcqtgrgcmfd6q.JPG",
+      "width": 1536,
+      "height": 1024,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1149820,
+      "sha256": "bfc820c609926aaa6c466b38144e91a1d70c00c5b7a40e4736c09d40395d06bc",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/next-n8003-14/02.webp",
+      "thumbnail": "assets/photos/next-n8003-14/02-thumb.webp",
+      "original": "assets/photos/next-n8003-14/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/c/cu/cuj4b6yqkebmfxwm.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/cu/cuj4b6yqkebmfxwm.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/c/cu/cuj4b6yqkebmfxwm.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "cuj4b6yqkebmfxwm.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1281313,
+      "sha256": "0d54e0103c87e1b78e727b6277ffc756b85947e0d2edac179fd200beb4603e03",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/next-n8003-14/03.webp",
+      "thumbnail": "assets/photos/next-n8003-14/03-thumb.webp",
+      "original": "assets/photos/next-n8003-14/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/u/ue/ue4aiy5klpnzxljf.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/ue/ue4aiy5klpnzxljf.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/u/ue/ue4aiy5klpnzxljf.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "ue4aiy5klpnzxljf.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2246476,
+      "sha256": "d1cb88f0c89394f9368114884efa68d37447e604e043f6e80c438ee38d9dacd6",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/next-n8003-14/04.webp",
+      "thumbnail": "assets/photos/next-n8003-14/04-thumb.webp",
+      "original": "assets/photos/next-n8003-14/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/s/ss/ssm9uvmyexzldwuh.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/s/ss/ssm9uvmyexzldwuh.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/s/ss/ssm9uvmyexzldwuh.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "ssm9uvmyexzldwuh.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2256105,
+      "sha256": "4d89bbc462eaa954baa74b4b9e177f9282fa0f6ff504e30ebb44f5c8a11eb1c5",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "NeXT",
+    "en": "NeXT"
+  },
+  "brand": "NeXT",
+  "year": 1985,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "ADB",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "NeXT N8003",
+  "whereToSee": {
+    "ru": "Краснохолмская",
+    "en": "Krasnokholmskaya Gallery"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/next-n8003-14/thumb-catalog.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:48+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 4
+  }
+}

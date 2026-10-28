@@ -1,0 +1,136 @@
+{
+  "id": "MP-0185",
+  "slug": "lm-anir1-fdm-d00-185",
+  "title": {
+    "en": "LM Anir1 FDM-D00",
+    "ru": "LM Anir1 FDM-D00"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/185/",
+  "sourceOrder": 197,
+  "order": 200,
+  "sourceProperties": {
+    "Производитель": "Animax International Inc.",
+    "Год": "1994",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Демо Стол"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/lm-anir1-fdm-d00-185/01.webp",
+      "thumbnail": "assets/photos/lm-anir1-fdm-d00-185/01-thumb.webp",
+      "original": "assets/photos/lm-anir1-fdm-d00-185/originals/01.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/rv/r/rv/rvlsiraflzcbpmg8.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/rv/rvlsiraflzcbpmg8.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/r/rv/rvlsiraflzcbpmg8.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "rvlsiraflzcbpmg8.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1298830,
+      "sha256": "5af33bcc1e90095402271e981760b3c4d6e6f2d0d3079cd29039fc3a8f2778e2",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/lm-anir1-fdm-d00-185/02.webp",
+      "thumbnail": "assets/photos/lm-anir1-fdm-d00-185/02-thumb.webp",
+      "original": "assets/photos/lm-anir1-fdm-d00-185/originals/02.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/4/4z/4/4z/4z3fa9v92duj3jig.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/4/4z/4z3fa9v92duj3jig.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/4/4z/4z3fa9v92duj3jig.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "4z3fa9v92duj3jig.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1484668,
+      "sha256": "2eb01be669f924b9f10a15bc9117de2bcc031d27b0306f0325b186599977e0d7",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/lm-anir1-fdm-d00-185/03.webp",
+      "thumbnail": "assets/photos/lm-anir1-fdm-d00-185/03-thumb.webp",
+      "original": "assets/photos/lm-anir1-fdm-d00-185/originals/03.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/y/yp/y/yp/ypincxqushqxlmdc.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/y/yp/ypincxqushqxlmdc.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/y/yp/ypincxqushqxlmdc.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "ypincxqushqxlmdc.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1240075,
+      "sha256": "383a618abf0e6fce39ae4040365cd1d5345ea5e42758cf636db96da4013c7fa0",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/lm-anir1-fdm-d00-185/04.webp",
+      "thumbnail": "assets/photos/lm-anir1-fdm-d00-185/04-thumb.webp",
+      "original": "assets/photos/lm-anir1-fdm-d00-185/originals/04.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/i/ie/i/ie/ie9rxat8cxdhj4mo.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/ie/ie9rxat8cxdhj4mo.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/i/ie/ie9rxat8cxdhj4mo.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "ie9rxat8cxdhj4mo.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1483900,
+      "sha256": "7c712cfe4db68ac9962669d7735259864bca6815e6f655c529282f181e813feb",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Animax International Inc.",
+    "en": "Animax International Inc."
+  },
+  "brand": "Animax International Inc.",
+  "year": 1994,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "LM Anir1 FDM-D00",
+  "whereToSee": {
+    "ru": "Демо Стол",
+    "en": "Demo table"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/lm-anir1-fdm-d00-185/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:55+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 4
+  }
+}

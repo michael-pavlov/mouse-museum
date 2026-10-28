@@ -1,0 +1,84 @@
+{
+  "sourceId": 267,
+  "source": "https://collectionerus.ru/collections/old-mice/267/",
+  "slug": "qtronix-x-30s-267",
+  "sourceTitle": "Qtronix X-30S",
+  "retrievedAt": "2026-10-27T23:11:00+03:00",
+  "sourcePageSha256": "9107e2a2b11159b1a717a92bb562f3cca36c87735386629ed9050526ff0d8e65",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Qtronix Corp",
+    "Год": "1990",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Qtronix+Corp"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1990"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/e/ed/e/ed/edwozzqiyoi6jwi5.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/ed/edwozzqiyoi6jwi5.jpeg",
+      "originalName": "edwozzqiyoi6jwi5.jpeg",
+      "cacheFile": "photos/qtronix-x-30s-267/01.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 887,1 КБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/w/wu/w/wu/wu6vkev9q7ru9ilu.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/wu/wu6vkev9q7ru9ilu.jpeg",
+      "originalName": "wu6vkev9q7ru9ilu.jpeg",
+      "cacheFile": "photos/qtronix-x-30s-267/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 954,2 КБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/0/0e/0/0e/0e2at1fsbcdftepe.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/0/0e/0e2at1fsbcdftepe.jpeg",
+      "originalName": "0e2at1fsbcdftepe.jpeg",
+      "cacheFile": "photos/qtronix-x-30s-267/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,1 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/u/uu/u/uu/uunvujigpsbsfoaa.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/uu/uunvujigpsbsfoaa.jpeg",
+      "originalName": "uunvujigpsbsfoaa.jpeg",
+      "cacheFile": "photos/qtronix-x-30s-267/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,5 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/3/3g/3/3g/3gogsuohcefaqwv5.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/3/3g/3gogsuohcefaqwv5.jpeg",
+      "originalName": "3gogsuohcefaqwv5.jpeg",
+      "cacheFile": "photos/qtronix-x-30s-267/05.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,5 МБ"
+    }
+  ],
+  "itemFile": "content/mice/qtronix-x-30s-267.json",
+  "previousPhotoCount": 0
+}

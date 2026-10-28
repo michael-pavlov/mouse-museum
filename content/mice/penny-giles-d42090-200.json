@@ -1,0 +1,213 @@
+{
+  "id": "MP-0200",
+  "slug": "penny-giles-d42090-200",
+  "title": {
+    "en": "Penny & Giles D42090",
+    "ru": "Penny & Giles D42090"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/200/",
+  "sourceProperties": {
+    "Производитель": "Penny & Giles",
+    "Год": "1986",
+    "Способ позиционирования": "оптико-механический (особенный)",
+    "СССР": "нет",
+    "Где посмотреть": "Демо Витрина"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/penny-giles-d42090-200/01-catalog.webp",
+      "thumbnail": "assets/photos/penny-giles-d42090-200/01-catalog-thumb.webp",
+      "original": "assets/photos/penny-giles-d42090-200/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/4/4a/4/4a/4agjvyxdc2av7ymb.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/4/4a/4agjvyxdc2av7ymb.jpg",
+      "originalFilename": "4agjvyxdc2av7ymb.jpg",
+      "width": 1448,
+      "height": 1086,
+      "originalWidth": 1448,
+      "originalHeight": 1086,
+      "originalBytes": 1100989,
+      "sha256": "be72920cc1fa001847050bc40cf60c9efafc28fb44be5af71d1e1b4c60cf94ad",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/penny-giles-d42090-200/02.webp",
+      "thumbnail": "assets/photos/penny-giles-d42090-200/02-thumb.webp",
+      "original": "assets/photos/penny-giles-d42090-200/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/0/0n/0/0n/0nyfekyncehe3kpk.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/0/0n/0nyfekyncehe3kpk.jpg",
+      "originalFilename": "0nyfekyncehe3kpk.jpg",
+      "width": 1448,
+      "height": 1086,
+      "originalWidth": 1448,
+      "originalHeight": 1086,
+      "originalBytes": 1100989,
+      "sha256": "be72920cc1fa001847050bc40cf60c9efafc28fb44be5af71d1e1b4c60cf94ad",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/penny-giles-d42090-200/03.webp",
+      "thumbnail": "assets/photos/penny-giles-d42090-200/03-thumb.webp",
+      "original": "assets/photos/penny-giles-d42090-200/originals/03.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/l/lq/l/lq/lqu0lbfiu0oknvvh.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/l/lq/lqu0lbfiu0oknvvh.jpeg",
+      "originalFilename": "lqu0lbfiu0oknvvh.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1412566,
+      "sha256": "613cb6fb02c0d2407ea9fac35b2d2ca49955220edfb2ad2ca09fc369d2030ff4",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/penny-giles-d42090-200/04.webp",
+      "thumbnail": "assets/photos/penny-giles-d42090-200/04-thumb.webp",
+      "original": "assets/photos/penny-giles-d42090-200/originals/04.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/z/zh/z/zh/zh8o4nsyd85ak2pg.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/zh/zh8o4nsyd85ak2pg.jpeg",
+      "originalFilename": "zh8o4nsyd85ak2pg.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1535305,
+      "sha256": "63cef73061f3e92211cb34d45ea14de9ff9a5a8fce656d9bdce225e9dd3bb213",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/penny-giles-d42090-200/05.webp",
+      "thumbnail": "assets/photos/penny-giles-d42090-200/05-thumb.webp",
+      "original": "assets/photos/penny-giles-d42090-200/originals/05.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/i/iu/i/iu/iu93ro9prykp041m.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/iu/iu93ro9prykp041m.jpeg",
+      "originalFilename": "iu93ro9prykp041m.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1502183,
+      "sha256": "8aeb42cc8a35ed0b51e0abdc65f33a6c3dedacf72b748b1e7990027501bf2cea",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/penny-giles-d42090-200/06.webp",
+      "thumbnail": "assets/photos/penny-giles-d42090-200/06-thumb.webp",
+      "original": "assets/photos/penny-giles-d42090-200/originals/06.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/g/gd/g/gd/gdfudgawmuvwacn2.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gd/gdfudgawmuvwacn2.jpeg",
+      "originalFilename": "gdfudgawmuvwacn2.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1683780,
+      "sha256": "e4c0ea54ca3bec4d4dcdfaef21e4e49717379279261ff2f0e1df6ce177227fcd",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/penny-giles-d42090-200/07.webp",
+      "thumbnail": "assets/photos/penny-giles-d42090-200/07-thumb.webp",
+      "original": "assets/photos/penny-giles-d42090-200/originals/07.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/6/6n/6/6n/6nehtn7peanktl37.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/6/6n/6nehtn7peanktl37.jpeg",
+      "originalFilename": "6nehtn7peanktl37.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1672379,
+      "sha256": "b96d311536391b22f7e5956bf54ef45f7b6430c820a8def99fca0d6743e1a6f6",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/penny-giles-d42090-200/08.webp",
+      "thumbnail": "assets/photos/penny-giles-d42090-200/08-thumb.webp",
+      "original": "assets/photos/penny-giles-d42090-200/originals/08.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/q/qf/q/qf/qfxqqkimobnbpzcf.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qf/qfxqqkimobnbpzcf.jpeg",
+      "originalFilename": "qfxqqkimobnbpzcf.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1646157,
+      "sha256": "53fa67279afe60a10a3396a1466b132e13e65fd35296e9d1d138c9ee4cbb7eaa",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/penny-giles-d42090-200/09.webp",
+      "thumbnail": "assets/photos/penny-giles-d42090-200/09-thumb.webp",
+      "original": "assets/photos/penny-giles-d42090-200/originals/09.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/k/kr/k/kr/krllqka2wtfwoqfk.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/kr/krllqka2wtfwoqfk.jpeg",
+      "originalFilename": "krllqka2wtfwoqfk.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1714083,
+      "sha256": "6ed7a91dce5a6aaa00812f03d2eb58ce45a9e4dceaf95fc8216a2b2d6467d116",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/penny-giles-d42090-200/10.webp",
+      "thumbnail": "assets/photos/penny-giles-d42090-200/10-thumb.webp",
+      "original": "assets/photos/penny-giles-d42090-200/originals/10.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/m/mj/m/mj/mjycx5d2u5yguwqd.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/m/mj/mjycx5d2u5yguwqd.jpeg",
+      "originalFilename": "mjycx5d2u5yguwqd.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1440834,
+      "sha256": "04fd08c8a8aa89bd8f240071610a224a26b6f922f65a6cadcbbba4da06754eba",
+      "caption": ""
+    }
+  ],
+  "thumbnail": "assets/photos/penny-giles-d42090-200/thumb-catalog.webp",
+  "order": 19,
+  "manufacturer": {
+    "ru": "Penny & Giles",
+    "en": "Penny & Giles"
+  },
+  "brand": "Penny & Giles",
+  "year": 1986,
+  "tracking": {
+    "key": "ball-special",
+    "ru": "оптико-механический (особенный)",
+    "en": "Optomechanical · special mechanism"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Penny & Giles D42090",
+  "whereToSee": {
+    "ru": "Демо Витрина",
+    "en": "Demo display case"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T22:22:47+03:00",
+    "sourcePhotoCount": 10,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 10
+  }
+}

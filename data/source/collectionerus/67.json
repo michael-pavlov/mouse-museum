@@ -1,0 +1,97 @@
+{
+  "sourceId": 67,
+  "source": "https://collectionerus.ru/collections/old-mice/67/",
+  "slug": "soap-mouse-67",
+  "sourceTitle": "Soap Mouse",
+  "retrievedAt": "2026-10-27T23:10:50+03:00",
+  "sourcePageSha256": "66e0d0c3b347a3f8b12d3b578e34f4962476418e569ce9c6748889a9de75c6bf",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Unknown",
+    "Год": "1993",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "COM",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Unknown"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1993"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=COM"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/i/ia/ialdisxsmvqnqui5.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/ia/ialdisxsmvqnqui5.JPG",
+      "originalName": "ialdisxsmvqnqui5.JPG",
+      "cacheFile": "photos/soap-mouse-67/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,1 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/w/wj/wjjqupuzdvekuqew.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/wj/wjjqupuzdvekuqew.JPG",
+      "originalName": "wjjqupuzdvekuqew.JPG",
+      "cacheFile": "photos/soap-mouse-67/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,4 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/h/hf/hf5joqqhrdv4gbap.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hf/hf5joqqhrdv4gbap.JPG",
+      "originalName": "hf5joqqhrdv4gbap.JPG",
+      "cacheFile": "photos/soap-mouse-67/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,1 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/y/yp/ypuwmhaeulip2by2.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/y/yp/ypuwmhaeulip2by2.JPG",
+      "originalName": "ypuwmhaeulip2by2.JPG",
+      "cacheFile": "photos/soap-mouse-67/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4306×2871, 2,3 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/v/vn/vn9uuzh52ppqsbes.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/vn/vn9uuzh52ppqsbes.JPG",
+      "originalName": "vn9uuzh52ppqsbes.JPG",
+      "cacheFile": "photos/soap-mouse-67/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4306×2871, 2,2 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/p/pd/pdgxirmn7cc4seph.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/pd/pdgxirmn7cc4seph.JPG",
+      "originalName": "pdgxirmn7cc4seph.JPG",
+      "cacheFile": "photos/soap-mouse-67/06.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4306×2871, 2,6 МБ"
+    }
+  ],
+  "itemFile": "content/mice/soap-mouse-67.json",
+  "previousPhotoCount": 0
+}

@@ -1,0 +1,95 @@
+{
+  "sourceId": 141,
+  "source": "https://collectionerus.ru/collections/old-mice/141/",
+  "slug": "siemens-pc-d-mouse-141",
+  "sourceTitle": "Siemens PC-D mouse",
+  "retrievedAt": "2026-10-27T23:10:53+03:00",
+  "sourcePageSha256": "7390099d500edec192c127ed8b5713bc6bf3cb26c0138f25073e0a47c91211ba",
+  "descriptionHtml": "<div class=\"item-description\">\n<p><a href=\"https://oldcomputer.info/pc/SiemensPCD/index.htm\">https://oldcomputer.info/pc/SiemensPCD/index.htm</a><br/><a href=\"https://blog.hnf.de/der-pc-von-siemens/\">https://blog.hnf.de/der-pc-von-siemens/</a></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [
+    {
+      "url": "https://oldcomputer.info/pc/SiemensPCD/index.htm",
+      "sourceLabel": "https://oldcomputer.info/pc/SiemensPCD/index.htm",
+      "context": "https://oldcomputer.info/pc/SiemensPCD/index.htm https://blog.hnf.de/der-pc-von-siemens/"
+    },
+    {
+      "url": "https://blog.hnf.de/der-pc-von-siemens/",
+      "sourceLabel": "https://blog.hnf.de/der-pc-von-siemens/",
+      "context": "https://oldcomputer.info/pc/SiemensPCD/index.htm https://blog.hnf.de/der-pc-von-siemens/"
+    }
+  ],
+  "properties": {
+    "Производитель": "Alps",
+    "Год": "1984",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Краснохолмская"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Alps"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1984"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%85%D0%BE%D0%BB%D0%BC%D1%81%D0%BA%D0%B0%D1%8F"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/rc/r/rc/rcnzexh6x67c0ucv.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/rc/rcnzexh6x67c0ucv.jpg",
+      "originalName": "rcnzexh6x67c0ucv.jpg",
+      "cacheFile": "photos/siemens-pc-d-mouse-141/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "2125×1417, 1,0 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/e/e9/e/e9/e9rynhmg0mapazyj.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/e9/e9rynhmg0mapazyj.jpg",
+      "originalName": "e9rynhmg0mapazyj.jpg",
+      "cacheFile": "photos/siemens-pc-d-mouse-141/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "2125×1417, 1,1 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/l/li/l/li/liia1abje5bzn05d.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/l/li/liia1abje5bzn05d.jpg",
+      "originalName": "liia1abje5bzn05d.jpg",
+      "cacheFile": "photos/siemens-pc-d-mouse-141/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "2730×1820, 1,5 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/7/78/7/78/78osh3cgsbcqosl7.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/7/78/78osh3cgsbcqosl7.jpg",
+      "originalName": "78osh3cgsbcqosl7.jpg",
+      "cacheFile": "photos/siemens-pc-d-mouse-141/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3352×2235, 2,4 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/z/zm/z/zm/zmjb8tpi3qjbsqqh.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/zm/zmjb8tpi3qjbsqqh.jpg",
+      "originalName": "zmjb8tpi3qjbsqqh.jpg",
+      "cacheFile": "photos/siemens-pc-d-mouse-141/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3207×2132, 2,2 МБ"
+    }
+  ],
+  "itemFile": "content/mice/siemens-pc-d-mouse-141.json",
+  "previousPhotoCount": 0
+}

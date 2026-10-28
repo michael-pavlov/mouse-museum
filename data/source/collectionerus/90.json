@@ -1,0 +1,93 @@
+{
+  "sourceId": 90,
+  "source": "https://collectionerus.ru/collections/old-mice/90/",
+  "slug": "opm-mt-90",
+  "sourceTitle": "OPM-MT",
+  "retrievedAt": "2026-10-27T23:10:50+03:00",
+  "sourcePageSha256": "eeb31b1f0db317f241e972a0add985a477817017197b9df2bfa683842f7fca7a",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Unknown",
+    "Год": "1988",
+    "Способ позиционирования": "оптический через коврик",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Unknown"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1988"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%D1%87%D0%B5%D1%80%D0%B5%D0%B7+%D0%BA%D0%BE%D0%B2%D1%80%D0%B8%D0%BA"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/u/ug/ug273s4ng32fprdx.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/ug/ug273s4ng32fprdx.JPG",
+      "originalName": "ug273s4ng32fprdx.JPG",
+      "cacheFile": "photos/opm-mt-90/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "2712×1806, 853,2 КБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/1/16/164in29tpj5fhzxz.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/1/16/164in29tpj5fhzxz.JPG",
+      "originalName": "164in29tpj5fhzxz.JPG",
+      "cacheFile": "photos/opm-mt-90/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3100×2067, 1,2 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/l/ln/lneapncokyfnhikv.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/l/ln/lneapncokyfnhikv.JPG",
+      "originalName": "lneapncokyfnhikv.JPG",
+      "cacheFile": "photos/opm-mt-90/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3100×2067, 1,3 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/6/69/69slxdvvir37mksj.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/6/69/69slxdvvir37mksj.JPG",
+      "originalName": "69slxdvvir37mksj.JPG",
+      "cacheFile": "photos/opm-mt-90/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3100×2067, 1,4 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/f/fq/fq9p2r6ual5zo0qp.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/f/fq/fq9p2r6ual5zo0qp.JPG",
+      "originalName": "fq9p2r6ual5zo0qp.JPG",
+      "cacheFile": "photos/opm-mt-90/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3100×2067, 1,7 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/k/kw/kwrzkbexajlfihjb.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/kw/kwrzkbexajlfihjb.JPG",
+      "originalName": "kwrzkbexajlfihjb.JPG",
+      "cacheFile": "photos/opm-mt-90/06.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3100×2067, 1,7 МБ"
+    }
+  ],
+  "itemFile": "content/mice/opm-mt-90.json",
+  "previousPhotoCount": 0
+}

@@ -1,0 +1,155 @@
+{
+  "id": "MP-0088",
+  "slug": "quickshot-qs211-88",
+  "title": {
+    "en": "QuickShot QS211",
+    "ru": "QuickShot QS211"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/88/",
+  "sourceOrder": 123,
+  "order": 127,
+  "sourceProperties": {
+    "Производитель": "QuickShot",
+    "Год": "1991",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "COM",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/quickshot-qs211-88/01.webp",
+      "thumbnail": "assets/photos/quickshot-qs211-88/01-thumb.webp",
+      "original": "assets/photos/quickshot-qs211-88/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/z/zn/znlh4evofkeklzn4.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/zn/znlh4evofkeklzn4.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/z/zn/znlh4evofkeklzn4.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "znlh4evofkeklzn4.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3300,
+      "originalHeight": 2200,
+      "originalBytes": 1323259,
+      "sha256": "f19b934e2a1a5d1999868fe969badec1d3a2875fc3d37e6a4b1024a572806179",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/quickshot-qs211-88/02.webp",
+      "thumbnail": "assets/photos/quickshot-qs211-88/02-thumb.webp",
+      "original": "assets/photos/quickshot-qs211-88/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/u/u8/u8r2uxxxusfom6m3.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/u8/u8r2uxxxusfom6m3.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/u/u8/u8r2uxxxusfom6m3.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "u8r2uxxxusfom6m3.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3300,
+      "originalHeight": 2200,
+      "originalBytes": 1566958,
+      "sha256": "036f8e40f36be65a42351c2fc5a08702bd2d45d96d5b266f71ef4a86f42a77cd",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/quickshot-qs211-88/03.webp",
+      "thumbnail": "assets/photos/quickshot-qs211-88/03-thumb.webp",
+      "original": "assets/photos/quickshot-qs211-88/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/b/bb/bbfw9mhizrknl3ib.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/bb/bbfw9mhizrknl3ib.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/b/bb/bbfw9mhizrknl3ib.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "bbfw9mhizrknl3ib.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3300,
+      "originalHeight": 2200,
+      "originalBytes": 1909537,
+      "sha256": "0f4e2bc87c3575df8e17d03c5e6fec12308d79f66c4304d07472c914a34b9d47",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/quickshot-qs211-88/04.webp",
+      "thumbnail": "assets/photos/quickshot-qs211-88/04-thumb.webp",
+      "original": "assets/photos/quickshot-qs211-88/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/b/bi/bisomtzmti7x9tr9.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/bi/bisomtzmti7x9tr9.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/b/bi/bisomtzmti7x9tr9.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "bisomtzmti7x9tr9.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3300,
+      "originalHeight": 2200,
+      "originalBytes": 1665187,
+      "sha256": "f5ac20bd586ad0483123737ebb4198144cf7d089b6914f9fa644aa8eb3f56fe2",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/quickshot-qs211-88/05.webp",
+      "thumbnail": "assets/photos/quickshot-qs211-88/05-thumb.webp",
+      "original": "assets/photos/quickshot-qs211-88/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/z/zy/zyrkq0pqyadzczis.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/zy/zyrkq0pqyadzczis.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/z/zy/zyrkq0pqyadzczis.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "zyrkq0pqyadzczis.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3300,
+      "originalHeight": 2200,
+      "originalBytes": 2081395,
+      "sha256": "be7cdce4b39fce976d7582de14d25f0bb6564b06f4118c34adb9432a9ad2ef16",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "QuickShot",
+    "en": "QuickShot"
+  },
+  "brand": "QuickShot",
+  "year": 1991,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "COM",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "QuickShot QS211",
+  "whereToSee": {
+    "ru": "Дальний",
+    "en": "Far"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/quickshot-qs211-88/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:50+03:00",
+    "sourcePhotoCount": 5,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 5
+  }
+}

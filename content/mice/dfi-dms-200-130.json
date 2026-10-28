@@ -1,0 +1,137 @@
+{
+  "id": "MP-0130",
+  "slug": "dfi-dms-200-130",
+  "title": {
+    "en": "DFI dms-200",
+    "ru": "DFI dms-200"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/130/",
+  "sourceOrder": 160,
+  "order": 163,
+  "sourceProperties": {
+    "Производитель": "DFI",
+    "Год": "1990",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Производитель платы": "Mitsumi",
+    "Где посмотреть": "Дальний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/dfi-dms-200-130/01.webp",
+      "thumbnail": "assets/photos/dfi-dms-200-130/01-thumb.webp",
+      "original": "assets/photos/dfi-dms-200-130/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/n/nj/n/nj/njqrfyoqic9y8may.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/nj/njqrfyoqic9y8may.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/n/nj/njqrfyoqic9y8may.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "njqrfyoqic9y8may.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3436,
+      "originalHeight": 2291,
+      "originalBytes": 2950437,
+      "sha256": "a4f4c4b596a2bb39a7ca3b960484e9908ef8bc6f48d5bd6c3b9c83767c03d31d",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/dfi-dms-200-130/02.webp",
+      "thumbnail": "assets/photos/dfi-dms-200-130/02-thumb.webp",
+      "original": "assets/photos/dfi-dms-200-130/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/y/yb/y/yb/ybcy2ylcnudunecq.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/y/yb/ybcy2ylcnudunecq.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/y/yb/ybcy2ylcnudunecq.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "ybcy2ylcnudunecq.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3217,
+      "originalHeight": 2145,
+      "originalBytes": 2883455,
+      "sha256": "f22d563d791c2dc45fb4e5a5bce296ec984ccaa25727d14ee66401d9e7e6092e",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/dfi-dms-200-130/03.webp",
+      "thumbnail": "assets/photos/dfi-dms-200-130/03-thumb.webp",
+      "original": "assets/photos/dfi-dms-200-130/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/a/aa/a/aa/aahdabve6totvio1.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/a/aa/aahdabve6totvio1.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/a/aa/aahdabve6totvio1.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "aahdabve6totvio1.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3217,
+      "originalHeight": 2145,
+      "originalBytes": 2989715,
+      "sha256": "4a7f37d3512eb498651778174fc8c3e041c61b0314b4f2dd91e83434ab81bcff",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/dfi-dms-200-130/04.webp",
+      "thumbnail": "assets/photos/dfi-dms-200-130/04-thumb.webp",
+      "original": "assets/photos/dfi-dms-200-130/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/q/qp/q/qp/qpi1yunxql5s7dib.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qp/qpi1yunxql5s7dib.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/q/qp/qpi1yunxql5s7dib.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "qpi1yunxql5s7dib.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3521,
+      "originalHeight": 2347,
+      "originalBytes": 3361560,
+      "sha256": "91153a8cfc60314e229f401a852fb755c46653e3ed6e48b424b8b9491a297bf8",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "DFI",
+    "en": "DFI"
+  },
+  "brand": "DFI",
+  "year": 1990,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "DFI dms-200",
+  "whereToSee": {
+    "ru": "Дальний",
+    "en": "Far"
+  },
+  "boardManufacturer": {
+    "ru": "Mitsumi",
+    "en": "Mitsumi"
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/dfi-dms-200-130/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:53+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 4
+  }
+}

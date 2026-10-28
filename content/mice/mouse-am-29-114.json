@@ -1,0 +1,118 @@
+{
+  "id": "MP-0114",
+  "slug": "mouse-am-29-114",
+  "title": {
+    "en": "Mouse am-29",
+    "ru": "Mouse am-29"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/114/",
+  "sourceOrder": 142,
+  "order": 146,
+  "sourceProperties": {
+    "Производитель": "Unknown",
+    "Год": "1994",
+    "Способ позиционирования": "оптический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Средний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/mouse-am-29-114/01.webp",
+      "thumbnail": "assets/photos/mouse-am-29-114/01-thumb.webp",
+      "original": "assets/photos/mouse-am-29-114/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/u/ur/u/ur/urhviabxmwwyzcbz.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/ur/urhviabxmwwyzcbz.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/u/ur/urhviabxmwwyzcbz.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "urhviabxmwwyzcbz.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3217,
+      "originalHeight": 2145,
+      "originalBytes": 2696119,
+      "sha256": "50c22b82f037902a1a7f2c3257236f4f4f337114c6e44634a4d7b272378c0937",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/mouse-am-29-114/02.webp",
+      "thumbnail": "assets/photos/mouse-am-29-114/02-thumb.webp",
+      "original": "assets/photos/mouse-am-29-114/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/d/d7/d/d7/d7l10wa0himgnuti.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/d/d7/d7l10wa0himgnuti.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/d/d7/d7l10wa0himgnuti.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "d7l10wa0himgnuti.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4174,
+      "originalHeight": 2783,
+      "originalBytes": 3608650,
+      "sha256": "221d0d3930cde804c195575cece16915248d738189a0cdb93e8532eec08fc237",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/mouse-am-29-114/03.webp",
+      "thumbnail": "assets/photos/mouse-am-29-114/03-thumb.webp",
+      "original": "assets/photos/mouse-am-29-114/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/o/oc/o/oc/ocbewjdk9zcfx2zq.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/o/oc/ocbewjdk9zcfx2zq.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/o/oc/ocbewjdk9zcfx2zq.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "ocbewjdk9zcfx2zq.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4124,
+      "originalHeight": 2749,
+      "originalBytes": 3847529,
+      "sha256": "fc8be8517a84fc401b5b2a6bfed921d09a7b74c44b4c3de3d6d9e3976975d057",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Unknown",
+    "en": "Unknown"
+  },
+  "brand": "Unknown",
+  "year": 1994,
+  "tracking": {
+    "key": "optical",
+    "ru": "оптический (классика)",
+    "en": "Optical"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Mouse am-29",
+  "whereToSee": {
+    "ru": "Средний",
+    "en": "Middle"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/mouse-am-29-114/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:51+03:00",
+    "sourcePhotoCount": 3,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 3
+  }
+}

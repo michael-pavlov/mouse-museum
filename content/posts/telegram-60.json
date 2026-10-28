@@ -1,0 +1,43 @@
+{
+  "id": "telegram-60",
+  "slug": "telegram-60",
+  "title": {
+    "ru": "Оптический трекбол Megatron",
+    "en": "The Megatron optical trackball"
+  },
+  "date": "2024-05-23T07:16:58+00:00",
+  "source": "https://t.me/old_mice_and_hw/60",
+  "excerpt": {
+    "ru": "Необычный узор шарика, который оптический датчик использует как поверхность.",
+    "en": "An unusual ball pattern that gives an optical sensor a surface to track."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/telegram-60/01.webp",
+      "original": "assets/posts/telegram-60/01.jpg",
+      "source": "https://cdn4.telesco.pe/file/eFg2r5UHI8TKmDl2Q2QFPL5RJl8mlNpkZ66plkCO7DUr894iMLo9L69wFZBJf4ebwP6V9xte2JaWWLaLNzEP-HuPQba4-WJ4nFsu06OwSswIWZNE0XEf-V1ExftZgCCtSanwT29RLrj3FY-X_SVKLO0fB1HafA0xthFjrU-LipbikmWUiBPom7SFCHCRa90tci7NDfOR5ldA48Gc0wazYzowv3OvHNP7d4mdy42DKWE0HkfgnbG2p7D53FAaxL4qLGZ_8Z1ST5-QmPDOhnxT9YGriBGXtDTIO0VV6cGJOolEIn7dy-yF0ENQzKxqfS1tLSA790Op7z32lxgSnhLPqg.jpg",
+      "width": 780,
+      "height": 607
+    },
+    {
+      "file": "assets/posts/telegram-60/02.webp",
+      "original": "assets/posts/telegram-60/02.jpg",
+      "source": "https://cdn4.telesco.pe/file/I5SI7zgFZRpPzaz85SPklP6idfOjlRQo7NFPWJBCMtLtrnSq8qlFJQorBBfyho-ZLJxaY3uiN7GOF12cDTvleDf0DcpAGzNsVqAog0KAPfve7kNmSTuhWSmxbPpiPOPM4atEG81RQwXfehm7xG36LvYMEftdzkjYEuKpOtETiSgRhlZPYuIwFSxcnXN-Ube8qbcFSg1FzYvPJ69x-KGjRrXTaMD_tOLvy1cj29N10I0ffO_o_35gjAyJYbo7HAJukyO1fdRlGetyKmcUnH7P2lwgr4fwhSVkPXK7kNTWyYIg3NwgREdS3ZakxxibZp8Dv_-WiBzxm4HWmS858yU7CQ.jpg",
+      "width": 800,
+      "height": 782
+    }
+  ],
+  "cover": "assets/posts/telegram-60/01.webp",
+  "relatedItems": [
+    "megatron-industriesensoric-mbio38-160"
+  ],
+  "category": "stories",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-60/ru.md",
+    "en": "content/posts/telegram-60/en.md"
+  }
+}

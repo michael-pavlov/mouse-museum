@@ -1,0 +1,137 @@
+{
+  "id": "MP-0028",
+  "slug": "amx-watford-clone-28",
+  "title": {
+    "en": "AMX Watford clone",
+    "ru": "AMX Watford clone"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/28/",
+  "sourceOrder": 38,
+  "order": 55,
+  "sourceProperties": {
+    "Производитель": "Unknown",
+    "Год": "1988",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "COM",
+    "СССР": "нет",
+    "Где посмотреть": "Средний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/amx-watford-clone-28/01.webp",
+      "thumbnail": "assets/photos/amx-watford-clone-28/01-thumb.webp",
+      "original": "assets/photos/amx-watford-clone-28/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/g/gw/gwvdwn4h43ckslte.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gw/gwvdwn4h43ckslte.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/g/gw/gwvdwn4h43ckslte.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "gwvdwn4h43ckslte.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1130017,
+      "sha256": "05821d75ca1e50f0a947d625f443558cd04c22454bb7f0367bee6815628e1314",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/amx-watford-clone-28/02.webp",
+      "thumbnail": "assets/photos/amx-watford-clone-28/02-thumb.webp",
+      "original": "assets/photos/amx-watford-clone-28/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/b/bg/bgxprayq3do6wifv.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/bg/bgxprayq3do6wifv.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/b/bg/bgxprayq3do6wifv.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "bgxprayq3do6wifv.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1566034,
+      "sha256": "27a65aff5abb9af5d78cc28222781e960bf691e5aafa6ad9d79504422dc2790f",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/amx-watford-clone-28/03.webp",
+      "thumbnail": "assets/photos/amx-watford-clone-28/03-thumb.webp",
+      "original": "assets/photos/amx-watford-clone-28/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/y/y3/y3v4rwdz59byzcra.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/y/y3/y3v4rwdz59byzcra.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/y/y3/y3v4rwdz59byzcra.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "y3v4rwdz59byzcra.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2310917,
+      "sha256": "2096e9ecda0f0246a248c25a7fce8a7e69e7d662f78483663acb312034c4cfc1",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/amx-watford-clone-28/04.webp",
+      "thumbnail": "assets/photos/amx-watford-clone-28/04-thumb.webp",
+      "original": "assets/photos/amx-watford-clone-28/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/n/nm/nmumzgzkxcvwlrf5.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/nm/nmumzgzkxcvwlrf5.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/n/nm/nmumzgzkxcvwlrf5.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "nmumzgzkxcvwlrf5.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 2049315,
+      "sha256": "4ba20dbefa68bd8f3bb50416240a7dc412ea0e9d47f8effb226d843fc4328fa8",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Unknown",
+    "en": "Unknown"
+  },
+  "brand": "Unknown",
+  "year": 1988,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "COM",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "AMX Watford clone",
+  "whereToSee": {
+    "ru": "Средний",
+    "en": "Middle"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/amx-watford-clone-28/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:46+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 4
+  }
+}

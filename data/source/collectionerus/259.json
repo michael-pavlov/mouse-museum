@@ -1,0 +1,84 @@
+{
+  "sourceId": 259,
+  "source": "https://collectionerus.ru/collections/old-mice/259/",
+  "slug": "genius-easymouse-259",
+  "sourceTitle": "Genius EasyMouse",
+  "retrievedAt": "2026-10-27T23:10:59+03:00",
+  "sourcePageSha256": "a8027a0aa63b127d1e5aac7e92abb4b5aafa2be27e64e8830c9bc72c2fe972d6",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "KYE Systems Corp",
+    "Год": "1996",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=KYE+Systems+Corp"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1996"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/v/v6/v/v6/v6gwfvdpndzx8y5v.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/v6/v6gwfvdpndzx8y5v.jpeg",
+      "originalName": "v6gwfvdpndzx8y5v.jpeg",
+      "cacheFile": "photos/genius-easymouse-259/01.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,2 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/d/d6/d/d6/d64rymtyqogkqy4k.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/d/d6/d64rymtyqogkqy4k.jpeg",
+      "originalName": "d64rymtyqogkqy4k.jpeg",
+      "cacheFile": "photos/genius-easymouse-259/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,1 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/3/34/3/34/34q8nlynq8e8eiaw.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/3/34/34q8nlynq8e8eiaw.jpeg",
+      "originalName": "34q8nlynq8e8eiaw.jpeg",
+      "cacheFile": "photos/genius-easymouse-259/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,1 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/e/eq/e/eq/eqpz4tgkdnhxlueb.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/eq/eqpz4tgkdnhxlueb.jpeg",
+      "originalName": "eqpz4tgkdnhxlueb.jpeg",
+      "cacheFile": "photos/genius-easymouse-259/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1001,4 КБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/q/qq/q/qq/qqthpuzyme1vrplr.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qq/qqthpuzyme1vrplr.jpeg",
+      "originalName": "qqthpuzyme1vrplr.jpeg",
+      "cacheFile": "photos/genius-easymouse-259/05.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,5 МБ"
+    }
+  ],
+  "itemFile": "content/mice/genius-easymouse-259.json",
+  "previousPhotoCount": 0
+}

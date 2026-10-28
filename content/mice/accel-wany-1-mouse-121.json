@@ -1,0 +1,124 @@
+{
+  "id": "MP-0121",
+  "slug": "accel-wany-1-mouse-121",
+  "title": {
+    "en": "Accel Wany-1 mouse",
+    "ru": "Accel Wany-1 mouse"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/121/",
+  "sourceProperties": {
+    "Производитель": "Accel",
+    "Год": "1990",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Ближний",
+    "Обменный фонд": "есть 1"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/accel-wany-1-mouse-121/01.webp",
+      "thumbnail": "assets/photos/accel-wany-1-mouse-121/01-thumb.webp",
+      "original": "assets/photos/accel-wany-1-mouse-121/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/u/uj/u/uj/ujjjw3cebltbwp4h.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/uj/ujjjw3cebltbwp4h.jpg",
+      "originalFilename": "ujjjw3cebltbwp4h.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3502,
+      "originalHeight": 2335,
+      "originalBytes": 2804544,
+      "sha256": "9c6926c9db059421ca60ca1e343e5cfc132ea0cf9cf781fa42ef07bb8b651e0f",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/accel-wany-1-mouse-121/02.webp",
+      "thumbnail": "assets/photos/accel-wany-1-mouse-121/02-thumb.webp",
+      "original": "assets/photos/accel-wany-1-mouse-121/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/l/lr/l/lr/lrq67zsinjvwnrye.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/l/lr/lrq67zsinjvwnrye.jpg",
+      "originalFilename": "lrq67zsinjvwnrye.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3634,
+      "originalHeight": 2423,
+      "originalBytes": 3885827,
+      "sha256": "83b91e6b6406a3be2f18b8a727ccb59cf1e47fb389cd038bee5cbe3f79218823",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/accel-wany-1-mouse-121/03.webp",
+      "thumbnail": "assets/photos/accel-wany-1-mouse-121/03-thumb.webp",
+      "original": "assets/photos/accel-wany-1-mouse-121/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/g/gh/g/gh/ghehdpzmvmzsree3.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gh/ghehdpzmvmzsree3.jpg",
+      "originalFilename": "ghehdpzmvmzsree3.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3268,
+      "originalHeight": 2179,
+      "originalBytes": 2854705,
+      "sha256": "e33fa6f0963a13ccd1baa13ecc8e1aa5def9c916d9eab66ee1caf00659cb6a5b",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/accel-wany-1-mouse-121/04.webp",
+      "thumbnail": "assets/photos/accel-wany-1-mouse-121/04-thumb.webp",
+      "original": "assets/photos/accel-wany-1-mouse-121/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/s/sl/s/sl/slpf0ugjqgmxmunv.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/s/sl/slpf0ugjqgmxmunv.jpg",
+      "originalFilename": "slpf0ugjqgmxmunv.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3988,
+      "originalHeight": 2659,
+      "originalBytes": 4233858,
+      "sha256": "0191afbf69f3c94deea5476d39ed1322dd00bc228b133cd5088f99d32ced4d90",
+      "caption": ""
+    }
+  ],
+  "thumbnail": "assets/photos/accel-wany-1-mouse-121/thumb.webp",
+  "order": 36,
+  "manufacturer": {
+    "ru": "Accel",
+    "en": "Accel"
+  },
+  "brand": "Accel",
+  "year": 1990,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Accel Wany-1 mouse",
+  "whereToSee": {
+    "ru": "Ближний",
+    "en": "Near"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T22:22:40+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 4
+  }
+}

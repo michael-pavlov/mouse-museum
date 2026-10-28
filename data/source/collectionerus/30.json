@@ -1,0 +1,106 @@
+{
+  "sourceId": 30,
+  "source": "https://collectionerus.ru/collections/old-mice/30/",
+  "slug": "ibm-6450350-30",
+  "sourceTitle": "IBM 6450350",
+  "retrievedAt": "2026-10-27T23:10:48+03:00",
+  "sourcePageSha256": "b85934d99c207b03221111866c917e1d24c94ec3ab9564680c9184cf6161a381",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "IBM",
+    "Год": "1987",
+    "Способ позиционирования": "на потенциометрах",
+    "Интерфейс": "PS/2",
+    "СССР": "нет",
+    "Где посмотреть": "Демо Стол"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=IBM"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1987"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BD%D0%B0+%D0%BF%D0%BE%D1%82%D0%B5%D0%BD%D1%86%D0%B8%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B0%D1%85"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=PS%2F2"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B5%D0%BC%D0%BE+%D0%A1%D1%82%D0%BE%D0%BB"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/f/f5/f5b0gjsshxdoilnc.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/f/f5/f5b0gjsshxdoilnc.JPG",
+      "originalName": "f5b0gjsshxdoilnc.JPG",
+      "cacheFile": "photos/ibm-6450350-30/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,1 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/t/tw/tw5o3xqu10unruht.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/tw/tw5o3xqu10unruht.JPG",
+      "originalName": "tw5o3xqu10unruht.JPG",
+      "cacheFile": "photos/ibm-6450350-30/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,2 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/v/vj/vjbffgwlpdkdpwy4.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/vj/vjbffgwlpdkdpwy4.JPG",
+      "originalName": "vjbffgwlpdkdpwy4.JPG",
+      "cacheFile": "photos/ibm-6450350-30/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 2,7 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/g/gx/gxqyk746nwfubzct.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gx/gxqyk746nwfubzct.JPG",
+      "originalName": "gxqyk746nwfubzct.JPG",
+      "cacheFile": "photos/ibm-6450350-30/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,5 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/2/2j/2jj4sokth2tyddgq.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/2/2j/2jj4sokth2tyddgq.JPG",
+      "originalName": "2jj4sokth2tyddgq.JPG",
+      "cacheFile": "photos/ibm-6450350-30/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 2,1 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/e/ev/eves1l0nxkv9fwyu.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/ev/eves1l0nxkv9fwyu.JPG",
+      "originalName": "eves1l0nxkv9fwyu.JPG",
+      "cacheFile": "photos/ibm-6450350-30/06.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 2,4 МБ"
+    },
+    {
+      "position": 7,
+      "source": "https://collectionerus.ru/media/items-large/v/vu/vux4zznwlgfrr3ks.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/vu/vux4zznwlgfrr3ks.JPG",
+      "originalName": "vux4zznwlgfrr3ks.JPG",
+      "cacheFile": "photos/ibm-6450350-30/07.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,2 МБ"
+    }
+  ],
+  "itemFile": "content/mice/ibm-6450350-30.json",
+  "previousPhotoCount": 0
+}

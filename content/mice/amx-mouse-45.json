@@ -1,0 +1,210 @@
+{
+  "id": "MP-0045",
+  "slug": "amx-mouse-45",
+  "title": {
+    "en": "AMX Mouse",
+    "ru": "AMX Mouse"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/45/",
+  "sourceOrder": 109,
+  "order": 113,
+  "sourceProperties": {
+    "Производитель": "Advanced Memory Systems",
+    "Год": "1985",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "BBC Micro's User port",
+    "СССР": "нет",
+    "Особенности": "Металлический шарик",
+    "Где посмотреть": "Краснохолмская"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/amx-mouse-45/01-catalog.webp",
+      "thumbnail": "assets/photos/amx-mouse-45/01-catalog-thumb.webp",
+      "original": "assets/photos/amx-mouse-45/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/f/fe/feikjb1ieqolnojl.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/f/fe/feikjb1ieqolnojl.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/f/fe/feikjb1ieqolnojl.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "feikjb1ieqolnojl.JPG",
+      "width": 1536,
+      "height": 1024,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 920512,
+      "sha256": "92152c4b730f6a20d18a13c2eb4f02d987adf4f51612f4220fbddb12d4c2dedb",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/amx-mouse-45/02.webp",
+      "thumbnail": "assets/photos/amx-mouse-45/02-thumb.webp",
+      "original": "assets/photos/amx-mouse-45/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/j/jj/jjphlf5hdtqcnkdd.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/j/jj/jjphlf5hdtqcnkdd.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/j/jj/jjphlf5hdtqcnkdd.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "jjphlf5hdtqcnkdd.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1558755,
+      "sha256": "8c5dab4a250c73a3b7374f480665ae11cfc1a2b442235b2fc4627bd1dcd0efb4",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/amx-mouse-45/03.webp",
+      "thumbnail": "assets/photos/amx-mouse-45/03-thumb.webp",
+      "original": "assets/photos/amx-mouse-45/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/w/w9/w9hx0rsenjqih6xb.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/w9/w9hx0rsenjqih6xb.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/w/w9/w9hx0rsenjqih6xb.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "w9hx0rsenjqih6xb.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 2047486,
+      "sha256": "73926f34cf69a5f52ff801a44c2b561e6e8b45280fb064f188deab4db6b2129f",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/amx-mouse-45/04.webp",
+      "thumbnail": "assets/photos/amx-mouse-45/04-thumb.webp",
+      "original": "assets/photos/amx-mouse-45/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/a/ae/ae163lqxtuqbm9qj.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/a/ae/ae163lqxtuqbm9qj.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/a/ae/ae163lqxtuqbm9qj.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "ae163lqxtuqbm9qj.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1625400,
+      "sha256": "067144534ebb265db70674cc0f576435f2c10ce78e4b9bf12b4609924cf733cb",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/amx-mouse-45/05.webp",
+      "thumbnail": "assets/photos/amx-mouse-45/05-thumb.webp",
+      "original": "assets/photos/amx-mouse-45/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/8/81/81pux51oxituvisk.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/8/81/81pux51oxituvisk.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/8/81/81pux51oxituvisk.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "81pux51oxituvisk.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1727621,
+      "sha256": "5dc2d35e1f43b18359fb8f8dc1a70c96ab339ee057d02d0d39abdc01f35ed2a1",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/amx-mouse-45/06.webp",
+      "thumbnail": "assets/photos/amx-mouse-45/06-thumb.webp",
+      "original": "assets/photos/amx-mouse-45/originals/06.jpg",
+      "source": "https://collectionerus.ru/media/items-large/s/se/setzrliqnciqj5de.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/s/se/setzrliqnciqj5de.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/s/se/setzrliqnciqj5de.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "setzrliqnciqj5de.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1789380,
+      "sha256": "719d27c583abf245002a8d7da9e7594aa75a1c7968d9800ef48f65ed76624559",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/amx-mouse-45/07.webp",
+      "thumbnail": "assets/photos/amx-mouse-45/07-thumb.webp",
+      "original": "assets/photos/amx-mouse-45/originals/07.jpg",
+      "source": "https://collectionerus.ru/media/items-large/g/gm/gmfyqhqz2unzncn2.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gm/gmfyqhqz2unzncn2.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/g/gm/gmfyqhqz2unzncn2.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "gmfyqhqz2unzncn2.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1208653,
+      "sha256": "627ee89d80508d91c2a5d4cead391eda9f0cee668826d43f9d0beb18bb327044",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/amx-mouse-45/08.webp",
+      "thumbnail": "assets/photos/amx-mouse-45/08-thumb.webp",
+      "original": "assets/photos/amx-mouse-45/originals/08.jpg",
+      "source": "https://collectionerus.ru/media/items-large/j/jn/jncnc5wq5d49ntn3.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/j/jn/jncnc5wq5d49ntn3.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/j/jn/jncnc5wq5d49ntn3.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "jncnc5wq5d49ntn3.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1131681,
+      "sha256": "c3a838f1365594c680fa1477f3929977d5c951b926f9639293cd25ad7bd45252",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Advanced Memory Systems",
+    "en": "Advanced Memory Systems"
+  },
+  "brand": "Advanced Memory Systems",
+  "year": 1985,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "BBC Micro's User port",
+  "soviet": false,
+  "features": {
+    "ru": "Металлический шарик",
+    "en": "Metal ball"
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "AMX Mouse",
+  "whereToSee": {
+    "ru": "Краснохолмская",
+    "en": "Krasnokholmskaya Gallery"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/amx-mouse-45/thumb-catalog.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:49+03:00",
+    "sourcePhotoCount": 8,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 7,
+    "availableOriginals": 8
+  }
+}

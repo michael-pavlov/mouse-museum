@@ -1,0 +1,93 @@
+{
+  "id": "MP-0102",
+  "slug": "xerox-8010-star-102",
+  "title": {
+    "en": "Xerox 8010 Star",
+    "ru": "Xerox 8010 Star"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/102/",
+  "sourceProperties": {
+    "Производитель": "Xerox",
+    "Год": "1981",
+    "Способ позиционирования": "Оптический через коврик",
+    "СССР": "нет",
+    "Где посмотреть": "Демо Витрина"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/xerox-8010-star-102/01-catalog.webp",
+      "thumbnail": "assets/photos/xerox-8010-star-102/01-catalog-thumb.webp",
+      "original": "assets/photos/xerox-8010-star-102/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/a/av/a/av/av76lk00l7nczfg1.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/a/av/av76lk00l7nczfg1.JPG",
+      "originalFilename": "av76lk00l7nczfg1.JPG",
+      "width": 1536,
+      "height": 1024,
+      "originalWidth": 3217,
+      "originalHeight": 2145,
+      "originalBytes": 790153,
+      "sha256": "20869fbb11d92bc4f3cda8e5924a90a19be6331772a41d3ff6af88b4035fb98f",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/xerox-8010-star-102/02.webp",
+      "thumbnail": "assets/photos/xerox-8010-star-102/02-thumb.webp",
+      "original": "assets/photos/xerox-8010-star-102/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/o/oy/o/oy/oyfarmbj8xf2wt5g.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/o/oy/oyfarmbj8xf2wt5g.JPG",
+      "originalFilename": "oyfarmbj8xf2wt5g.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3535,
+      "originalHeight": 2357,
+      "originalBytes": 999907,
+      "sha256": "9c34e4230e1fcdc14c70dcab6fb924da40464da9a466550ae4aa5a670c20b4a4",
+      "caption": ""
+    }
+  ],
+  "thumbnail": "assets/photos/xerox-8010-star-102/thumb-catalog.webp",
+  "order": 12,
+  "manufacturer": {
+    "ru": "Xerox",
+    "en": "Xerox"
+  },
+  "brand": "Xerox",
+  "year": 1981,
+  "tracking": {
+    "key": "optical-pad",
+    "ru": "Оптический через коврик",
+    "en": "Optical · special pad"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Xerox 8010 Star",
+  "whereToSee": {
+    "ru": "Демо Витрина",
+    "en": "Demo display case"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T22:22:53+03:00",
+    "sourcePhotoCount": 2,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 2
+  }
+}

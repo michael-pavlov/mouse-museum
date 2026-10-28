@@ -1,0 +1,88 @@
+{
+  "sourceId": 48,
+  "source": "https://collectionerus.ru/collections/old-mice/48/",
+  "slug": "laser-iii-48",
+  "sourceTitle": "Laser III",
+  "retrievedAt": "2026-10-27T23:10:48+03:00",
+  "sourcePageSha256": "1f07b2ab39c160e6ed2a9d3b18ce1d2932666f95aef040bc24029e37283f9f4d",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Laser",
+    "Год": "1988",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "COM",
+    "СССР": "нет",
+    "Где посмотреть": "Ближайший"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Laser"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1988"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=COM"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%91%D0%BB%D0%B8%D0%B6%D0%B0%D0%B9%D1%88%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/l/le/leows3d7nuyxcik5.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/l/le/leows3d7nuyxcik5.JPG",
+      "originalName": "leows3d7nuyxcik5.JPG",
+      "cacheFile": "photos/laser-iii-48/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,1 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/m/m8/m8hkwxgiz1oueu0y.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/m/m8/m8hkwxgiz1oueu0y.JPG",
+      "originalName": "m8hkwxgiz1oueu0y.JPG",
+      "cacheFile": "photos/laser-iii-48/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,7 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/n/ns/nsbauop4zxd5lqk1.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/ns/nsbauop4zxd5lqk1.JPG",
+      "originalName": "nsbauop4zxd5lqk1.JPG",
+      "cacheFile": "photos/laser-iii-48/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,2 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/b/bi/bi5nvz99qr0hexkv.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/bi/bi5nvz99qr0hexkv.JPG",
+      "originalName": "bi5nvz99qr0hexkv.JPG",
+      "cacheFile": "photos/laser-iii-48/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,5 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/g/g3/g3awqlpzakq0x3f9.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/g3/g3awqlpzakq0x3f9.JPG",
+      "originalName": "g3awqlpzakq0x3f9.JPG",
+      "cacheFile": "photos/laser-iii-48/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 2,0 МБ"
+    }
+  ],
+  "itemFile": "content/mice/laser-iii-48.json",
+  "previousPhotoCount": 0
+}

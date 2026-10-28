@@ -1,0 +1,191 @@
+{
+  "id": "MP-0054",
+  "slug": "summagraphics-summamouse-54",
+  "title": {
+    "en": "Summagraphics SummaMouse",
+    "ru": "Summagraphics SummaMouse"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/54/",
+  "sourceOrder": 90,
+  "order": 95,
+  "sourceProperties": {
+    "Производитель": "Summagraphics Corporation",
+    "Год": "1984",
+    "Способ позиционирования": "Оптический через коврик",
+    "Интерфейс": "DB-25",
+    "СССР": "нет",
+    "Где посмотреть": "Демо Витрина"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/summagraphics-summamouse-54/01-catalog.webp",
+      "thumbnail": "assets/photos/summagraphics-summamouse-54/01-catalog-thumb.webp",
+      "original": "assets/photos/summagraphics-summamouse-54/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/t/tg/tgiktc31kudkcnm0.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/tg/tgiktc31kudkcnm0.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/t/tg/tgiktc31kudkcnm0.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "tgiktc31kudkcnm0.JPG",
+      "width": 1536,
+      "height": 1024,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1343980,
+      "sha256": "565b013db0579e498d9e1207662cddaea8e4387f690f20d78bed404aa229e391",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/summagraphics-summamouse-54/02.webp",
+      "thumbnail": "assets/photos/summagraphics-summamouse-54/02-thumb.webp",
+      "original": "assets/photos/summagraphics-summamouse-54/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/z/ze/zeopu1dm2aawaneh.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/ze/zeopu1dm2aawaneh.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/z/ze/zeopu1dm2aawaneh.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "zeopu1dm2aawaneh.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1797179,
+      "sha256": "bd898e1dffc5962e11370212f9c947273c9c643c8ad21836d356a8f3c284a92a",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/summagraphics-summamouse-54/03.webp",
+      "thumbnail": "assets/photos/summagraphics-summamouse-54/03-thumb.webp",
+      "original": "assets/photos/summagraphics-summamouse-54/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/z/z9/z93svz0q95txvqmb.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/z9/z93svz0q95txvqmb.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/z/z9/z93svz0q95txvqmb.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "z93svz0q95txvqmb.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1760287,
+      "sha256": "d4df89377ccc277ef4f6e122b7a852143c7bffd13989a0b484ba4917c9aa28d6",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/summagraphics-summamouse-54/04.webp",
+      "thumbnail": "assets/photos/summagraphics-summamouse-54/04-thumb.webp",
+      "original": "assets/photos/summagraphics-summamouse-54/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/n/ng/ngrcdbhp8s65j8jm.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/ng/ngrcdbhp8s65j8jm.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/n/ng/ngrcdbhp8s65j8jm.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "ngrcdbhp8s65j8jm.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2223887,
+      "sha256": "ef25c0e1cc46dd983739231b5930fb261624020e75d7ea19a1c10dec779c80c8",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/summagraphics-summamouse-54/05.webp",
+      "thumbnail": "assets/photos/summagraphics-summamouse-54/05-thumb.webp",
+      "original": "assets/photos/summagraphics-summamouse-54/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/c/c0/c0qtluckq9nszsmp.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/c0/c0qtluckq9nszsmp.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/c/c0/c0qtluckq9nszsmp.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "c0qtluckq9nszsmp.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2195691,
+      "sha256": "3bcc848599975a40e3c294a7661477991818e29c81d3b4258d11748936504c83",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/summagraphics-summamouse-54/06.webp",
+      "thumbnail": "assets/photos/summagraphics-summamouse-54/06-thumb.webp",
+      "original": "assets/photos/summagraphics-summamouse-54/originals/06.jpg",
+      "source": "https://collectionerus.ru/media/items-large/4/4r/4r2k7dee50enyo3m.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/4/4r/4r2k7dee50enyo3m.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/4/4r/4r2k7dee50enyo3m.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "4r2k7dee50enyo3m.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1406697,
+      "sha256": "f8ece1c68fdc34eb94103cd56d141690342635a41c391bcbf0fc4e558d8e556a",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/summagraphics-summamouse-54/07.webp",
+      "thumbnail": "assets/photos/summagraphics-summamouse-54/07-thumb.webp",
+      "original": "assets/photos/summagraphics-summamouse-54/originals/07.jpg",
+      "source": "https://collectionerus.ru/media/items-large/d/d6/d6fegzelfeuo5oqe.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/d/d6/d6fegzelfeuo5oqe.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/d/d6/d6fegzelfeuo5oqe.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "d6fegzelfeuo5oqe.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4352,
+      "originalHeight": 2901,
+      "originalBytes": 3019720,
+      "sha256": "a3a4132746a991e5f19ff18252ca492d04c27d89810b3c52b3f8f02e1f0d8253",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Summagraphics Corporation",
+    "en": "Summagraphics Corporation"
+  },
+  "brand": "Summagraphics Corporation",
+  "year": 1984,
+  "tracking": {
+    "key": "optical-pad",
+    "ru": "Оптический через коврик",
+    "en": "Optical · special pad"
+  },
+  "interface": "DB-25",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Summagraphics SummaMouse",
+  "whereToSee": {
+    "ru": "Демо Витрина",
+    "en": "Demo display case"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/summagraphics-summamouse-54/thumb-catalog.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:48+03:00",
+    "sourcePhotoCount": 7,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 7
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "sourceId": 76,
+  "source": "https://collectionerus.ru/collections/old-mice/76/",
+  "slug": "amx-mouse-by-depraz-76",
+  "sourceTitle": "AMX Mouse by Depraz",
+  "retrievedAt": "2026-10-27T23:10:50+03:00",
+  "sourcePageSha256": "2f8135bfed2e73276b509ec281b063d1d72b305518108b2643ecf6f3ad94ab7e",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "AMX",
+    "Год": "1985",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "BBC Micro",
+    "СССР": "нет",
+    "Где посмотреть": "Ближайший"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=AMX"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1985"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=BBC+Micro"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%91%D0%BB%D0%B8%D0%B6%D0%B0%D0%B9%D1%88%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/2/2p/2pumxhf1kewlc1zj.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/2/2p/2pumxhf1kewlc1zj.JPG",
+      "originalName": "2pumxhf1kewlc1zj.JPG",
+      "cacheFile": "photos/amx-mouse-by-depraz-76/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3300×2200, 1,2 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/c/ct/ctwdakjd4bolb8sy.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/ct/ctwdakjd4bolb8sy.JPG",
+      "originalName": "ctwdakjd4bolb8sy.JPG",
+      "cacheFile": "photos/amx-mouse-by-depraz-76/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3300×2200, 1,6 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/y/yw/ywgx9bslyh8zl3mc.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/y/yw/ywgx9bslyh8zl3mc.JPG",
+      "originalName": "ywgx9bslyh8zl3mc.JPG",
+      "cacheFile": "photos/amx-mouse-by-depraz-76/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3300×2200, 1,9 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/h/h7/h7mmzmdbzu9kchqs.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/h7/h7mmzmdbzu9kchqs.JPG",
+      "originalName": "h7mmzmdbzu9kchqs.JPG",
+      "cacheFile": "photos/amx-mouse-by-depraz-76/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3158×2104, 1,7 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/p/pq/pqxakicjmrg7h0os.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/pq/pqxakicjmrg7h0os.JPG",
+      "originalName": "pqxakicjmrg7h0os.JPG",
+      "cacheFile": "photos/amx-mouse-by-depraz-76/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3190×2126, 2,0 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/p/pc/pcb9ard3yi2yv8qx.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/pc/pcb9ard3yi2yv8qx.JPG",
+      "originalName": "pcb9ard3yi2yv8qx.JPG",
+      "cacheFile": "photos/amx-mouse-by-depraz-76/06.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3300×2200, 2,1 МБ"
+    }
+  ],
+  "itemFile": "content/mice/amx-mouse-by-depraz-76.json",
+  "previousPhotoCount": 0
+}

@@ -1,0 +1,101 @@
+{
+  "sourceId": 46,
+  "source": "https://collectionerus.ru/collections/old-mice/46/",
+  "slug": "dec-pcxas-aa-46",
+  "sourceTitle": "DEC PCXAS-AA",
+  "retrievedAt": "2026-10-27T23:10:48+03:00",
+  "sourcePageSha256": "bf74538373487dbfe3437cdb47c693b4cf97fb26b787c375f9787f8deba7f60e",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "DEC",
+    "Год": "1992",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "PS/2",
+    "СССР": "нет",
+    "Производитель платы": "Logitech",
+    "Где посмотреть": "Средний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=DEC"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1992"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=PS%2F2"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Производитель платы": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel_platy=Logitech"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/p/px/pxumo8w2092u6o8w.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/px/pxumo8w2092u6o8w.JPG",
+      "originalName": "pxumo8w2092u6o8w.JPG",
+      "cacheFile": "photos/dec-pcxas-aa-46/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,1 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/q/qj/qj5izbbtmi7qz5bd.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qj/qj5izbbtmi7qz5bd.JPG",
+      "originalName": "qj5izbbtmi7qz5bd.JPG",
+      "cacheFile": "photos/dec-pcxas-aa-46/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,3 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/r/ru/rui71gxjamth58ft.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/ru/rui71gxjamth58ft.JPG",
+      "originalName": "rui71gxjamth58ft.JPG",
+      "cacheFile": "photos/dec-pcxas-aa-46/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,5 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/h/hq/hqi6mnte27iu6xq2.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hq/hqi6mnte27iu6xq2.JPG",
+      "originalName": "hqi6mnte27iu6xq2.JPG",
+      "cacheFile": "photos/dec-pcxas-aa-46/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,7 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/q/qf/qfzybx8cdy1autnl.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qf/qfzybx8cdy1autnl.JPG",
+      "originalName": "qfzybx8cdy1autnl.JPG",
+      "cacheFile": "photos/dec-pcxas-aa-46/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,5 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/8/8t/8tyafbow3htxo5vv.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/8/8t/8tyafbow3htxo5vv.JPG",
+      "originalName": "8tyafbow3htxo5vv.JPG",
+      "cacheFile": "photos/dec-pcxas-aa-46/06.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,8 МБ"
+    }
+  ],
+  "itemFile": "content/mice/dec-pcxas-aa-46.json",
+  "previousPhotoCount": 0
+}

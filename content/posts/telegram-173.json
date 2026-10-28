@@ -1,0 +1,26 @@
+{
+  "id": "telegram-173",
+  "slug": "telegram-173",
+  "title": {
+    "ru": "Опрос: что в чемодане?",
+    "en": "Quiz: what's in the case?"
+  },
+  "date": "2025-05-25T17:00:04+00:00",
+  "source": "https://t.me/old_mice_and_hw/173",
+  "excerpt": {
+    "ru": "Архив вопроса и пяти вариантов ответа из опроса в канале.",
+    "en": "An archive of the channel quiz question and its five answer options."
+  },
+  "photos": [],
+  "cover": "assets/posts/telegram-172/01.webp",
+  "relatedItems": [],
+  "category": "stories",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-173/ru.md",
+    "en": "content/posts/telegram-173/en.md"
+  }
+}

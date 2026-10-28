@@ -1,0 +1,99 @@
+{
+  "sourceId": 300,
+  "source": "https://collectionerus.ru/collections/old-mice/300/",
+  "slug": "creative-labs-aeropoint-300",
+  "sourceTitle": "Creative Labs Aeropoint",
+  "retrievedAt": "2026-10-27T23:11:02+03:00",
+  "sourcePageSha256": "3f18d1aec89a7dec0178f7b1c4490a49bd61b9569896fbc8b805c117bba4bc0f",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "СССР": "нет",
+    "Где посмотреть": "Local"
+  },
+  "propertyLinks": {
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=Local"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/p/p2/p/p2/p2t6bqjddfz3chxm.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/p2/p2t6bqjddfz3chxm.jpeg",
+      "originalName": "p2t6bqjddfz3chxm.jpeg",
+      "cacheFile": "photos/creative-labs-aeropoint-300/01.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 941,3 КБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/t/tm/t/tm/tmdx7xssr5oyowly.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/tm/tmdx7xssr5oyowly.jpeg",
+      "originalName": "tmdx7xssr5oyowly.jpeg",
+      "cacheFile": "photos/creative-labs-aeropoint-300/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,1 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/9/9i/9/9i/9inqgmridtlvalbs.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/9/9i/9inqgmridtlvalbs.jpeg",
+      "originalName": "9inqgmridtlvalbs.jpeg",
+      "cacheFile": "photos/creative-labs-aeropoint-300/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,1 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/8/81/8/81/81n1yopyu1nfk8yf.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/8/81/81n1yopyu1nfk8yf.jpeg",
+      "originalName": "81n1yopyu1nfk8yf.jpeg",
+      "cacheFile": "photos/creative-labs-aeropoint-300/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,0 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/7/7t/7/7t/7tkrcovgyhf9lyrn.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/7/7t/7tkrcovgyhf9lyrn.jpeg",
+      "originalName": "7tkrcovgyhf9lyrn.jpeg",
+      "cacheFile": "photos/creative-labs-aeropoint-300/05.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,1 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/6/6g/6/6g/6gxm4tlm9gyfibxx.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/6/6g/6gxm4tlm9gyfibxx.jpeg",
+      "originalName": "6gxm4tlm9gyfibxx.jpeg",
+      "cacheFile": "photos/creative-labs-aeropoint-300/06.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "3024×4032, 1,6 МБ"
+    },
+    {
+      "position": 7,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/k/k8/k/k8/k8ckf74hybflcknr.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/k8/k8ckf74hybflcknr.jpeg",
+      "originalName": "k8ckf74hybflcknr.jpeg",
+      "cacheFile": "photos/creative-labs-aeropoint-300/07.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,5 МБ"
+    },
+    {
+      "position": 8,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/3/34/3/34/345rttv5heqc4zky.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/3/34/345rttv5heqc4zky.jpeg",
+      "originalName": "345rttv5heqc4zky.jpeg",
+      "cacheFile": "photos/creative-labs-aeropoint-300/08.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 2,0 МБ"
+    }
+  ],
+  "itemFile": "content/mice/creative-labs-aeropoint-300.json",
+  "previousPhotoCount": 0
+}

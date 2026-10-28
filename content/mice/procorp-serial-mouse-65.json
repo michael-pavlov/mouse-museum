@@ -1,0 +1,191 @@
+{
+  "id": "MP-0065",
+  "slug": "procorp-serial-mouse-65",
+  "title": {
+    "en": "ProCorp Serial Mouse",
+    "ru": "ProCorp Serial Mouse"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/65/",
+  "sourceOrder": 35,
+  "order": 52,
+  "sourceProperties": {
+    "Производитель": "ProCorp",
+    "Год": "1989",
+    "Способ позиционирования": "на дискретных датчиках (Hawley)",
+    "Интерфейс": "COM",
+    "СССР": "нет",
+    "Где посмотреть": "Средний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/procorp-serial-mouse-65/01.webp",
+      "thumbnail": "assets/photos/procorp-serial-mouse-65/01-thumb.webp",
+      "original": "assets/photos/procorp-serial-mouse-65/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/b/bp/bpwqdrwmllaufp5y.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/bp/bpwqdrwmllaufp5y.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/b/bp/bpwqdrwmllaufp5y.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "bpwqdrwmllaufp5y.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1131232,
+      "sha256": "f3e8e30595a826d7de0baf0f83e8fed539a205d2146e6f8452b1229ff06e3225",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/procorp-serial-mouse-65/02.webp",
+      "thumbnail": "assets/photos/procorp-serial-mouse-65/02-thumb.webp",
+      "original": "assets/photos/procorp-serial-mouse-65/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/j/jq/jqzeqvsvdwax8rzv.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/j/jq/jqzeqvsvdwax8rzv.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/j/jq/jqzeqvsvdwax8rzv.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "jqzeqvsvdwax8rzv.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1290309,
+      "sha256": "e920e635f896cd7dd1bc39e653695af42965e28c3a98996c2222126dbadbd630",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/procorp-serial-mouse-65/03.webp",
+      "thumbnail": "assets/photos/procorp-serial-mouse-65/03-thumb.webp",
+      "original": "assets/photos/procorp-serial-mouse-65/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/n/nx/nxlxvvdfj8seauaz.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/nx/nxlxvvdfj8seauaz.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/n/nx/nxlxvvdfj8seauaz.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "nxlxvvdfj8seauaz.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1122930,
+      "sha256": "1f3aeaa0cdbad9cf1f44749810fd40ec050d488b1b5499bf024c98252437d678",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/procorp-serial-mouse-65/04.webp",
+      "thumbnail": "assets/photos/procorp-serial-mouse-65/04-thumb.webp",
+      "original": "assets/photos/procorp-serial-mouse-65/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/t/ty/tyjy9upeh2sjlmbt.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/ty/tyjy9upeh2sjlmbt.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/t/ty/tyjy9upeh2sjlmbt.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "tyjy9upeh2sjlmbt.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2350255,
+      "sha256": "4ed745546d1bfeb69416068992c22ef49da6b71dddb2678081185f67ab0cb8b6",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/procorp-serial-mouse-65/05.webp",
+      "thumbnail": "assets/photos/procorp-serial-mouse-65/05-thumb.webp",
+      "original": "assets/photos/procorp-serial-mouse-65/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/5/5d/5dnbg49mmqs5duju.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/5/5d/5dnbg49mmqs5duju.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/5/5d/5dnbg49mmqs5duju.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "5dnbg49mmqs5duju.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 1860185,
+      "sha256": "8f3a345a84015ea414219056ec8a9a03b7cddba37a43ecbd5205734ebf2a6c8a",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/procorp-serial-mouse-65/06.webp",
+      "thumbnail": "assets/photos/procorp-serial-mouse-65/06-thumb.webp",
+      "original": "assets/photos/procorp-serial-mouse-65/originals/06.jpg",
+      "source": "https://collectionerus.ru/media/items-large/4/4i/4ivadygqrmnwirks.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/4/4i/4ivadygqrmnwirks.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/4/4i/4ivadygqrmnwirks.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "4ivadygqrmnwirks.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2206685,
+      "sha256": "e559de7d5f45c31fe8035e4d4a22fa54462dd7ecf99e0ef173af0e15eb559efc",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/procorp-serial-mouse-65/07.webp",
+      "thumbnail": "assets/photos/procorp-serial-mouse-65/07-thumb.webp",
+      "original": "assets/photos/procorp-serial-mouse-65/originals/07.jpg",
+      "source": "https://collectionerus.ru/media/items-large/v/vn/vnqgd5f4uxvbipan.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/vn/vnqgd5f4uxvbipan.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/v/vn/vnqgd5f4uxvbipan.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "vnqgd5f4uxvbipan.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1348963,
+      "sha256": "69c248a871c62e14066b14feb22d7ea317a1f0aced193d57beae072a551863f8",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "ProCorp",
+    "en": "ProCorp"
+  },
+  "brand": "ProCorp",
+  "year": 1989,
+  "tracking": {
+    "key": "discrete-hawley",
+    "ru": "на дискретных датчиках (Hawley)",
+    "en": "Discrete sensors (Hawley)"
+  },
+  "interface": "COM",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "ProCorp Serial Mouse",
+  "whereToSee": {
+    "ru": "Средний",
+    "en": "Middle"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/procorp-serial-mouse-65/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:46+03:00",
+    "sourcePhotoCount": 7,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 7
+  }
+}

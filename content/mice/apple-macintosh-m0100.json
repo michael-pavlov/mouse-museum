@@ -1,0 +1,154 @@
+{
+  "id": "MP-0041",
+  "slug": "apple-macintosh-m0100",
+  "title": {
+    "en": "Apple Macintosh Mouse (M0100)",
+    "ru": "Apple Macintosh Mouse (M0100)"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/41/",
+  "sourceProperties": {
+    "Производитель": "Apple",
+    "Год": "1984",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "DE–9",
+    "СССР": "нет",
+    "Где посмотреть": "Краснохолмская"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/apple-macintosh-m0100/01-catalog.webp",
+      "thumbnail": "assets/photos/apple-macintosh-m0100/01-catalog-thumb.webp",
+      "original": "assets/photos/apple-macintosh-m0100/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/x/xc/xc9qlosuaxs37vrv.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/xc/xc9qlosuaxs37vrv.JPG",
+      "originalFilename": "xc9qlosuaxs37vrv.JPG",
+      "width": 1536,
+      "height": 1024,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1207571,
+      "sha256": "3a20413aa2ce025ee7ed0e440c0251686494c67f540c0a694482118278c788da",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/apple-macintosh-m0100/02.webp",
+      "thumbnail": "assets/photos/apple-macintosh-m0100/02-thumb.webp",
+      "original": "assets/photos/apple-macintosh-m0100/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/e/ej/ejeywfqnpadm140i.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/ej/ejeywfqnpadm140i.JPG",
+      "originalFilename": "ejeywfqnpadm140i.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1289287,
+      "sha256": "4dd0c255698c70e8de7232c478ca0688092cdc50963c029d6dcd85d089664b07",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/apple-macintosh-m0100/03.webp",
+      "thumbnail": "assets/photos/apple-macintosh-m0100/03-thumb.webp",
+      "original": "assets/photos/apple-macintosh-m0100/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/d/d0/d01e2dw3hqv6uled.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/d/d0/d01e2dw3hqv6uled.JPG",
+      "originalFilename": "d01e2dw3hqv6uled.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1408950,
+      "sha256": "5199a7a598c5e0f30aef22c75aa303f24cf1dadd4d7503cd7f77b4da00e70d78",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/apple-macintosh-m0100/04.webp",
+      "thumbnail": "assets/photos/apple-macintosh-m0100/04-thumb.webp",
+      "original": "assets/photos/apple-macintosh-m0100/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/m/mo/mo5n4mgjnpl1i1ip.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/m/mo/mo5n4mgjnpl1i1ip.JPG",
+      "originalFilename": "mo5n4mgjnpl1i1ip.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2607960,
+      "sha256": "2bef20df835949d5590b8bfc8119525aa25c078b5ece055e82fff50f0e9c0b73",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/apple-macintosh-m0100/05.webp",
+      "thumbnail": "assets/photos/apple-macintosh-m0100/05-thumb.webp",
+      "original": "assets/photos/apple-macintosh-m0100/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/j/jj/jj5vwnmsi8zmpjnb.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/j/jj/jj5vwnmsi8zmpjnb.JPG",
+      "originalFilename": "jj5vwnmsi8zmpjnb.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2416292,
+      "sha256": "d9e9d39ddf75a61f19ef06497a6a30305faa017d0fbc94e3a4b0ddff47cef426",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/apple-macintosh-m0100/06.webp",
+      "thumbnail": "assets/photos/apple-macintosh-m0100/06-thumb.webp",
+      "original": "assets/photos/apple-macintosh-m0100/originals/06.jpg",
+      "source": "https://collectionerus.ru/media/items-large/k/kh/kh87pvbwc5mta508.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/kh/kh87pvbwc5mta508.JPG",
+      "originalFilename": "kh87pvbwc5mta508.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2174672,
+      "sha256": "3282d5b69c81106701db45cb0387797e64f89cf2af29e5e0691b3e178edb4294",
+      "caption": ""
+    }
+  ],
+  "thumbnail": "assets/photos/apple-macintosh-m0100/thumb-catalog.webp",
+  "order": 1,
+  "manufacturer": {
+    "ru": "Apple",
+    "en": "Apple"
+  },
+  "brand": "Apple",
+  "year": 1984,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "DE–9",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Apple Macintosh Mouse (M0100)",
+  "whereToSee": {
+    "ru": "Краснохолмская",
+    "en": "Krasnokholmskaya Gallery"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T22:22:40+03:00",
+    "sourcePhotoCount": 6,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 6
+  }
+}

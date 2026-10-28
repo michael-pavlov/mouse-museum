@@ -1,0 +1,57 @@
+{
+  "sourceId": 102,
+  "source": "https://collectionerus.ru/collections/old-mice/102/",
+  "slug": "xerox-8010-star-102",
+  "sourceTitle": "Xerox 8010 Star",
+  "retrievedAt": "2026-10-27T22:22:53+03:00",
+  "sourcePageSha256": "c6c21a8b7ac2fe59226530266452d259dc113cd2de913a6b3f2c6e8ed32cc5a3",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Xerox",
+    "Год": "1981",
+    "Способ позиционирования": "Оптический через коврик",
+    "СССР": "нет",
+    "Где посмотреть": "Демо Витрина"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Xerox"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1981"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%D1%87%D0%B5%D1%80%D0%B5%D0%B7+%D0%BA%D0%BE%D0%B2%D1%80%D0%B8%D0%BA"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B5%D0%BC%D0%BE+%D0%92%D0%B8%D1%82%D1%80%D0%B8%D0%BD%D0%B0"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/a/av/a/av/av76lk00l7nczfg1.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/a/av/av76lk00l7nczfg1.JPG",
+      "originalName": "av76lk00l7nczfg1.JPG",
+      "cacheFile": "photos/xerox-8010-star-102/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3217×2145, 771,6 КБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/o/oy/o/oy/oyfarmbj8xf2wt5g.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/o/oy/oyfarmbj8xf2wt5g.JPG",
+      "originalName": "oyfarmbj8xf2wt5g.JPG",
+      "cacheFile": "photos/xerox-8010-star-102/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3535×2357, 976,5 КБ"
+    }
+  ],
+  "itemFile": "content/mice/xerox-8010-star-102.json",
+  "previousPhotoCount": 2
+}

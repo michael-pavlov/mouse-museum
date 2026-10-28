@@ -1,0 +1,190 @@
+{
+  "id": "MP-0178",
+  "slug": "sun-type-5-178",
+  "title": {
+    "en": "Sun Type 5",
+    "ru": "Sun Type 5"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/178/",
+  "sourceOrder": 71,
+  "order": 79,
+  "sourceProperties": {
+    "Производитель": "Mouse Systems",
+    "Год": "1995",
+    "Способ позиционирования": "Оптический через коврик",
+    "СССР": "нет",
+    "Где посмотреть": "Ближний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/sun-type-5-178/01.webp",
+      "thumbnail": "assets/photos/sun-type-5-178/01-thumb.webp",
+      "original": "assets/photos/sun-type-5-178/originals/01.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/g/gn/g/gn/gn33yrcoftf3ktrt.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gn/gn33yrcoftf3ktrt.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/g/gn/gn33yrcoftf3ktrt.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "gn33yrcoftf3ktrt.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1160072,
+      "sha256": "1a8d21f47b5ba5fd061da600a5bb295e392152773f3667b35b99298588d271fb",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/sun-type-5-178/02.webp",
+      "thumbnail": "assets/photos/sun-type-5-178/02-thumb.webp",
+      "original": "assets/photos/sun-type-5-178/originals/02.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/i/iq/i/iq/iqqrswnu8znq32om.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/iq/iqqrswnu8znq32om.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/i/iq/iqqrswnu8znq32om.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "iqqrswnu8znq32om.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1303001,
+      "sha256": "be59e3d36875ab1659ef4bbc4084f92ad6f062aaaedbcc8de9dfeaae17b62c3f",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/sun-type-5-178/03.webp",
+      "thumbnail": "assets/photos/sun-type-5-178/03-thumb.webp",
+      "original": "assets/photos/sun-type-5-178/originals/03.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/v/vu/v/vu/vu9yo9jxnarldbuk.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/vu/vu9yo9jxnarldbuk.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/v/vu/vu9yo9jxnarldbuk.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "vu9yo9jxnarldbuk.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1468576,
+      "sha256": "b8c53c40ef619a02e0c6f7b020b462ceec94a8d56da3eb417885e22a1a48a043",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/sun-type-5-178/04.webp",
+      "thumbnail": "assets/photos/sun-type-5-178/04-thumb.webp",
+      "original": "assets/photos/sun-type-5-178/originals/04.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/x/xg/x/xg/xgdt6ty6vljvi1lr.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/xg/xgdt6ty6vljvi1lr.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/x/xg/xgdt6ty6vljvi1lr.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "xgdt6ty6vljvi1lr.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1492972,
+      "sha256": "88f09232b11e62a218dfbaf8f55a8a514c1a02571524446be1c5dd888da0b70f",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/sun-type-5-178/05.webp",
+      "thumbnail": "assets/photos/sun-type-5-178/05-thumb.webp",
+      "original": "assets/photos/sun-type-5-178/originals/05.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/2/2p/2/2p/2pcuawitlwfridlg.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/2/2p/2pcuawitlwfridlg.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/2/2p/2pcuawitlwfridlg.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "2pcuawitlwfridlg.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1749611,
+      "sha256": "71fbcbda1c14370175114bf4d58602a6707cfcf01bbb3eddbaa9423351c5a1f0",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/sun-type-5-178/06.webp",
+      "thumbnail": "assets/photos/sun-type-5-178/06-thumb.webp",
+      "original": "assets/photos/sun-type-5-178/originals/06.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/s/sw/s/sw/sw7zhquytotzfpnj.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/s/sw/sw7zhquytotzfpnj.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/s/sw/sw7zhquytotzfpnj.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "sw7zhquytotzfpnj.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1481458,
+      "sha256": "b4529c2b801c7ee2513a136b12afbfde4f0cf5699de5b8db89949169192640de",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/sun-type-5-178/07.webp",
+      "thumbnail": "assets/photos/sun-type-5-178/07-thumb.webp",
+      "original": "assets/photos/sun-type-5-178/originals/07.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/z/zr/z/zr/zrn4cza2hntcwnvb.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/zr/zrn4cza2hntcwnvb.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/z/zr/zrn4cza2hntcwnvb.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "zrn4cza2hntcwnvb.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1579036,
+      "sha256": "2d3c6eda6df5cb5f47f2c03f5229cc098274a65df246393d8312877f955955f8",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Mouse Systems",
+    "en": "Mouse Systems"
+  },
+  "brand": "Mouse Systems",
+  "year": 1995,
+  "tracking": {
+    "key": "optical-pad",
+    "ru": "Оптический через коврик",
+    "en": "Optical · special pad"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Sun Type 5",
+  "whereToSee": {
+    "ru": "Ближний",
+    "en": "Near"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/sun-type-5-178/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:48+03:00",
+    "sourcePhotoCount": 7,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 7
+  }
+}

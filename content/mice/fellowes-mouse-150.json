@@ -1,0 +1,118 @@
+{
+  "id": "MP-0150",
+  "slug": "fellowes-mouse-150",
+  "title": {
+    "en": "Fellowes mouse",
+    "ru": "Fellowes mouse"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/150/",
+  "sourceOrder": 171,
+  "order": 174,
+  "sourceProperties": {
+    "Производитель": "Fellowes Inc",
+    "Год": "1994",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Средний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/fellowes-mouse-150/01.webp",
+      "thumbnail": "assets/photos/fellowes-mouse-150/01-thumb.webp",
+      "original": "assets/photos/fellowes-mouse-150/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/e/es/e/es/es4vodisywecckan.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/es/es4vodisywecckan.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/e/es/es4vodisywecckan.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "es4vodisywecckan.jpg",
+      "width": 2125,
+      "height": 1417,
+      "originalWidth": 2125,
+      "originalHeight": 1417,
+      "originalBytes": 960586,
+      "sha256": "1501cd783d9b241de66d27708574aefc670e8cc10f83f9f35638273ef84aee82",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/fellowes-mouse-150/02.webp",
+      "thumbnail": "assets/photos/fellowes-mouse-150/02-thumb.webp",
+      "original": "assets/photos/fellowes-mouse-150/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/h/hx/h/hx/hxa2nhxxkenawybf.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hx/hxa2nhxxkenawybf.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/h/hx/hxa2nhxxkenawybf.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "hxa2nhxxkenawybf.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3318,
+      "originalHeight": 2212,
+      "originalBytes": 2394354,
+      "sha256": "7b2b4ba52db9cc205f0f2e262739a53f6237710333349d13129c8d869849a03f",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/fellowes-mouse-150/03.webp",
+      "thumbnail": "assets/photos/fellowes-mouse-150/03-thumb.webp",
+      "original": "assets/photos/fellowes-mouse-150/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/d/da/d/da/dafsxkgsdgvsdrmr.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/d/da/dafsxkgsdgvsdrmr.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/d/da/dafsxkgsdgvsdrmr.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "dafsxkgsdgvsdrmr.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3062,
+      "originalHeight": 2041,
+      "originalBytes": 2496426,
+      "sha256": "c1d05f3ac68bd3594236c8f0b9e5f5080e87b2dd1e8fffb1fe76e257f2c79fb6",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Fellowes Inc",
+    "en": "Fellowes Inc"
+  },
+  "brand": "Fellowes Inc",
+  "year": 1994,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Fellowes mouse",
+  "whereToSee": {
+    "ru": "Средний",
+    "en": "Middle"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/fellowes-mouse-150/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:53+03:00",
+    "sourcePhotoCount": 3,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 3
+  }
+}

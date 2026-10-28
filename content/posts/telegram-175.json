@@ -1,0 +1,68 @@
+{
+  "id": "telegram-175",
+  "slug": "telegram-175",
+  "title": {
+    "ru": "IBM Convertible 5140",
+    "en": "IBM Convertible 5140"
+  },
+  "date": "2025-06-04T05:04:45+00:00",
+  "source": "https://t.me/old_mice_and_hw/175",
+  "excerpt": {
+    "ru": "Первый ноутбук IBM, его модули расширения и необычный транспортный чемодан.",
+    "en": "IBM's first laptop, its expansion modules and an unusual carrying case."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/telegram-175/01.webp",
+      "original": "assets/posts/telegram-175/01.jpg",
+      "source": "https://cdn4.telesco.pe/file/nOWP87QqAsz4dMd8vWdHyXyfxNQd9lD0MiL-SW2SGAgQhkN818M28dsuzMqHV42Qax2sbr7tQXmfSwpfLd1uuHPW6nDAjrL7SVSy4lTJ9LyPwEjJ9dLgK0LzrFkb_qPor0jMg7yYgNeOAgqI13uxjoO62VKpUIRFSRU5TXVokYN7S5gRiHlISGoe5dIF-azVAPdflckTjo2m05NLb-bTuPY0qXLawpreR8OoNaWmS0PVISsPJ0EAgYPw3wXq-xHgWfMjndXiO_UJdWcYrZo6vH-Vk7PyUo2dfJQnmZP7n7RCZvFvptvXm7X6-nNkMEtqc5eFkKiq9GBK91_UVUKAqw.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/telegram-175/02.webp",
+      "original": "assets/posts/telegram-175/02.jpg",
+      "source": "https://cdn4.telesco.pe/file/a3c19Wx-ImouPY_C1P6cBw4cXB_Mk35JVbNQmY-HhBMEzq_FqUaDnIu6mt3HWA3n2l-6x3pq9jT4GIr1Q9dWCSrqC-ugcYunROR972gVMZGMw4l5msXIvW2tqFIVMNe37mPQczTw3Zaie5Mbwb816OgColFj1W6AK62yEYwQtW8h7TVS1hGByrpA50dt28YDMdq4RKbOcr6bR_Ncd9-eg-mvTDZsvibOaCeIGG0bHqUSVuEUDzBhAS2BruyQbW7VJ8AQZXPfBQHAgJE6OcQOIumcosYnAaIbmP_SBdmTf8DeF2SztJkIzUvucWNJVtyRI-W3TK7b4cdJMYwwzcKc2w.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/telegram-175/03.webp",
+      "original": "assets/posts/telegram-175/03.jpg",
+      "source": "https://cdn4.telesco.pe/file/hQUTbJHbCqlc90enGKOId6NP53eKGIC-qVNhMHxh3RbZUYcJZGVl4gd6Rd3uEzp1il1Kwvg6aMQQz_nqtrPazmYhVNHxOL1OM3XK2IG2_ANcp79p-yQ_C63QphYO_kXLkd3wM4AYg_MAjwksmj8DOONqk6es5PnwuXxIejVCw1sNoA3T00j3p_hh_S8sYLStvYXpm0fYi-WykedvWCPVatCbg0Ci16S2ZFvyxk4tojcWHjWJhICs4J7wgyZTqGgWiYeMQlV21JSwLk_QN0RTB30SXjja_DlHmv1s6v71TjufnMbSB_e8vvGnv4y3C3PZ5HtQv9TzKJd9GoA5Sh9M-w.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/telegram-175/04.webp",
+      "original": "assets/posts/telegram-175/04.jpg",
+      "source": "https://cdn4.telesco.pe/file/l2Zx7YCU_dURcUXko4b1ShLFzHtCRsePa5LMrHEx8ORs23WD7E2iWi5y3uw-4WGBFGTXuWhMG7lu8JigqivQA1HAiIWc-1rKsWXcqQGR6Mej1_A4zC3nJB8a2ML2LHJ5_uJbRGRuN9apNa7URbLCwQfzzkbupL5v0DANkMrRMw1FrVH2JKgufqdLFbqVyjxjtkaf3C8bHnPIi-8Jbs-5A2IVHlgIfjAsq--YT_JbBn6fgHS7bxFxlBwNvxIhK3tTQt_7tAIWWwgLxhIuPXgYQstut_HgBycM02cuvvjvGWNk5ar8sGZXG3YQ2kDbOERqwwhJDg6NNqYjdwEaPAtbrg.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/telegram-175/05.webp",
+      "original": "assets/posts/telegram-175/05.jpg",
+      "source": "https://cdn4.telesco.pe/file/PIPC1NHhFgxGgxbegAZFmFnZRYRUzOPLiWWWSKOKNpNrFR4CyWXr3XZf5HDHbRdKgDNxhm_sPNTwOYkNTS4qaOQSG4Nejpe_pmGQ3t5FUotKoGeG7apIw0ZKnAyNOfsAy01VvBRguJ6MJBvjG4iJ7EYk_o3XYBF6IrLph7JR8okPhUTdWMt822P2UaXj4cW48uBHmyETmveWou4xIr84CNoR1cBdejgVgRBeo8LGPxxk85qBqqv1bd54tjeBXuJbKpLEpMpQGnSZucNg2Eo9ndPxTTPA29rX0tZgpYXSg6PDCLPGKF9hR5EUpue3tf9MVO5DVswh5cbqOT0RSAOX_Q.jpg",
+      "width": 800,
+      "height": 600
+    }
+  ],
+  "cover": "assets/posts/telegram-175/01.webp",
+  "relatedItems": [],
+  "category": "stories",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-175/ru.md",
+    "en": "content/posts/telegram-175/en.md"
+  },
+  "videos": [
+    {
+      "file": "assets/posts/telegram-175/video-01.mp4",
+      "source": "https://cdn4.telesco.pe/file/7e7c908a43.mp4?token=cY1exo30ylOHZgNxjfPmZm8iwrcddcJ2Tr4AlUkpfcihjpL4AWsnRhVmtzznJaDBxlh9L0esSw2irc8IKgALzyfOHPePhWdNZ-t5n4x7ChqueQ0nwheKKt70MJbosGKYbuht7UmCTmMzb23ouav3nBx3NnkJ7VxqU45BCkZ3yY2bo3gVEYsHyahvL4rLhQCQBJMXN1zze5NOcX_tmXDJ_9CUn3lS9a9eeLAcLTyB7Ax6uFSB2tLxg5rSnSvZSs-NodYnX-qN1-93KTm_e6xRgavCw14VajbgIWWnqjyAgwtmV4T430uMv4Y8IwuAf30jjDCPzZlTdM8YESf2Z2yrJQ"
+    }
+  ]
+}

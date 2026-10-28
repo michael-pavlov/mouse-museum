@@ -1,0 +1,51 @@
+{
+  "id": "telegram-7",
+  "slug": "telegram-7",
+  "title": {
+    "ru": "Xerox 8010 Star",
+    "en": "Xerox 8010 Star"
+  },
+  "date": "2023-04-07T08:17:11+00:00",
+  "source": "https://t.me/old_mice_and_hw/7",
+  "excerpt": {
+    "ru": "Двух- и трёхкнопочные варианты мыши для Xerox Star.",
+    "en": "Two- and three-button versions of the mouse for the Xerox Star."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/telegram-7/01.webp",
+      "original": "assets/posts/telegram-7/01.jpg",
+      "source": "https://cdn4.telesco.pe/file/kmDQk_8DwqjMSdJhIBicmazZJVMWkUU4Dlufwsj_NtowOESGhNuYaX4RJFPPhG3YtfW43__kipBIAWeXgVGXmB5hojwKew7R4dRtXbrum3xBA7ddTIybeMY8xSqmfmfSLPl4d9K1H9oGK5ZwWqRobuDa1cNrvjQ-n_7FZ7ohlao9nlERCorU7aJunFenZsOpHMxlGz0Q2DsKVr0cU_b9YytOa0cNghyalBmVblKsF1VWF194vbpoL3-ejiO1u8o62WRgegZaE2Swqs90esiaA7XHhektR9t5-GP-D3p4o_1HxVE6vpcaaMqKgvO-GMNdqkDKokDLRr6Z9CXbj8PTag.jpg",
+      "width": 800,
+      "height": 533
+    },
+    {
+      "file": "assets/posts/telegram-7/02.webp",
+      "original": "assets/posts/telegram-7/02.jpg",
+      "source": "https://cdn4.telesco.pe/file/lLWweNRZG9CM8Gi2QjOId_-8gIb4Sev3qP0CAQXgY6BMbrx_8PRA-sIUirES77qcVUc8Ez8LOnRwzCPA0KVYSGElSa73-d0KFzPvBcklNNAwY9YQy0Qm2rR1onYwoxZp4KyfVsdUxYts5UtvPiLg8YZEP48I3EMLmDXadVjRO_FLtcOzixcpUUR_i6DPOLUwGyrip-sUesTAmKMoEUxk7CYb5Ki2ELk1AAX6ay2D07LuH1yVkhXdgmWumHWifcDJ6pMJMCf_XVVJb1I2EnuhXY_mta3BIS43TmIicCAg6R7DRnXbsYVhslBnM6TqZcF23yT2bYfECGFONjblXZIMtg.jpg",
+      "width": 800,
+      "height": 533
+    },
+    {
+      "file": "assets/posts/telegram-7/03.webp",
+      "original": "assets/posts/telegram-7/03.jpg",
+      "source": "https://cdn4.telesco.pe/file/NcoEcGw7NBxH6rIjxwysi9byBa4Oe6fBbmJLGYqj-eaj1Mos8Wt-vghHJNSPqB40wxPG9nV8RLSYym81YJoCamOeoJysz5-mLNIOCdLznvx7w6ipQMXtThe7Mk_8pBPEXzISpXL7GKHvr4ZYliLM5u_-fd-nJw6if6xUqdZB3MExG6a_HrWBIqDVavCiPxX8ibJqqagWxAvjSmFNk0eQdxR9g9RXSvq7n05wKTtPccKXIdjVQ6yk0Px8EZdvQrPQY87736nVswFsIQKsURtTjBzXs3WovTvvlPYbV0Mub4J_Ktew3crQLld7SjKD_IQmcnDA0Shq60QT10SsQ4osjA.jpg",
+      "width": 800,
+      "height": 533
+    }
+  ],
+  "cover": "assets/posts/telegram-7/01.webp",
+  "relatedItems": [
+    "xerox-8010-star",
+    "xerox-8010-star-102"
+  ],
+  "category": "stories",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-7/ru.md",
+    "en": "content/posts/telegram-7/en.md"
+  }
+}

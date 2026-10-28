@@ -1,0 +1,93 @@
+{
+  "sourceId": 199,
+  "source": "https://collectionerus.ru/collections/old-mice/199/",
+  "slug": "datalux-sv-713-199",
+  "sourceTitle": "Datalux sv-713",
+  "retrievedAt": "2026-10-27T23:10:57+03:00",
+  "sourcePageSha256": "5653562deae7302c55c384ea52f6accd09bb433e56973c4c099e7b0cde91a78f",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Datalux",
+    "Год": "1993",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Datalux"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1993"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/9/9a/9/9a/9a6a1izymj7hujxh.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/9/9a/9a6a1izymj7hujxh.jpg",
+      "originalName": "9a6a1izymj7hujxh.jpg",
+      "cacheFile": "photos/datalux-sv-713-199/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "1448×1086, 1,7 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/h/ht/h/ht/hthwjjtdnuhqoh8h.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/ht/hthwjjtdnuhqoh8h.jpeg",
+      "originalName": "hthwjjtdnuhqoh8h.jpeg",
+      "cacheFile": "photos/datalux-sv-713-199/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,5 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/c/cy/c/cy/cypd2m8o1rmg1lxw.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/cy/cypd2m8o1rmg1lxw.jpeg",
+      "originalName": "cypd2m8o1rmg1lxw.jpeg",
+      "cacheFile": "photos/datalux-sv-713-199/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,5 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/b/ba/b/ba/batbw9iqvjnrkuhg.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/ba/batbw9iqvjnrkuhg.jpeg",
+      "originalName": "batbw9iqvjnrkuhg.jpeg",
+      "cacheFile": "photos/datalux-sv-713-199/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,8 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/i/iz/i/iz/iz44s2emedpl94m8.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/iz/iz44s2emedpl94m8.jpeg",
+      "originalName": "iz44s2emedpl94m8.jpeg",
+      "cacheFile": "photos/datalux-sv-713-199/05.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,6 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/rr/r/rr/rrmllypdfxjdg9j7.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/rr/rrmllypdfxjdg9j7.jpeg",
+      "originalName": "rrmllypdfxjdg9j7.jpeg",
+      "cacheFile": "photos/datalux-sv-713-199/06.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,5 МБ"
+    }
+  ],
+  "itemFile": "content/mice/datalux-sv-713-199.json",
+  "previousPhotoCount": 0
+}

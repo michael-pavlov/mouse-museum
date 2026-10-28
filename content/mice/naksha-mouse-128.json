@@ -1,0 +1,118 @@
+{
+  "id": "MP-0128",
+  "slug": "naksha-mouse-128",
+  "title": {
+    "en": "Naksha mouse",
+    "ru": "Naksha mouse"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/128/",
+  "sourceOrder": 158,
+  "order": 161,
+  "sourceProperties": {
+    "Производитель": "Unknown",
+    "Год": "1994",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/naksha-mouse-128/01.webp",
+      "thumbnail": "assets/photos/naksha-mouse-128/01-thumb.webp",
+      "original": "assets/photos/naksha-mouse-128/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/s/sp/s/sp/spay2jyvwfbp7fp4.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/s/sp/spay2jyvwfbp7fp4.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/s/sp/spay2jyvwfbp7fp4.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "spay2jyvwfbp7fp4.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3217,
+      "originalHeight": 2145,
+      "originalBytes": 2692765,
+      "sha256": "6c1f56c5701e4dfdde54f39bc3e8870ecb4a69339d13fd39cb93fa6fe4d7381e",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/naksha-mouse-128/02.webp",
+      "thumbnail": "assets/photos/naksha-mouse-128/02-thumb.webp",
+      "original": "assets/photos/naksha-mouse-128/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/9/9g/9/9g/9gqm0bpsaueyqczb.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/9/9g/9gqm0bpsaueyqczb.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/9/9g/9gqm0bpsaueyqczb.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "9gqm0bpsaueyqczb.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3217,
+      "originalHeight": 2145,
+      "originalBytes": 2962236,
+      "sha256": "568076293bb7c9cda4c1eb6585053f1517b9edb469cae3802644283936619b92",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/naksha-mouse-128/03.webp",
+      "thumbnail": "assets/photos/naksha-mouse-128/03-thumb.webp",
+      "original": "assets/photos/naksha-mouse-128/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/w/wa/w/wa/wak6wveo8by37m7v.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/wa/wak6wveo8by37m7v.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/w/wa/wak6wveo8by37m7v.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "wak6wveo8by37m7v.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3823,
+      "originalHeight": 2549,
+      "originalBytes": 3731647,
+      "sha256": "a26aebb8fa553d1d8c688776b453d2d23676e4b8b2eb352e7025313a4e29f1a1",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Unknown",
+    "en": "Unknown"
+  },
+  "brand": "Unknown",
+  "year": 1994,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Naksha mouse",
+  "whereToSee": {
+    "ru": "Дальний",
+    "en": "Far"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/naksha-mouse-128/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:54+03:00",
+    "sourcePhotoCount": 3,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 3
+  }
+}

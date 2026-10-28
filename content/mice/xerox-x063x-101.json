@@ -1,0 +1,124 @@
+{
+  "id": "MP-0101",
+  "slug": "xerox-x063x-101",
+  "title": {
+    "en": "Xerox X063X",
+    "ru": "Xerox X063X"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/101/",
+  "sourceProperties": {
+    "Производитель": "Hawley",
+    "Год": "1983",
+    "Способ позиционирования": "на дискретных датчиках (Hawley)",
+    "СССР": "нет",
+    "Производитель платы": "Hawley",
+    "Где посмотреть": "Краснохолмская"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/xerox-x063x-101/01-catalog.webp",
+      "thumbnail": "assets/photos/xerox-x063x-101/01-catalog-thumb.webp",
+      "original": "assets/photos/xerox-x063x-101/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/rz/r/rz/rzylvhqmzh51p8mf.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/rz/rzylvhqmzh51p8mf.JPG",
+      "originalFilename": "rzylvhqmzh51p8mf.JPG",
+      "width": 1536,
+      "height": 1024,
+      "originalWidth": 3343,
+      "originalHeight": 2229,
+      "originalBytes": 897264,
+      "sha256": "b81ed76baae5a3969f19b73a4b0097f41a19a8f30624f20d870de9407a55b251",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/xerox-x063x-101/02.webp",
+      "thumbnail": "assets/photos/xerox-x063x-101/02-thumb.webp",
+      "original": "assets/photos/xerox-x063x-101/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/u/uh/u/uh/uhjw4hssgba6fxi4.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/uh/uhjw4hssgba6fxi4.JPG",
+      "originalFilename": "uhjw4hssgba6fxi4.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3343,
+      "originalHeight": 2229,
+      "originalBytes": 1024686,
+      "sha256": "bbfa9d5079b16d5119b2725865e7fbdf99fa36b159c19d2b03bb241a2b1a3db9",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/xerox-x063x-101/03.webp",
+      "thumbnail": "assets/photos/xerox-x063x-101/03-thumb.webp",
+      "original": "assets/photos/xerox-x063x-101/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/e/ez/e/ez/ezrvu64zkpnskzjl.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/ez/ezrvu64zkpnskzjl.JPG",
+      "originalFilename": "ezrvu64zkpnskzjl.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3905,
+      "originalHeight": 2603,
+      "originalBytes": 1298534,
+      "sha256": "4e366b0f5801a300a25eacf9a4d21392c20ce96bdb39027506e648fe819d3138",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/xerox-x063x-101/04.webp",
+      "thumbnail": "assets/photos/xerox-x063x-101/04-thumb.webp",
+      "original": "assets/photos/xerox-x063x-101/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/1/19/1/19/19bdnwmlz5bvfzqz.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/1/19/19bdnwmlz5bvfzqz.JPG",
+      "originalFilename": "19bdnwmlz5bvfzqz.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3582,
+      "originalHeight": 2388,
+      "originalBytes": 1244366,
+      "sha256": "e27331843b73aa02c464b94a48ca15459350311501b3983880fd8260e633eb3c",
+      "caption": ""
+    }
+  ],
+  "thumbnail": "assets/photos/xerox-x063x-101/thumb-catalog.webp",
+  "order": 13,
+  "manufacturer": {
+    "ru": "Hawley",
+    "en": "Hawley"
+  },
+  "brand": "Hawley",
+  "year": 1983,
+  "tracking": {
+    "key": "discrete-hawley",
+    "ru": "на дискретных датчиках (Hawley)",
+    "en": "Discrete sensors (Hawley)"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Xerox X063X",
+  "whereToSee": {
+    "ru": "Краснохолмская",
+    "en": "Krasnokholmskaya Gallery"
+  },
+  "boardManufacturer": {
+    "ru": "Hawley",
+    "en": "Hawley"
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T22:22:47+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 4
+  }
+}

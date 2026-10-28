@@ -1,0 +1,171 @@
+{
+  "id": "MP-0186",
+  "slug": "geos-geomouse-186",
+  "title": {
+    "en": "Geos GeoMouse",
+    "ru": "Geos GeoMouse"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/186/",
+  "sourceOrder": 199,
+  "order": 202,
+  "sourceProperties": {
+    "Год": "1988",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/geos-geomouse-186/01.webp",
+      "thumbnail": "assets/photos/geos-geomouse-186/01-thumb.webp",
+      "original": "assets/photos/geos-geomouse-186/originals/01.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/t/tu/t/tu/tunxqj8q61e1qwvs.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/tu/tunxqj8q61e1qwvs.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/t/tu/tunxqj8q61e1qwvs.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "tunxqj8q61e1qwvs.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1164357,
+      "sha256": "18851488196beec364175bbae2668f7c071066be821892169e5af65588286dae",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/geos-geomouse-186/02.webp",
+      "thumbnail": "assets/photos/geos-geomouse-186/02-thumb.webp",
+      "original": "assets/photos/geos-geomouse-186/originals/02.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/b/bs/b/bs/bstketcgysmtkplz.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/bs/bstketcgysmtkplz.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/b/bs/bstketcgysmtkplz.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "bstketcgysmtkplz.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1226586,
+      "sha256": "b21a710150fcb271609ca12b4c30d39672aeb48075dbb8f208b14a6d4aafb261",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/geos-geomouse-186/03.webp",
+      "thumbnail": "assets/photos/geos-geomouse-186/03-thumb.webp",
+      "original": "assets/photos/geos-geomouse-186/originals/03.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/j/jj/j/jj/jjw6auca6s4trwi1.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/j/jj/jjw6auca6s4trwi1.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/j/jj/jjw6auca6s4trwi1.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "jjw6auca6s4trwi1.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1445153,
+      "sha256": "d88f7a20cdd96cb12a40e412c6dd6cde2b61c0c879add75d366a43ac654019f8",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/geos-geomouse-186/04.webp",
+      "thumbnail": "assets/photos/geos-geomouse-186/04-thumb.webp",
+      "original": "assets/photos/geos-geomouse-186/originals/04.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/0/05/0/05/05mnsugvnzuqgd2i.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/0/05/05mnsugvnzuqgd2i.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/0/05/05mnsugvnzuqgd2i.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "05mnsugvnzuqgd2i.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1549399,
+      "sha256": "3492ed112daace393513cad802c9fd1fd6a495f836b7a50be0a32f3850958885",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/geos-geomouse-186/05.webp",
+      "thumbnail": "assets/photos/geos-geomouse-186/05-thumb.webp",
+      "original": "assets/photos/geos-geomouse-186/originals/05.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/b/b1/b/b1/b1uhg3pmauhvr0pz.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/b1/b1uhg3pmauhvr0pz.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/b/b1/b1uhg3pmauhvr0pz.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "b1uhg3pmauhvr0pz.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1749943,
+      "sha256": "0b3d426e8c6c4ca5e87de60633f70c9985fed73e7a92b13f74d0578cae1a18d1",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/geos-geomouse-186/06.webp",
+      "thumbnail": "assets/photos/geos-geomouse-186/06-thumb.webp",
+      "original": "assets/photos/geos-geomouse-186/originals/06.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/h/ho/h/ho/honl4hwwhdwyl5dm.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/ho/honl4hwwhdwyl5dm.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/h/ho/honl4hwwhdwyl5dm.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "honl4hwwhdwyl5dm.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1917789,
+      "sha256": "61e5a20fe509b1a5d0e5184b7099815931b2d39e224d657a858e4e306d5cc588",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Не указан",
+    "en": "Not recorded"
+  },
+  "brand": "Unknown",
+  "year": 1988,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Geos GeoMouse",
+  "whereToSee": {
+    "ru": "Дальний",
+    "en": "Far"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/geos-geomouse-186/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:55+03:00",
+    "sourcePhotoCount": 6,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 4,
+    "availableOriginals": 6
+  }
+}

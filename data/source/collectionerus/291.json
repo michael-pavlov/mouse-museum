@@ -1,0 +1,89 @@
+{
+  "sourceId": 291,
+  "source": "https://collectionerus.ru/collections/old-mice/291/",
+  "slug": "disney-mouse-291",
+  "sourceTitle": "Disney mouse",
+  "retrievedAt": "2026-10-27T23:11:01+03:00",
+  "sourcePageSha256": "61c60a00e8ebc63a9da3d63ab32294ce6fc440b65cc72b1e7bea670a703882ef",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Год": "1998",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "propertyLinks": {
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1998"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/1/1m/1/1m/1ma8xusigvuclqwx.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/1/1m/1ma8xusigvuclqwx.jpeg",
+      "originalName": "1ma8xusigvuclqwx.jpeg",
+      "cacheFile": "photos/disney-mouse-291/01.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 778,5 КБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/h/hj/h/hj/hj9zsejnc2cnvbjs.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hj/hj9zsejnc2cnvbjs.jpeg",
+      "originalName": "hj9zsejnc2cnvbjs.jpeg",
+      "cacheFile": "photos/disney-mouse-291/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 903,7 КБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/d/do/d/do/dohtnvfue3d2wps3.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/d/do/dohtnvfue3d2wps3.jpeg",
+      "originalName": "dohtnvfue3d2wps3.jpeg",
+      "cacheFile": "photos/disney-mouse-291/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 813,4 КБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/b/bu/b/bu/budt8tgpymvh5zmp.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/bu/budt8tgpymvh5zmp.jpeg",
+      "originalName": "budt8tgpymvh5zmp.jpeg",
+      "cacheFile": "photos/disney-mouse-291/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 910,4 КБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/k/k7/k/k7/k7ov0ho0w9nf7oin.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/k7/k7ov0ho0w9nf7oin.jpeg",
+      "originalName": "k7ov0ho0w9nf7oin.jpeg",
+      "cacheFile": "photos/disney-mouse-291/05.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,4 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/q/qk/q/qk/qkvbls3pcoehsgkg.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qk/qkvbls3pcoehsgkg.jpeg",
+      "originalName": "qkvbls3pcoehsgkg.jpeg",
+      "cacheFile": "photos/disney-mouse-291/06.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "3024×4032, 1,8 МБ"
+    }
+  ],
+  "itemFile": "content/mice/disney-mouse-291.json",
+  "previousPhotoCount": 0
+}

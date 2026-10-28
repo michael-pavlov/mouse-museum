@@ -1,0 +1,154 @@
+{
+  "id": "MP-0095",
+  "slug": "fellowes-thumbelina-95",
+  "title": {
+    "en": "Fellowes Thumbelina",
+    "ru": "Fellowes Thumbelina"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/95/",
+  "sourceOrder": 129,
+  "order": 133,
+  "sourceProperties": {
+    "Производитель": "Fellowes",
+    "Год": "1991",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Краснохолмская"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/fellowes-thumbelina-95/01.webp",
+      "thumbnail": "assets/photos/fellowes-thumbelina-95/01-thumb.webp",
+      "original": "assets/photos/fellowes-thumbelina-95/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/m/mi/mipm4iiedofifvjc.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/m/mi/mipm4iiedofifvjc.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/m/mi/mipm4iiedofifvjc.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "mipm4iiedofifvjc.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3100,
+      "originalHeight": 2067,
+      "originalBytes": 1292109,
+      "sha256": "b66414fa3b764068a54d20aa3f7f33f5e8ce94aead6a8e33b5a6ba653c21c62c",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/fellowes-thumbelina-95/02.webp",
+      "thumbnail": "assets/photos/fellowes-thumbelina-95/02-thumb.webp",
+      "original": "assets/photos/fellowes-thumbelina-95/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/4/4b/4babwdiizkcwq5q5.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/4/4b/4babwdiizkcwq5q5.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/4/4b/4babwdiizkcwq5q5.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "4babwdiizkcwq5q5.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3100,
+      "originalHeight": 2067,
+      "originalBytes": 1571177,
+      "sha256": "b6e0d6d1f3d08988d97563c1d2749d0d36a23a5e651bb506270643fef9242dce",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/fellowes-thumbelina-95/03.webp",
+      "thumbnail": "assets/photos/fellowes-thumbelina-95/03-thumb.webp",
+      "original": "assets/photos/fellowes-thumbelina-95/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/x/xo/xooyw7hphofpm6tp.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/xo/xooyw7hphofpm6tp.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/x/xo/xooyw7hphofpm6tp.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "xooyw7hphofpm6tp.JPG",
+      "width": 2100,
+      "height": 1400,
+      "originalWidth": 2100,
+      "originalHeight": 1400,
+      "originalBytes": 818430,
+      "sha256": "88db41e74315006ccc62fa05e36140ac1ba9c67c5c66afcc2258af280a9352ca",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/fellowes-thumbelina-95/04.webp",
+      "thumbnail": "assets/photos/fellowes-thumbelina-95/04-thumb.webp",
+      "original": "assets/photos/fellowes-thumbelina-95/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/l/lp/lpgfwvrf2ewqocqg.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/l/lp/lpgfwvrf2ewqocqg.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/l/lp/lpgfwvrf2ewqocqg.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "lpgfwvrf2ewqocqg.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3400,
+      "originalHeight": 2267,
+      "originalBytes": 1836536,
+      "sha256": "e6a1cfeb48d3011fb5ea2af480f76ca8ccf74d2283baa22e4f3613a42f57bbaf",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/fellowes-thumbelina-95/05.webp",
+      "thumbnail": "assets/photos/fellowes-thumbelina-95/05-thumb.webp",
+      "original": "assets/photos/fellowes-thumbelina-95/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/o/o1/o1lp9azd3qgwqldo.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/o/o1/o1lp9azd3qgwqldo.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/o/o1/o1lp9azd3qgwqldo.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "o1lp9azd3qgwqldo.JPG",
+      "width": 2100,
+      "height": 1400,
+      "originalWidth": 2100,
+      "originalHeight": 1400,
+      "originalBytes": 815618,
+      "sha256": "b068e428f10498259c984f31b773187668067539ee7635d0c2724b802681df36",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Fellowes",
+    "en": "Fellowes"
+  },
+  "brand": "Fellowes",
+  "year": 1991,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Fellowes Thumbelina",
+  "whereToSee": {
+    "ru": "Краснохолмская",
+    "en": "Krasnokholmskaya Gallery"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/fellowes-thumbelina-95/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:51+03:00",
+    "sourcePhotoCount": 5,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 5
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "id": "MP-0119",
+  "slug": "simba-s-mouse-119",
+  "title": {
+    "en": "Simba's mouse",
+    "ru": "Simba's mouse"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/119/",
+  "sourceOrder": 150,
+  "order": 154,
+  "sourceProperties": {
+    "Производитель": "Kibord",
+    "Год": "1998",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/simba-s-mouse-119/01.webp",
+      "thumbnail": "assets/photos/simba-s-mouse-119/01-thumb.webp",
+      "original": "assets/photos/simba-s-mouse-119/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/7/7k/7/7k/7kg48m0i6thwm7ql.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/7/7k/7kg48m0i6thwm7ql.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/7/7k/7kg48m0i6thwm7ql.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "7kg48m0i6thwm7ql.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3217,
+      "originalHeight": 2145,
+      "originalBytes": 3027332,
+      "sha256": "d40cf023f820d41ab1c9f9744bb96b4330bdfb3fea7e0450b43389737f803020",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/simba-s-mouse-119/02.webp",
+      "thumbnail": "assets/photos/simba-s-mouse-119/02-thumb.webp",
+      "original": "assets/photos/simba-s-mouse-119/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/m/mo/m/mo/moclv8wwm0kwcqa1.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/m/mo/moclv8wwm0kwcqa1.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/m/mo/moclv8wwm0kwcqa1.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "moclv8wwm0kwcqa1.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3617,
+      "originalHeight": 2411,
+      "originalBytes": 3779075,
+      "sha256": "8359febaaa9c1cbb678c097b5127d8551939c0cff17b82d4f381f0729087cc26",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/simba-s-mouse-119/03.webp",
+      "thumbnail": "assets/photos/simba-s-mouse-119/03-thumb.webp",
+      "original": "assets/photos/simba-s-mouse-119/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/z/zw/z/zw/zwlejowhag8czjw6.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/zw/zwlejowhag8czjw6.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/z/zw/zwlejowhag8czjw6.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "zwlejowhag8czjw6.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3444,
+      "originalHeight": 2296,
+      "originalBytes": 3257623,
+      "sha256": "c2a2014227162c38494bd16515def94817c0f21b94d212672ba020dff3461248",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/simba-s-mouse-119/04.webp",
+      "thumbnail": "assets/photos/simba-s-mouse-119/04-thumb.webp",
+      "original": "assets/photos/simba-s-mouse-119/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/g/gm/g/gm/gmpwupw0ofx2hjep.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gm/gmpwupw0ofx2hjep.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/g/gm/gmpwupw0ofx2hjep.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "gmpwupw0ofx2hjep.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3943,
+      "originalHeight": 2629,
+      "originalBytes": 3579682,
+      "sha256": "befa4d9b1375ed0cb8b799644f5f54a3a98ee16601892596be3a30c1d8675422",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Kibord",
+    "en": "Kibord"
+  },
+  "brand": "Kibord",
+  "year": 1998,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "От приставки Киборд-003 Simba's",
+    "en": "From the Kibord-003 Simba’s console."
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Simba's mouse",
+  "whereToSee": {
+    "ru": "Дальний",
+    "en": "Far"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/simba-s-mouse-119/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:52+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": true,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 4
+  }
+}

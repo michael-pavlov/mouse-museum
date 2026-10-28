@@ -1,0 +1,174 @@
+{
+  "id": "MP-0040",
+  "slug": "sun-compact-1-40",
+  "title": {
+    "en": "Sun Compact 1",
+    "ru": "Sun Compact 1"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/40/",
+  "sourceOrder": 70,
+  "order": 78,
+  "sourceProperties": {
+    "Производитель": "Sun",
+    "Год": "1993",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "Sun",
+    "СССР": "нет",
+    "Производитель платы": "Logitech",
+    "Где посмотреть": "Ближний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/sun-compact-1-40/01.webp",
+      "thumbnail": "assets/photos/sun-compact-1-40/01-thumb.webp",
+      "original": "assets/photos/sun-compact-1-40/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/m/mp/mpuvljvesukrttuo.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/m/mp/mpuvljvesukrttuo.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/m/mp/mpuvljvesukrttuo.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "mpuvljvesukrttuo.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1181834,
+      "sha256": "273bde94e2635b9180fef2ae5924850b093901708c2b6c3bbcef8b366613026e",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/sun-compact-1-40/02.webp",
+      "thumbnail": "assets/photos/sun-compact-1-40/02-thumb.webp",
+      "original": "assets/photos/sun-compact-1-40/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/w/wr/wrslcngdkxfsj8kc.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/wr/wrslcngdkxfsj8kc.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/w/wr/wrslcngdkxfsj8kc.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "wrslcngdkxfsj8kc.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1221405,
+      "sha256": "a8a40a23f57086ec487d5ae98cffb0dfd55c28ac21fb62a103f768155dfb660b",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/sun-compact-1-40/03.webp",
+      "thumbnail": "assets/photos/sun-compact-1-40/03-thumb.webp",
+      "original": "assets/photos/sun-compact-1-40/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/m/ma/manx35almjickfvw.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/m/ma/manx35almjickfvw.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/m/ma/manx35almjickfvw.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "manx35almjickfvw.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1322988,
+      "sha256": "918c4fe908d33cb015f2581895e0d1ff1e4acc98773624103c74e8cd74c88053",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/sun-compact-1-40/04.webp",
+      "thumbnail": "assets/photos/sun-compact-1-40/04-thumb.webp",
+      "original": "assets/photos/sun-compact-1-40/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/m/mi/mixv3owiqjd6zk02.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/m/mi/mixv3owiqjd6zk02.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/m/mi/mixv3owiqjd6zk02.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "mixv3owiqjd6zk02.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3800,
+      "originalHeight": 2533,
+      "originalBytes": 2051385,
+      "sha256": "c22cbff6acf3e0b80dc70c045bddb7d96dc6b2617388056c0fbf4337656f545a",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/sun-compact-1-40/05.webp",
+      "thumbnail": "assets/photos/sun-compact-1-40/05-thumb.webp",
+      "original": "assets/photos/sun-compact-1-40/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/q/qp/qpuqhzwow52lujfv.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qp/qpuqhzwow52lujfv.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/q/qp/qpuqhzwow52lujfv.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "qpuqhzwow52lujfv.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1843250,
+      "sha256": "28ccf3d551bb88ab9e03aa74ed76616aecba7fec28df7ee37b6fe4ad4f23282c",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/sun-compact-1-40/06.webp",
+      "thumbnail": "assets/photos/sun-compact-1-40/06-thumb.webp",
+      "original": "assets/photos/sun-compact-1-40/originals/06.jpg",
+      "source": "https://collectionerus.ru/media/items-large/l/lw/lwcumuojtafbzpun.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/l/lw/lwcumuojtafbzpun.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/l/lw/lwcumuojtafbzpun.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "lwcumuojtafbzpun.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2378147,
+      "sha256": "0c97c08f0d27d181a620bedbeacdd236d5b49c56df5745591b934ce71ef0abd8",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Sun",
+    "en": "Sun"
+  },
+  "brand": "Sun",
+  "year": 1993,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "Sun",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Sun Compact 1",
+  "whereToSee": {
+    "ru": "Ближний",
+    "en": "Near"
+  },
+  "boardManufacturer": {
+    "ru": "Logitech",
+    "en": "Logitech"
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/sun-compact-1-40/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:48+03:00",
+    "sourcePhotoCount": 6,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 7,
+    "availableOriginals": 6
+  }
+}

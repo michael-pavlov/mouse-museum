@@ -1,0 +1,55 @@
+{
+  "id": "telegram-243",
+  "slug": "mindset-mouse",
+  "title": {
+    "ru": "Mindset Mouse",
+    "en": "Mindset Mouse"
+  },
+  "date": "2026-07-19T16:16:55+00:00",
+  "source": "https://t.me/old_mice_and_hw/243",
+  "excerpt": {
+    "ru": "Клиновидный корпус, красные кнопки и знакомый механизм ALPS внутри.",
+    "en": "A wedge-shaped case, red buttons and a familiar ALPS mechanism inside."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/mindset-mouse/01.webp",
+      "source": "https://cdn4.telesco.pe/file/WrGw0NUlghoJq4s7QmDNoYRzXN18QqUZMqTQQy2KwesqWf7wpQLrlOhbKwiHf3UG94DgWL1-emqBa8grreOCzvNVjvZKSKTAmMeK8ihxPj5Sc27j67KzKynwy3R5WQ3CeUIZdMCOnF-hoxeRWrVN1ScRuSzQ5fVInJhqVu_q5HwJ5jRlWoCsDJqLDH6woKSNCLsiTNe7H2HmxqVcbwAmZevZ6G8atDAri0bm2uJ9QiANaIX5HeUDurcwhTLUZnzPvFFe8LhctEP8AXeyvfSo2obcT9PPwy0BX8lVUFej_GYnks3BQ12RmqivcT4wPJVuq_w3uuM8Wto9iClF3WX0AQ.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/mindset-mouse/02.webp",
+      "source": "https://cdn4.telesco.pe/file/Z3fKmXhlr9FpFgeGXSxSzE-FJct0aXAiRl9zpPLXHJRvbG6X5HyTksAb7pqQOnm4GAKchbFG6KCl2Fi3te_TWfa50mho_1EH5Ax2lXew9W8Gt5xcyOCz-i-e7j_dQLkEriRFFqp953-iUYGhLEdq7lOKEQqcueVX-Z2gpiqSa40bFeKDq-l_RHBMC36OKyzfTepmeZZdiBMuCXmQfvbVXkTlb6QYIM-P9ngRHvjOnUfQiVsjhLVHAiUYcNahGPh1UMd2gP_on0lqhpY3z0UNU-3RgfRJvk7Rl3tL2vuGkfQHXbFGeZbY1i8yMy2XicMgEW_y9LRon2ShHNIE9YUaGw.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/mindset-mouse/03.webp",
+      "source": "https://cdn4.telesco.pe/file/vGdwrUSA2cPIv7Pmi1cCzurF9yW3bw3W_112SWyfOy6VOJ2hlU5_eqJCY2aNCWNAQuiwv6yTqIZh1-PZnbIBDl3lEaAM8Ok11BSwuyZi5rzOfkFdM443XJfOTmzaHLeCfcXh0Z15A3NLCo17_yot-h6uy_lFvy2IF05ZObyXtcDyTkC48s6GiaV3Z87Em5IDGNUK_c_1-A70tUovVaqjXOT2GOEaGg-0S2jbWSEu00EKuJZlogDRikAVw4XU5p0fl999wN5KaMYy2nZ7b_qsSiLXdEAucRYKq4y_wCeTzNSDCgj-GUZDURJZscbJWtMyC8puueknbwD2zZ3S-aCh7g.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/mindset-mouse/04.webp",
+      "source": "https://cdn4.telesco.pe/file/HZttQHKP6hUWcZhOi93sGGsJ5uEiSizr-BGW-RrvbEdrquVegrljhDHahB13nxcb_HSvzYWOtiFC1HXH-HC-UptfT6o6niokDmrFwOtQzJj7_FsZq8X_aMk0riwV8RtD9CArtctyYNuCGNYV_vD99DrDEhkVj3UhWpiZ9Acz69bXR3noGqTEB2kx_0AYnTMhMcFd6istJfKAKQVSCp4CLXO90LWCqjxeNiqzeNagY8up2KdtEgLD0i-72225AipxzgiuGjozfduow4mRRrRL33qKOgFT04lxwSeKPRdTWPJpHPtX3llf4bSNk7uuRRgJsWDT87g7cVrfV9Divm1pDQ.jpg",
+      "width": 600,
+      "height": 800
+    }
+  ],
+  "relatedItems": [
+    "mindset-mouse-140",
+    "sharp-mz-1x10",
+    "microsoft-green-eye"
+  ],
+  "category": "stories",
+  "translationNote": {
+    "en": "Translated from the original Russian post.",
+    "ru": ""
+  },
+  "cover": "assets/posts/mindset-mouse/cover.webp",
+  "bodyFiles": {
+    "en": "content/posts/mindset-mouse/en.md",
+    "ru": "content/posts/mindset-mouse/ru.md"
+  }
+}

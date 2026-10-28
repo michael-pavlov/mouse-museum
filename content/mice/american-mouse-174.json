@@ -1,0 +1,138 @@
+{
+  "id": "MP-0174",
+  "slug": "american-mouse-174",
+  "title": {
+    "en": "American Mouse",
+    "ru": "American Mouse"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/174/",
+  "sourceProperties": {
+    "Производитель": "American Computer",
+    "Год": "1986",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Краснохолмская"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/american-mouse-174/01-catalog.webp",
+      "thumbnail": "assets/photos/american-mouse-174/01-catalog-thumb.webp",
+      "original": "assets/photos/american-mouse-174/originals/01.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/v/vi/v/vi/vis75kcjgt0mx2ns.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/vi/vis75kcjgt0mx2ns.jpeg",
+      "originalFilename": "vis75kcjgt0mx2ns.jpeg",
+      "width": 1448,
+      "height": 1086,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1357870,
+      "sha256": "b4d5ddc614a4b8c98af2e0443cd0e447e3c2e723c3d0f418bb04f6ddf43c3905",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/american-mouse-174/02.webp",
+      "thumbnail": "assets/photos/american-mouse-174/02-thumb.webp",
+      "original": "assets/photos/american-mouse-174/originals/02.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/p/pp/p/pp/ppatjwisorzn0nm3.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/pp/ppatjwisorzn0nm3.jpeg",
+      "originalFilename": "ppatjwisorzn0nm3.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1540960,
+      "sha256": "bcfb5867f22c714ae4b9ff7951dbd1adfa73cbbcb428c295cc791c550cafdad9",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/american-mouse-174/03.webp",
+      "thumbnail": "assets/photos/american-mouse-174/03-thumb.webp",
+      "original": "assets/photos/american-mouse-174/originals/03.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/v/ve/v/ve/vemeaq3vsuyyomcf.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/ve/vemeaq3vsuyyomcf.jpeg",
+      "originalFilename": "vemeaq3vsuyyomcf.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1531632,
+      "sha256": "30dab5bece5f496e75ea6d96639bf2e700a6b29873d164065bf76260799a5f14",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/american-mouse-174/04.webp",
+      "thumbnail": "assets/photos/american-mouse-174/04-thumb.webp",
+      "original": "assets/photos/american-mouse-174/originals/04.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/b/bq/b/bq/bqtyzdtz4wioxm6f.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/bq/bqtyzdtz4wioxm6f.jpeg",
+      "originalFilename": "bqtyzdtz4wioxm6f.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1734915,
+      "sha256": "99d3b8f0284e52a5610893d1cb93a66dd44a91dc761a6f2dce73101c3b37c17a",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/american-mouse-174/05.webp",
+      "thumbnail": "assets/photos/american-mouse-174/05-thumb.webp",
+      "original": "assets/photos/american-mouse-174/originals/05.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/g/gk/g/gk/gkrdakxdpqk7ezlf.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gk/gkrdakxdpqk7ezlf.jpeg",
+      "originalFilename": "gkrdakxdpqk7ezlf.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1510594,
+      "sha256": "d1eb91a68ba9ebd637744fbb84f60502f82eb8d5c74a95255ad4e5bf56fd6446",
+      "caption": ""
+    }
+  ],
+  "thumbnail": "assets/photos/american-mouse-174/thumb-catalog.webp",
+  "order": 21,
+  "manufacturer": {
+    "ru": "American Computer",
+    "en": "American Computer"
+  },
+  "brand": "American Computer",
+  "year": 1986,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "American Mouse",
+  "whereToSee": {
+    "ru": "Краснохолмская",
+    "en": "Krasnokholmskaya Gallery"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T22:22:55+03:00",
+    "sourcePhotoCount": 5,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 5
+  }
+}

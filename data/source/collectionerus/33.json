@@ -1,0 +1,101 @@
+{
+  "sourceId": 33,
+  "source": "https://collectionerus.ru/collections/old-mice/33/",
+  "slug": "dec-pc4xs-aa-33",
+  "sourceTitle": "DEC PC4XS-AA",
+  "retrievedAt": "2026-10-27T23:10:47+03:00",
+  "sourcePageSha256": "2f260bb52f3e4acdd95617839ff690d84ec8a95f6dad083ec7330889bae1dc45",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "DEC",
+    "Год": "1989",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "PS/2",
+    "СССР": "нет",
+    "Производитель платы": "Logitech",
+    "Где посмотреть": "Ближний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=DEC"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1989"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=PS%2F2"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Производитель платы": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel_platy=Logitech"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%91%D0%BB%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/x/x3/x3h5qdrnnv2sxsyz.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/x3/x3h5qdrnnv2sxsyz.JPG",
+      "originalName": "x3h5qdrnnv2sxsyz.JPG",
+      "cacheFile": "photos/dec-pc4xs-aa-33/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,1 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/9/97/97jrrggigihdkwuw.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/9/97/97jrrggigihdkwuw.JPG",
+      "originalName": "97jrrggigihdkwuw.JPG",
+      "cacheFile": "photos/dec-pc4xs-aa-33/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,3 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/x/xi/xiy6yvyfjxko2qjj.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/xi/xiy6yvyfjxko2qjj.JPG",
+      "originalName": "xiy6yvyfjxko2qjj.JPG",
+      "cacheFile": "photos/dec-pc4xs-aa-33/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3500×2333, 1,2 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/f/fs/fsl4vhptarhishu0.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/f/fs/fsl4vhptarhishu0.JPG",
+      "originalName": "fsl4vhptarhishu0.JPG",
+      "cacheFile": "photos/dec-pc4xs-aa-33/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3800×2533, 1,9 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/n/nm/nmgzbaphtxiynfqi.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/nm/nmgzbaphtxiynfqi.JPG",
+      "originalName": "nmgzbaphtxiynfqi.JPG",
+      "cacheFile": "photos/dec-pc4xs-aa-33/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 1,7 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/m/mt/mtxkoorpkft0tvjy.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/m/mt/mtxkoorpkft0tvjy.JPG",
+      "originalName": "mtxkoorpkft0tvjy.JPG",
+      "cacheFile": "photos/dec-pc4xs-aa-33/06.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4000×2667, 2,4 МБ"
+    }
+  ],
+  "itemFile": "content/mice/dec-pc4xs-aa-33.json",
+  "previousPhotoCount": 0
+}

@@ -1,0 +1,102 @@
+{
+  "sourceId": 178,
+  "source": "https://collectionerus.ru/collections/old-mice/178/",
+  "slug": "sun-type-5-178",
+  "sourceTitle": "Sun Type 5",
+  "retrievedAt": "2026-10-27T23:10:48+03:00",
+  "sourcePageSha256": "e6c194c6de42ef9bd730a9365049614de2b9e9f12b71dfb5339a11cfd5a1886b",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Mouse Systems",
+    "Год": "1995",
+    "Способ позиционирования": "Оптический через коврик",
+    "СССР": "нет",
+    "Где посмотреть": "Ближний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Mouse+Systems"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1995"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%D1%87%D0%B5%D1%80%D0%B5%D0%B7+%D0%BA%D0%BE%D0%B2%D1%80%D0%B8%D0%BA"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%91%D0%BB%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/g/gn/g/gn/gn33yrcoftf3ktrt.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gn/gn33yrcoftf3ktrt.jpeg",
+      "originalName": "gn33yrcoftf3ktrt.jpeg",
+      "cacheFile": "photos/sun-type-5-178/01.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,1 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/i/iq/i/iq/iqqrswnu8znq32om.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/iq/iqqrswnu8znq32om.jpeg",
+      "originalName": "iqqrswnu8znq32om.jpeg",
+      "cacheFile": "photos/sun-type-5-178/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,2 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/v/vu/v/vu/vu9yo9jxnarldbuk.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/vu/vu9yo9jxnarldbuk.jpeg",
+      "originalName": "vu9yo9jxnarldbuk.jpeg",
+      "cacheFile": "photos/sun-type-5-178/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,4 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/x/xg/x/xg/xgdt6ty6vljvi1lr.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/xg/xgdt6ty6vljvi1lr.jpeg",
+      "originalName": "xgdt6ty6vljvi1lr.jpeg",
+      "cacheFile": "photos/sun-type-5-178/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,4 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/2/2p/2/2p/2pcuawitlwfridlg.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/2/2p/2pcuawitlwfridlg.jpeg",
+      "originalName": "2pcuawitlwfridlg.jpeg",
+      "cacheFile": "photos/sun-type-5-178/05.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,7 МБ"
+    },
+    {
+      "position": 6,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/s/sw/s/sw/sw7zhquytotzfpnj.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/s/sw/sw7zhquytotzfpnj.jpeg",
+      "originalName": "sw7zhquytotzfpnj.jpeg",
+      "cacheFile": "photos/sun-type-5-178/06.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,4 МБ"
+    },
+    {
+      "position": 7,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/z/zr/z/zr/zrn4cza2hntcwnvb.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/zr/zrn4cza2hntcwnvb.jpeg",
+      "originalName": "zrn4cza2hntcwnvb.jpeg",
+      "cacheFile": "photos/sun-type-5-178/07.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,5 МБ"
+    }
+  ],
+  "itemFile": "content/mice/sun-type-5-178.json",
+  "previousPhotoCount": 0
+}

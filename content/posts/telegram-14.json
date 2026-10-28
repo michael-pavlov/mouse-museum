@@ -1,0 +1,48 @@
+{
+  "id": "telegram-14",
+  "slug": "telegram-14",
+  "title": {
+    "ru": "Процессорный модуль Amdahl 470V/6",
+    "en": "An Amdahl 470V/6 processor module"
+  },
+  "date": "2023-04-07T08:52:14+00:00",
+  "source": "https://t.me/old_mice_and_hw/14",
+  "excerpt": {
+    "ru": "Модуль мейнфрейма 1975 года и разводка, от которой страшно инженеру.",
+    "en": "A 1975 mainframe module with wiring to give an engineer nightmares."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/telegram-14/01.webp",
+      "original": "assets/posts/telegram-14/01.jpg",
+      "source": "https://cdn4.telesco.pe/file/o1lSGf956lJVpXNdSoqS2qUwvouI6Atrm124Yd0JbKiGzQ4Veee5Z5dJ8uC-7YlPIpx1j6pgG_AiX5ijOAy_dNSLXfi4jcPI-27lEVgnAhPxWWg7TxQk7s1e-6fFnTurAqPxpt9fYymj1D-l2atFdN6XnYQwH3lrVHuRHplyn61neyHlB70sTeNyiBiqCTZMLz6dE5aKsTGdshqcoyzW1iXq3uC9puvLqNcMgP_qSMB88T3R7Xk-0q_2OporrXyteq9qOlnFEDNx15-uP4ayQyvuHQzgYes-VWaAfp27dvsUFfKHZghpUwi1deygPs8DLUOQu_TbSy9Ni9p3POraUQ.jpg",
+      "width": 568,
+      "height": 479
+    },
+    {
+      "file": "assets/posts/telegram-14/02.webp",
+      "original": "assets/posts/telegram-14/02.jpg",
+      "source": "https://cdn4.telesco.pe/file/eBBhYCu7sX0ZIVdktrtV3jjvQUpofRdSmwG_b7BOHS_5f-oRNOSQJm_NJxHL8-ApSqi9gH-2Lt_Tx1PYuq1bh8zXXD5c7xLZfRe9kqAX8vOHHxSSJlwQle6BKVBegY-MG0QVVB6DJAwmz4po2Ok6IltlK_ZBZALKEG88E_VzVPaeypE5Cig5frIA5oAVDhD3_-1yKpFgxQQQeE7aEDkptu2EfA3Uh3GHOm4eTS12DWiPz5-emiOoJTLO4f23h9kSaot0YzlR4m2_ofLPpW0Yt6jWt7fdpT3yaRO7fHEE4SKzTBFomxUh6_KYktSJjzgk6b5u_ff4bsLBwqzbLRNd_Q.jpg",
+      "width": 631,
+      "height": 420
+    },
+    {
+      "file": "assets/posts/telegram-14/03.webp",
+      "original": "assets/posts/telegram-14/03.jpg",
+      "source": "https://cdn4.telesco.pe/file/Tt_VnV0u46lOOGZWrfmPaty7GTWjdFMhwQKfj_UQCzPsGIccb1dCrfijjVmnKytUK9SzkBZQhKCa7ZZjkpJbew9_dMsJpE8QXbF4oaHnHHXrUvbIUTRBoP8M09PPyF2KKlNEhNDI8-onvdXmuRj_k5paj8f6JjWh8BrkaqH-wvYyN4wYFekSvFBAgFuhAJ37TKYizxewZ0WA8hG1KPZlEw-khG0Yg_LMKnAnI_DcdjOjQRc5MhjJvVA-Mb1J_wkPnHBGAPKEKPRgwUzHy5mmRaEODGTL8ijCyHjBgX72uzzF03QAsHXxyE7JxUb18B8ewR97Or8xzgdWwq3tWOg04Q.jpg",
+      "width": 485,
+      "height": 485
+    }
+  ],
+  "cover": "assets/posts/telegram-14/01.webp",
+  "relatedItems": [],
+  "category": "stories",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-14/ru.md",
+    "en": "content/posts/telegram-14/en.md"
+  }
+}

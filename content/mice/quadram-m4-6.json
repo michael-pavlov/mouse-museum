@@ -1,0 +1,139 @@
+{
+  "id": "MP-0006",
+  "slug": "quadram-m4-6",
+  "title": {
+    "en": "Quadram M4",
+    "ru": "Quadram M4"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/6/",
+  "sourceProperties": {
+    "Производитель": "Quadram",
+    "Год": "1988",
+    "Способ позиционирования": "Оптический через коврик",
+    "Интерфейс": "COM",
+    "СССР": "нет",
+    "Где посмотреть": "Ближайший"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/quadram-m4-6/01.webp",
+      "thumbnail": "assets/photos/quadram-m4-6/01-thumb.webp",
+      "original": "assets/photos/quadram-m4-6/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/a/aw/awkj5fwzjg8b9z3d.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/a/aw/awkj5fwzjg8b9z3d.JPG",
+      "originalFilename": "awkj5fwzjg8b9z3d.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1087690,
+      "sha256": "9747f44d544cd322773fbce187723110ff90fcdd53143d57aed34eb1a64e139a",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/quadram-m4-6/02.webp",
+      "thumbnail": "assets/photos/quadram-m4-6/02-thumb.webp",
+      "original": "assets/photos/quadram-m4-6/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/9/94/9485day0jjnjgxri.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/9/94/9485day0jjnjgxri.JPG",
+      "originalFilename": "9485day0jjnjgxri.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1748085,
+      "sha256": "6e01427c7fe586dfaca8bbb7cf083f706bdcbdd4788f2c94dacc8e72316b4867",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/quadram-m4-6/03.webp",
+      "thumbnail": "assets/photos/quadram-m4-6/03-thumb.webp",
+      "original": "assets/photos/quadram-m4-6/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/j/je/jeyk0mqizine9aol.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/j/je/jeyk0mqizine9aol.JPG",
+      "originalFilename": "jeyk0mqizine9aol.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1554925,
+      "sha256": "f97897b366d3008a45455d8f1090dc1ed5f726c0ea9629d0e499ab9df2f8e11c",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/quadram-m4-6/04.webp",
+      "thumbnail": "assets/photos/quadram-m4-6/04-thumb.webp",
+      "original": "assets/photos/quadram-m4-6/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/z/zw/zwqtnjnoz6mwmo5j.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/zw/zwqtnjnoz6mwmo5j.JPG",
+      "originalFilename": "zwqtnjnoz6mwmo5j.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2373480,
+      "sha256": "75d9a322f769262ace6d94056c3ac4b9fb0c5bccf3212abf4b091f9c7d9b150d",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/quadram-m4-6/05.webp",
+      "thumbnail": "assets/photos/quadram-m4-6/05-thumb.webp",
+      "original": "assets/photos/quadram-m4-6/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/f/fk/fknt8udlw7dbwu78.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/f/fk/fknt8udlw7dbwu78.JPG",
+      "originalFilename": "fknt8udlw7dbwu78.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2036929,
+      "sha256": "17fcc712a9db39013686e4dac0c8897c8adeddffb9d77776dc93b3c0ed3b4a9d",
+      "caption": ""
+    }
+  ],
+  "thumbnail": "assets/photos/quadram-m4-6/thumb.webp",
+  "order": 17,
+  "manufacturer": {
+    "ru": "Quadram",
+    "en": "Quadram"
+  },
+  "brand": "Quadram",
+  "year": 1988,
+  "tracking": {
+    "key": "optical-pad",
+    "ru": "Оптический через коврик",
+    "en": "Optical · special pad"
+  },
+  "interface": "COM",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Quadram M4",
+  "whereToSee": {
+    "ru": "Ближайший",
+    "en": "Nearest"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T22:22:43+03:00",
+    "sourcePhotoCount": 5,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 5
+  }
+}

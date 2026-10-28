@@ -1,0 +1,76 @@
+{
+  "id": "telegram-119",
+  "slug": "telegram-119",
+  "title": {
+    "ru": "Как работает световое перо",
+    "en": "How a light pen works"
+  },
+  "date": "2025-01-30T14:08:01+00:00",
+  "source": "https://t.me/old_mice_and_hw/119",
+  "excerpt": {
+    "ru": "ЭЛТ-развёртка, фотодатчик и магнитный переключатель в советском световом пере.",
+    "en": "CRT scanning, a photosensor and a magnetic switch inside a Soviet light pen."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/telegram-119/01.webp",
+      "original": "assets/posts/telegram-119/01.jpg",
+      "source": "https://cdn4.telesco.pe/file/qBAT_daLBYooKBrho8l0y0vldnWw4jYBKMwKi8TuK2UUYRnPIm-ezxKyJb2RrteQNz7b6fTtVvnPYklGXhVBPevtAXQkMvIO-yZg64ynlcSsLA3Ng6hOYxVtipr8qbYa3cBleboFgYyYJnVqoIy9YEVFPQsXojxbVU2s9H0Aj2ttsqkPFynQsfoJD1lojqQWJ136GDgLM1XXGJ4O0KyfpyI9uPvtiXsUbN6ya_abmDtn515nRHT04LQ5GQgK7HvUHcnIeXeaFvjNZv2AIMS_plbjXTIhxikY1sp6UKegnrlZbAE2FUpl69HI5zJ9ozZFZNdW69DTV7SWPZWaAgY5MQ.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/telegram-119/02.webp",
+      "original": "assets/posts/telegram-119/02.jpg",
+      "source": "https://cdn4.telesco.pe/file/jT0r61MLfnxMdOEUI7B3xPMi6xkw51USnjr8P20MIPJLw7liPyDkinE9_NauQoFsSgQWS3n7SFVXnCFL6M1hbesk8ylyAJGBXFJzhTa1B3mvKB63qKenms9MdKoyguu6fkaly8xxOPsgZ_ywRgOUWEL5Lj9GDJSHAdzy3KrpW4USOWyIaAfahBVB1VLh4mWkNEd2FcHdplhCrZREq-vdx4wApk03KfRqey-rlEA_RL4-L36ZPcF-jC0ITXpAK80b9EDGgn28ayDW3nFRWSM_Y5C5t2N1LEXhWQH9K3UFIoybiUl2QZHAzXsYCWoBWmEnmhwoMGbRJS_8J2B9UWCwLw.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/telegram-119/03.webp",
+      "original": "assets/posts/telegram-119/03.jpg",
+      "source": "https://cdn4.telesco.pe/file/P5fSp2rx7YpruTK0gV5j_K4dWw85vXt6n05LWKBjm0XxTfL8IUbbtC6Z1GDbLFa42oEgIHbE5F16RxER8gHvKlAoUG90dq4paLE4xV7Owsy50CYddaEzbX3uyWc3omI1f6mabj4Uwu3MIXJO0bOo3k-STkjF-WYqhVMGfOTQSuQ4YJGM-xjmkQRqjRI5SyJ4W0tAXEasyNmusxql1wuv9Y-GxEiWRqnfYuqJmnFSUqqKULKdbBWTEZtHBmfYaegqrYB5By7sRG5HW4evxayboIO84t5aF33x_KsYYT5siJ2OCvWSbet49z3Ded0pQzLVXmdNH3ZxhHhy-rooR5SotA.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/telegram-119/04.webp",
+      "original": "assets/posts/telegram-119/04.jpg",
+      "source": "https://cdn4.telesco.pe/file/mZO8syPy3WfFmqlI0N2WNLq0oKvVZOfiAMjZG0AdUHU54CeuCHkPLI38zQsDg2J5Hgr20dpcHX_bzkKYV5Z4GtTsBvLy7Yllk0tGewu-y6Fa4tl1OXtMGMDY0rF2yfyvLHLcIMraD0XgpS_wdbZkUBPwFAapjypx4QK1uDuThPsrjnX_k0vz_-oAosdxFW2j0EC5Oig72aW5vJiBI4urM2XZziGEN6BdpI09-TZECjXNNCHstcdqVdQsCplCQQJOS-z5sehBvufVxrT9laqj_454DeylVwX7gdgDNHYORR14M56LhkDMazUjpPaBbuUAzRmJOxXy66BzLBskKoEipw.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/telegram-119/05.webp",
+      "original": "assets/posts/telegram-119/05.jpg",
+      "source": "https://cdn4.telesco.pe/file/AiottqXWRXQibO59_1GqM96MyIAkazFutuuoqFJ0lUxGOg6QHUzjUYtE8YECQWwNO72r-CVLyW95YkppaFRvIVRW4mLVgD4xvdOW4FuRmq26RVpvq9SWOREqNyEEIvOeTrlHOO2T4m8AGHu052NTk_HfxiISPHnTz1hbsSLfSX4uumTB3Fg9gfB7SJFp6oLLPcJgwKj4PAhBw67ckglGsY15M0Og0V9wiW79BK9rkiTa-HuY7oC6iwIx6d-xvNUsJA4qHRoxg0zcTcSX_eEudgokc6JCiUMHsrOY44qOyfj2kN987eZGBabi4IffzYL9vgVuTlMKBV6NHxlV5TFcnA.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/telegram-119/06.webp",
+      "original": "assets/posts/telegram-119/06.jpg",
+      "source": "https://cdn4.telesco.pe/file/MLSjDleX0JrGZT_9z_TLdZhJTLUqNdX0IIyBYztriKTPZpW0T3q7gK55I5StWh1hedXy5hXD_BR3GWlsXQ5XbqR-5bfyRoQR32GCefE__VI1OPITLNzKFkzrXvL0RLofwLR2Ca_Q6bAOQtBB3FHkWsAASO57cZu9X2UYusUjdhMqlIHfQC-ElNO4zoBsiFUUImSGCv47NltCR99F2LzL7kFgs_kBrB1uGUA2308zLrx3dCOgbxVsRQ7wnm3pymvbWIkd72XOVmulV8yr1Aa_OnBoVSXcFWLwAqLK4EAxB06TUZ5CGKBzuk3hGr4DtzzaM5bS3kMEKS4isMim99Q-vA.jpg",
+      "width": 800,
+      "height": 615
+    },
+    {
+      "file": "assets/posts/telegram-119/07.webp",
+      "original": "assets/posts/telegram-119/07.jpg",
+      "source": "https://cdn4.telesco.pe/file/DeVW_7vDie6r5PA3gennuvYnzX7nlbzk8axpe_wQOFIeE4ILvB9VdJIo2Gxl4GMNQGBrae3SRSm8yJX8lroHrZ_DEZoaPApXhGI0BGHX4vtn2b6jwR-ID8UpDYmVQ9VuotcXVSkshh8r0mi57eznxLi_lJJVTAgjaen2CX2mjEX9Zj6C511t77DY-F4Jv9B4gXE4vHlFHy994LeHSsBLWrXTfxuc-i9q_5Y8JjYZSM9YG6JL_rDdeUyDVd8P8QVZbWZ-_746LQBY-WYpUGOIEhYFeKKb04iwDcehAiaKW1FKmXTHAyWOqNAWHkgJbPnrN4FUvWZjfwEzbLCjfTIvjw.jpg",
+      "width": 458,
+      "height": 320
+    }
+  ],
+  "cover": "assets/posts/telegram-119/01.webp",
+  "relatedItems": [],
+  "category": "stories",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-119/ru.md",
+    "en": "content/posts/telegram-119/en.md"
+  }
+}

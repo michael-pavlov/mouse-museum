@@ -1,0 +1,71 @@
+{
+  "sourceId": 187,
+  "source": "https://collectionerus.ru/collections/old-mice/187/",
+  "slug": "mousepen-sunnyline-187",
+  "sourceTitle": "MousePen Sunnyline",
+  "retrievedAt": "2026-10-27T23:10:55+03:00",
+  "sourcePageSha256": "9dc18ae063af3c398798779af9cfc3bbdd78c52f15ca90e05aa39651948e694f",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Год": "1992",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Демо Стол"
+  },
+  "propertyLinks": {
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1992"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B5%D0%BC%D0%BE+%D0%A1%D1%82%D0%BE%D0%BB"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/a/ar/a/ar/arknbeeu6xamijsc.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/a/ar/arknbeeu6xamijsc.jpeg",
+      "originalName": "arknbeeu6xamijsc.jpeg",
+      "cacheFile": "photos/mousepen-sunnyline-187/01.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 957,1 КБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/t/tg/t/tg/tgsqvb0ji7yo2cuv.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/tg/tgsqvb0ji7yo2cuv.jpeg",
+      "originalName": "tgsqvb0ji7yo2cuv.jpeg",
+      "cacheFile": "photos/mousepen-sunnyline-187/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 806,8 КБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/q/qa/q/qa/qav0a0za4y2rzkas.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qa/qav0a0za4y2rzkas.jpeg",
+      "originalName": "qav0a0za4y2rzkas.jpeg",
+      "cacheFile": "photos/mousepen-sunnyline-187/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,2 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/e/es/e/es/esiknglut5skeejc.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/es/esiknglut5skeejc.jpeg",
+      "originalName": "esiknglut5skeejc.jpeg",
+      "cacheFile": "photos/mousepen-sunnyline-187/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,3 МБ"
+    }
+  ],
+  "itemFile": "content/mice/mousepen-sunnyline-187.json",
+  "previousPhotoCount": 0
+}

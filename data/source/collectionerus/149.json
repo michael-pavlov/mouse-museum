@@ -1,0 +1,84 @@
+{
+  "sourceId": 149,
+  "source": "https://collectionerus.ru/collections/old-mice/149/",
+  "slug": "gulliver-mouse-149",
+  "sourceTitle": "Gulliver mouse",
+  "retrievedAt": "2026-10-27T23:10:53+03:00",
+  "sourcePageSha256": "f917fbd2bc5335178945ef991ac495cc38d32d7168565e092a88afdd32d19dac",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Fellowes",
+    "Год": "1993",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Ближний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Fellowes"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1993"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%91%D0%BB%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/k/ke/k/ke/kekvgr1c8zy3driz.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/ke/kekvgr1c8zy3driz.jpg",
+      "originalName": "kekvgr1c8zy3driz.jpg",
+      "cacheFile": "photos/gulliver-mouse-149/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "1535×1024, 1,3 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/q/qo/q/qo/qomqsv7qknsvzpxb.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qo/qomqsv7qknsvzpxb.jpg",
+      "originalName": "qomqsv7qknsvzpxb.jpg",
+      "cacheFile": "photos/gulliver-mouse-149/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "2125×1417, 1,1 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/f/fv/f/fv/fvucza13o9qlg1ag.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/f/fv/fvucza13o9qlg1ag.jpg",
+      "originalName": "fvucza13o9qlg1ag.jpg",
+      "cacheFile": "photos/gulliver-mouse-149/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "2125×1417, 983,3 КБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/u/ua/u/ua/uakyo59qu7ftwfwq.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/ua/uakyo59qu7ftwfwq.jpg",
+      "originalName": "uakyo59qu7ftwfwq.jpg",
+      "cacheFile": "photos/gulliver-mouse-149/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "2125×1417, 959,6 КБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/f/fs/f/fs/fs0xjr0dyrrycag0.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/f/fs/fs0xjr0dyrrycag0.jpg",
+      "originalName": "fs0xjr0dyrrycag0.jpg",
+      "cacheFile": "photos/gulliver-mouse-149/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "2546×1697, 1,4 МБ"
+    }
+  ],
+  "itemFile": "content/mice/gulliver-mouse-149.json",
+  "previousPhotoCount": 0
+}

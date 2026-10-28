@@ -1,0 +1,66 @@
+{
+  "id": "telegram-27",
+  "slug": "telegram-27",
+  "title": {
+    "ru": "Mark II X063X",
+    "en": "Mark II X063X"
+  },
+  "date": "2023-05-28T08:39:56+00:00",
+  "source": "https://t.me/old_mice_and_hw/27",
+  "excerpt": {
+    "ru": "Разработка Джека Хоули с барабанными энкодерами и непростой разборкой.",
+    "en": "Jack Hawley's design, with drum encoders and a demanding cleaning procedure."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/telegram-27/01.webp",
+      "original": "assets/posts/telegram-27/01.jpg",
+      "source": "https://cdn4.telesco.pe/file/VPBXj0KsOvX851CJfMyMuCMz9KrnIeGGVs4A1vgUEpTgbkNhI1x7MXJvmB4HbpEnNMupdq_hPpP5-Aw1GgJLzqgo497umg_xXtl2eHn7VdQk9kvfGzFalNByBDcbLaz1J7KT7TtVynfvSZqtkdz4F0AccW7gWdm7DlofCw3YOZKTdjCJnWZ_WauMFJxu_hDyb8GvAYgpsjdurxkeY0wCe9zflmiw3Ihps4xi40oPehxUjIR2zjKq5h-Cu6tKjvwlkaHk2pkWFcVytE2AKdIoAMa_11rImA2dwdjKHq1B0l0uso7097ZzPSoM8Y2jlooy227jU7U1wVtgeTAY54u4lA.jpg",
+      "width": 800,
+      "height": 533
+    },
+    {
+      "file": "assets/posts/telegram-27/02.webp",
+      "original": "assets/posts/telegram-27/02.jpg",
+      "source": "https://cdn4.telesco.pe/file/gPX-k2ukEhn-Hf5IxlLbE-AcZJDh26XdX5yhgBy073cp_q_f2GwS23V7cnpNJwR1wPWc6E2EHrtwT4bLzMEz7phsSd9_ncIioHFRAaFVyujLK06v8DmdF59jdioSOvg1Rn1AF3xURH0JcEsARJbmwJsV6OCZIupl7XkTFTZSgSB71zdhQTH2itZaMZkVrvgGxGLlF-QZCsFV_OwyzEEcXWpVdd6tBAF9JOl93CO98-cEUVpQi0YdxUqiSZyhapGvvUI5kn4ZX4y27Kpbj5Zco6Hm4Q6DwAx_VvEi-62rxLqmQKNZuGJlMDwV9zBc8J2iTmBfghpjBsod4ICjFvpLhQ.jpg",
+      "width": 800,
+      "height": 533
+    },
+    {
+      "file": "assets/posts/telegram-27/03.webp",
+      "original": "assets/posts/telegram-27/03.jpg",
+      "source": "https://cdn4.telesco.pe/file/scY7U8oGp97CZTXrgAlNsPM1kZn9pKYIE8OHInP9TvsYGAEjDh101jyueMthp5ylCl0A-3Fq6bG3XXuv-PsNMKbdzyq0zEQFbkCPfKcWW1WC61jN0HbL3ywi_Qd9Yg2xB20VngALRXihxhFWGr0K-S05DXiFw8gq0wadWgF4vHY8lMNvx3NJgYJ2gKMpbo5AWYvTiZ0RRe4lGjc51f_odhAPJr_eFWi7WiIOnNyBdHYldvoTYkm-Q59O1DJHbQLE0emhDEbEbzt46Z4Ur38VI91ez5p18yi0BXJMNXevlI8I6In_V2sN1L3U0kFaSV3GFJlm1uxwAa-4gQrH9yGRdg.jpg",
+      "width": 800,
+      "height": 533
+    },
+    {
+      "file": "assets/posts/telegram-27/04.webp",
+      "original": "assets/posts/telegram-27/04.jpg",
+      "source": "https://cdn4.telesco.pe/file/H0T3Cc5JWyGDNY9zb39k-8DE1JTD9bzQnROp5PBQA47iZ4-3-LH8cT2FzmBFtVqu8LbK_-8IFFbA8y-_ogxXutvQhr6Ljyy3oF-645EJ9xO97qd8uyjc4JIgj-RxQrPsEU8r_MMP2-GW6eOOvHt5zPcuFqwTdhKQy38auWPwEn6tbSqROX1r3MRTyGjZ58jAjPdHSLyPz4nQZGuLoFUxBcen04dG4u63lC2GV3gS0suoydVFq50fQbQqyZwr7khlPP6YJJGm9B8pnKBlhbWGAuH829FphW1mCGmfMZXFOy8o91iXV3CbWlhmUJoiqmDQwwMVMbZYq_LxisgBYyha4w.jpg",
+      "width": 655,
+      "height": 800
+    }
+  ],
+  "cover": "assets/posts/telegram-27/01.webp",
+  "relatedItems": [
+    "xerox-x063x-101"
+  ],
+  "category": "stories",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-27/ru.md",
+    "en": "content/posts/telegram-27/en.md"
+  },
+  "references": [
+    {
+      "url": "https://collectionerus.ru/collections/old-mice/101/",
+      "label": {
+        "ru": "Ссылка из оригинала 1",
+        "en": "Original reference 1"
+      }
+    }
+  ]
+}

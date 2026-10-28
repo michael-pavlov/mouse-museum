@@ -1,0 +1,136 @@
+{
+  "id": "MP-0111",
+  "slug": "logitech-clearcase-111",
+  "title": {
+    "en": "Logitech ClearCase",
+    "ru": "Logitech ClearCase"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/111/",
+  "sourceOrder": 139,
+  "order": 143,
+  "sourceProperties": {
+    "Производитель": "Logitech",
+    "Год": "1988",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Краснохолмская"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/logitech-clearcase-111/01.webp",
+      "thumbnail": "assets/photos/logitech-clearcase-111/01-thumb.webp",
+      "original": "assets/photos/logitech-clearcase-111/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/d/dc/d/dc/dc93rr76kfmrvnmg.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/d/dc/dc93rr76kfmrvnmg.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/d/dc/dc93rr76kfmrvnmg.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "dc93rr76kfmrvnmg.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3217,
+      "originalHeight": 2145,
+      "originalBytes": 930248,
+      "sha256": "9f94a87c32d845b461c83f88bec72cf997a841e71737a501178e6c83c16d0557",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/logitech-clearcase-111/02.webp",
+      "thumbnail": "assets/photos/logitech-clearcase-111/02-thumb.webp",
+      "original": "assets/photos/logitech-clearcase-111/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/v/vr/v/vr/vrrl88dkdhvutaem.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/vr/vrrl88dkdhvutaem.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/v/vr/vrrl88dkdhvutaem.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "vrrl88dkdhvutaem.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3469,
+      "originalHeight": 2313,
+      "originalBytes": 1155929,
+      "sha256": "a0543594b67faddb34fe74f7420824c424e9a38101db1c804345c8ffb4cb2612",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/logitech-clearcase-111/03.webp",
+      "thumbnail": "assets/photos/logitech-clearcase-111/03-thumb.webp",
+      "original": "assets/photos/logitech-clearcase-111/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/rs/r/rs/rsqhk13xpyfnrb3t.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/rs/rsqhk13xpyfnrb3t.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/r/rs/rsqhk13xpyfnrb3t.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "rsqhk13xpyfnrb3t.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3796,
+      "originalHeight": 2531,
+      "originalBytes": 1276382,
+      "sha256": "526714f1a9fc170e7beebf7326d70f024f8bb5beaf621efeed0e0db6bf88356a",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/logitech-clearcase-111/04.webp",
+      "thumbnail": "assets/photos/logitech-clearcase-111/04-thumb.webp",
+      "original": "assets/photos/logitech-clearcase-111/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/8/8y/8/8y/8ydqnbwwrkfrvc5c.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/8/8y/8ydqnbwwrkfrvc5c.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/8/8y/8ydqnbwwrkfrvc5c.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "8ydqnbwwrkfrvc5c.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3217,
+      "originalHeight": 2145,
+      "originalBytes": 955867,
+      "sha256": "0083b1b1e254ce3eb24445ba2b0e8297de341cd78b0d6917657e782404d88564",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Logitech",
+    "en": "Logitech"
+  },
+  "brand": "Logitech",
+  "year": 1988,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Logitech ClearCase",
+  "whereToSee": {
+    "ru": "Краснохолмская",
+    "en": "Krasnokholmskaya Gallery"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/logitech-clearcase-111/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:51+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 4
+  }
+}

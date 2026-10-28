@@ -1,0 +1,186 @@
+{
+  "id": "MP-0008",
+  "slug": "es-1841-8",
+  "title": {
+    "en": "ES 1841",
+    "ru": "ЕС 1841"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/8/",
+  "sourceProperties": {
+    "Производитель": "СССР",
+    "Год": "1990",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "ЕС ЭВМ",
+    "СССР": "да",
+    "Особенности": "Металлический шарик",
+    "Где посмотреть": "Демо Стол",
+    "Обменный фонд": "есть 1"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/es-1841-8/01.webp",
+      "thumbnail": "assets/photos/es-1841-8/01-thumb.webp",
+      "original": "assets/photos/es-1841-8/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/u/us/us06w5kszi30joph.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/us/us06w5kszi30joph.JPG",
+      "originalFilename": "us06w5kszi30joph.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1118109,
+      "sha256": "32968c0e0ce839e66cf22a0774bd9f7edf8d7fac3553576530989e89ae701998",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/es-1841-8/02.webp",
+      "thumbnail": "assets/photos/es-1841-8/02-thumb.webp",
+      "original": "assets/photos/es-1841-8/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/l/lj/ljlih8xkglxotut2.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/l/lj/ljlih8xkglxotut2.JPG",
+      "originalFilename": "ljlih8xkglxotut2.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1363928,
+      "sha256": "afd36ec9a32213c2c415ebd25fefe8c3f46c38fcccbdd70a6487a8a3ed447cc6",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/es-1841-8/03.webp",
+      "thumbnail": "assets/photos/es-1841-8/03-thumb.webp",
+      "original": "assets/photos/es-1841-8/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/4/44/44pbo6mowffqxlqn.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/4/44/44pbo6mowffqxlqn.JPG",
+      "originalFilename": "44pbo6mowffqxlqn.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1364295,
+      "sha256": "4be7ffdf158e91edd23e0a22b518d36ad30295e06b77408e548aa2346d95e7a2",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/es-1841-8/04.webp",
+      "thumbnail": "assets/photos/es-1841-8/04-thumb.webp",
+      "original": "assets/photos/es-1841-8/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/w/wc/wcxqdurny3sograd.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/wc/wcxqdurny3sograd.JPG",
+      "originalFilename": "wcxqdurny3sograd.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1272697,
+      "sha256": "01391a71a6600df47fc050f00edc11389331a94dbf03c1e47585f2fe1e485b01",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/es-1841-8/05.webp",
+      "thumbnail": "assets/photos/es-1841-8/05-thumb.webp",
+      "original": "assets/photos/es-1841-8/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/s/s1/s14gza9vwfgyymyx.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/s/s1/s14gza9vwfgyymyx.JPG",
+      "originalFilename": "s14gza9vwfgyymyx.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2423061,
+      "sha256": "e5b671a965a37f83d50612e7ebbf1c6a5a53615b56141c25a344e0f2bf14fa5e",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/es-1841-8/06.webp",
+      "thumbnail": "assets/photos/es-1841-8/06-thumb.webp",
+      "original": "assets/photos/es-1841-8/originals/06.jpg",
+      "source": "https://collectionerus.ru/media/items-large/9/9b/9bpmggoqzbh3vivj.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/9/9b/9bpmggoqzbh3vivj.JPG",
+      "originalFilename": "9bpmggoqzbh3vivj.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1540466,
+      "sha256": "03779ba9aa37da7c5f9aeaabd3174c3263a9d30ab0979e441a4271c892d33158",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/es-1841-8/07.webp",
+      "thumbnail": "assets/photos/es-1841-8/07-thumb.webp",
+      "original": "assets/photos/es-1841-8/originals/07.jpg",
+      "source": "https://collectionerus.ru/media/items-large/h/ht/ht8gt0skztkpyh7o.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/ht/ht8gt0skztkpyh7o.JPG",
+      "originalFilename": "ht8gt0skztkpyh7o.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2023755,
+      "sha256": "9970dfa786d1533b7dca01beab869ed046e85f86965ece1df3259230104d51c9",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/es-1841-8/08.webp",
+      "thumbnail": "assets/photos/es-1841-8/08-thumb.webp",
+      "original": "assets/photos/es-1841-8/originals/08.jpg",
+      "source": "https://collectionerus.ru/media/items-large/q/qj/qjzkyzxqenwwzcxo.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qj/qjzkyzxqenwwzcxo.JPG",
+      "originalFilename": "qjzkyzxqenwwzcxo.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1176018,
+      "sha256": "f0531420ec164a5af090feae720da96b34f4d1573f78ed2ac008bae9409f3e6d",
+      "caption": ""
+    }
+  ],
+  "thumbnail": "assets/photos/es-1841-8/thumb.webp",
+  "order": 48,
+  "manufacturer": {
+    "ru": "СССР",
+    "en": "USSR / manufacturer not specified"
+  },
+  "brand": "СССР",
+  "year": 1990,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "ЕС ЭВМ",
+  "soviet": true,
+  "features": {
+    "ru": "Металлический шарик",
+    "en": "Metal ball"
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "ЕС 1841",
+  "whereToSee": {
+    "ru": "Демо Стол",
+    "en": "Demo table"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T22:22:44+03:00",
+    "sourcePhotoCount": 8,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 8,
+    "availableOriginals": 8
+  }
+}

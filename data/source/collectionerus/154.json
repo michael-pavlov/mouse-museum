@@ -1,0 +1,84 @@
+{
+  "sourceId": 154,
+  "source": "https://collectionerus.ru/collections/old-mice/154/",
+  "slug": "kibord-007-154",
+  "sourceTitle": "Киборд 007",
+  "retrievedAt": "2026-10-27T23:10:54+03:00",
+  "sourcePageSha256": "db88424b423fef8bc48a93f1ca9324617cea51d22c5b2d7b02fa7748bc9c261f",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Kibord",
+    "Год": "1994",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Kibord"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1994"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/e/e4/e/e4/e4ntzdhftreyc6ih.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/e4/e4ntzdhftreyc6ih.jpg",
+      "originalName": "e4ntzdhftreyc6ih.jpg",
+      "cacheFile": "photos/kibord-007-154/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "2125×1417, 833,3 КБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/i/ir/i/ir/irrz9thvoyg9w26y.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/ir/irrz9thvoyg9w26y.jpg",
+      "originalName": "irrz9thvoyg9w26y.jpg",
+      "cacheFile": "photos/kibord-007-154/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "2125×1417, 896,6 КБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/z/zd/z/zd/zdzdggzqx4rii6nd.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/zd/zdzdggzqx4rii6nd.jpg",
+      "originalName": "zdzdggzqx4rii6nd.jpg",
+      "cacheFile": "photos/kibord-007-154/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "2700×1800, 1,4 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/8/80/8/80/80u11yuvyesaf3pe.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/8/80/80u11yuvyesaf3pe.jpg",
+      "originalName": "80u11yuvyesaf3pe.jpg",
+      "cacheFile": "photos/kibord-007-154/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "2287×1525, 1,1 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/1/19/1/19/19yiojo2aftyouzi.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/1/19/19yiojo2aftyouzi.jpg",
+      "originalName": "19yiojo2aftyouzi.jpg",
+      "cacheFile": "photos/kibord-007-154/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3172×2115, 2,3 МБ"
+    }
+  ],
+  "itemFile": "content/mice/kibord-007-154.json",
+  "previousPhotoCount": 0
+}

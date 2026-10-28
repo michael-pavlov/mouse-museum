@@ -1,0 +1,191 @@
+{
+  "id": "MP-0077",
+  "slug": "amx-mouse-77",
+  "title": {
+    "en": "AMX Mouse",
+    "ru": "AMX Mouse"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/77/",
+  "sourceOrder": 112,
+  "order": 116,
+  "sourceProperties": {
+    "Производитель": "AMX",
+    "Год": "1985",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "BBC Micro",
+    "СССР": "нет",
+    "Где посмотреть": "Демо Витрина"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/amx-mouse-77/01-catalog.webp",
+      "thumbnail": "assets/photos/amx-mouse-77/01-catalog-thumb.webp",
+      "original": "assets/photos/amx-mouse-77/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/4/4e/4elerfaj9dzczmcw.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/4/4e/4elerfaj9dzczmcw.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/4/4e/4elerfaj9dzczmcw.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "4elerfaj9dzczmcw.JPG",
+      "width": 1536,
+      "height": 1024,
+      "originalWidth": 3300,
+      "originalHeight": 2200,
+      "originalBytes": 1496187,
+      "sha256": "fa9003c9fc76bd742ee724c64a66e73a360e693c1e9b0b15b7b57d7639bedec1",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/amx-mouse-77/02.webp",
+      "thumbnail": "assets/photos/amx-mouse-77/02-thumb.webp",
+      "original": "assets/photos/amx-mouse-77/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/h/hx/hx8cpbvptywmyqfo.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hx/hx8cpbvptywmyqfo.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/h/hx/hx8cpbvptywmyqfo.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "hx8cpbvptywmyqfo.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3300,
+      "originalHeight": 2200,
+      "originalBytes": 2130961,
+      "sha256": "6e9f9f0b99fb21dd2ebc6ddd4c28ec0acb1059847b515c6feb9089dfada67b87",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/amx-mouse-77/03.webp",
+      "thumbnail": "assets/photos/amx-mouse-77/03-thumb.webp",
+      "original": "assets/photos/amx-mouse-77/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/k/kr/kriyvnnv1ub0obvy.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/kr/kriyvnnv1ub0obvy.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/k/kr/kriyvnnv1ub0obvy.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "kriyvnnv1ub0obvy.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3300,
+      "originalHeight": 2200,
+      "originalBytes": 1880654,
+      "sha256": "1a05cbffd9e73b32e9e1c9bf4565f3d8a56f77e691f0908839c2fa53f16f3811",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/amx-mouse-77/04.webp",
+      "thumbnail": "assets/photos/amx-mouse-77/04-thumb.webp",
+      "original": "assets/photos/amx-mouse-77/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/s/sx/sx9xqxzyyqz7dpzl.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/s/sx/sx9xqxzyyqz7dpzl.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/s/sx/sx9xqxzyyqz7dpzl.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "sx9xqxzyyqz7dpzl.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3300,
+      "originalHeight": 2200,
+      "originalBytes": 2107637,
+      "sha256": "9c7676bcbee8a02845a019a76b4a629fd42fff9ee4c2094b51655d1048ed19ca",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/amx-mouse-77/05.webp",
+      "thumbnail": "assets/photos/amx-mouse-77/05-thumb.webp",
+      "original": "assets/photos/amx-mouse-77/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/y/yi/yilhopjthypgejej.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/y/yi/yilhopjthypgejej.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/y/yi/yilhopjthypgejej.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "yilhopjthypgejej.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3300,
+      "originalHeight": 2200,
+      "originalBytes": 2077526,
+      "sha256": "24b14a7b5ebe386545c1fcbec4567492e9a873c03dff2ae8c48ed98ff4c1f6ca",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/amx-mouse-77/06.webp",
+      "thumbnail": "assets/photos/amx-mouse-77/06-thumb.webp",
+      "original": "assets/photos/amx-mouse-77/originals/06.jpg",
+      "source": "https://collectionerus.ru/media/items-large/d/d0/d0zw7wywn3s8lnbk.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/d/d0/d0zw7wywn3s8lnbk.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/d/d0/d0zw7wywn3s8lnbk.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "d0zw7wywn3s8lnbk.JPG",
+      "width": 2400,
+      "height": 1553,
+      "originalWidth": 3750,
+      "originalHeight": 2427,
+      "originalBytes": 1381790,
+      "sha256": "7b45aef591c805f8a8b40573c52a68580a70842cf34d631e3158d133870515bc",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/amx-mouse-77/07.webp",
+      "thumbnail": "assets/photos/amx-mouse-77/07-thumb.webp",
+      "original": "assets/photos/amx-mouse-77/originals/07.jpg",
+      "source": "https://collectionerus.ru/media/items-large/a/ac/acaqigpisexdjfcr.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/a/ac/acaqigpisexdjfcr.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/a/ac/acaqigpisexdjfcr.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "acaqigpisexdjfcr.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1880523,
+      "sha256": "29632af870a7265a607389a05f7f0f71d0241c0744e2de61e24237f4cef27c26",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "AMX",
+    "en": "AMX"
+  },
+  "brand": "AMX",
+  "year": 1985,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "BBC Micro",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "AMX Mouse",
+  "whereToSee": {
+    "ru": "Демо Витрина",
+    "en": "Demo display case"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/amx-mouse-77/thumb-catalog.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:50+03:00",
+    "sourcePhotoCount": 7,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 7
+  }
+}

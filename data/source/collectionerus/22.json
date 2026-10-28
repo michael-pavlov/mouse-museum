@@ -1,0 +1,88 @@
+{
+  "sourceId": 22,
+  "source": "https://collectionerus.ru/collections/old-mice/22/",
+  "slug": "dec-vsxxx-aa-hawley-22",
+  "sourceTitle": "DEC VSXXX-AA (Hawley)",
+  "retrievedAt": "2026-10-27T22:22:49+03:00",
+  "sourcePageSha256": "81ea41b86cfdd76bce521bd302e55bdfa4b44f009cd9d38637ff82935511427c",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "DEC",
+    "Год": "1986",
+    "Способ позиционирования": "на датчиках с осевым наклоном (Hawley)",
+    "Интерфейс": "PS/2",
+    "СССР": "нет",
+    "Где посмотреть": "Демо Стол"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=DEC"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1986"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BD%D0%B0+%D0%B4%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B0%D1%85+%D1%81+%D0%BE%D1%81%D0%B5%D0%B2%D1%8B%D0%BC+%D0%BD%D0%B0%D0%BA%D0%BB%D0%BE%D0%BD%D0%BE%D0%BC+%28Hawley%29"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=PS%2F2"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%94%D0%B5%D0%BC%D0%BE+%D0%A1%D1%82%D0%BE%D0%BB"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/o/oq/oq3qrkaijhs8wohu.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/o/oq/oq3qrkaijhs8wohu.JPG",
+      "originalName": "oq3qrkaijhs8wohu.JPG",
+      "cacheFile": "photos/dec-vsxxx-aa-hawley-22/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,2 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/e/ee/eetp2vk87do6noxw.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/ee/eetp2vk87do6noxw.JPG",
+      "originalName": "eetp2vk87do6noxw.JPG",
+      "cacheFile": "photos/dec-vsxxx-aa-hawley-22/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,5 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/l/la/laahkmnl6zr0zjdc.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/l/la/laahkmnl6zr0zjdc.JPG",
+      "originalName": "laahkmnl6zr0zjdc.JPG",
+      "cacheFile": "photos/dec-vsxxx-aa-hawley-22/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3350×2233, 1,5 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/w/wf/wfqys0j7jdvbcpws.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/wf/wfqys0j7jdvbcpws.JPG",
+      "originalName": "wfqys0j7jdvbcpws.JPG",
+      "cacheFile": "photos/dec-vsxxx-aa-hawley-22/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4376×2918, 2,4 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/0/0f/0fuzfr8we7kt0jbf.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/0/0f/0fuzfr8we7kt0jbf.JPG",
+      "originalName": "0fuzfr8we7kt0jbf.JPG",
+      "cacheFile": "photos/dec-vsxxx-aa-hawley-22/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "4896×3264, 4,2 МБ"
+    }
+  ],
+  "itemFile": "content/mice/dec-vsxxx-aa-hawley-22.json",
+  "previousPhotoCount": 5
+}

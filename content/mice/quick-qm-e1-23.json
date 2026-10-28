@@ -1,0 +1,124 @@
+{
+  "id": "MP-0023",
+  "slug": "quick-qm-e1-23",
+  "title": {
+    "en": "Quick QM-E1",
+    "ru": "Quick QM-E1"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/23/",
+  "sourceProperties": {
+    "Производитель": "Quick",
+    "Год": "1991",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "COM",
+    "СССР": "нет",
+    "Где посмотреть": "Дальний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/quick-qm-e1-23/01.webp",
+      "thumbnail": "assets/photos/quick-qm-e1-23/01-thumb.webp",
+      "original": "assets/photos/quick-qm-e1-23/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/h/ho/hoafqbpige4cko97.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/ho/hoafqbpige4cko97.JPG",
+      "originalFilename": "hoafqbpige4cko97.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1068232,
+      "sha256": "e7ada4326ebd2dbb206d5cf5b097a3fb2f531644d98ecbee2a58b3c21f412fdf",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/quick-qm-e1-23/02.webp",
+      "thumbnail": "assets/photos/quick-qm-e1-23/02-thumb.webp",
+      "original": "assets/photos/quick-qm-e1-23/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/j/jt/jtabjzig3coaehsh.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/j/jt/jtabjzig3coaehsh.JPG",
+      "originalFilename": "jtabjzig3coaehsh.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2179783,
+      "sha256": "d45684fe6d46f1fb793408334e083a42870566a0f0d3381327532e604a0f1c40",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/quick-qm-e1-23/03.webp",
+      "thumbnail": "assets/photos/quick-qm-e1-23/03-thumb.webp",
+      "original": "assets/photos/quick-qm-e1-23/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/r/rj/rjxf4rpdybg6hnvo.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/rj/rjxf4rpdybg6hnvo.JPG",
+      "originalFilename": "rjxf4rpdybg6hnvo.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 1735195,
+      "sha256": "7f47b6b62578d4c28f5b064f9d4959b9cb6db8ae3e52b98e5d0124d31ebc3c4d",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/quick-qm-e1-23/04.webp",
+      "thumbnail": "assets/photos/quick-qm-e1-23/04-thumb.webp",
+      "original": "assets/photos/quick-qm-e1-23/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/j/jr/jroodazxkvpvhpwq.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/j/jr/jroodazxkvpvhpwq.JPG",
+      "originalFilename": "jroodazxkvpvhpwq.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2350158,
+      "sha256": "31710ab6e0878fe941046d117be402746fd2bac49ce6f8bb38a20c08e91083b1",
+      "caption": ""
+    }
+  ],
+  "thumbnail": "assets/photos/quick-qm-e1-23/thumb.webp",
+  "order": 31,
+  "manufacturer": {
+    "ru": "Quick",
+    "en": "Quick"
+  },
+  "brand": "Quick",
+  "year": 1991,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "COM",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Quick QM-E1",
+  "whereToSee": {
+    "ru": "Дальний",
+    "en": "Far"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T22:22:48+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 4
+  }
+}

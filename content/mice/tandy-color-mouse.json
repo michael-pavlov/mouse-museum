@@ -1,0 +1,214 @@
+{
+  "id": "MP-0004",
+  "slug": "tandy-color-mouse",
+  "title": {
+    "en": "Tandy TRS-80 Color",
+    "ru": "Tandy TRS-80 Color"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/4/",
+  "sourceProperties": {
+    "Производитель": "Tandy",
+    "Год": "1983",
+    "Способ позиционирования": "на потенциометрах",
+    "Интерфейс": "Tandy",
+    "СССР": "нет",
+    "Особенности": "Металлический шарик",
+    "Где посмотреть": "Демо Витрина"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/tandy-color-mouse/01-catalog.webp",
+      "thumbnail": "assets/photos/tandy-color-mouse/01-catalog-thumb.webp",
+      "original": "assets/photos/tandy-color-mouse/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/w/wk/wk3yaqduk9e6h017.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/wk/wk3yaqduk9e6h017.JPG",
+      "originalFilename": "wk3yaqduk9e6h017.JPG",
+      "width": 1536,
+      "height": 1024,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1234858,
+      "sha256": "17dc2cee0ab391c8b300aed78d0b38c8154f299aa74a9bda306462828cb877ef",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/tandy-color-mouse/02.webp",
+      "thumbnail": "assets/photos/tandy-color-mouse/02-thumb.webp",
+      "original": "assets/photos/tandy-color-mouse/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/c/ct/ctsiqjn5ull9e2f0.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/ct/ctsiqjn5ull9e2f0.JPG",
+      "originalFilename": "ctsiqjn5ull9e2f0.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1450174,
+      "sha256": "41ce85661b6143d1d057fd6d5b84e8b34a60a70c6454d59f3f8dc4512d154d9c",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/tandy-color-mouse/03.webp",
+      "thumbnail": "assets/photos/tandy-color-mouse/03-thumb.webp",
+      "original": "assets/photos/tandy-color-mouse/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/q/ql/qlvk1njn3dfwtwaa.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/ql/qlvk1njn3dfwtwaa.JPG",
+      "originalFilename": "qlvk1njn3dfwtwaa.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4896,
+      "originalHeight": 3264,
+      "originalBytes": 6127042,
+      "sha256": "82717865e5a268b0dc273f12a558d12826a77a9a89f4a62c2a6c88b879b89920",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/tandy-color-mouse/04.webp",
+      "thumbnail": "assets/photos/tandy-color-mouse/04-thumb.webp",
+      "original": "assets/photos/tandy-color-mouse/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/h/hu/hu1fjchcfk8kbhht.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hu/hu1fjchcfk8kbhht.JPG",
+      "originalFilename": "hu1fjchcfk8kbhht.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4896,
+      "originalHeight": 3264,
+      "originalBytes": 6474354,
+      "sha256": "5594eef6aa6a06243eff9873914295c907577fd9e4e03273eef01eacaad6e4e7",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/tandy-color-mouse/05.webp",
+      "thumbnail": "assets/photos/tandy-color-mouse/05-thumb.webp",
+      "original": "assets/photos/tandy-color-mouse/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/k/km/kmlbng3xkfxx5yfm.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/km/kmlbng3xkfxx5yfm.JPG",
+      "originalFilename": "kmlbng3xkfxx5yfm.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4896,
+      "originalHeight": 3264,
+      "originalBytes": 6367894,
+      "sha256": "39bc16a135b6d2f2d7f149abe95de763889c5b9272103087fd33f4d1a966d4f9",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/tandy-color-mouse/06.webp",
+      "thumbnail": "assets/photos/tandy-color-mouse/06-thumb.webp",
+      "original": "assets/photos/tandy-color-mouse/originals/06.jpg",
+      "source": "https://collectionerus.ru/media/items-large/x/xd/xddst8ryeq9wspzx.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/xd/xddst8ryeq9wspzx.JPG",
+      "originalFilename": "xddst8ryeq9wspzx.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1254773,
+      "sha256": "7a413a2e88298ba7d565f7bc2c7bcd9c7bedad946c5ec04245f079370761fc89",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/tandy-color-mouse/07.webp",
+      "thumbnail": "assets/photos/tandy-color-mouse/07-thumb.webp",
+      "original": "assets/photos/tandy-color-mouse/originals/07.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/1/1c/1/1c/1ceyhqz4jthongul.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/1/1c/1ceyhqz4jthongul.jpg",
+      "originalFilename": "1ceyhqz4jthongul.jpg",
+      "width": 729,
+      "height": 961,
+      "originalWidth": 729,
+      "originalHeight": 961,
+      "originalBytes": 208430,
+      "sha256": "82ae900383b09274a8468da0beead2e78abc05f4c997bb77de8a0337bfc88ea2",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/tandy-color-mouse/08.webp",
+      "thumbnail": "assets/photos/tandy-color-mouse/08-thumb.webp",
+      "original": "assets/photos/tandy-color-mouse/originals/08.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/ri/r/ri/riwc2mw9ghxxayg6.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/ri/riwc2mw9ghxxayg6.jpg",
+      "originalFilename": "riwc2mw9ghxxayg6.jpg",
+      "width": 803,
+      "height": 961,
+      "originalWidth": 803,
+      "originalHeight": 961,
+      "originalBytes": 210035,
+      "sha256": "6477c1c1922306008ea189eddcb261c32a7f133a6285ecef607f0169bc0febc7",
+      "caption": ""
+    }
+  ],
+  "thumbnail": "assets/photos/tandy-color-mouse/thumb-catalog.webp",
+  "order": 11,
+  "manufacturer": {
+    "ru": "Tandy",
+    "en": "Tandy"
+  },
+  "brand": "Tandy",
+  "year": 1983,
+  "tracking": {
+    "key": "potentiometer",
+    "ru": "на потенциометрах",
+    "en": "Potentiometers"
+  },
+  "interface": "Tandy",
+  "soviet": false,
+  "features": {
+    "ru": "Металлический шарик",
+    "en": "Metal ball"
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "externalLinks": [
+    {
+      "url": "https://www.youtube.com/watch?v=tcGowuMOpVo",
+      "title": {
+        "en": "Video on YouTube",
+        "ru": "Видео на YouTube"
+      }
+    },
+    {
+      "url": "https://archive.org/details/tandy-computer-catalog-85/page/46/mode/2up",
+      "title": {
+        "en": "Tandy computer catalogue, 1985 · p. 46",
+        "ru": "Каталог Tandy, 1985 · стр. 46"
+      }
+    },
+    {
+      "url": "https://archive.org/details/1984-catalogue_202308/page/141/mode/2up",
+      "title": {
+        "en": "1984 catalogue · p. 141",
+        "ru": "Каталог 1984 года · стр. 141"
+      }
+    },
+    {
+      "url": "https://messui.polygonal-moogle.com/sch/comp/26-3025.pdf",
+      "title": {
+        "en": "Manual · PDF",
+        "ru": "Инструкция · PDF"
+      }
+    }
+  ],
+  "whereToSee": {
+    "ru": "Демо Витрина",
+    "en": "Demo display case"
+  },
+  "sourceTitle": "Tandy TRS-80 Color",
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T22:22:50+03:00",
+    "sourcePhotoCount": 8,
+    "sourceDescriptionPresent": true,
+    "sourcePropertyCount": 7,
+    "availableOriginals": 8
+  }
+}

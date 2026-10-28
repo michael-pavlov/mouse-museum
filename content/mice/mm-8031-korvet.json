@@ -1,0 +1,169 @@
+{
+  "id": "MP-0035",
+  "slug": "mm-8031-korvet",
+  "title": {
+    "en": "MM 8031 (Korvet)",
+    "ru": "ММ 8031 (Корвет)"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/35/",
+  "sourceProperties": {
+    "Производитель": "СССР",
+    "Год": "1991",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "да",
+    "Где посмотреть": "Демо Стол",
+    "Обменный фонд": "есть 2"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/mm-8031-korvet/01.webp",
+      "thumbnail": "assets/photos/mm-8031-korvet/01-thumb.webp",
+      "original": "assets/photos/mm-8031-korvet/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/y/yf/yf0j2gpxcwmcqu34.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/y/yf/yf0j2gpxcwmcqu34.JPG",
+      "originalFilename": "yf0j2gpxcwmcqu34.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1149567,
+      "sha256": "987f8d30a8c5ded33707212109f181227d5fe15e47555e7c95db88ac0f35c63f",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/mm-8031-korvet/02.webp",
+      "thumbnail": "assets/photos/mm-8031-korvet/02-thumb.webp",
+      "original": "assets/photos/mm-8031-korvet/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/v/vn/vnabhub8jofhe3o5.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/vn/vnabhub8jofhe3o5.JPG",
+      "originalFilename": "vnabhub8jofhe3o5.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1365833,
+      "sha256": "e4bc77d915e7ef5513ca6dcd478368ac0884a55a2507707ee2f1de30c68ee501",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/mm-8031-korvet/03.webp",
+      "thumbnail": "assets/photos/mm-8031-korvet/03-thumb.webp",
+      "original": "assets/photos/mm-8031-korvet/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/g/gk/gka5s1yusorysjet.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gk/gka5s1yusorysjet.JPG",
+      "originalFilename": "gka5s1yusorysjet.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1275695,
+      "sha256": "81dc4025100b7fc21799c0a890317455d5af807ebd1e1f6478e97bd52642dff9",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/mm-8031-korvet/04.webp",
+      "thumbnail": "assets/photos/mm-8031-korvet/04-thumb.webp",
+      "original": "assets/photos/mm-8031-korvet/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/e/eh/eh73bpfwjkcnbnki.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/e/eh/eh73bpfwjkcnbnki.JPG",
+      "originalFilename": "eh73bpfwjkcnbnki.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1743126,
+      "sha256": "21816b67a458dbe4c5877da8a1881dedd5e108aa7bd8eb248875984044d39183",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/mm-8031-korvet/05.webp",
+      "thumbnail": "assets/photos/mm-8031-korvet/05-thumb.webp",
+      "original": "assets/photos/mm-8031-korvet/originals/05.jpg",
+      "source": "https://collectionerus.ru/media/items-large/g/g9/g9uomgkbp0mkq1uy.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/g9/g9uomgkbp0mkq1uy.JPG",
+      "originalFilename": "g9uomgkbp0mkq1uy.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 1749056,
+      "sha256": "a9d298c39d31f8b5548e799350a3dab2b9cb2b0dda87e3997068253e1e592f37",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/mm-8031-korvet/06.webp",
+      "thumbnail": "assets/photos/mm-8031-korvet/06-thumb.webp",
+      "original": "assets/photos/mm-8031-korvet/originals/06.jpg",
+      "source": "https://collectionerus.ru/media/items-large/r/rn/rntiwgoow5zcfu3o.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/rn/rntiwgoow5zcfu3o.JPG",
+      "originalFilename": "rntiwgoow5zcfu3o.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 2271848,
+      "sha256": "7c2e796f6d3be5568af2210969449c5120de5b20ccda4d2721592df6b8187d06",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/mm-8031-korvet/07.webp",
+      "thumbnail": "assets/photos/mm-8031-korvet/07-thumb.webp",
+      "original": "assets/photos/mm-8031-korvet/originals/07.jpg",
+      "source": "https://collectionerus.ru/media/items-large/s/sy/syx3odpiaq7hprkv.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/s/sy/syx3odpiaq7hprkv.JPG",
+      "originalFilename": "syx3odpiaq7hprkv.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4000,
+      "originalHeight": 2667,
+      "originalBytes": 1982084,
+      "sha256": "38609562e3ffee7cacc4642b99640764f28a438639dbaa0e14bd954a800addbd",
+      "caption": ""
+    }
+  ],
+  "thumbnail": "assets/photos/mm-8031-korvet/thumb.webp",
+  "order": 8,
+  "manufacturer": {
+    "ru": "СССР",
+    "en": "USSR / manufacturer not specified"
+  },
+  "brand": "СССР",
+  "year": 1991,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": true,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "Корвет",
+    "en": "Korvet."
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "ММ 8031 (Корвет)",
+  "whereToSee": {
+    "ru": "Демо Стол",
+    "en": "Demo table"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T22:22:42+03:00",
+    "sourcePhotoCount": 7,
+    "sourceDescriptionPresent": true,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 7
+  }
+}

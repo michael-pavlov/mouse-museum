@@ -1,0 +1,137 @@
+{
+  "id": "MP-0061",
+  "slug": "marsianka-uvk-01-red-61",
+  "title": {
+    "en": "Marsianka UVK-01 · red",
+    "ru": "Марсианка УВК-01 Красная"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/61/",
+  "sourceOrder": 40,
+  "order": 57,
+  "sourceProperties": {
+    "Производитель": "СССР",
+    "Год": "1989",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "БК",
+    "СССР": "да",
+    "Где посмотреть": "Ближний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/marsianka-uvk-01-red-61/01.webp",
+      "thumbnail": "assets/photos/marsianka-uvk-01-red-61/01-thumb.webp",
+      "original": "assets/photos/marsianka-uvk-01-red-61/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/7/73/73c9cgnrk8shxflb.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/7/73/73c9cgnrk8shxflb.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/7/73/73c9cgnrk8shxflb.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "73c9cgnrk8shxflb.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1185807,
+      "sha256": "f93ecb33d8f583ed19cff53acf2b46158b841c06bfa31692e3477c4fb0b21795",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/marsianka-uvk-01-red-61/02.webp",
+      "thumbnail": "assets/photos/marsianka-uvk-01-red-61/02-thumb.webp",
+      "original": "assets/photos/marsianka-uvk-01-red-61/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/j/jd/jd6s3jehosm2njc9.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/j/jd/jd6s3jehosm2njc9.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/j/jd/jd6s3jehosm2njc9.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "jd6s3jehosm2njc9.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3500,
+      "originalHeight": 2333,
+      "originalBytes": 1334908,
+      "sha256": "abab1e4e92549b3c1fe12a7cecbd5a9fa2d0c45c215a26a90eb95cd11b11001a",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/marsianka-uvk-01-red-61/03.webp",
+      "thumbnail": "assets/photos/marsianka-uvk-01-red-61/03-thumb.webp",
+      "original": "assets/photos/marsianka-uvk-01-red-61/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/o/oq/oqbul0epgh2udkvx.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/o/oq/oqbul0epgh2udkvx.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/o/oq/oqbul0epgh2udkvx.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "oqbul0epgh2udkvx.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4061,
+      "originalHeight": 2707,
+      "originalBytes": 2515169,
+      "sha256": "04e5dcae76cba3d29fa7da1687fd207ba4785736b8036b108d196224633e343e",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/marsianka-uvk-01-red-61/04.webp",
+      "thumbnail": "assets/photos/marsianka-uvk-01-red-61/04-thumb.webp",
+      "original": "assets/photos/marsianka-uvk-01-red-61/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/s/sm/smvg3b9xhi8ozy90.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/s/sm/smvg3b9xhi8ozy90.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/s/sm/smvg3b9xhi8ozy90.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "smvg3b9xhi8ozy90.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4061,
+      "originalHeight": 2707,
+      "originalBytes": 1958436,
+      "sha256": "8dfeab0ce54b219267035402cdf61a7b26b03b8a5c284ab7c93da731ddaa2ead",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "СССР",
+    "en": "USSR / manufacturer not specified"
+  },
+  "brand": "СССР",
+  "year": 1989,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "БК",
+  "soviet": true,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Марсианка УВК-01 Красная",
+  "whereToSee": {
+    "ru": "Ближний",
+    "en": "Near"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/marsianka-uvk-01-red-61/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:47+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 4
+  }
+}

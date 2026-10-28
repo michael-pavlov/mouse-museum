@@ -1,0 +1,84 @@
+{
+  "sourceId": 297,
+  "source": "https://collectionerus.ru/collections/old-mice/297/",
+  "slug": "sicos-green-mouse-297",
+  "sourceTitle": "Sicos Green Mouse",
+  "retrievedAt": "2026-10-27T23:11:01+03:00",
+  "sourcePageSha256": "4420bdd2485adae36d5c4f8855afb1b378a3f25349389b41d98267587e5418ce",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Sicos",
+    "Год": "1994",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Ближний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Sicos"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1994"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%91%D0%BB%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/w/wv/w/wv/wv03buaclyup2uwe.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/wv/wv03buaclyup2uwe.jpeg",
+      "originalName": "wv03buaclyup2uwe.jpeg",
+      "cacheFile": "photos/sicos-green-mouse-297/01.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 951,3 КБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/9/9a/9/9a/9atqxb2tqc7ynkbv.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/9/9a/9atqxb2tqc7ynkbv.jpeg",
+      "originalName": "9atqxb2tqc7ynkbv.jpeg",
+      "cacheFile": "photos/sicos-green-mouse-297/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 989,8 КБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/n/nl/n/nl/nlhjyyyo0fuztruq.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/n/nl/nlhjyyyo0fuztruq.jpeg",
+      "originalName": "nlhjyyyo0fuztruq.jpeg",
+      "cacheFile": "photos/sicos-green-mouse-297/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,5 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/f/fh/f/fh/fhqc7mzhzwu2ajnz.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/f/fh/fhqc7mzhzwu2ajnz.jpeg",
+      "originalName": "fhqc7mzhzwu2ajnz.jpeg",
+      "cacheFile": "photos/sicos-green-mouse-297/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,5 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/q/q5/q/q5/q5r7f2dlzakw0shv.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/q/q5/q5r7f2dlzakw0shv.jpeg",
+      "originalName": "q5r7f2dlzakw0shv.jpeg",
+      "cacheFile": "photos/sicos-green-mouse-297/05.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,5 МБ"
+    }
+  ],
+  "itemFile": "content/mice/sicos-green-mouse-297.json",
+  "previousPhotoCount": 0
+}

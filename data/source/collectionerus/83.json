@@ -1,0 +1,88 @@
+{
+  "sourceId": 83,
+  "source": "https://collectionerus.ru/collections/old-mice/83/",
+  "slug": "kensington-valumouse-83",
+  "sourceTitle": "Kensington ValuMouse",
+  "retrievedAt": "2026-10-27T23:10:50+03:00",
+  "sourcePageSha256": "30315c70d6d485fce814308e0987f7c8229470a251754bb1d901a61a797ed277",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Kensington",
+    "Год": "1990",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "PS/2",
+    "СССР": "нет",
+    "Где посмотреть": "Средний"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Kensington"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1990"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "Интерфейс": [
+      "https://collectionerus.ru/collections/old-mice/?interfeis=PS%2F2"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/z/z5/z5he6g8cyudlmt6g.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/z/z5/z5he6g8cyudlmt6g.JPG",
+      "originalName": "z5he6g8cyudlmt6g.JPG",
+      "cacheFile": "photos/kensington-valumouse-83/01.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3100×2067, 1,1 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/i/ij/ij40idi5ckjwjj2x.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/ij/ij40idi5ckjwjj2x.JPG",
+      "originalName": "ij40idi5ckjwjj2x.JPG",
+      "cacheFile": "photos/kensington-valumouse-83/02.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3100×2067, 1,3 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/o/oo/ooqa6ulwy0oem7uv.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/o/oo/ooqa6ulwy0oem7uv.JPG",
+      "originalName": "ooqa6ulwy0oem7uv.JPG",
+      "cacheFile": "photos/kensington-valumouse-83/03.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3100×2067, 1,2 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/l/lk/lk25jvdcrfkj2dzb.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/l/lk/lk25jvdcrfkj2dzb.JPG",
+      "originalName": "lk25jvdcrfkj2dzb.JPG",
+      "cacheFile": "photos/kensington-valumouse-83/04.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3100×2067, 1,1 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/b/bv/bvdwpyhbvocrghb6.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/b/bv/bvdwpyhbvocrghb6.JPG",
+      "originalName": "bvdwpyhbvocrghb6.JPG",
+      "cacheFile": "photos/kensington-valumouse-83/05.jpg",
+      "caption": "",
+      "sourceSizeLabel": "3100×2067, 1,8 МБ"
+    }
+  ],
+  "itemFile": "content/mice/kensington-valumouse-83.json",
+  "previousPhotoCount": 0
+}

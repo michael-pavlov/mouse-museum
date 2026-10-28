@@ -1,0 +1,173 @@
+{
+  "id": "MP-0272",
+  "slug": "logitech-m-s60-272",
+  "title": {
+    "en": "Logitech M-S60",
+    "ru": "Logitech M-S60"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/272/",
+  "sourceOrder": 267,
+  "order": 269,
+  "sourceProperties": {
+    "Производитель": "Logitech",
+    "Год": "1999",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "PS/2",
+    "СССР": "нет",
+    "Где посмотреть": "Ближний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/logitech-m-s60-272/01.webp",
+      "thumbnail": "assets/photos/logitech-m-s60-272/01-thumb.webp",
+      "original": "assets/photos/logitech-m-s60-272/originals/01.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/c/cu/c/cu/cuhplx3r4n1db3of.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/c/cu/cuhplx3r4n1db3of.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/c/cu/cuhplx3r4n1db3of.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "cuhplx3r4n1db3of.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 901792,
+      "sha256": "672d6175f55cc1a6a0c1508112e1d78aa7aed2fb1005c2d1ec9fd215219537a7",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/logitech-m-s60-272/02.webp",
+      "thumbnail": "assets/photos/logitech-m-s60-272/02-thumb.webp",
+      "original": "assets/photos/logitech-m-s60-272/originals/02.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/r3/r/r3/r3nwecn2px8ftzb2.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/r/r3/r3nwecn2px8ftzb2.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/r/r3/r3nwecn2px8ftzb2.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "r3nwecn2px8ftzb2.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1007655,
+      "sha256": "386f0b34917c59da17d742c9b9d98cd93e3e1095eb9da4ed6498f3b08aff71d1",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/logitech-m-s60-272/03.webp",
+      "thumbnail": "assets/photos/logitech-m-s60-272/03-thumb.webp",
+      "original": "assets/photos/logitech-m-s60-272/originals/03.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/o/oc/o/oc/ocldcas7etd3zw3l.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/o/oc/ocldcas7etd3zw3l.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/o/oc/ocldcas7etd3zw3l.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "ocldcas7etd3zw3l.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 985785,
+      "sha256": "1c9dd0c5c6f1d8c73c45b2ccf6aa037733daa3c2300b0082bfbd7d3d8587ac5a",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/logitech-m-s60-272/04.webp",
+      "thumbnail": "assets/photos/logitech-m-s60-272/04-thumb.webp",
+      "original": "assets/photos/logitech-m-s60-272/originals/04.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/x/xn/x/xn/xnehtj9wo6zcajwh.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/x/xn/xnehtj9wo6zcajwh.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/x/xn/xnehtj9wo6zcajwh.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "xnehtj9wo6zcajwh.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1248062,
+      "sha256": "70c29b406ffd1a03a810a451ab275e59451cf282adcb4f00358014c104669fb4",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/logitech-m-s60-272/05.webp",
+      "thumbnail": "assets/photos/logitech-m-s60-272/05-thumb.webp",
+      "original": "assets/photos/logitech-m-s60-272/originals/05.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/p/ph/p/ph/pho1yxbs7dta74z1.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/p/ph/pho1yxbs7dta74z1.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/p/ph/pho1yxbs7dta74z1.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "pho1yxbs7dta74z1.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1093737,
+      "sha256": "0032ed323d4a376b13e0daedcf3717c7911c606d7ad3c0a669adc7aa3e89d114",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/logitech-m-s60-272/06.webp",
+      "thumbnail": "assets/photos/logitech-m-s60-272/06-thumb.webp",
+      "original": "assets/photos/logitech-m-s60-272/originals/06.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/0/0u/0/0u/0utp4qupbcwchj5h.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/0/0u/0utp4qupbcwchj5h.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/0/0u/0utp4qupbcwchj5h.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "0utp4qupbcwchj5h.jpeg",
+      "width": 1800,
+      "height": 2400,
+      "originalWidth": 3024,
+      "originalHeight": 4032,
+      "originalBytes": 1061374,
+      "sha256": "7ffbaaf456df6749252b6ae1c7d8c57187f6a235d2ba691c8770730a8104d411",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Logitech",
+    "en": "Logitech"
+  },
+  "brand": "Logitech",
+  "year": 1999,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "PS/2",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Logitech M-S60",
+  "whereToSee": {
+    "ru": "Ближний",
+    "en": "Near"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/logitech-m-s60-272/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:11:00+03:00",
+    "sourcePhotoCount": 6,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 6
+  }
+}

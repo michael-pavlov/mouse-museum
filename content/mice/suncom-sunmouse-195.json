@@ -1,0 +1,190 @@
+{
+  "id": "MP-0195",
+  "slug": "suncom-sunmouse-195",
+  "title": {
+    "en": "Suncom SunMouse",
+    "ru": "Suncom SunMouse"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/195/",
+  "sourceOrder": 204,
+  "order": 207,
+  "sourceProperties": {
+    "Производитель": "Anko Electronic Co Ltd",
+    "Год": "1988",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Средний"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/suncom-sunmouse-195/01.webp",
+      "thumbnail": "assets/photos/suncom-sunmouse-195/01-thumb.webp",
+      "original": "assets/photos/suncom-sunmouse-195/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/a/ax/a/ax/axupim5apuqmf9cs.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/a/ax/axupim5apuqmf9cs.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/a/ax/axupim5apuqmf9cs.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "axupim5apuqmf9cs.jpg",
+      "width": 1448,
+      "height": 1086,
+      "originalWidth": 1448,
+      "originalHeight": 1086,
+      "originalBytes": 1655415,
+      "sha256": "b2024bf97f6fb8b6c0f058b88814b5b02e35a7d5b2c41be063cc091f8df351de",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/suncom-sunmouse-195/02.webp",
+      "thumbnail": "assets/photos/suncom-sunmouse-195/02-thumb.webp",
+      "original": "assets/photos/suncom-sunmouse-195/originals/02.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/h/hk/h/hk/hkocoxgfzkaitz1q.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hk/hkocoxgfzkaitz1q.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/h/hk/hkocoxgfzkaitz1q.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "hkocoxgfzkaitz1q.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1417185,
+      "sha256": "8f8cfb4e6afba261cf64dad7f100a4f26e3977ad0a098cf851da89f0ca70dc9b",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/suncom-sunmouse-195/03.webp",
+      "thumbnail": "assets/photos/suncom-sunmouse-195/03-thumb.webp",
+      "original": "assets/photos/suncom-sunmouse-195/originals/03.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/o/ow/o/ow/owa9jifft1m0zspm.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/o/ow/owa9jifft1m0zspm.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/o/ow/owa9jifft1m0zspm.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "owa9jifft1m0zspm.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1688526,
+      "sha256": "2d76cd0e6e3f8729cdfa0a1fae5d732c2aba4ffb06045ed9c42730726b9fd57f",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/suncom-sunmouse-195/04.webp",
+      "thumbnail": "assets/photos/suncom-sunmouse-195/04-thumb.webp",
+      "original": "assets/photos/suncom-sunmouse-195/originals/04.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/d/dc/d/dc/dc7fsvt6dleezhfd.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/d/dc/dc7fsvt6dleezhfd.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/d/dc/dc7fsvt6dleezhfd.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "dc7fsvt6dleezhfd.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1526314,
+      "sha256": "354e65a09b040885a9ebd122de561d7dedbb533c87a287bdcd4f81c9fef54e73",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/suncom-sunmouse-195/05.webp",
+      "thumbnail": "assets/photos/suncom-sunmouse-195/05-thumb.webp",
+      "original": "assets/photos/suncom-sunmouse-195/originals/05.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/9/94/9/94/94vsaefylzp3avgf.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/9/94/94vsaefylzp3avgf.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/9/94/94vsaefylzp3avgf.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "94vsaefylzp3avgf.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 2075698,
+      "sha256": "5560d643d828a7595271c87f48f15933eede89cd42f450fc725ed9ee2ce80a55",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/suncom-sunmouse-195/06.webp",
+      "thumbnail": "assets/photos/suncom-sunmouse-195/06-thumb.webp",
+      "original": "assets/photos/suncom-sunmouse-195/originals/06.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/m/mv/m/mv/mvppoeji8ydwlokl.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/m/mv/mvppoeji8ydwlokl.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/m/mv/mvppoeji8ydwlokl.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "mvppoeji8ydwlokl.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1650974,
+      "sha256": "7bf9a1274494dfc2d44118850f59de01f48170de8d6f2a4170f64fd3a027657b",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/suncom-sunmouse-195/07.webp",
+      "thumbnail": "assets/photos/suncom-sunmouse-195/07-thumb.webp",
+      "original": "assets/photos/suncom-sunmouse-195/originals/07.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/g/gb/g/gb/gbsktut6symrfqas.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gb/gbsktut6symrfqas.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/g/gb/gbsktut6symrfqas.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "gbsktut6symrfqas.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1727616,
+      "sha256": "8bbb2166d883d71e325eddc1c399ca687c9b9e5506715b74bcae8ee2d415560f",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Anko Electronic Co Ltd",
+    "en": "Anko Electronic Co Ltd"
+  },
+  "brand": "Anko Electronic Co Ltd",
+  "year": 1988,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Suncom SunMouse",
+  "whereToSee": {
+    "ru": "Средний",
+    "en": "Middle"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/suncom-sunmouse-195/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:56+03:00",
+    "sourcePhotoCount": 7,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 7
+  }
+}

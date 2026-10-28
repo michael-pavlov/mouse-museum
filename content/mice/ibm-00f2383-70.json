@@ -1,0 +1,137 @@
+{
+  "id": "MP-0070",
+  "slug": "ibm-00f2383-70",
+  "title": {
+    "en": "IBM 00F2383",
+    "ru": "IBM 00F2383"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/70/",
+  "sourceOrder": 103,
+  "order": 107,
+  "sourceProperties": {
+    "Производитель": "IBM",
+    "Год": "1986",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "Интерфейс": "PC/RT",
+    "СССР": "нет",
+    "Где посмотреть": "Краснохолмская"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/ibm-00f2383-70/01-catalog.webp",
+      "thumbnail": "assets/photos/ibm-00f2383-70/01-catalog-thumb.webp",
+      "original": "assets/photos/ibm-00f2383-70/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/w/w1/w1ki7akur0moogul.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/w1/w1ki7akur0moogul.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/w/w1/w1ki7akur0moogul.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "w1ki7akur0moogul.JPG",
+      "width": 1536,
+      "height": 1024,
+      "originalWidth": 3300,
+      "originalHeight": 2200,
+      "originalBytes": 1341507,
+      "sha256": "b5720e7f61e2b2ec7a932052667228201d76bbc442f72c3f43112b52db48e2e3",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/ibm-00f2383-70/02.webp",
+      "thumbnail": "assets/photos/ibm-00f2383-70/02-thumb.webp",
+      "original": "assets/photos/ibm-00f2383-70/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/a/am/amy1bb5hodbmlwsl.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/a/am/amy1bb5hodbmlwsl.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/a/am/amy1bb5hodbmlwsl.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "amy1bb5hodbmlwsl.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3350,
+      "originalHeight": 2233,
+      "originalBytes": 1278500,
+      "sha256": "90f6336719792da2caa5e2537af618d0fbcbf181ea759c8b015f976e87b5d60d",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/ibm-00f2383-70/03.webp",
+      "thumbnail": "assets/photos/ibm-00f2383-70/03-thumb.webp",
+      "original": "assets/photos/ibm-00f2383-70/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/o/od/od6d3c1n8hykqykh.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/o/od/od6d3c1n8hykqykh.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/o/od/od6d3c1n8hykqykh.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "od6d3c1n8hykqykh.JPG",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 4896,
+      "originalHeight": 3264,
+      "originalBytes": 5382388,
+      "sha256": "1d46358c74eb114c20888f6de0f09c9d0cfbaa2423c4a95a23c0ac81c29ff559",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/ibm-00f2383-70/04.webp",
+      "thumbnail": "assets/photos/ibm-00f2383-70/04-thumb.webp",
+      "original": "assets/photos/ibm-00f2383-70/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/i/ia/ia44u7tld7vpr2uj.JPG",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/ia/ia44u7tld7vpr2uj.JPG",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/i/ia/ia44u7tld7vpr2uj.JPG",
+      "sourceOriginalError": "",
+      "originalFilename": "ia44u7tld7vpr2uj.JPG",
+      "width": 2400,
+      "height": 1599,
+      "originalWidth": 3204,
+      "originalHeight": 2134,
+      "originalBytes": 1824228,
+      "sha256": "d828e9f28712e25a4c6bf3e2ff06686ab3deac81457e4be0c09213a62f1f1bba",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "IBM",
+    "en": "IBM"
+  },
+  "brand": "IBM",
+  "year": 1986,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "PC/RT",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "IBM 00F2383",
+  "whereToSee": {
+    "ru": "Краснохолмская",
+    "en": "Krasnokholmskaya Gallery"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/ibm-00f2383-70/thumb-catalog.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:49+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 6,
+    "availableOriginals": 4
+  }
+}

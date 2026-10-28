@@ -1,0 +1,63 @@
+{
+  "sourceId": 299,
+  "source": "https://collectionerus.ru/collections/old-mice/299/",
+  "slug": "startrek-type-1-phaser-mouse-299",
+  "sourceTitle": "StarTrek Type 1 Phaser Mouse",
+  "retrievedAt": "2026-10-27T23:11:02+03:00",
+  "sourcePageSha256": "a2ef1364474486367fd4323de47e5d2797059fc6b570708104b5b0cf399e4e90",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "СССР": "нет",
+    "Где посмотреть": "Ближайший"
+  },
+  "propertyLinks": {
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=%D0%91%D0%BB%D0%B8%D0%B6%D0%B0%D0%B9%D1%88%D0%B8%D0%B9"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/k/kq/k/kq/kqzz74dtlgowu5o5.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/kq/kqzz74dtlgowu5o5.jpeg",
+      "originalName": "kqzz74dtlgowu5o5.jpeg",
+      "cacheFile": "photos/startrek-type-1-phaser-mouse-299/01.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 847,7 КБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/d/dt/d/dt/dtbyzi5pbscex7vb.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/d/dt/dtbyzi5pbscex7vb.jpeg",
+      "originalName": "dtbyzi5pbscex7vb.jpeg",
+      "cacheFile": "photos/startrek-type-1-phaser-mouse-299/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 940,1 КБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/v/vf/v/vf/vfqmjg07qt0b4tni.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/vf/vfqmjg07qt0b4tni.jpeg",
+      "originalName": "vfqmjg07qt0b4tni.jpeg",
+      "cacheFile": "photos/startrek-type-1-phaser-mouse-299/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,1 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/v/vn/v/vn/vnnaaogkui6kksbs.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/v/vn/vnnaaogkui6kksbs.jpeg",
+      "originalName": "vnnaaogkui6kksbs.jpeg",
+      "cacheFile": "photos/startrek-type-1-phaser-mouse-299/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,2 МБ"
+    }
+  ],
+  "itemFile": "content/mice/startrek-type-1-phaser-mouse-299.json",
+  "previousPhotoCount": 0
+}

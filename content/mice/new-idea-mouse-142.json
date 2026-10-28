@@ -1,0 +1,136 @@
+{
+  "id": "MP-0142",
+  "slug": "new-idea-mouse-142",
+  "title": {
+    "en": "New Idea mouse",
+    "ru": "New Idea mouse"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/142/",
+  "sourceOrder": 165,
+  "order": 168,
+  "sourceProperties": {
+    "Производитель": "New Idea",
+    "Год": "1990",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Ближайший"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/new-idea-mouse-142/01.webp",
+      "thumbnail": "assets/photos/new-idea-mouse-142/01-thumb.webp",
+      "original": "assets/photos/new-idea-mouse-142/originals/01.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/w/w6/w/w6/w6umg5trggbpput9.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/w/w6/w6umg5trggbpput9.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/w/w6/w6umg5trggbpput9.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "w6umg5trggbpput9.jpg",
+      "width": 1895,
+      "height": 1263,
+      "originalWidth": 1895,
+      "originalHeight": 1263,
+      "originalBytes": 1122150,
+      "sha256": "db9562c60a35e4f193c60c1076f9d9efabfe02f2f9d66311f2295d07974dfbad",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/new-idea-mouse-142/02.webp",
+      "thumbnail": "assets/photos/new-idea-mouse-142/02-thumb.webp",
+      "original": "assets/photos/new-idea-mouse-142/originals/02.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/0/0t/0/0t/0tma2nufuz7gly0a.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/0/0t/0tma2nufuz7gly0a.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/0/0t/0tma2nufuz7gly0a.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "0tma2nufuz7gly0a.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 2606,
+      "originalHeight": 1737,
+      "originalBytes": 1748495,
+      "sha256": "72a87c579ba618e67527c4e41b5fc504a15983aa48fa6ecf61e4ab98773a3990",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/new-idea-mouse-142/03.webp",
+      "thumbnail": "assets/photos/new-idea-mouse-142/03-thumb.webp",
+      "original": "assets/photos/new-idea-mouse-142/originals/03.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/u/uu/u/uu/uuj6h2lwwxiajyap.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/u/uu/uuj6h2lwwxiajyap.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/u/uu/uuj6h2lwwxiajyap.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "uuj6h2lwwxiajyap.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 2866,
+      "originalHeight": 1911,
+      "originalBytes": 1419231,
+      "sha256": "11d5233b411f87792116fba2d2604f386648b08702e1ab10e612fcc1be14b0ed",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/new-idea-mouse-142/04.webp",
+      "thumbnail": "assets/photos/new-idea-mouse-142/04-thumb.webp",
+      "original": "assets/photos/new-idea-mouse-142/originals/04.jpg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/g/g8/g/g8/g8krjhiaa7toferj.jpg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/g8/g8krjhiaa7toferj.jpg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/g/g8/g8krjhiaa7toferj.jpg",
+      "sourceOriginalError": "",
+      "originalFilename": "g8krjhiaa7toferj.jpg",
+      "width": 2400,
+      "height": 1600,
+      "originalWidth": 3113,
+      "originalHeight": 2075,
+      "originalBytes": 2437417,
+      "sha256": "ae97128fc7ed0e7940c91e568850045f09e8aeeac4a70ca64c0ba987ad38cb83",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "New Idea",
+    "en": "New Idea"
+  },
+  "brand": "New Idea",
+  "year": 1990,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "New Idea mouse",
+  "whereToSee": {
+    "ru": "Ближайший",
+    "en": "Nearest"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/new-idea-mouse-142/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-10-27T23:10:54+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 4
+  }
+}
