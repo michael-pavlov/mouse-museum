@@ -15,14 +15,14 @@
   },
   "photos": [
     {
-      "file": "assets/photos/kompan-215/01.webp",
-      "thumbnail": "assets/photos/kompan-215/01-thumb.webp",
+      "file": "assets/photos/kompan-215/01-catalog.webp",
+      "thumbnail": "assets/photos/kompan-215/01-catalog-thumb.webp",
       "original": "assets/photos/kompan-215/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/6/6i/6/6i/6ipkkzihb9itvoss.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/6/6i/6ipkkzihb9itvoss.jpeg",
       "originalFilename": "6ipkkzihb9itvoss.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1312943,
@@ -150,7 +150,7 @@
       "caption": ""
     }
   ],
-  "thumbnail": "assets/photos/kompan-215/thumb.webp",
+  "thumbnail": "assets/photos/kompan-215/thumb-catalog.webp",
   "order": 39,
   "manufacturer": {
     "ru": "Не указан",

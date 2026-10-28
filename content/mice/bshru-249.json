@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/bshru-249/01.webp",
-      "thumbnail": "assets/photos/bshru-249/01-thumb.webp",
+      "file": "assets/photos/bshru-249/01-catalog.webp",
+      "thumbnail": "assets/photos/bshru-249/01-catalog-thumb.webp",
       "original": "assets/photos/bshru-249/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/v/v6/v/v6/v6xowv41wbqklrrb.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/v/v6/v6xowv41wbqklrrb.jpeg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/v/v6/v6xowv41wbqklrrb.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "v6xowv41wbqklrrb.jpeg",
-      "width": 2400,
-      "height": 2397,
+      "width": 1254,
+      "height": 1254,
       "originalWidth": 2827,
       "originalHeight": 2824,
       "originalBytes": 2390319,
@@ -295,7 +295,7 @@
       }
     }
   ],
-  "thumbnail": "assets/photos/bshru-249/thumb.webp",
+  "thumbnail": "assets/photos/bshru-249/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:58+03:00",
     "sourcePhotoCount": 13,

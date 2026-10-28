@@ -16,8 +16,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/fujitsu-fmmo-202-228/01.webp",
-      "thumbnail": "assets/photos/fujitsu-fmmo-202-228/01-thumb.webp",
+      "file": "assets/photos/fujitsu-fmmo-202-228/01-catalog.webp",
+      "thumbnail": "assets/photos/fujitsu-fmmo-202-228/01-catalog-thumb.webp",
       "original": "assets/photos/fujitsu-fmmo-202-228/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/f/fp/f/fp/fpkk2ldkkav9vp0y.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/f/fp/fpkk2ldkkav9vp0y.jpeg",
@@ -25,8 +25,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/f/fp/fpkk2ldkkav9vp0y.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "fpkk2ldkkav9vp0y.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1038650,
@@ -232,7 +232,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/fujitsu-fmmo-202-228/thumb.webp",
+  "thumbnail": "assets/photos/fujitsu-fmmo-202-228/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:59+03:00",
     "sourcePhotoCount": 10,

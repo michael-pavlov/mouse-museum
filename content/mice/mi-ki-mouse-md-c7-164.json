@@ -16,8 +16,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/mi-ki-mouse-md-c7-164/01.webp",
-      "thumbnail": "assets/photos/mi-ki-mouse-md-c7-164/01-thumb.webp",
+      "file": "assets/photos/mi-ki-mouse-md-c7-164/01-catalog.webp",
+      "thumbnail": "assets/photos/mi-ki-mouse-md-c7-164/01-catalog-thumb.webp",
       "original": "assets/photos/mi-ki-mouse-md-c7-164/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/e/em/e/em/emxkxs6gzd5tzkgd.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/e/em/emxkxs6gzd5tzkgd.jpeg",
@@ -25,8 +25,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/e/em/emxkxs6gzd5tzkgd.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "emxkxs6gzd5tzkgd.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1184361,
@@ -160,7 +160,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/mi-ki-mouse-md-c7-164/thumb.webp",
+  "thumbnail": "assets/photos/mi-ki-mouse-md-c7-164/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:54+03:00",
     "sourcePhotoCount": 6,

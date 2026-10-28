@@ -17,14 +17,14 @@
   },
   "photos": [
     {
-      "file": "assets/photos/tandy-trs-80-deluxe-5/01.webp",
-      "thumbnail": "assets/photos/tandy-trs-80-deluxe-5/01-thumb.webp",
+      "file": "assets/photos/tandy-trs-80-deluxe-5/01-catalog.webp",
+      "thumbnail": "assets/photos/tandy-trs-80-deluxe-5/01-catalog-thumb.webp",
       "original": "assets/photos/tandy-trs-80-deluxe-5/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/j/jy/jykdgrzm153yl5zi.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/j/jy/jykdgrzm153yl5zi.JPG",
       "originalFilename": "jykdgrzm153yl5zi.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3350,
       "originalHeight": 2233,
       "originalBytes": 1115589,
@@ -92,7 +92,7 @@
       "caption": ""
     }
   ],
-  "thumbnail": "assets/photos/tandy-trs-80-deluxe-5/thumb.webp",
+  "thumbnail": "assets/photos/tandy-trs-80-deluxe-5/thumb-catalog.webp",
   "order": 16,
   "manufacturer": {
     "ru": "Tandy",

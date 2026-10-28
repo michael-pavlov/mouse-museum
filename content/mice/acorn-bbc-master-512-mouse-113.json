@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/acorn-bbc-master-512-mouse-113/01.webp",
-      "thumbnail": "assets/photos/acorn-bbc-master-512-mouse-113/01-thumb.webp",
+      "file": "assets/photos/acorn-bbc-master-512-mouse-113/01-catalog.webp",
+      "thumbnail": "assets/photos/acorn-bbc-master-512-mouse-113/01-catalog-thumb.webp",
       "original": "assets/photos/acorn-bbc-master-512-mouse-113/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/5/5n/5/5n/5nrzhwy8oimqse5d.jpg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/5/5n/5nrzhwy8oimqse5d.jpg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/5/5n/5nrzhwy8oimqse5d.jpg",
       "sourceOriginalError": "",
       "originalFilename": "5nrzhwy8oimqse5d.jpg",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3217,
       "originalHeight": 2145,
       "originalBytes": 2206087,
@@ -115,7 +115,7 @@
       }
     }
   ],
-  "thumbnail": "assets/photos/acorn-bbc-master-512-mouse-113/thumb.webp",
+  "thumbnail": "assets/photos/acorn-bbc-master-512-mouse-113/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:51+03:00",
     "sourcePhotoCount": 3,

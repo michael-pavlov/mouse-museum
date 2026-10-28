@@ -18,8 +18,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/genius-gm-6-57/01.webp",
-      "thumbnail": "assets/photos/genius-gm-6-57/01-thumb.webp",
+      "file": "assets/photos/genius-gm-6-57/01-catalog.webp",
+      "thumbnail": "assets/photos/genius-gm-6-57/01-catalog-thumb.webp",
       "original": "assets/photos/genius-gm-6-57/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/h/hz/hz4gdevrrztmvrkz.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hz/hz4gdevrrztmvrkz.JPG",
@@ -27,8 +27,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/h/hz/hz4gdevrrztmvrkz.JPG",
       "sourceOriginalError": "",
       "originalFilename": "hz4gdevrrztmvrkz.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3500,
       "originalHeight": 2333,
       "originalBytes": 1312059,
@@ -162,7 +162,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/genius-gm-6-57/thumb.webp",
+  "thumbnail": "assets/photos/genius-gm-6-57/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:49+03:00",
     "sourcePhotoCount": 6,
