@@ -17,14 +17,14 @@
   },
   "photos": [
     {
-      "file": "assets/photos/marsianka-uvk-01-white-62/01.webp",
-      "thumbnail": "assets/photos/marsianka-uvk-01-white-62/01-thumb.webp",
+      "file": "assets/photos/marsianka-uvk-01-white-62/01-catalog.webp",
+      "thumbnail": "assets/photos/marsianka-uvk-01-white-62/01-catalog-thumb.webp",
       "original": "assets/photos/marsianka-uvk-01-white-62/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/a/ab/abt2l3v9gvriuesh.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/a/ab/abt2l3v9gvriuesh.JPG",
       "originalFilename": "abt2l3v9gvriuesh.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3500,
       "originalHeight": 2333,
       "originalBytes": 1063114,
@@ -92,7 +92,7 @@
       "caption": ""
     }
   ],
-  "thumbnail": "assets/photos/marsianka-uvk-01-white-62/thumb.webp",
+  "thumbnail": "assets/photos/marsianka-uvk-01-white-62/thumb-catalog.webp",
   "order": 46,
   "manufacturer": {
     "ru": "СССР",

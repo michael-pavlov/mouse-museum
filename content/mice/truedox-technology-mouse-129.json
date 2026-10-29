@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/truedox-technology-mouse-129/01.webp",
-      "thumbnail": "assets/photos/truedox-technology-mouse-129/01-thumb.webp",
+      "file": "assets/photos/truedox-technology-mouse-129/01-catalog.webp",
+      "thumbnail": "assets/photos/truedox-technology-mouse-129/01-catalog-thumb.webp",
       "original": "assets/photos/truedox-technology-mouse-129/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/b/b8/b/b8/b8r1aw6gjcoiriya.jpg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/b/b8/b8r1aw6gjcoiriya.jpg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/b/b8/b8r1aw6gjcoiriya.jpg",
       "sourceOriginalError": "",
       "originalFilename": "b8r1aw6gjcoiriya.jpg",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3217,
       "originalHeight": 2145,
       "originalBytes": 2920400,
@@ -125,7 +125,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/truedox-technology-mouse-129/thumb.webp",
+  "thumbnail": "assets/photos/truedox-technology-mouse-129/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:53+03:00",
     "sourcePhotoCount": 4,

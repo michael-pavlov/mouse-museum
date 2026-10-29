@@ -15,14 +15,14 @@
   },
   "photos": [
     {
-      "file": "assets/photos/es-1841-early-version-163/01.webp",
-      "thumbnail": "assets/photos/es-1841-early-version-163/01-thumb.webp",
+      "file": "assets/photos/es-1841-early-version-163/01-catalog.webp",
+      "thumbnail": "assets/photos/es-1841-early-version-163/01-catalog-thumb.webp",
       "original": "assets/photos/es-1841-early-version-163/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/q/ql/q/ql/qljc4lf1bchy4etb.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/q/ql/qljc4lf1bchy4etb.jpeg",
       "originalFilename": "qljc4lf1bchy4etb.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1040473,
@@ -120,7 +120,7 @@
       "caption": ""
     }
   ],
-  "thumbnail": "assets/photos/es-1841-early-version-163/thumb.webp",
+  "thumbnail": "assets/photos/es-1841-early-version-163/thumb-catalog.webp",
   "order": 38,
   "manufacturer": {
     "ru": "Не указан",

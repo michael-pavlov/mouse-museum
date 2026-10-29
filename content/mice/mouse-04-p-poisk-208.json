@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/mouse-04-p-poisk-208/01.webp",
-      "thumbnail": "assets/photos/mouse-04-p-poisk-208/01-thumb.webp",
+      "file": "assets/photos/mouse-04-p-poisk-208/01-catalog.webp",
+      "thumbnail": "assets/photos/mouse-04-p-poisk-208/01-catalog-thumb.webp",
       "original": "assets/photos/mouse-04-p-poisk-208/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/q/qb/q/qb/qbyeeiqkgkavxuet.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qb/qbyeeiqkgkavxuet.jpeg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/q/qb/qbyeeiqkgkavxuet.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "qbyeeiqkgkavxuet.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1226951,
@@ -359,7 +359,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/mouse-04-p-poisk-208/thumb.webp",
+  "thumbnail": "assets/photos/mouse-04-p-poisk-208/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:46+03:00",
     "sourcePhotoCount": 17,

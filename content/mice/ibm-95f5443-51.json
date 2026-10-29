@@ -19,8 +19,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/ibm-95f5443-51/01.webp",
-      "thumbnail": "assets/photos/ibm-95f5443-51/01-thumb.webp",
+      "file": "assets/photos/ibm-95f5443-51/01-catalog.webp",
+      "thumbnail": "assets/photos/ibm-95f5443-51/01-catalog-thumb.webp",
       "original": "assets/photos/ibm-95f5443-51/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/c/c2/c2mr5tifglnt0jym.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/c/c2/c2mr5tifglnt0jym.JPG",
@@ -28,8 +28,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/c/c2/c2mr5tifglnt0jym.JPG",
       "sourceOriginalError": "",
       "originalFilename": "c2mr5tifglnt0jym.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3500,
       "originalHeight": 2333,
       "originalBytes": 1300600,
@@ -163,7 +163,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/ibm-95f5443-51/thumb.webp",
+  "thumbnail": "assets/photos/ibm-95f5443-51/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:48+03:00",
     "sourcePhotoCount": 6,
