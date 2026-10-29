@@ -111,7 +111,7 @@ class Wanted:
                 contact=tr('The button opens an email draft. You can also write directly to ','Кнопка откроет черновик письма. Можно написать напрямую: ',language)
                 cards=''.join(self.card(entry,language,path,exchange) for entry in entries)
                 empty=f'<p>{tr("Nothing listed here yet.","Пока здесь ничего нет.",language)}</p>' if not entries else ''
-                body=f'''<section class="wanted-heading"><h1>Wanted<span> / {tr('Exchange','Обмен',language)}</span></h1><p>{intro}</p></section>{tabs}<div class="wanted-grid">{cards}{empty}</div><p class="wanted-contact">{contact}<a href="mailto:{EMAIL}">{EMAIL}</a>.</p>'''
-                title=tr('For exchange','Обменный фонд',language) if exchange else tr('Wanted','Ищу в коллекцию',language)
+                body=f'''<section class="wanted-heading"><h1>{tr('Wanted','Ищется',language)}<span> / {tr('Exchange','Обмен',language)}</span></h1><p>{intro}</p></section>{tabs}<div class="wanted-grid">{cards}{empty}</div><p class="wanted-contact">{contact}<a href="mailto:{EMAIL}">{EMAIL}</a>.</p>'''
+                title=tr('For exchange','Обменный фонд',language) if exchange else tr('Wanted','Ищется',language)
                 other=self.page_path('ru' if language=='en' else 'en',exchange)
                 shell(path,language,title,intro,body,other,entries[0]['image'] if entries else None)
