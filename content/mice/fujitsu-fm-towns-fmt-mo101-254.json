@@ -19,8 +19,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/fujitsu-fm-towns-fmt-mo101-254/01.webp",
-      "thumbnail": "assets/photos/fujitsu-fm-towns-fmt-mo101-254/01-thumb.webp",
+      "file": "assets/photos/fujitsu-fm-towns-fmt-mo101-254/01-catalog.webp",
+      "thumbnail": "assets/photos/fujitsu-fm-towns-fmt-mo101-254/01-catalog-thumb.webp",
       "original": "assets/photos/fujitsu-fm-towns-fmt-mo101-254/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/j/j9/j/j9/j9icl2l8dogbnhva.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/j/j9/j9icl2l8dogbnhva.jpeg",
@@ -28,8 +28,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/j/j9/j9icl2l8dogbnhva.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "j9icl2l8dogbnhva.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 902387,
@@ -199,7 +199,7 @@
   },
   "channelPost": "https://t.me/old_mice_and_hw/224",
   "externalLinks": [],
-  "thumbnail": "assets/photos/fujitsu-fm-towns-fmt-mo101-254/thumb.webp",
+  "thumbnail": "assets/photos/fujitsu-fm-towns-fmt-mo101-254/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:59+03:00",
     "sourcePhotoCount": 8,

@@ -16,8 +16,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/depraz-p4/01.webp",
-      "thumbnail": "assets/photos/depraz-p4/01-thumb.webp",
+      "file": "assets/photos/depraz-p4/01-catalog.webp",
+      "thumbnail": "assets/photos/depraz-p4/01-catalog-thumb.webp",
       "original": "assets/photos/depraz-p4/originals/01.png",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/n/nl/n/nl/nls3jvixu0goznof.png",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/n/nl/nls3jvixu0goznof.png",
@@ -181,7 +181,7 @@
       "caption": ""
     }
   ],
-  "thumbnail": "assets/photos/depraz-p4/thumb.webp",
+  "thumbnail": "assets/photos/depraz-p4/thumb-catalog.webp",
   "order": 2,
   "manufacturer": {
     "ru": "Dubois Depraz SA / Logitech",

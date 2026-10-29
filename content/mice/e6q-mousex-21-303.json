@@ -16,8 +16,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/e6q-mousex-21-303/01.webp",
-      "thumbnail": "assets/photos/e6q-mousex-21-303/01-thumb.webp",
+      "file": "assets/photos/e6q-mousex-21-303/01-catalog.webp",
+      "thumbnail": "assets/photos/e6q-mousex-21-303/01-catalog-thumb.webp",
       "original": "assets/photos/e6q-mousex-21-303/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/rq/r/rq/rqznon4c7fth8jbw.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/r/rq/rqznon4c7fth8jbw.jpeg",
@@ -25,8 +25,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/r/rq/rqznon4c7fth8jbw.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "rqznon4c7fth8jbw.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 945236,
@@ -178,7 +178,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/e6q-mousex-21-303/thumb.webp",
+  "thumbnail": "assets/photos/e6q-mousex-21-303/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:11:02+03:00",
     "sourcePhotoCount": 7,

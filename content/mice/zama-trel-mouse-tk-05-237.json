@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/zama-trel-mouse-tk-05-237/01.webp",
-      "thumbnail": "assets/photos/zama-trel-mouse-tk-05-237/01-thumb.webp",
+      "file": "assets/photos/zama-trel-mouse-tk-05-237/01-catalog.webp",
+      "thumbnail": "assets/photos/zama-trel-mouse-tk-05-237/01-catalog-thumb.webp",
       "original": "assets/photos/zama-trel-mouse-tk-05-237/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/e/e9/e/e9/e9rjtx0ocomdhigo.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/e/e9/e9rjtx0ocomdhigo.jpeg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/e/e9/e9rjtx0ocomdhigo.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "e9rjtx0ocomdhigo.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1263338,
@@ -215,7 +215,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/zama-trel-mouse-tk-05-237/thumb.webp",
+  "thumbnail": "assets/photos/zama-trel-mouse-tk-05-237/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:58+03:00",
     "sourcePhotoCount": 9,

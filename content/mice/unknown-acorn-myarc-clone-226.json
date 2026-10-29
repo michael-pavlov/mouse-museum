@@ -16,8 +16,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/unknown-acorn-myarc-clone-226/01.webp",
-      "thumbnail": "assets/photos/unknown-acorn-myarc-clone-226/01-thumb.webp",
+      "file": "assets/photos/unknown-acorn-myarc-clone-226/01-catalog.webp",
+      "thumbnail": "assets/photos/unknown-acorn-myarc-clone-226/01-catalog-thumb.webp",
       "original": "assets/photos/unknown-acorn-myarc-clone-226/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/s/s9/s/s9/s9hjm1u89ydjgx5s.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/s/s9/s9hjm1u89ydjgx5s.jpeg",
@@ -25,8 +25,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/s/s9/s9hjm1u89ydjgx5s.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "s9hjm1u89ydjgx5s.jpeg",
-      "width": 2400,
-      "height": 1775,
+      "width": 1458,
+      "height": 1079,
       "originalWidth": 3872,
       "originalHeight": 2863,
       "originalBytes": 1263587,
@@ -232,7 +232,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/unknown-acorn-myarc-clone-226/thumb.webp",
+  "thumbnail": "assets/photos/unknown-acorn-myarc-clone-226/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:57+03:00",
     "sourcePhotoCount": 10,
