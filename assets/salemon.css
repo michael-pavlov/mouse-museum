@@ -1,0 +1,161 @@
+/* Landing components share the museum's font, navigation and footer. */
+.salemon{--paper:#f7f6f2;--ink:#252723;--muted:#62685d;--line:#d9d9d0;--rust:#a84728;--green:#2f352c}
+.salemon main{font-size:18px;line-height:1.6}
+.salemon main h1,.salemon main h2,.salemon main h3,.salemon main p{margin-top:0}
+.salemon main h2{font-size:36px;font-weight:400;line-height:1.18;letter-spacing:-1px;margin-bottom:20px}
+.salemon main h3{font-size:24px;font-weight:400;line-height:1.3;letter-spacing:-.4px}
+.salemon main p{color:var(--muted)}
+.salemon svg{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;flex-shrink:0}
+.salemon .sprite{position:absolute;width:0;height:0;overflow:hidden}
+.salemon .page-meta{padding:16px 0 8px}
+.salemon .breadcrumb{margin:0;font-size:16px;gap:12px}
+.salemon .hero{display:grid;grid-template-columns:1.13fr 1fr;gap:48px;padding:12px 0 28px;align-items:center}
+.salemon .hero h1{font-size:clamp(44px,4.5vw,64px);font-weight:400;line-height:1.04;letter-spacing:-2px;margin:0 0 20px}
+.salemon h1 span,.salemon .closing h2 span{color:var(--rust)}
+.salemon .hero .hero-lead{font-size:18px;line-height:1.6;max-width:520px;margin:0 0 20px}
+.salemon .button{display:inline-flex;align-items:center;justify-content:space-between;gap:24px;min-height:52px;padding:14px 20px;border:1px solid #bfc1b5;border-radius:4px;font-size:16px;line-height:1.4;transition:background .18s,color .18s}
+.salemon .button:hover{background:#ebe9e1;border-color:var(--rust);color:var(--rust)}
+.salemon .button.primary{background:var(--green);border-color:var(--green);color:white}
+.salemon .button.primary:hover{background:var(--rust);border-color:var(--rust)}
+.salemon .hero .trial-note{font-size:16px;line-height:1.5;max-width:none;margin:16px 0 0}
+.salemon .trial-note span{margin:0 6px}
+.salemon .service-bar{display:flex;align-items:center;justify-content:center;padding:18px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.salemon .platforms{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:36px}
+.salemon .platforms img{display:block;object-fit:contain;max-width:100%;height:30px}
+.salemon .section{padding:32px 0;border-bottom:1px solid var(--line)}
+.salemon .muted{color:var(--muted)}
+.salemon .intro-columns{display:grid;grid-template-columns:1fr 1fr;gap:48px;max-width:1180px}
+.salemon .intro-columns p{font-size:18px;line-height:1.6;margin:0}
+.salemon .section-heading{margin-bottom:24px;max-width:1000px}
+.salemon .section-heading h2{margin-bottom:16px}
+.salemon .section-heading>p{font-size:18px;line-height:1.6;margin:0;max-width:760px}
+.salemon .steps{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:40px}
+.salemon .steps li{min-width:0;padding-top:16px;border-top:1px solid var(--line)}
+.salemon .step-index{display:flex;align-items:center;justify-content:center;width:36px;height:36px;border:1px solid #b9beaf;border-radius:50%;font:inherit;font-size:18px;color:var(--muted);margin-bottom:12px}
+.salemon .steps h3{margin:0 0 12px}
+.salemon .steps p{font-size:18px;line-height:1.6;margin:0 0 16px}
+.salemon .inline-link{font-size:18px;color:var(--rust);text-decoration:underline;text-underline-offset:4px}
+.salemon .free-trial{display:flex;flex-wrap:wrap;align-items:baseline;gap:8px 16px;font-size:18px;color:var(--muted)}
+.salemon .free-trial strong{font-weight:400;color:var(--rust)}
+.salemon .pricing{padding:24px 0}
+.salemon .plans{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}
+.salemon .plan{min-width:0;padding:24px;border:1px solid var(--line);border-radius:12px;background:#fbfaf7;display:flex;flex-direction:column}
+
+.salemon .plan.featured{background:#eeefe6;border-color:#9ca58f}
+.salemon .plan .plan-name{font-size:20px;color:var(--ink);line-height:1.4;margin:0 0 16px;display:flex;flex-wrap:wrap;align-items:center;gap:6px 12px;min-height:56px;align-content:flex-start}
+.salemon .plan-name>span{font:inherit;font-size:14px;color:var(--muted);letter-spacing:0;text-transform:none}
+.salemon .interval{font-size:36px;line-height:1.1;letter-spacing:-1.5px}
+.salemon .interval>span{font-size:16px;letter-spacing:0}
+.salemon .interval-note{font-size:14px;margin:4px 0 16px}
+.salemon .plan-copy{font-size:16px;line-height:1.5;min-height:48px;margin:0 0 16px}
+.salemon .price{font-size:28px;line-height:1.3;letter-spacing:-.5px;margin:auto 0 16px}
+.salemon .price>span{font-size:14px;color:var(--muted);letter-spacing:0;white-space:nowrap}
+.salemon .plan .button{width:100%;font-size:15px;gap:12px;min-height:46px;padding:12px 14px;justify-content:center}
+.salemon .pricing-note{font-size:16px;line-height:1.6;max-width:1100px;margin:16px 0 0}
+.salemon .faq{padding:36px 0}
+.salemon .faq-layout{display:grid;grid-template-columns:1fr 2fr;gap:40px}
+.salemon .questions details{border-top:1px solid var(--line);padding:12px 0}
+.salemon .questions details:first-child{border-top:0;padding-top:0}
+.salemon .questions details:last-child{padding-bottom:0}
+.salemon .questions summary{list-style:none;cursor:pointer;display:flex;justify-content:space-between;align-items:center;gap:24px;font-size:18px;line-height:1.5;min-height:28px}
+.salemon .questions summary::-webkit-details-marker{display:none}
+.salemon .questions summary>span{font-size:24px;color:var(--muted);transition:transform .15s}
+.salemon .questions details[open] summary>span{transform:rotate(45deg)}
+.salemon .questions details>p{font-size:18px;line-height:1.6;margin:12px 32px 0 0}
+.salemon .closing{display:flex;align-items:center;justify-content:space-between;gap:32px;padding:32px 0}
+.salemon .closing h2{font-size:36px;margin:0}
+.salemon .closing-action{max-width:440px}
+.salemon .closing-action p{font-size:16px;line-height:1.5;margin:16px 0 0}
+.salemon .site-footer{margin-top:0}
+@media(max-width:1100px){
+ .salemon .hero{gap:32px}
+ .salemon .hero h1{font-size:58px;letter-spacing:-2px}
+ .salemon .steps{gap:28px}
+ .salemon .plan{padding:20px 16px}
+ .salemon .closing{align-items:flex-start;flex-direction:column;gap:28px}
+}
+@media(max-width:850px){
+ .salemon .hero{grid-template-columns:minmax(0,1fr);gap:36px}
+ .salemon .hero .hero-lead{max-width:600px}
+ .salemon .plans{grid-template-columns:1fr}
+ .salemon .plan{padding:20px}
+
+ .salemon .plan .plan-name{min-height:0;margin-bottom:20px}
+ .salemon .plan-copy{min-height:0;margin-bottom:16px}
+ .salemon .plan .button{max-width:400px}
+ .salemon .steps{grid-template-columns:1fr;gap:28px}
+ .salemon .steps li{display:grid;grid-template-columns:36px minmax(0,1fr);column-gap:20px}
+ .salemon .step-index{grid-column:1;grid-row:1 / 4;margin:0}
+ .salemon .steps h3,.salemon .steps p,.salemon .steps a{grid-column:2}
+ .salemon .steps h3{margin-top:3px}
+ .salemon .faq-layout{grid-template-columns:1fr;gap:8px}
+}
+@media(max-width:700px){
+ .salemon main h2{font-size:32px;letter-spacing:-.8px}
+ .salemon main h3{font-size:24px}
+ .salemon .page-meta{padding:24px 0 12px}
+ .salemon .hero{padding:24px 0 36px}
+ .salemon .hero h1{font-size:clamp(32px,10vw,58px);letter-spacing:-1.8px}
+ .salemon .section{padding:28px 0}
+ .salemon .intro-columns{grid-template-columns:1fr;gap:20px}
+ .salemon .section-heading{margin-bottom:20px}
+ .salemon .platforms{width:100%;display:grid;grid-template-columns:1fr 1fr;justify-items:center;gap:24px 32px}
+ .salemon .platforms img{max-width:115px}
+ .salemon .plan{padding:20px 16px}
+ .salemon .questions summary{font-size:18px;gap:16px}
+ .salemon .faq{padding:28px 0}
+ .salemon .questions details>p{margin-right:0}
+ .salemon .closing{padding:28px 0}
+ .salemon .closing h2{font-size:32px}
+ .salemon .closing-action{width:100%}
+ .salemon .closing-action .button{width:100%}
+}
+@media(prefers-reduced-motion:reduce){.salemon *{transition:none!important}}
+
+/* A code-rendered phone keeps notification text sharp in both languages. */
+.salemon .hero-copy{min-width:0}
+.salemon .phone-preview{min-width:0;display:flex;justify-content:center;align-items:center;padding:12px 16px 20px;background:radial-gradient(ellipse at center,#e5e4da 0,transparent 69%)}
+.salemon .phone-device{zoom:.6666667;flex-shrink:0;min-width:0;width:374px;max-width:100%;padding:8px;border:1px solid #494d43;border-radius:44px;background:#30362d;box-shadow:0 24px 50px #30362d22,0 4px 10px #30362d15;overflow:hidden}
+.salemon .phone-status{position:relative;display:flex;justify-content:space-between;align-items:center;height:34px;padding:0 22px;background:#f7f6f2;color:var(--ink);font-size:16px;font-weight:500;line-height:1}
+.salemon .phone-camera{position:absolute;width:82px;height:20px;border-radius:20px;background:#30362d;left:50%;top:4px;transform:translateX(-50%)}
+.salemon .phone-chat-header{display:flex;align-items:center;gap:10px;padding:12px 14px;background:#f7f6f2;border-bottom:1px solid #d9d9d0}
+.salemon .phone-back{font-size:36px;line-height:1;color:var(--rust)}
+.salemon .phone-avatar{width:40px;height:40px;border-radius:50%;display:flex;align-items:center;justify-content:center;background:#dce0d3;color:#424c37;flex-shrink:0}
+.salemon .phone-chat-header>div{display:flex;flex-direction:column;line-height:1.3}
+.salemon .phone-chat-header strong{font-size:18px;font-weight:500}
+.salemon .phone-chat-header>div>span{font-size:16px;color:var(--muted)}
+.salemon .phone-more{margin-left:auto;font-size:26px;color:var(--muted)}
+.salemon .phone-chat{padding:10px 14px 14px;background-color:#e5e7dc;background-image:radial-gradient(#c9cebf 1px,transparent 1px);background-size:16px 16px;display:grid;gap:10px}
+.salemon .phone-date{justify-self:center;padding:2px 10px;border-radius:20px;background:#d5d9ca;color:#4f5846;font-size:16px;line-height:1.5}
+.salemon .phone-listing{overflow:hidden;border:1px solid #d4d8c9;border-radius:14px 14px 14px 4px;background:#fbfaf6;box-shadow:0 2px 3px #30362d08}
+.salemon .phone-listing-photo{height:86px;background:#efeee8;border-bottom:1px solid #e5e5dc}
+.salemon .phone-listing-photo img{display:block;width:100%;height:100%;object-fit:contain;mix-blend-mode:multiply}
+.salemon .phone-listing-copy{padding:8px 12px 9px;line-height:1.35}
+.salemon .phone-listing-meta{display:flex;align-items:baseline;justify-content:space-between;gap:12px;font-size:16px;color:var(--muted)}
+.salemon .phone-listing-meta strong{font-size:18px;font-weight:500;color:var(--ink)}
+.salemon .phone-listing-title{font-size:18px;color:var(--ink);margin:3px 0 5px}
+.salemon .phone-listing-bottom{display:flex;justify-content:space-between;align-items:baseline;gap:8px;font-size:16px;color:#168acd}
+.salemon .phone-listing-bottom time{color:var(--muted)}
+.salemon .phone-compose{display:flex;align-items:center;gap:12px;background:#f7f6f2;padding:10px 16px;border-top:1px solid #d4d8c9;font-size:16px;color:var(--muted);line-height:1.5}
+.salemon .phone-compose>span:first-child{font-size:26px;line-height:1}
+.salemon .phone-compose svg{margin-left:auto;color:var(--rust)}
+.salemon .phone-home{height:18px;background:#f7f6f2;display:flex;justify-content:center;align-items:center}
+.salemon .phone-home::after{content:'';width:100px;height:4px;background:#30362d;border-radius:4px}
+@media(max-width:1100px){.salemon .phone-preview{padding:0}}
+@media(max-width:700px){.salemon .phone-preview{padding:0}.salemon .phone-chat{padding:8px;gap:8px}.salemon .phone-listing-copy{padding:8px 10px}.salemon .phone-listing-photo{height:82px}.salemon .phone-listing-title{font-size:16px}.salemon .phone-listing-bottom{font-size:16px}}
+
+/* Consistent optical slots for the expanded marketplace row. */
+.salemon .platforms{gap:20px 28px;width:100%;max-width:1280px}
+.salemon .platform-logo{min-width:90px;min-height:48px;display:flex;align-items:center;justify-content:center}
+.salemon .platform-logo img{max-width:120px;object-fit:contain;height:32px}
+.salemon .platform-meshok{gap:6px;font-size:22px;font-weight:500;line-height:1;color:#252723}
+.salemon .platform-meshok img{width:36px;height:36px}
+@media(max-width:700px){.salemon .platforms{gap:18px 24px}.salemon .platform-logo{width:100%;min-width:0}.salemon .platform-logo:last-child:nth-child(odd){grid-column:1 / -1}.salemon .platform-logo img{max-width:115px}}
+
+/* One continuous inner screen gives the bottom bezel the same inset as the top. */
+.salemon .phone-screen{overflow:hidden;border-radius:35px;background:#f7f6f2}
+.salemon .phone-home{height:24px}
+
+/* Keep the first screen complete on shorter laptop viewports. */
+@media(min-width:851px) and (max-height:800px){.salemon .phone-device{zoom:.58}.salemon .hero h1{font-size:clamp(44px,4.2vw,60px)}}
+@media(min-width:851px) and (max-height:700px){.salemon .phone-device{zoom:.5}}
