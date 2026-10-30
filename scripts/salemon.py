@@ -19,7 +19,6 @@ def build(root, out, items, shell, asset):
         body = re.sub(r'href="\.\./ru/([^"]+)"',
                       lambda match: f'href="{relative(language + "/" + match[1])}"', body)
         head = (
-            '<meta name="robots" content="noindex, nofollow">'
             f'<link rel="stylesheet" href="{asset(path, "assets/salemon.css")}">'
         )
         title = ('SaleMonitor — сервис для коллекционеров' if language == 'ru'
@@ -30,5 +29,12 @@ def build(root, out, items, shell, asset):
         shell(path, language, title, description, body,
               paths['en' if language == 'ru' else 'ru'], lisa['photos'][0]['file'],
               extra_head=head, body_class='salemon')
+        if path == 'salemon/index.html':
+            # Keep the short URL usable, with the Russian language URL as canonical.
+            dest = out / path
+            rendered = dest.read_text()
+            rendered = re.sub(r'(<link rel="canonical" href=")([^"]+)/salemon/(">)',
+                              r'\1\2/ru/salemon/\3', rendered)
+            dest.write_text(rendered)
         generated.append(path)
     return generated

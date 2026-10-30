@@ -113,8 +113,9 @@ catalog('en','index.html')
 
 # Unlisted collector landing; reuse the museum shell and catalogue assets.
 from salemon import build as build_salemon
-for landing_path in build_salemon(ROOT, OUT, items, shell, asset):
- pages.remove(landing_path)
+build_salemon(ROOT, OUT, items, shell, asset)
+# The short Russian alias uses /ru/salemon/ as its canonical URL.
+pages.remove('salemon/index.html')
 
 # A static 404 with a base-aware homepage link; not a single-page app fallback.
 base=urlparse(SITE).path.rstrip('/')+'/' if SITE else '/'
