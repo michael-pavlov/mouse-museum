@@ -16,14 +16,14 @@
   },
   "photos": [
     {
-      "file": "assets/photos/mm-8031-korvet/01.webp",
-      "thumbnail": "assets/photos/mm-8031-korvet/01-thumb.webp",
+      "file": "assets/photos/mm-8031-korvet/01-catalog.webp",
+      "thumbnail": "assets/photos/mm-8031-korvet/01-catalog-thumb.webp",
       "original": "assets/photos/mm-8031-korvet/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/y/yf/yf0j2gpxcwmcqu34.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/y/yf/yf0j2gpxcwmcqu34.JPG",
       "originalFilename": "yf0j2gpxcwmcqu34.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3500,
       "originalHeight": 2333,
       "originalBytes": 1149567,
@@ -121,7 +121,7 @@
       "caption": ""
     }
   ],
-  "thumbnail": "assets/photos/mm-8031-korvet/thumb.webp",
+  "thumbnail": "assets/photos/mm-8031-korvet/thumb-catalog.webp",
   "order": 8,
   "manufacturer": {
     "ru": "СССР",

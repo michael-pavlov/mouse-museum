@@ -18,8 +18,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/sigma-m30-86/01.webp",
-      "thumbnail": "assets/photos/sigma-m30-86/01-thumb.webp",
+      "file": "assets/photos/sigma-m30-86/01-catalog.webp",
+      "thumbnail": "assets/photos/sigma-m30-86/01-catalog-thumb.webp",
       "original": "assets/photos/sigma-m30-86/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/c/cd/cd0flgkarysec8nr.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/c/cd/cd0flgkarysec8nr.JPG",
@@ -27,8 +27,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/c/cd/cd0flgkarysec8nr.JPG",
       "sourceOriginalError": "",
       "originalFilename": "cd0flgkarysec8nr.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3300,
       "originalHeight": 2200,
       "originalBytes": 1135933,
@@ -144,7 +144,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/sigma-m30-86/thumb.webp",
+  "thumbnail": "assets/photos/sigma-m30-86/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:50+03:00",
     "sourcePhotoCount": 5,

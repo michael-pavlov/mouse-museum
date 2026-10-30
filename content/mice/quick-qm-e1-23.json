@@ -16,14 +16,14 @@
   },
   "photos": [
     {
-      "file": "assets/photos/quick-qm-e1-23/01.webp",
-      "thumbnail": "assets/photos/quick-qm-e1-23/01-thumb.webp",
+      "file": "assets/photos/quick-qm-e1-23/01-catalog.webp",
+      "thumbnail": "assets/photos/quick-qm-e1-23/01-catalog-thumb.webp",
       "original": "assets/photos/quick-qm-e1-23/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/h/ho/hoafqbpige4cko97.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/h/ho/hoafqbpige4cko97.JPG",
       "originalFilename": "hoafqbpige4cko97.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3350,
       "originalHeight": 2233,
       "originalBytes": 1068232,
@@ -76,7 +76,7 @@
       "caption": ""
     }
   ],
-  "thumbnail": "assets/photos/quick-qm-e1-23/thumb.webp",
+  "thumbnail": "assets/photos/quick-qm-e1-23/thumb-catalog.webp",
   "order": 31,
   "manufacturer": {
     "ru": "Quick",

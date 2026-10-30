@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/sysgration-kem-260-123/01.webp",
-      "thumbnail": "assets/photos/sysgration-kem-260-123/01-thumb.webp",
+      "file": "assets/photos/sysgration-kem-260-123/01-catalog.webp",
+      "thumbnail": "assets/photos/sysgration-kem-260-123/01-catalog-thumb.webp",
       "original": "assets/photos/sysgration-kem-260-123/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/x/xr/x/xr/xryjumsp4n6pg3ft.jpg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/x/xr/xryjumsp4n6pg3ft.jpg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/x/xr/xryjumsp4n6pg3ft.jpg",
       "sourceOriginalError": "",
       "originalFilename": "xryjumsp4n6pg3ft.jpg",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3323,
       "originalHeight": 2215,
       "originalBytes": 3081046,
@@ -125,7 +125,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/sysgration-kem-260-123/thumb.webp",
+  "thumbnail": "assets/photos/sysgration-kem-260-123/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:53+03:00",
     "sourcePhotoCount": 4,

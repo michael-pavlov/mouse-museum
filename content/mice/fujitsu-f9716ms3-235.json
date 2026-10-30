@@ -18,8 +18,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/fujitsu-f9716ms3-235/01.webp",
-      "thumbnail": "assets/photos/fujitsu-f9716ms3-235/01-thumb.webp",
+      "file": "assets/photos/fujitsu-f9716ms3-235/01-catalog.webp",
+      "thumbnail": "assets/photos/fujitsu-f9716ms3-235/01-catalog-thumb.webp",
       "original": "assets/photos/fujitsu-f9716ms3-235/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/b/bt/b/bt/bttbygvof2cagc39.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/b/bt/bttbygvof2cagc39.jpeg",
@@ -27,8 +27,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/b/bt/bttbygvof2cagc39.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "bttbygvof2cagc39.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 846281,
@@ -198,7 +198,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/fujitsu-f9716ms3-235/thumb.webp",
+  "thumbnail": "assets/photos/fujitsu-f9716ms3-235/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:57+03:00",
     "sourcePhotoCount": 8,

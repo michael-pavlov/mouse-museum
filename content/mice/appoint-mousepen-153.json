@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/appoint-mousepen-153/01.webp",
-      "thumbnail": "assets/photos/appoint-mousepen-153/01-thumb.webp",
+      "file": "assets/photos/appoint-mousepen-153/01-catalog.webp",
+      "thumbnail": "assets/photos/appoint-mousepen-153/01-catalog-thumb.webp",
       "original": "assets/photos/appoint-mousepen-153/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/a/an/a/an/an65dprdn0d5ha9n.jpg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/a/an/an65dprdn0d5ha9n.jpg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/a/an/an65dprdn0d5ha9n.jpg",
       "sourceOriginalError": "",
       "originalFilename": "an65dprdn0d5ha9n.jpg",
-      "width": 2125,
-      "height": 1417,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 2125,
       "originalHeight": 1417,
       "originalBytes": 1102204,
@@ -133,7 +133,7 @@
       }
     }
   ],
-  "thumbnail": "assets/photos/appoint-mousepen-153/thumb.webp",
+  "thumbnail": "assets/photos/appoint-mousepen-153/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:53+03:00",
     "sourcePhotoCount": 4,

@@ -19,8 +19,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/sun-compact-1-40/01.webp",
-      "thumbnail": "assets/photos/sun-compact-1-40/01-thumb.webp",
+      "file": "assets/photos/sun-compact-1-40/01-catalog.webp",
+      "thumbnail": "assets/photos/sun-compact-1-40/01-catalog-thumb.webp",
       "original": "assets/photos/sun-compact-1-40/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/m/mp/mpuvljvesukrttuo.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/m/mp/mpuvljvesukrttuo.JPG",
@@ -28,8 +28,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/m/mp/mpuvljvesukrttuo.JPG",
       "sourceOriginalError": "",
       "originalFilename": "mpuvljvesukrttuo.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3350,
       "originalHeight": 2233,
       "originalBytes": 1181834,
@@ -163,7 +163,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/sun-compact-1-40/thumb.webp",
+  "thumbnail": "assets/photos/sun-compact-1-40/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:48+03:00",
     "sourcePhotoCount": 6,

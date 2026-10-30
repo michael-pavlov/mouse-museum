@@ -18,8 +18,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/apple-m4848-hockey-puck-98/01.webp",
-      "thumbnail": "assets/photos/apple-m4848-hockey-puck-98/01-thumb.webp",
+      "file": "assets/photos/apple-m4848-hockey-puck-98/01-catalog.webp",
+      "thumbnail": "assets/photos/apple-m4848-hockey-puck-98/01-catalog-thumb.webp",
       "original": "assets/photos/apple-m4848-hockey-puck-98/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/w/wj/wjekv6r4hh1zmrsv.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/w/wj/wjekv6r4hh1zmrsv.JPG",
@@ -27,8 +27,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/w/wj/wjekv6r4hh1zmrsv.JPG",
       "sourceOriginalError": "",
       "originalFilename": "wjekv6r4hh1zmrsv.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3100,
       "originalHeight": 2067,
       "originalBytes": 1135368,
@@ -108,7 +108,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/apple-m4848-hockey-puck-98/thumb.webp",
+  "thumbnail": "assets/photos/apple-m4848-hockey-puck-98/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:48+03:00",
     "sourcePhotoCount": 3,

@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/rightin-mousepen-135/01.webp",
-      "thumbnail": "assets/photos/rightin-mousepen-135/01-thumb.webp",
+      "file": "assets/photos/rightin-mousepen-135/01-catalog.webp",
+      "thumbnail": "assets/photos/rightin-mousepen-135/01-catalog-thumb.webp",
       "original": "assets/photos/rightin-mousepen-135/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/b/bo/b/bo/bouwi5c4wf73emf9.jpg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/b/bo/bouwi5c4wf73emf9.jpg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/b/bo/bouwi5c4wf73emf9.jpg",
       "sourceOriginalError": "",
       "originalFilename": "bouwi5c4wf73emf9.jpg",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3466,
       "originalHeight": 2311,
       "originalBytes": 3689789,
@@ -89,7 +89,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/rightin-mousepen-135/thumb.webp",
+  "thumbnail": "assets/photos/rightin-mousepen-135/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:53+03:00",
     "sourcePhotoCount": 2,

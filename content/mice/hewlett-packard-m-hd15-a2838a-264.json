@@ -18,8 +18,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/hewlett-packard-m-hd15-a2838a-264/01.webp",
-      "thumbnail": "assets/photos/hewlett-packard-m-hd15-a2838a-264/01-thumb.webp",
+      "file": "assets/photos/hewlett-packard-m-hd15-a2838a-264/01-catalog.webp",
+      "thumbnail": "assets/photos/hewlett-packard-m-hd15-a2838a-264/01-catalog-thumb.webp",
       "original": "assets/photos/hewlett-packard-m-hd15-a2838a-264/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/p/pb/p/pb/pbgkuwjv3oeztvse.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/p/pb/pbgkuwjv3oeztvse.jpeg",
@@ -27,8 +27,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/p/pb/pbgkuwjv3oeztvse.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "pbgkuwjv3oeztvse.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 880776,
@@ -180,7 +180,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/hewlett-packard-m-hd15-a2838a-264/thumb.webp",
+  "thumbnail": "assets/photos/hewlett-packard-m-hd15-a2838a-264/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:59+03:00",
     "sourcePhotoCount": 7,

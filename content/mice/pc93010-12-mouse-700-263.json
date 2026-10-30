@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/pc93010-12-mouse-700-263/01.webp",
-      "thumbnail": "assets/photos/pc93010-12-mouse-700-263/01-thumb.webp",
+      "file": "assets/photos/pc93010-12-mouse-700-263/01-catalog.webp",
+      "thumbnail": "assets/photos/pc93010-12-mouse-700-263/01-catalog-thumb.webp",
       "original": "assets/photos/pc93010-12-mouse-700-263/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/2/2r/2/2r/2rvbhclptz1notcr.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/2/2r/2rvbhclptz1notcr.jpeg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/2/2r/2rvbhclptz1notcr.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "2rvbhclptz1notcr.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 895390,
@@ -179,7 +179,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/pc93010-12-mouse-700-263/thumb.webp",
+  "thumbnail": "assets/photos/pc93010-12-mouse-700-263/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:59+03:00",
     "sourcePhotoCount": 7,

@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/dec-digital-pc7xs-aa-189/01.webp",
-      "thumbnail": "assets/photos/dec-digital-pc7xs-aa-189/01-thumb.webp",
+      "file": "assets/photos/dec-digital-pc7xs-aa-189/01-catalog.webp",
+      "thumbnail": "assets/photos/dec-digital-pc7xs-aa-189/01-catalog-thumb.webp",
       "original": "assets/photos/dec-digital-pc7xs-aa-189/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/i/ii/i/ii/iimhqgodzntgaplx.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/i/ii/iimhqgodzntgaplx.jpeg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/i/ii/iimhqgodzntgaplx.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "iimhqgodzntgaplx.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1243690,
@@ -179,7 +179,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/dec-digital-pc7xs-aa-189/thumb.webp",
+  "thumbnail": "assets/photos/dec-digital-pc7xs-aa-189/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:55+03:00",
     "sourcePhotoCount": 7,

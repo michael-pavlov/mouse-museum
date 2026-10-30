@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/fellowes-thumbelina-95/01.webp",
-      "thumbnail": "assets/photos/fellowes-thumbelina-95/01-thumb.webp",
+      "file": "assets/photos/fellowes-thumbelina-95/01-catalog.webp",
+      "thumbnail": "assets/photos/fellowes-thumbelina-95/01-catalog-thumb.webp",
       "original": "assets/photos/fellowes-thumbelina-95/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/m/mi/mipm4iiedofifvjc.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/m/mi/mipm4iiedofifvjc.JPG",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/m/mi/mipm4iiedofifvjc.JPG",
       "sourceOriginalError": "",
       "originalFilename": "mipm4iiedofifvjc.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3100,
       "originalHeight": 2067,
       "originalBytes": 1292109,
@@ -143,7 +143,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/fellowes-thumbelina-95/thumb.webp",
+  "thumbnail": "assets/photos/fellowes-thumbelina-95/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:51+03:00",
     "sourcePhotoCount": 5,

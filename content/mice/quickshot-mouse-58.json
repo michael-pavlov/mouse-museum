@@ -18,8 +18,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/quickshot-mouse-58/01.webp",
-      "thumbnail": "assets/photos/quickshot-mouse-58/01-thumb.webp",
+      "file": "assets/photos/quickshot-mouse-58/01-catalog.webp",
+      "thumbnail": "assets/photos/quickshot-mouse-58/01-catalog-thumb.webp",
       "original": "assets/photos/quickshot-mouse-58/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/3/3e/3ewtlti3zbefjg4e.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/3/3e/3ewtlti3zbefjg4e.JPG",
@@ -27,8 +27,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/3/3e/3ewtlti3zbefjg4e.JPG",
       "sourceOriginalError": "",
       "originalFilename": "3ewtlti3zbefjg4e.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3350,
       "originalHeight": 2233,
       "originalBytes": 1040777,
@@ -144,7 +144,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/quickshot-mouse-58/thumb.webp",
+  "thumbnail": "assets/photos/quickshot-mouse-58/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:48+03:00",
     "sourcePhotoCount": 5,

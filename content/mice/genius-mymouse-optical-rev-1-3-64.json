@@ -17,14 +17,14 @@
   },
   "photos": [
     {
-      "file": "assets/photos/genius-mymouse-optical-rev-1-3-64/01.webp",
-      "thumbnail": "assets/photos/genius-mymouse-optical-rev-1-3-64/01-thumb.webp",
+      "file": "assets/photos/genius-mymouse-optical-rev-1-3-64/01-catalog.webp",
+      "thumbnail": "assets/photos/genius-mymouse-optical-rev-1-3-64/01-catalog-thumb.webp",
       "original": "assets/photos/genius-mymouse-optical-rev-1-3-64/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/w/wc/wcke6f25p3ijxjfq.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/w/wc/wcke6f25p3ijxjfq.JPG",
       "originalFilename": "wcke6f25p3ijxjfq.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3500,
       "originalHeight": 2333,
       "originalBytes": 1256184,
@@ -107,7 +107,7 @@
       "caption": ""
     }
   ],
-  "thumbnail": "assets/photos/genius-mymouse-optical-rev-1-3-64/thumb.webp",
+  "thumbnail": "assets/photos/genius-mymouse-optical-rev-1-3-64/thumb-catalog.webp",
   "order": 47,
   "manufacturer": {
     "ru": "Genius",

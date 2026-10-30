@@ -18,14 +18,14 @@
   },
   "photos": [
     {
-      "file": "assets/photos/ibm-13h6690-39/01.webp",
-      "thumbnail": "assets/photos/ibm-13h6690-39/01-thumb.webp",
+      "file": "assets/photos/ibm-13h6690-39/01-catalog.webp",
+      "thumbnail": "assets/photos/ibm-13h6690-39/01-catalog-thumb.webp",
       "original": "assets/photos/ibm-13h6690-39/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/q/qt/qtz4a8t8pupfkzdc.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qt/qtz4a8t8pupfkzdc.JPG",
       "originalFilename": "qtz4a8t8pupfkzdc.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3500,
       "originalHeight": 2333,
       "originalBytes": 1272733,
@@ -108,7 +108,7 @@
       "caption": ""
     }
   ],
-  "thumbnail": "assets/photos/ibm-13h6690-39/thumb.webp",
+  "thumbnail": "assets/photos/ibm-13h6690-39/thumb-catalog.webp",
   "order": 45,
   "manufacturer": {
     "ru": "IBM",

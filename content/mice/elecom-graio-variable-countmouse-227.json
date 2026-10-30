@@ -19,8 +19,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/elecom-graio-variable-countmouse-227/01.webp",
-      "thumbnail": "assets/photos/elecom-graio-variable-countmouse-227/01-thumb.webp",
+      "file": "assets/photos/elecom-graio-variable-countmouse-227/01-catalog.webp",
+      "thumbnail": "assets/photos/elecom-graio-variable-countmouse-227/01-catalog-thumb.webp",
       "original": "assets/photos/elecom-graio-variable-countmouse-227/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/u/uo/u/uo/uoyeruy4r0hka40d.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/u/uo/uoyeruy4r0hka40d.jpeg",
@@ -28,8 +28,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/u/uo/uoyeruy4r0hka40d.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "uoyeruy4r0hka40d.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1065067,
@@ -217,7 +217,7 @@
   },
   "channelPost": "https://t.me/old_mice_and_hw/155",
   "externalLinks": [],
-  "thumbnail": "assets/photos/elecom-graio-variable-countmouse-227/thumb.webp",
+  "thumbnail": "assets/photos/elecom-graio-variable-countmouse-227/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:57+03:00",
     "sourcePhotoCount": 9,

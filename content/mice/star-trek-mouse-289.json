@@ -18,8 +18,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/star-trek-mouse-289/01.webp",
-      "thumbnail": "assets/photos/star-trek-mouse-289/01-thumb.webp",
+      "file": "assets/photos/star-trek-mouse-289/01-catalog.webp",
+      "thumbnail": "assets/photos/star-trek-mouse-289/01-catalog-thumb.webp",
       "original": "assets/photos/star-trek-mouse-289/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/w/wt/w/wt/wtnpphsc6clwhtrq.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/w/wt/wtnpphsc6clwhtrq.jpeg",
@@ -27,8 +27,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/w/wt/wtnpphsc6clwhtrq.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "wtnpphsc6clwhtrq.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 744850,
@@ -180,7 +180,7 @@
   },
   "channelPost": "https://t.me/old_mice_and_hw/233",
   "externalLinks": [],
-  "thumbnail": "assets/photos/star-trek-mouse-289/thumb.webp",
+  "thumbnail": "assets/photos/star-trek-mouse-289/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:11:01+03:00",
     "sourcePhotoCount": 7,

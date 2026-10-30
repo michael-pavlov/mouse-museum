@@ -17,14 +17,14 @@
   },
   "photos": [
     {
-      "file": "assets/photos/amstrad-mouse-10/01.webp",
-      "thumbnail": "assets/photos/amstrad-mouse-10/01-thumb.webp",
+      "file": "assets/photos/amstrad-mouse-10/01-catalog.webp",
+      "thumbnail": "assets/photos/amstrad-mouse-10/01-catalog-thumb.webp",
       "original": "assets/photos/amstrad-mouse-10/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/7/7x/7x4hkpaxhoag6won.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/7/7x/7x4hkpaxhoag6won.JPG",
       "originalFilename": "7x4hkpaxhoag6won.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3350,
       "originalHeight": 2233,
       "originalBytes": 1124064,
@@ -122,7 +122,7 @@
       "caption": ""
     }
   ],
-  "thumbnail": "assets/photos/amstrad-mouse-10/thumb.webp",
+  "thumbnail": "assets/photos/amstrad-mouse-10/thumb-catalog.webp",
   "order": 23,
   "manufacturer": {
     "ru": "Amstrad",

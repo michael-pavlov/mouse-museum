@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/naksha-mouse-128/01.webp",
-      "thumbnail": "assets/photos/naksha-mouse-128/01-thumb.webp",
+      "file": "assets/photos/naksha-mouse-128/01-catalog.webp",
+      "thumbnail": "assets/photos/naksha-mouse-128/01-catalog-thumb.webp",
       "original": "assets/photos/naksha-mouse-128/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/s/sp/s/sp/spay2jyvwfbp7fp4.jpg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/s/sp/spay2jyvwfbp7fp4.jpg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/s/sp/spay2jyvwfbp7fp4.jpg",
       "sourceOriginalError": "",
       "originalFilename": "spay2jyvwfbp7fp4.jpg",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3217,
       "originalHeight": 2145,
       "originalBytes": 2692765,
@@ -107,7 +107,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/naksha-mouse-128/thumb.webp",
+  "thumbnail": "assets/photos/naksha-mouse-128/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:54+03:00",
     "sourcePhotoCount": 3,

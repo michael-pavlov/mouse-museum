@@ -15,8 +15,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/mitsuba-optical-mouse-246/01.webp",
-      "thumbnail": "assets/photos/mitsuba-optical-mouse-246/01-thumb.webp",
+      "file": "assets/photos/mitsuba-optical-mouse-246/01-catalog.webp",
+      "thumbnail": "assets/photos/mitsuba-optical-mouse-246/01-catalog-thumb.webp",
       "original": "assets/photos/mitsuba-optical-mouse-246/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/1/1b/1/1b/1btt56oddpzfqv4q.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/1/1b/1btt56oddpzfqv4q.jpeg",
@@ -24,8 +24,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/1/1b/1btt56oddpzfqv4q.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "1btt56oddpzfqv4q.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1119513,
@@ -177,7 +177,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/mitsuba-optical-mouse-246/thumb.webp",
+  "thumbnail": "assets/photos/mitsuba-optical-mouse-246/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:56+03:00",
     "sourcePhotoCount": 7,

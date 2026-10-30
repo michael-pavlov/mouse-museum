@@ -18,8 +18,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/genius-newtrack-serial-68/01.webp",
-      "thumbnail": "assets/photos/genius-newtrack-serial-68/01-thumb.webp",
+      "file": "assets/photos/genius-newtrack-serial-68/01-catalog.webp",
+      "thumbnail": "assets/photos/genius-newtrack-serial-68/01-catalog-thumb.webp",
       "original": "assets/photos/genius-newtrack-serial-68/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/5/5h/5hwtzu3hclfh4e62.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/5/5h/5hwtzu3hclfh4e62.JPG",
@@ -27,8 +27,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/5/5h/5hwtzu3hclfh4e62.JPG",
       "sourceOriginalError": "",
       "originalFilename": "5hwtzu3hclfh4e62.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3800,
       "originalHeight": 2533,
       "originalBytes": 1499881,
@@ -162,7 +162,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/genius-newtrack-serial-68/thumb.webp",
+  "thumbnail": "assets/photos/genius-newtrack-serial-68/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:49+03:00",
     "sourcePhotoCount": 6,

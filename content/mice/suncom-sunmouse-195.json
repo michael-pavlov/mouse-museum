@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/suncom-sunmouse-195/01.webp",
-      "thumbnail": "assets/photos/suncom-sunmouse-195/01-thumb.webp",
+      "file": "assets/photos/suncom-sunmouse-195/01-catalog.webp",
+      "thumbnail": "assets/photos/suncom-sunmouse-195/01-catalog-thumb.webp",
       "original": "assets/photos/suncom-sunmouse-195/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/a/ax/a/ax/axupim5apuqmf9cs.jpg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/a/ax/axupim5apuqmf9cs.jpg",
@@ -179,7 +179,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/suncom-sunmouse-195/thumb.webp",
+  "thumbnail": "assets/photos/suncom-sunmouse-195/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:56+03:00",
     "sourcePhotoCount": 7,

@@ -15,8 +15,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/genius-mymouse-rev-1-2-terminator-optical-mouse-253/01.webp",
-      "thumbnail": "assets/photos/genius-mymouse-rev-1-2-terminator-optical-mouse-253/01-thumb.webp",
+      "file": "assets/photos/genius-mymouse-rev-1-2-terminator-optical-mouse-253/01-catalog.webp",
+      "thumbnail": "assets/photos/genius-mymouse-rev-1-2-terminator-optical-mouse-253/01-catalog-thumb.webp",
       "original": "assets/photos/genius-mymouse-rev-1-2-terminator-optical-mouse-253/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/d/d8/d/d8/d87px3lqoktulrdl.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/d/d8/d87px3lqoktulrdl.jpeg",
@@ -24,8 +24,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/d/d8/d87px3lqoktulrdl.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "d87px3lqoktulrdl.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 998121,
@@ -249,7 +249,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/genius-mymouse-rev-1-2-terminator-optical-mouse-253/thumb.webp",
+  "thumbnail": "assets/photos/genius-mymouse-rev-1-2-terminator-optical-mouse-253/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:58+03:00",
     "sourcePhotoCount": 11,

@@ -14,14 +14,14 @@
   },
   "photos": [
     {
-      "file": "assets/photos/artec-mouse-305/01.webp",
-      "thumbnail": "assets/photos/artec-mouse-305/01-thumb.webp",
+      "file": "assets/photos/artec-mouse-305/01-catalog.webp",
+      "thumbnail": "assets/photos/artec-mouse-305/01-catalog-thumb.webp",
       "original": "assets/photos/artec-mouse-305/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/j/j1/j/j1/j1rwwfhixvaovvme.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/j/j1/j1rwwfhixvaovvme.jpeg",
       "originalFilename": "j1rwwfhixvaovvme.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1248719,
@@ -164,7 +164,7 @@
       "caption": ""
     }
   ],
-  "thumbnail": "assets/photos/artec-mouse-305/thumb.webp",
+  "thumbnail": "assets/photos/artec-mouse-305/thumb-catalog.webp",
   "order": 43,
   "manufacturer": {
     "ru": "Не указан",

@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/simba-s-mouse-119/01.webp",
-      "thumbnail": "assets/photos/simba-s-mouse-119/01-thumb.webp",
+      "file": "assets/photos/simba-s-mouse-119/01-catalog.webp",
+      "thumbnail": "assets/photos/simba-s-mouse-119/01-catalog-thumb.webp",
       "original": "assets/photos/simba-s-mouse-119/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/7/7k/7/7k/7kg48m0i6thwm7ql.jpg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/7/7k/7kg48m0i6thwm7ql.jpg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/7/7k/7kg48m0i6thwm7ql.jpg",
       "sourceOriginalError": "",
       "originalFilename": "7kg48m0i6thwm7ql.jpg",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3217,
       "originalHeight": 2145,
       "originalBytes": 3027332,
@@ -125,7 +125,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/simba-s-mouse-119/thumb.webp",
+  "thumbnail": "assets/photos/simba-s-mouse-119/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:52+03:00",
     "sourcePhotoCount": 4,

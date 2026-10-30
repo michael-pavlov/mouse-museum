@@ -15,14 +15,14 @@
   },
   "photos": [
     {
-      "file": "assets/photos/mm-8031-korvet-red-225/01.webp",
-      "thumbnail": "assets/photos/mm-8031-korvet-red-225/01-thumb.webp",
+      "file": "assets/photos/mm-8031-korvet-red-225/01-catalog.webp",
+      "thumbnail": "assets/photos/mm-8031-korvet-red-225/01-catalog-thumb.webp",
       "original": "assets/photos/mm-8031-korvet-red-225/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/2/2t/2/2t/2tn0jegyhnrvvhuh.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/2/2t/2tn0jegyhnrvvhuh.jpeg",
       "originalFilename": "2tn0jegyhnrvvhuh.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1107200,
@@ -150,7 +150,7 @@
       "caption": ""
     }
   ],
-  "thumbnail": "assets/photos/mm-8031-korvet-red-225/thumb.webp",
+  "thumbnail": "assets/photos/mm-8031-korvet-red-225/thumb-catalog.webp",
   "order": 40,
   "manufacturer": {
     "ru": "Не указан",

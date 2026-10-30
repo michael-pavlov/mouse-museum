@@ -18,8 +18,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/marsianka-uvk-01-black-and-white-223/01.webp",
-      "thumbnail": "assets/photos/marsianka-uvk-01-black-and-white-223/01-thumb.webp",
+      "file": "assets/photos/marsianka-uvk-01-black-and-white-223/01-catalog.webp",
+      "thumbnail": "assets/photos/marsianka-uvk-01-black-and-white-223/01-catalog-thumb.webp",
       "original": "assets/photos/marsianka-uvk-01-black-and-white-223/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/t/tt/t/tt/ttwcnhtpnfldwnmc.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/t/tt/ttwcnhtpnfldwnmc.jpeg",
@@ -27,8 +27,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/t/tt/ttwcnhtpnfldwnmc.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "ttwcnhtpnfldwnmc.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1012743,
@@ -126,7 +126,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/marsianka-uvk-01-black-and-white-223/thumb.webp",
+  "thumbnail": "assets/photos/marsianka-uvk-01-black-and-white-223/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:46+03:00",
     "sourcePhotoCount": 4,

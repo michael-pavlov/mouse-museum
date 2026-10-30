@@ -17,14 +17,14 @@
   },
   "photos": [
     {
-      "file": "assets/photos/es-1849-158/01.webp",
-      "thumbnail": "assets/photos/es-1849-158/01-thumb.webp",
+      "file": "assets/photos/es-1849-158/01-catalog.webp",
+      "thumbnail": "assets/photos/es-1849-158/01-catalog-thumb.webp",
       "original": "assets/photos/es-1849-158/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/h/he/h/he/her9oejtuomecxxv.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/h/he/her9oejtuomecxxv.jpeg",
       "originalFilename": "her9oejtuomecxxv.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1206224,
@@ -77,7 +77,7 @@
       "caption": ""
     }
   ],
-  "thumbnail": "assets/photos/es-1849-158/thumb.webp",
+  "thumbnail": "assets/photos/es-1849-158/thumb-catalog.webp",
   "order": 37,
   "manufacturer": {
     "ru": "Минский завод ЭВМ",

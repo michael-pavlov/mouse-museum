@@ -17,14 +17,14 @@
   },
   "photos": [
     {
-      "file": "assets/photos/clix-cx-30-19/01.webp",
-      "thumbnail": "assets/photos/clix-cx-30-19/01-thumb.webp",
+      "file": "assets/photos/clix-cx-30-19/01-catalog.webp",
+      "thumbnail": "assets/photos/clix-cx-30-19/01-catalog-thumb.webp",
       "original": "assets/photos/clix-cx-30-19/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/x/x9/x9mlnw7zq5fecrfj.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/x/x9/x9mlnw7zq5fecrfj.JPG",
       "originalFilename": "x9mlnw7zq5fecrfj.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3350,
       "originalHeight": 2233,
       "originalBytes": 1137068,
@@ -77,7 +77,7 @@
       "caption": ""
     }
   ],
-  "thumbnail": "assets/photos/clix-cx-30-19/thumb.webp",
+  "thumbnail": "assets/photos/clix-cx-30-19/thumb-catalog.webp",
   "order": 27,
   "manufacturer": {
     "ru": "CLiX",

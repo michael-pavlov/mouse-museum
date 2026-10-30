@@ -16,14 +16,14 @@
   },
   "photos": [
     {
-      "file": "assets/photos/mouse-systems-proagio/01.webp",
-      "thumbnail": "assets/photos/mouse-systems-proagio/01-thumb.webp",
+      "file": "assets/photos/mouse-systems-proagio/01-catalog.webp",
+      "thumbnail": "assets/photos/mouse-systems-proagio/01-catalog-thumb.webp",
       "original": "assets/photos/mouse-systems-proagio/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/7/7p/7p9gx82jbosbw53e.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/7/7p/7p9gx82jbosbw53e.JPG",
       "originalFilename": "7p9gx82jbosbw53e.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3350,
       "originalHeight": 2233,
       "originalBytes": 1068114,
@@ -106,7 +106,7 @@
       "caption": ""
     }
   ],
-  "thumbnail": "assets/photos/mouse-systems-proagio/thumb.webp",
+  "thumbnail": "assets/photos/mouse-systems-proagio/thumb-catalog.webp",
   "order": 6,
   "manufacturer": {
     "ru": "Mouse Systems",

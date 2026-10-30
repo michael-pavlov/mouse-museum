@@ -16,14 +16,14 @@
   },
   "photos": [
     {
-      "file": "assets/photos/accel-wany-1-mouse-121/01.webp",
-      "thumbnail": "assets/photos/accel-wany-1-mouse-121/01-thumb.webp",
+      "file": "assets/photos/accel-wany-1-mouse-121/01-catalog.webp",
+      "thumbnail": "assets/photos/accel-wany-1-mouse-121/01-catalog-thumb.webp",
       "original": "assets/photos/accel-wany-1-mouse-121/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/u/uj/u/uj/ujjjw3cebltbwp4h.jpg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/u/uj/ujjjw3cebltbwp4h.jpg",
       "originalFilename": "ujjjw3cebltbwp4h.jpg",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3502,
       "originalHeight": 2335,
       "originalBytes": 2804544,
@@ -76,7 +76,7 @@
       "caption": ""
     }
   ],
-  "thumbnail": "assets/photos/accel-wany-1-mouse-121/thumb.webp",
+  "thumbnail": "assets/photos/accel-wany-1-mouse-121/thumb-catalog.webp",
   "order": 36,
   "manufacturer": {
     "ru": "Accel",

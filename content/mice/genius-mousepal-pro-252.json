@@ -14,8 +14,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/genius-mousepal-pro-252/01.webp",
-      "thumbnail": "assets/photos/genius-mousepal-pro-252/01-thumb.webp",
+      "file": "assets/photos/genius-mousepal-pro-252/01-catalog.webp",
+      "thumbnail": "assets/photos/genius-mousepal-pro-252/01-catalog-thumb.webp",
       "original": "assets/photos/genius-mousepal-pro-252/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/q/qv/q/qv/qvxjq80ktsgq6ao8.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qv/qvxjq80ktsgq6ao8.jpeg",
@@ -23,8 +23,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/q/qv/qvxjq80ktsgq6ao8.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "qvxjq80ktsgq6ao8.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1101453,
@@ -194,7 +194,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/genius-mousepal-pro-252/thumb.webp",
+  "thumbnail": "assets/photos/genius-mousepal-pro-252/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:58+03:00",
     "sourcePhotoCount": 8,

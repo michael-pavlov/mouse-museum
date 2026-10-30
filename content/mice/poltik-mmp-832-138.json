@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/poltik-mmp-832-138/01.webp",
-      "thumbnail": "assets/photos/poltik-mmp-832-138/01-thumb.webp",
+      "file": "assets/photos/poltik-mmp-832-138/01-catalog.webp",
+      "thumbnail": "assets/photos/poltik-mmp-832-138/01-catalog-thumb.webp",
       "original": "assets/photos/poltik-mmp-832-138/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/f/fe/f/fe/fejqssylsznahxle.jpg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/f/fe/fejqssylsznahxle.jpg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/f/fe/fejqssylsznahxle.jpg",
       "sourceOriginalError": "",
       "originalFilename": "fejqssylsznahxle.jpg",
-      "width": 2257,
-      "height": 1505,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 2257,
       "originalHeight": 1505,
       "originalBytes": 1595467,
@@ -251,7 +251,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/poltik-mmp-832-138/thumb.webp",
+  "thumbnail": "assets/photos/poltik-mmp-832-138/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:46+03:00",
     "sourcePhotoCount": 11,

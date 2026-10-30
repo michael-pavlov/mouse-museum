@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/primax-electronics-microspot-106/01.webp",
-      "thumbnail": "assets/photos/primax-electronics-microspot-106/01-thumb.webp",
+      "file": "assets/photos/primax-electronics-microspot-106/01-catalog.webp",
+      "thumbnail": "assets/photos/primax-electronics-microspot-106/01-catalog-thumb.webp",
       "original": "assets/photos/primax-electronics-microspot-106/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/q/qu/q/qu/quajsn5bqgbveutf.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qu/quajsn5bqgbveutf.JPG",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/q/qu/quajsn5bqgbveutf.JPG",
       "sourceOriginalError": "",
       "originalFilename": "quajsn5bqgbveutf.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3217,
       "originalHeight": 2145,
       "originalBytes": 898291,
@@ -125,7 +125,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/primax-electronics-microspot-106/thumb.webp",
+  "thumbnail": "assets/photos/primax-electronics-microspot-106/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:51+03:00",
     "sourcePhotoCount": 4,

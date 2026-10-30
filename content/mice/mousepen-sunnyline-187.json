@@ -16,8 +16,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/mousepen-sunnyline-187/01.webp",
-      "thumbnail": "assets/photos/mousepen-sunnyline-187/01-thumb.webp",
+      "file": "assets/photos/mousepen-sunnyline-187/01-catalog.webp",
+      "thumbnail": "assets/photos/mousepen-sunnyline-187/01-catalog-thumb.webp",
       "original": "assets/photos/mousepen-sunnyline-187/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/a/ar/a/ar/arknbeeu6xamijsc.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/a/ar/arknbeeu6xamijsc.jpeg",
@@ -25,8 +25,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/a/ar/arknbeeu6xamijsc.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "arknbeeu6xamijsc.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 980117,
@@ -124,7 +124,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/mousepen-sunnyline-187/thumb.webp",
+  "thumbnail": "assets/photos/mousepen-sunnyline-187/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:55+03:00",
     "sourcePhotoCount": 4,

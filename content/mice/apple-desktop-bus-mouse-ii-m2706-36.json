@@ -17,14 +17,14 @@
   },
   "photos": [
     {
-      "file": "assets/photos/apple-desktop-bus-mouse-ii-m2706-36/01.webp",
-      "thumbnail": "assets/photos/apple-desktop-bus-mouse-ii-m2706-36/01-thumb.webp",
+      "file": "assets/photos/apple-desktop-bus-mouse-ii-m2706-36/01-catalog.webp",
+      "thumbnail": "assets/photos/apple-desktop-bus-mouse-ii-m2706-36/01-catalog-thumb.webp",
       "original": "assets/photos/apple-desktop-bus-mouse-ii-m2706-36/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/n/ng/ngu92j55faiqn8l4.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/n/ng/ngu92j55faiqn8l4.JPG",
       "originalFilename": "ngu92j55faiqn8l4.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3500,
       "originalHeight": 2333,
       "originalBytes": 1540871,
@@ -107,7 +107,7 @@
       "caption": ""
     }
   ],
-  "thumbnail": "assets/photos/apple-desktop-bus-mouse-ii-m2706-36/thumb.webp",
+  "thumbnail": "assets/photos/apple-desktop-bus-mouse-ii-m2706-36/thumb-catalog.webp",
   "order": 44,
   "manufacturer": {
     "ru": "Apple",

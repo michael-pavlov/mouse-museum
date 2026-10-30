@@ -18,8 +18,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/mouse-systems-little-mouse-73/01.webp",
-      "thumbnail": "assets/photos/mouse-systems-little-mouse-73/01-thumb.webp",
+      "file": "assets/photos/mouse-systems-little-mouse-73/01-catalog.webp",
+      "thumbnail": "assets/photos/mouse-systems-little-mouse-73/01-catalog-thumb.webp",
       "original": "assets/photos/mouse-systems-little-mouse-73/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/m/mk/mkbekwric14wwll9.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/m/mk/mkbekwric14wwll9.JPG",
@@ -27,8 +27,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/m/mk/mkbekwric14wwll9.JPG",
       "sourceOriginalError": "",
       "originalFilename": "mkbekwric14wwll9.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3350,
       "originalHeight": 2233,
       "originalBytes": 1274299,
@@ -144,7 +144,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/mouse-systems-little-mouse-73/thumb.webp",
+  "thumbnail": "assets/photos/mouse-systems-little-mouse-73/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:46+03:00",
     "sourcePhotoCount": 5,

@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/cutie-mouse-mus02-181/01.webp",
-      "thumbnail": "assets/photos/cutie-mouse-mus02-181/01-thumb.webp",
+      "file": "assets/photos/cutie-mouse-mus02-181/01-catalog.webp",
+      "thumbnail": "assets/photos/cutie-mouse-mus02-181/01-catalog-thumb.webp",
       "original": "assets/photos/cutie-mouse-mus02-181/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/h/ha/h/ha/hahsoa7vrvzou79n.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/h/ha/hahsoa7vrvzou79n.jpeg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/h/ha/hahsoa7vrvzou79n.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "hahsoa7vrvzou79n.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1105526,
@@ -161,7 +161,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/cutie-mouse-mus02-181/thumb.webp",
+  "thumbnail": "assets/photos/cutie-mouse-mus02-181/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:55+03:00",
     "sourcePhotoCount": 6,

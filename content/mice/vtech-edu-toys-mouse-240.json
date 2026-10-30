@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/vtech-edu-toys-mouse-240/01.webp",
-      "thumbnail": "assets/photos/vtech-edu-toys-mouse-240/01-thumb.webp",
+      "file": "assets/photos/vtech-edu-toys-mouse-240/01-catalog.webp",
+      "thumbnail": "assets/photos/vtech-edu-toys-mouse-240/01-catalog-thumb.webp",
       "original": "assets/photos/vtech-edu-toys-mouse-240/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/a/as/a/as/aswmoa7shwtzjixj.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/a/as/aswmoa7shwtzjixj.jpeg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/a/as/aswmoa7shwtzjixj.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "aswmoa7shwtzjixj.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 801042,
@@ -197,7 +197,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/vtech-edu-toys-mouse-240/thumb.webp",
+  "thumbnail": "assets/photos/vtech-edu-toys-mouse-240/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:59+03:00",
     "sourcePhotoCount": 8,

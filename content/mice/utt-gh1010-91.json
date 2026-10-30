@@ -18,8 +18,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/utt-gh1010-91/01.webp",
-      "thumbnail": "assets/photos/utt-gh1010-91/01-thumb.webp",
+      "file": "assets/photos/utt-gh1010-91/01-catalog.webp",
+      "thumbnail": "assets/photos/utt-gh1010-91/01-catalog-thumb.webp",
       "original": "assets/photos/utt-gh1010-91/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/r/ro/roxjoavuwcrux6q2.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/r/ro/roxjoavuwcrux6q2.JPG",
@@ -27,8 +27,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/r/ro/roxjoavuwcrux6q2.JPG",
       "sourceOriginalError": "",
       "originalFilename": "roxjoavuwcrux6q2.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3100,
       "originalHeight": 2067,
       "originalBytes": 1157561,
@@ -144,7 +144,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/utt-gh1010-91/thumb.webp",
+  "thumbnail": "assets/photos/utt-gh1010-91/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:51+03:00",
     "sourcePhotoCount": 5,

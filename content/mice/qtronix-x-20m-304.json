@@ -15,8 +15,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/qtronix-x-20m-304/01.webp",
-      "thumbnail": "assets/photos/qtronix-x-20m-304/01-thumb.webp",
+      "file": "assets/photos/qtronix-x-20m-304/01-catalog.webp",
+      "thumbnail": "assets/photos/qtronix-x-20m-304/01-catalog-thumb.webp",
       "original": "assets/photos/qtronix-x-20m-304/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/2/2f/2/2f/2f3qsysniuj1xd3i.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/2/2f/2f3qsysniuj1xd3i.jpeg",
@@ -24,8 +24,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/2/2f/2f3qsysniuj1xd3i.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "2f3qsysniuj1xd3i.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1008889,
@@ -195,7 +195,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/qtronix-x-20m-304/thumb.webp",
+  "thumbnail": "assets/photos/qtronix-x-20m-304/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:11:02+03:00",
     "sourcePhotoCount": 8,

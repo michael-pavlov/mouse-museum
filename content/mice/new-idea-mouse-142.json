@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/new-idea-mouse-142/01.webp",
-      "thumbnail": "assets/photos/new-idea-mouse-142/01-thumb.webp",
+      "file": "assets/photos/new-idea-mouse-142/01-catalog.webp",
+      "thumbnail": "assets/photos/new-idea-mouse-142/01-catalog-thumb.webp",
       "original": "assets/photos/new-idea-mouse-142/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/w/w6/w/w6/w6umg5trggbpput9.jpg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/w/w6/w6umg5trggbpput9.jpg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/w/w6/w6umg5trggbpput9.jpg",
       "sourceOriginalError": "",
       "originalFilename": "w6umg5trggbpput9.jpg",
-      "width": 1895,
-      "height": 1263,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 1895,
       "originalHeight": 1263,
       "originalBytes": 1122150,
@@ -125,7 +125,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/new-idea-mouse-142/thumb.webp",
+  "thumbnail": "assets/photos/new-idea-mouse-142/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:54+03:00",
     "sourcePhotoCount": 4,

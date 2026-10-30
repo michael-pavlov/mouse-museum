@@ -18,8 +18,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/silicon-graphics-granite-mouse-280/01.webp",
-      "thumbnail": "assets/photos/silicon-graphics-granite-mouse-280/01-thumb.webp",
+      "file": "assets/photos/silicon-graphics-granite-mouse-280/01-catalog.webp",
+      "thumbnail": "assets/photos/silicon-graphics-granite-mouse-280/01-catalog-thumb.webp",
       "original": "assets/photos/silicon-graphics-granite-mouse-280/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/x/xo/x/xo/xomkf0i8q4hnduls.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/x/xo/xomkf0i8q4hnduls.jpeg",
@@ -27,8 +27,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/x/xo/xomkf0i8q4hnduls.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "xomkf0i8q4hnduls.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 942690,
@@ -180,7 +180,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/silicon-graphics-granite-mouse-280/thumb.webp",
+  "thumbnail": "assets/photos/silicon-graphics-granite-mouse-280/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:11:02+03:00",
     "sourcePhotoCount": 7,

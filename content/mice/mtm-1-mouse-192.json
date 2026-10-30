@@ -18,8 +18,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/mtm-1-mouse-192/01.webp",
-      "thumbnail": "assets/photos/mtm-1-mouse-192/01-thumb.webp",
+      "file": "assets/photos/mtm-1-mouse-192/01-catalog.webp",
+      "thumbnail": "assets/photos/mtm-1-mouse-192/01-catalog-thumb.webp",
       "original": "assets/photos/mtm-1-mouse-192/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/n/nk/n/nk/nkztzpdyo1uytqct.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/n/nk/nkztzpdyo1uytqct.jpeg",
@@ -27,8 +27,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/n/nk/nkztzpdyo1uytqct.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "nkztzpdyo1uytqct.jpeg",
-      "width": 2400,
-      "height": 1751,
+      "width": 1469,
+      "height": 1071,
       "originalWidth": 3737,
       "originalHeight": 2726,
       "originalBytes": 1121288,
@@ -234,7 +234,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/mtm-1-mouse-192/thumb.webp",
+  "thumbnail": "assets/photos/mtm-1-mouse-192/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:46+03:00",
     "sourcePhotoCount": 10,
