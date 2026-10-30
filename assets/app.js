@@ -1,4 +1,5 @@
 (()=>{'use strict';const ru=document.documentElement.lang==='ru';const t=(en,r)=>ru?r:en;const $=s=>document.querySelector(s);const $$=s=>[...document.querySelectorAll(s)];
+const metrikaId=113889111;function goal(name){try{if(typeof ym==='function')ym(metrikaId,'reachGoal',name);}catch(e){}}
 // Keep the catalogue return destination within this browser tab.
 const catalogueStateKey='mouse-museum:catalogue:'+document.documentElement.lang;
 const catalogueBack=$('.breadcrumb a');
@@ -72,9 +73,9 @@ if($('#catalog')){
  $$('[data-reset]').forEach(b=>b.addEventListener('click',reset));$('.filter-toggle').addEventListener('click',e=>{const open=$('.filters').classList.toggle('open');e.currentTarget.setAttribute('aria-expanded',String(open))});filter();
 }
 
-const thumbs=$$('.thumbs button');let current=0;function photo(n){current=(n+thumbs.length)%thumbs.length;const thumb=thumbs[current];$('#main-image').src=thumb.dataset.src;$('#main-image').alt=thumb.dataset.alt;$('#photo-count').textContent=`${String(current+1).padStart(2,'0')} / ${String(thumbs.length).padStart(2,'0')}`;thumbs.forEach((b,i)=>b.setAttribute('aria-pressed',String(i===current)));if($('#lightbox-image')&&$('#lightbox').open){$('#lightbox-image').src=thumb.dataset.src;$('#lightbox-image').alt=thumb.dataset.alt}}if(thumbs.length){thumbs.forEach((b,i)=>b.addEventListener('click',()=>photo(i)));$$('[data-step]').forEach(b=>b.addEventListener('click',()=>photo(current+Number(b.dataset.step))));$('.zoom').addEventListener('click',()=>{$('#lightbox').showModal();photo(current);document.documentElement.classList.add('photo-viewer-open')});$('#lightbox').addEventListener('close',()=>document.documentElement.classList.remove('photo-viewer-open'));document.addEventListener('keydown',e=>{if($('#lightbox').open){if(e.key==='ArrowRight'){e.preventDefault();photo(current+1)}if(e.key==='ArrowLeft'){e.preventDefault();photo(current-1)}}})}
+const thumbs=$$('.thumbs button');let current=0;function photo(n){current=(n+thumbs.length)%thumbs.length;const thumb=thumbs[current];$('#main-image').src=thumb.dataset.src;$('#main-image').alt=thumb.dataset.alt;$('#photo-count').textContent=`${String(current+1).padStart(2,'0')} / ${String(thumbs.length).padStart(2,'0')}`;thumbs.forEach((b,i)=>b.setAttribute('aria-pressed',String(i===current)));if($('#lightbox-image')&&$('#lightbox').open){$('#lightbox-image').src=thumb.dataset.src;$('#lightbox-image').alt=thumb.dataset.alt}}if(thumbs.length){thumbs.forEach((b,i)=>b.addEventListener('click',()=>photo(i)));$$('[data-step]').forEach(b=>b.addEventListener('click',()=>photo(current+Number(b.dataset.step))));$('.zoom').addEventListener('click',()=>{$('#lightbox').showModal();photo(current);document.documentElement.classList.add('photo-viewer-open');goal('photo_zoom')});$('#lightbox').addEventListener('close',()=>document.documentElement.classList.remove('photo-viewer-open'));document.addEventListener('keydown',e=>{if($('#lightbox').open){if(e.key==='ArrowRight'){e.preventDefault();photo(current+1)}if(e.key==='ArrowLeft'){e.preventDefault();photo(current-1)}}})}
 $$('[data-close]').forEach(b=>b.addEventListener('click',()=>b.closest('dialog').close()));$$('dialog').forEach(d=>d.addEventListener('click',e=>{if(e.target===d){const r=d.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)d.close()}}));
-const permalink=()=>location.href.split('#')[0].split('?')[0];async function copy(value){try{await navigator.clipboard.writeText(value);return true}catch{return false}}if($('#copy-link'))$('#copy-link').addEventListener('click',async()=>{if(await copy(permalink())){$('#copy-status').textContent=t('Link copied.','Ссылка скопирована.')}else{$('#share').showModal();$('#share-format').value='url';renderShare();$('#share-text').focus();$('#share-text').select()}});function renderShare(){const type=$('#share-format').value,url=permalink(),title=$('h1').textContent,img=new URL($('#main-image').getAttribute('src'),location.href).href;$('#share-text').value=type==='bbcode'?`[url=${url}]${title}[/url]`:type==='markdown'?`[${title}](${url})`:type==='image'?`[url=${url}][img]${img}[/img][/url]`:url;$('#share-status').textContent=''}if($('#forum-link')){$('#forum-link').addEventListener('click',()=>{renderShare();$('#share').showModal()});$('#share-format').addEventListener('change',renderShare);$('#copy-share').addEventListener('click',async()=>{if(await copy($('#share-text').value))$('#share-status').textContent=t('Copied. Ready to paste.','Скопировано. Можно вставлять.');else{$('#share-text').focus();$('#share-text').select();$('#share-status').textContent=t('Press Ctrl+C or ⌘C to copy.','Нажмите Ctrl+C или ⌘C.')}})}
+const permalink=()=>location.href.split('#')[0].split('?')[0];async function copy(value){try{await navigator.clipboard.writeText(value);return true}catch{return false}}if($('#copy-link'))$('#copy-link').addEventListener('click',async()=>{if(await copy(permalink())){$('#copy-status').textContent=t('Link copied.','Ссылка скопирована.');goal('copy_share')}else{$('#share').showModal();$('#share-format').value='url';renderShare();$('#share-text').focus();$('#share-text').select()}});function renderShare(){const type=$('#share-format').value,url=permalink(),title=$('h1').textContent,img=new URL($('#main-image').getAttribute('src'),location.href).href;$('#share-text').value=type==='bbcode'?`[url=${url}]${title}[/url]`:type==='markdown'?`[${title}](${url})`:type==='image'?`[url=${url}][img]${img}[/img][/url]`:url;$('#share-status').textContent=''}if($('#forum-link')){$('#forum-link').addEventListener('click',()=>{renderShare();$('#share').showModal()});$('#share-format').addEventListener('change',renderShare);$('#copy-share').addEventListener('click',async()=>{if(await copy($('#share-text').value)){$('#share-status').textContent=t('Copied. Ready to paste.','Скопировано. Можно вставлять.');goal('copy_share')}else{$('#share-text').focus();$('#share-text').select();$('#share-status').textContent=t('Press Ctrl+C or ⌘C to copy.','Нажмите Ctrl+C или ⌘C.')}})}
 
 // Image links stay on the current page, with a native modal and explicit close.
 const imageLinks=$$('a.wanted-photo, a.article-photo');
@@ -91,11 +92,19 @@ if(imageLinks.length){
    if(e.button||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;
    e.preventDefault();opener=link;
    const thumbnail=link.querySelector('img');image.alt=thumbnail?.alt||t('Photograph','Фотография');caption.textContent=image.alt;image.src=link.href;
-   viewer.showModal();document.documentElement.classList.add('photo-viewer-open');
+   viewer.showModal();document.documentElement.classList.add('photo-viewer-open');goal('photo_zoom');
   }));
   close.addEventListener('click',()=>viewer.close());
   viewer.addEventListener('click',e=>{if(e.target!==viewer)return;const rect=viewer.getBoundingClientRect();if(e.clientX<rect.left||e.clientX>rect.right||e.clientY<rect.top||e.clientY>rect.bottom)viewer.close();});
   viewer.addEventListener('close',()=>{document.documentElement.classList.remove('photo-viewer-open');image.removeAttribute('src');opener?.focus({preventScroll:true});});
  }
 }
+function emailGoal(link){
+ const path=location.pathname||'';
+ if(link.classList.contains('about-email'))return 'email_about';
+ if(link.classList.contains('exchange-propose')||link.closest('.exchange-card')||path.includes('/wanted/exchange/'))return 'email_exchange';
+ if(link.classList.contains('wanted-offer')||path.includes('/wanted/'))return 'email_wanted';
+ return '';
+}
+$$('a[href^="mailto:"]').forEach(link=>link.addEventListener('click',()=>{const name=emailGoal(link);if(name)goal(name);}));
 })();
