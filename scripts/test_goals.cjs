@@ -15,23 +15,29 @@ function el(className=''){
 
 function boot(pathname, mailtos){
  const goals=[];
+ const formats=['url','bbcode','markdown','image'].map(format=>({
+  ...el(),dataset:{shareFormat:format},pressed:format==='url',
+  setAttribute(name,value){if(name==='aria-pressed')this.pressed=value==='true';},
+ }));
  const elements={
-  '#copy-link':el(),
   '#forum-link':el(),
   '#copy-status':{textContent:''},
   '#copy-share':el(),
   '#share-format':el(),
   '#share-status':{textContent:''},
-  '#share-text':{value:'forum text'},
+  '#share-text':{value:'forum text',style:{},scrollHeight:90},
+  '#share':{open:false,showModal(){this.open=true;}},
+  'h1':{textContent:'Test specimen'},
+  '#main-image':{getAttribute(){return '/assets/example.webp';}},
  };
  const document={
   documentElement:{lang:'en'},
-  querySelector:selector=>elements[selector]||null,
-  querySelectorAll:selector=>selector==='a[href^="mailto:"]'?mailtos:[],
+  querySelector:selector=>selector==='[data-share-format][aria-pressed="true"]'?formats.find(x=>x.pressed):elements[selector]||null,
+  querySelectorAll:selector=>selector==='a[href^="mailto:"]'?mailtos:selector==='[data-share-format]'?formats:[],
  };
  const navigator={clipboard:{async writeText(){return true;}}};
- vm.runInNewContext(source,{document,navigator,location:{href:'https://mouse.museum'+pathname,pathname},ym:(id,method,name)=>goals.push([id,method,name])});
- return {goals,elements};
+ vm.runInNewContext(source,{document,navigator,URL,window:{addEventListener(){}},location:{href:'https://mouse.museum'+pathname,pathname},ym:(id,method,name)=>goals.push([id,method,name])});
+ return {goals,elements,formats};
 }
 
 (async()=>{
@@ -42,7 +48,10 @@ function boot(pathname, mailtos){
  const footer=el();
 
  const wantedPage=boot('/ru/wanted/index.html',[wanted,footer]);
- await wantedPage.elements['#copy-link'].events.click();
+ wantedPage.elements['#forum-link'].events.click();
+ assert(wantedPage.elements['#share'].open);
+ assert.equal(wantedPage.elements['#share-text'].value,'https://mouse.museum/ru/wanted/index.html');
+ await wantedPage.elements['#copy-share'].events.click();
  wanted.events.click();
  footer.events.click();
  assert.deepEqual(wantedPage.goals,[
@@ -52,6 +61,8 @@ function boot(pathname, mailtos){
  ]);
 
  const exchangePage=boot('/en/wanted/exchange/index.html',[exchangeCard,propose,footer]);
+ exchangePage.formats[1].events.click();
+ assert.equal(exchangePage.elements['#share-text'].value,'[url=https://mouse.museum/en/wanted/exchange/index.html]Test specimen[/url]');
  await exchangePage.elements['#copy-share'].events.click();
  exchangeCard.events.click();
  propose.events.click();
