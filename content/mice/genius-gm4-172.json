@@ -254,7 +254,15 @@
     "en": ""
   },
   "channelPost": [],
-  "externalLinks": [],
+  "externalLinks": [
+    {
+      "url": "https://www.stone-oakvalley-studios.com/uploads/01810e41/pc_mikrodata_07-1986.pdf",
+      "title": {
+        "en": "PC Mikrodata, 07/1986 · PDF",
+        "ru": "PC Mikrodata, 07/1986 · PDF"
+      }
+    }
+  ],
   "sourceSync": {
     "retrievedAt": "2026-10-27T22:22:53+03:00",
     "sourcePhotoCount": 13,
