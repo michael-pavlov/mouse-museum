@@ -6,7 +6,7 @@
 {
   "description": {
     "ru": "Свободный текст об экземпляре.\n\nВторой абзац.",
-    "en": "A note about this specimen.\n\nAnother paragraph."
+    "en": "A note about this mouse.\n\nAnother paragraph."
   },
   "externalLinks": [
     {

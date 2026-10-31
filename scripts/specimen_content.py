@@ -75,7 +75,7 @@ def description_html(item,language):
     if not text:
         return ''
     paragraphs=''.join('<p>'+esc(part).replace('\n','<br>')+'</p>' for part in re.split(r'\n\s*\n',text) if part.strip())
-    return f'<section class="specimen-description"><h2>{tr("About this specimen","Об экземпляре",language)}</h2>{paragraphs}</section>'
+    return f'<section class="specimen-description"><h2>{tr("About this model","Об этой модели",language)}</h2>{paragraphs}</section>'
 
 
 def resources_html(item,language,publications=()):
