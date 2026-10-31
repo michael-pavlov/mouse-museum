@@ -269,8 +269,8 @@
     "en": ""
   },
   "description": {
-    "ru": "Манипулятор от корабельного зенитно-ракетного комплекса Ураган.",
-    "en": "A pointing device from the naval Uragan surface-to-air missile system."
+    "ru": "Трекбол от корабельного зенитно-ракетного комплекса «Ураган». Только для правшей. Имеет модифицированные оптико-механические энкодеры, которые сильно улучшают точность и снижают дребезг, что важно для военной техники.",
+    "en": "A trackball from the Uragan naval surface-to-air missile system, for right-handed use only. It has modified optomechanical encoders that greatly improve accuracy and reduce signal chatter, which is important for military equipment."
   },
   "notes": {
     "en": "",

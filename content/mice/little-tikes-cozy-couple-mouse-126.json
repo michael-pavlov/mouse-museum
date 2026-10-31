@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/little-tikes-cozy-couple-mouse-126/01.webp",
-      "thumbnail": "assets/photos/little-tikes-cozy-couple-mouse-126/01-thumb.webp",
+      "file": "assets/photos/little-tikes-cozy-couple-mouse-126/01-catalog.webp",
+      "thumbnail": "assets/photos/little-tikes-cozy-couple-mouse-126/01-catalog-thumb.webp",
       "original": "assets/photos/little-tikes-cozy-couple-mouse-126/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/m/mm/m/mm/mmfez4b0imficuak.jpg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/m/mm/mmfez4b0imficuak.jpg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/m/mm/mmfez4b0imficuak.jpg",
       "sourceOriginalError": "",
       "originalFilename": "mmfez4b0imficuak.jpg",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 4003,
       "originalHeight": 2669,
       "originalBytes": 4213841,
@@ -125,7 +125,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/little-tikes-cozy-couple-mouse-126/thumb.webp",
+  "thumbnail": "assets/photos/little-tikes-cozy-couple-mouse-126/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:53+03:00",
     "sourcePhotoCount": 4,

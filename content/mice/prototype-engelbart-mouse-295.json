@@ -53,8 +53,8 @@
       "caption": ""
     },
     {
-      "file": "assets/photos/prototype-engelbart-mouse-295/03.webp",
-      "thumbnail": "assets/photos/prototype-engelbart-mouse-295/03-thumb.webp",
+      "file": "assets/photos/prototype-engelbart-mouse-295/03-catalog.webp",
+      "thumbnail": "assets/photos/prototype-engelbart-mouse-295/03-catalog-thumb.webp",
       "original": "assets/photos/prototype-engelbart-mouse-295/originals/03.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/3/3f/3/3f/3fxj0bdsm9k36ul2.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/3/3f/3fxj0bdsm9k36ul2.jpeg",
@@ -62,8 +62,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/3/3f/3fxj0bdsm9k36ul2.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "3fxj0bdsm9k36ul2.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1556321,
@@ -71,8 +71,8 @@
       "caption": ""
     },
     {
-      "file": "assets/photos/prototype-engelbart-mouse-295/04.webp",
-      "thumbnail": "assets/photos/prototype-engelbart-mouse-295/04-thumb.webp",
+      "file": "assets/photos/prototype-engelbart-mouse-295/04-catalog.webp",
+      "thumbnail": "assets/photos/prototype-engelbart-mouse-295/04-catalog-thumb.webp",
       "original": "assets/photos/prototype-engelbart-mouse-295/originals/04.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/g/gw/g/gw/gwiizw7hzw5pqfha.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gw/gwiizw7hzw5pqfha.jpeg",
@@ -80,8 +80,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/g/gw/gwiizw7hzw5pqfha.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "gwiizw7hzw5pqfha.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1481006,
@@ -89,8 +89,8 @@
       "caption": ""
     },
     {
-      "file": "assets/photos/prototype-engelbart-mouse-295/05.webp",
-      "thumbnail": "assets/photos/prototype-engelbart-mouse-295/05-thumb.webp",
+      "file": "assets/photos/prototype-engelbart-mouse-295/05-catalog.webp",
+      "thumbnail": "assets/photos/prototype-engelbart-mouse-295/05-catalog-thumb.webp",
       "original": "assets/photos/prototype-engelbart-mouse-295/originals/05.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/j/ja/j/ja/jabvggxiwf9n7suz.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/j/ja/jabvggxiwf9n7suz.jpeg",
@@ -98,8 +98,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/j/ja/jabvggxiwf9n7suz.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "jabvggxiwf9n7suz.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1464797,
@@ -161,8 +161,8 @@
     "en": ""
   },
   "description": {
-    "ru": "Прототип первой мыши (реплика)",
-    "en": "A replica of the first mouse prototype."
+    "ru": "Engelbart Mouse (replica) — реплика первого прототипа компьютерной мыши Дугласа Энгельбарта 1964 года. Деревянный корпус, два металлических диска и один провод.",
+    "en": "Engelbart Mouse (replica) is a replica of Douglas Engelbart's first computer mouse prototype from 1964. It has a wooden case, two metal discs and a single cable."
   },
   "notes": {
     "en": "",

@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/unknown-mouse-124/01.webp",
-      "thumbnail": "assets/photos/unknown-mouse-124/01-thumb.webp",
+      "file": "assets/photos/unknown-mouse-124/01-catalog.webp",
+      "thumbnail": "assets/photos/unknown-mouse-124/01-catalog-thumb.webp",
       "original": "assets/photos/unknown-mouse-124/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/p/pd/p/pd/pdcbgaf8pnzwcguq.jpg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/p/pd/pdcbgaf8pnzwcguq.jpg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/p/pd/pdcbgaf8pnzwcguq.jpg",
       "sourceOriginalError": "",
       "originalFilename": "pdcbgaf8pnzwcguq.jpg",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3406,
       "originalHeight": 2271,
       "originalBytes": 2674291,
@@ -125,7 +125,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/unknown-mouse-124/thumb.webp",
+  "thumbnail": "assets/photos/unknown-mouse-124/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:52+03:00",
     "sourcePhotoCount": 4,

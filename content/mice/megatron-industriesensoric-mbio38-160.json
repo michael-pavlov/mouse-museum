@@ -18,8 +18,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/megatron-industriesensoric-mbio38-160/01.webp",
-      "thumbnail": "assets/photos/megatron-industriesensoric-mbio38-160/01-thumb.webp",
+      "file": "assets/photos/megatron-industriesensoric-mbio38-160/01-catalog.webp",
+      "thumbnail": "assets/photos/megatron-industriesensoric-mbio38-160/01-catalog-thumb.webp",
       "original": "assets/photos/megatron-industriesensoric-mbio38-160/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/5/5g/5/5g/5gxj3l3heqyqw0n5.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/5/5g/5gxj3l3heqyqw0n5.jpeg",
@@ -27,8 +27,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/5/5g/5gxj3l3heqyqw0n5.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "5gxj3l3heqyqw0n5.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1465913,
@@ -144,7 +144,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/megatron-industriesensoric-mbio38-160/thumb.webp",
+  "thumbnail": "assets/photos/megatron-industriesensoric-mbio38-160/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:54+03:00",
     "sourcePhotoCount": 5,

@@ -18,8 +18,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/jvc-cordless-hc-m10-220/01.webp",
-      "thumbnail": "assets/photos/jvc-cordless-hc-m10-220/01-thumb.webp",
+      "file": "assets/photos/jvc-cordless-hc-m10-220/01-catalog.webp",
+      "thumbnail": "assets/photos/jvc-cordless-hc-m10-220/01-catalog-thumb.webp",
       "original": "assets/photos/jvc-cordless-hc-m10-220/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/4/4b/4/4b/4bfrbfshtcpi9ch1.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/4/4b/4bfrbfshtcpi9ch1.jpeg",
@@ -27,8 +27,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/4/4b/4bfrbfshtcpi9ch1.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "4bfrbfshtcpi9ch1.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1168716,
@@ -285,7 +285,7 @@
       }
     }
   ],
-  "thumbnail": "assets/photos/jvc-cordless-hc-m10-220/thumb.webp",
+  "thumbnail": "assets/photos/jvc-cordless-hc-m10-220/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:56+03:00",
     "sourcePhotoCount": 12,

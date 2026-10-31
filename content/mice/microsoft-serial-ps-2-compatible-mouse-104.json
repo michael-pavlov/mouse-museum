@@ -18,8 +18,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/microsoft-serial-ps-2-compatible-mouse-104/01.webp",
-      "thumbnail": "assets/photos/microsoft-serial-ps-2-compatible-mouse-104/01-thumb.webp",
+      "file": "assets/photos/microsoft-serial-ps-2-compatible-mouse-104/01-catalog.webp",
+      "thumbnail": "assets/photos/microsoft-serial-ps-2-compatible-mouse-104/01-catalog-thumb.webp",
       "original": "assets/photos/microsoft-serial-ps-2-compatible-mouse-104/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/o/ol/o/ol/ol2abnwwmzjbdghl.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/o/ol/ol2abnwwmzjbdghl.JPG",
@@ -27,8 +27,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/o/ol/ol2abnwwmzjbdghl.JPG",
       "sourceOriginalError": "",
       "originalFilename": "ol2abnwwmzjbdghl.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3318,
       "originalHeight": 2212,
       "originalBytes": 910125,
@@ -162,7 +162,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/microsoft-serial-ps-2-compatible-mouse-104/thumb.webp",
+  "thumbnail": "assets/photos/microsoft-serial-ps-2-compatible-mouse-104/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:51+03:00",
     "sourcePhotoCount": 6,

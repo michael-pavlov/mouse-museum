@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/kompass-mouse-122/01.webp",
-      "thumbnail": "assets/photos/kompass-mouse-122/01-thumb.webp",
+      "file": "assets/photos/kompass-mouse-122/01-catalog.webp",
+      "thumbnail": "assets/photos/kompass-mouse-122/01-catalog-thumb.webp",
       "original": "assets/photos/kompass-mouse-122/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/g/gv/g/gv/gvmgrua8k2omkzgs.jpg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gv/gvmgrua8k2omkzgs.jpg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/g/gv/gvmgrua8k2omkzgs.jpg",
       "sourceOriginalError": "",
       "originalFilename": "gvmgrua8k2omkzgs.jpg",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3331,
       "originalHeight": 2221,
       "originalBytes": 2750635,
@@ -107,7 +107,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/kompass-mouse-122/thumb.webp",
+  "thumbnail": "assets/photos/kompass-mouse-122/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:52+03:00",
     "sourcePhotoCount": 3,

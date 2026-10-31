@@ -18,8 +18,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/roland-mu-1-clone-24/01.webp",
-      "thumbnail": "assets/photos/roland-mu-1-clone-24/01-thumb.webp",
+      "file": "assets/photos/roland-mu-1-clone-24/01-catalog.webp",
+      "thumbnail": "assets/photos/roland-mu-1-clone-24/01-catalog-thumb.webp",
       "original": "assets/photos/roland-mu-1-clone-24/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/s/sk/skyt74mdxdkem3hk.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/s/sk/skyt74mdxdkem3hk.JPG",
@@ -27,8 +27,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/s/sk/skyt74mdxdkem3hk.JPG",
       "sourceOriginalError": "",
       "originalFilename": "skyt74mdxdkem3hk.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3350,
       "originalHeight": 2233,
       "originalBytes": 1215968,
@@ -126,7 +126,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/roland-mu-1-clone-24/thumb.webp",
+  "thumbnail": "assets/photos/roland-mu-1-clone-24/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:45+03:00",
     "sourcePhotoCount": 4,

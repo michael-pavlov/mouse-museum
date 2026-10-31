@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/lunaris-m-lma-variable-245/01.webp",
-      "thumbnail": "assets/photos/lunaris-m-lma-variable-245/01-thumb.webp",
+      "file": "assets/photos/lunaris-m-lma-variable-245/01-catalog.webp",
+      "thumbnail": "assets/photos/lunaris-m-lma-variable-245/01-catalog-thumb.webp",
       "original": "assets/photos/lunaris-m-lma-variable-245/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/o/ou/o/ou/ou2nfftq7yb3z5ho.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/o/ou/ou2nfftq7yb3z5ho.jpeg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/o/ou/ou2nfftq7yb3z5ho.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "ou2nfftq7yb3z5ho.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 912779,
@@ -215,8 +215,8 @@
     "en": ""
   },
   "description": {
-    "ru": "",
-    "en": ""
+    "ru": "Lunaris — серия культовых механических мышей Elecom 1994 года, разработанная frog design (https://ru.wikipedia.org/wiki/Frog_Design) специально для японского рынка. Модели отличались футуристичным «расколотым» корпусом, уникальным диском‑регулятором разрешения на днище (50‑1600 cpi) и богатой линейкой интерфейсов — от PC‑98 и PS/2 до ADB для Mac.\nМышка просуществовала до начала 2000-х, то есть были версии с USB.",
+    "en": "Lunaris is an iconic series of mechanical Elecom mice from 1994, designed by frog design (https://ru.wikipedia.org/wiki/Frog_Design) specifically for the Japanese market. The models featured a futuristic ‘split’ case, a distinctive resolution adjustment dial underneath (50–1600 cpi), and a broad range of interfaces, from PC-98 and PS/2 to ADB for the Mac.\nThe series lasted until the early 2000s, so USB versions also existed."
   },
   "notes": {
     "en": "",
@@ -233,7 +233,7 @@
   },
   "channelPost": "https://t.me/old_mice_and_hw/196",
   "externalLinks": [],
-  "thumbnail": "assets/photos/lunaris-m-lma-variable-245/thumb.webp",
+  "thumbnail": "assets/photos/lunaris-m-lma-variable-245/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:58+03:00",
     "sourcePhotoCount": 10,

@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/track-bause-htb-10-f-251/01.webp",
-      "thumbnail": "assets/photos/track-bause-htb-10-f-251/01-thumb.webp",
+      "file": "assets/photos/track-bause-htb-10-f-251/01-catalog.webp",
+      "thumbnail": "assets/photos/track-bause-htb-10-f-251/01-catalog-thumb.webp",
       "original": "assets/photos/track-bause-htb-10-f-251/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/x/xd/x/xd/xdeur6xvwd1aur2m.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/x/xd/xdeur6xvwd1aur2m.jpeg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/x/xd/xdeur6xvwd1aur2m.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "xdeur6xvwd1aur2m.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 921256,
@@ -233,7 +233,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/track-bause-htb-10-f-251/thumb.webp",
+  "thumbnail": "assets/photos/track-bause-htb-10-f-251/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:58+03:00",
     "sourcePhotoCount": 10,

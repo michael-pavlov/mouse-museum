@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/commodore-c01764-pregnant-mouse-118/01.webp",
-      "thumbnail": "assets/photos/commodore-c01764-pregnant-mouse-118/01-thumb.webp",
+      "file": "assets/photos/commodore-c01764-pregnant-mouse-118/01-catalog.webp",
+      "thumbnail": "assets/photos/commodore-c01764-pregnant-mouse-118/01-catalog-thumb.webp",
       "original": "assets/photos/commodore-c01764-pregnant-mouse-118/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/v/vn/v/vn/vnsnt7gtwzfvtfvt.jpg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/v/vn/vnsnt7gtwzfvtfvt.jpg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/v/vn/vnsnt7gtwzfvtfvt.jpg",
       "sourceOriginalError": "",
       "originalFilename": "vnsnt7gtwzfvtfvt.jpg",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3593,
       "originalHeight": 2395,
       "originalBytes": 2781599,
@@ -107,8 +107,8 @@
     "en": ""
   },
   "description": {
-    "ru": "",
-    "en": ""
+    "ru": "Commodore «pregnant» C01764 — мышь с округлым «выпуклым» корпусом, за что коллекционеры прозвали её «беременной». Необычная эргономика и редкий силуэт выделяют её среди стандартных прямоугольных мышей Commodore. Экспонат — про эксперименты с формой в эпоху, когда дизайн ещё не стандартизировался.",
+    "en": "The Commodore ‘pregnant’ C01764 has a rounded, bulging case that earned it the nickname ‘pregnant mouse’ among collectors. Its unusual ergonomics and rare silhouette distinguish it from Commodore's standard rectangular mice. This exhibit illustrates experiments with shape before mouse design became standardised."
   },
   "notes": {
     "en": "",
@@ -125,7 +125,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/commodore-c01764-pregnant-mouse-118/thumb.webp",
+  "thumbnail": "assets/photos/commodore-c01764-pregnant-mouse-118/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:52+03:00",
     "sourcePhotoCount": 4,

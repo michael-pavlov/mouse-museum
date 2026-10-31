@@ -18,8 +18,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/cursor-controls-trackerball-161/01.webp",
-      "thumbnail": "assets/photos/cursor-controls-trackerball-161/01-thumb.webp",
+      "file": "assets/photos/cursor-controls-trackerball-161/01-catalog.webp",
+      "thumbnail": "assets/photos/cursor-controls-trackerball-161/01-catalog-thumb.webp",
       "original": "assets/photos/cursor-controls-trackerball-161/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/v/vz/v/vz/vzficwvyr77ixbws.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/v/vz/vzficwvyr77ixbws.jpeg",
@@ -27,8 +27,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/v/vz/vzficwvyr77ixbws.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "vzficwvyr77ixbws.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1170966,
@@ -162,7 +162,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/cursor-controls-trackerball-161/thumb.webp",
+  "thumbnail": "assets/photos/cursor-controls-trackerball-161/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:54+03:00",
     "sourcePhotoCount": 6,

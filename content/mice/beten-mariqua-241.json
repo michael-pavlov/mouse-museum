@@ -16,8 +16,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/beten-mariqua-241/01.webp",
-      "thumbnail": "assets/photos/beten-mariqua-241/01-thumb.webp",
+      "file": "assets/photos/beten-mariqua-241/01-catalog.webp",
+      "thumbnail": "assets/photos/beten-mariqua-241/01-catalog-thumb.webp",
       "original": "assets/photos/beten-mariqua-241/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/h/hj/h/hj/hjg0nkfybixpxeeg.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/h/hj/hjg0nkfybixpxeeg.jpeg",
@@ -25,8 +25,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/h/hj/hjg0nkfybixpxeeg.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "hjg0nkfybixpxeeg.jpeg",
-      "width": 2400,
-      "height": 1960,
+      "width": 1387,
+      "height": 1134,
       "originalWidth": 3699,
       "originalHeight": 3021,
       "originalBytes": 958341,
@@ -250,7 +250,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/beten-mariqua-241/thumb.webp",
+  "thumbnail": "assets/photos/beten-mariqua-241/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:58+03:00",
     "sourcePhotoCount": 11,

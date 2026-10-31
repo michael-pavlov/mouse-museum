@@ -17,14 +17,14 @@
   },
   "photos": [
     {
-      "file": "assets/photos/logitech-mouseman-cordless/01.webp",
-      "thumbnail": "assets/photos/logitech-mouseman-cordless/01-thumb.webp",
+      "file": "assets/photos/logitech-mouseman-cordless/01-catalog.webp",
+      "thumbnail": "assets/photos/logitech-mouseman-cordless/01-catalog-thumb.webp",
       "original": "assets/photos/logitech-mouseman-cordless/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/c/c2/c25jely7ubdvlv8h.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/c/c2/c25jely7ubdvlv8h.JPG",
       "originalFilename": "c25jely7ubdvlv8h.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3800,
       "originalHeight": 2533,
       "originalBytes": 1280602,
@@ -137,7 +137,7 @@
       "caption": ""
     }
   ],
-  "thumbnail": "assets/photos/logitech-mouseman-cordless/thumb.webp",
+  "thumbnail": "assets/photos/logitech-mouseman-cordless/thumb-catalog.webp",
   "order": 9,
   "manufacturer": {
     "ru": "Logitech",

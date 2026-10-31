@@ -14,8 +14,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/creative-labs-aeropoint-300/01.webp",
-      "thumbnail": "assets/photos/creative-labs-aeropoint-300/01-thumb.webp",
+      "file": "assets/photos/creative-labs-aeropoint-300/01-catalog.webp",
+      "thumbnail": "assets/photos/creative-labs-aeropoint-300/01-catalog-thumb.webp",
       "original": "assets/photos/creative-labs-aeropoint-300/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/p/p2/p/p2/p2t6bqjddfz3chxm.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/p/p2/p2t6bqjddfz3chxm.jpeg",
@@ -23,8 +23,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/p/p2/p2t6bqjddfz3chxm.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "p2t6bqjddfz3chxm.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 963918,
@@ -194,7 +194,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/creative-labs-aeropoint-300/thumb.webp",
+  "thumbnail": "assets/photos/creative-labs-aeropoint-300/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:11:02+03:00",
     "sourcePhotoCount": 8,

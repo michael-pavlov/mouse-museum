@@ -17,14 +17,14 @@
   },
   "photos": [
     {
-      "file": "assets/photos/apple-desktop-bus-mouse-ii-m2706-36/01.webp",
-      "thumbnail": "assets/photos/apple-desktop-bus-mouse-ii-m2706-36/01-thumb.webp",
+      "file": "assets/photos/apple-desktop-bus-mouse-ii-m2706-36/01-catalog.webp",
+      "thumbnail": "assets/photos/apple-desktop-bus-mouse-ii-m2706-36/01-catalog-thumb.webp",
       "original": "assets/photos/apple-desktop-bus-mouse-ii-m2706-36/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/n/ng/ngu92j55faiqn8l4.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/n/ng/ngu92j55faiqn8l4.JPG",
       "originalFilename": "ngu92j55faiqn8l4.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3500,
       "originalHeight": 2333,
       "originalBytes": 1540871,
@@ -107,7 +107,7 @@
       "caption": ""
     }
   ],
-  "thumbnail": "assets/photos/apple-desktop-bus-mouse-ii-m2706-36/thumb.webp",
+  "thumbnail": "assets/photos/apple-desktop-bus-mouse-ii-m2706-36/thumb-catalog.webp",
   "order": 44,
   "manufacturer": {
     "ru": "Apple",
@@ -127,8 +127,8 @@
     "en": ""
   },
   "description": {
-    "ru": "",
-    "en": ""
+    "ru": "Apple Desktop Bus Mouse II (M2706) — более округлая ADB-мышь конца 1980‑х, часто называемая «утконосом» за форму корпуса. Удобнее предшественника и типична для классических бежевых Mac. Показывает, как Apple постепенно улучшала эргономику, не меняя однокнопочной философии.",
+    "en": "The Apple Desktop Bus Mouse II (M2706) is a more rounded ADB mouse from the late 1980s, often nicknamed the ‘platypus’ because of its shape. More comfortable than its predecessor, it is typical of classic beige Macs. It shows how Apple gradually improved ergonomics while retaining its single-button philosophy."
   },
   "notes": {
     "en": "",

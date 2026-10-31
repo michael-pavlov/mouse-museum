@@ -198,6 +198,20 @@ html.photo-viewer-open{overflow:hidden}
 /* Main catalogue specimen captions. */
 #catalog .card h2{font-size:14px}
 
+/* A single reading column beside the specimen gallery. */
+.specimen-heading{display:flex;align-items:center;gap:20px;justify-content:flex-start}
+.share-trigger{display:flex;align-items:center;justify-content:center;flex:0 0 44px;width:44px;height:44px;border:1px solid #d9d9d0;border-radius:50%;background:transparent;color:#59634f;cursor:pointer}
+.share-trigger svg{width:21px;height:21px}.share-trigger:hover{background:#eeede7;border-color:#aeb5a4}.share-trigger:focus-visible{outline:2px solid #59654c;outline-offset:4px}
+.item-info{min-width:0}.item-info .specimen-description{margin:0 0 32px;font-size:16px;line-height:1.7}.item-info .specimen-description h2{font-size:20px;margin-bottom:14px}.item-info .specimen-description p:last-child{margin-bottom:0}
+.item-info .specimen-resources{margin-top:30px}.item-info .specimen-resources h2{margin-bottom:12px}.item-info .specimen-resources li+li{margin-top:0}.item-info .specimen-resources li>a{display:block;padding:12px 0;border-bottom:1px solid #deded5}.item-info .specimen-resources li:first-child>a{padding-top:0}.item-info .specimen-resources li:last-child>a{border-bottom:0}.item-info .specimen-resources small{display:block;margin-top:3px;font-size:12px}.item-info .specimen-resources a:hover>span{color:#8e4a30}
+@media(max-width:700px){.specimen-heading{gap:16px;align-items:flex-start}.share-trigger{margin-top:1px}.item-info .specimen-description{margin-bottom:28px}}
+
+#share .share-formats{display:flex;flex-wrap:wrap;gap:8px;margin:4px 0 18px}#share .share-formats button{padding:10px 14px;border:1px solid #d9d9d0;border-radius:9px;background:transparent;color:#59634f;font:14px/1.3 Arial,sans-serif;cursor:pointer}#share .share-formats button:hover{background:#eeede7}#share .share-formats button[aria-pressed=true]{background:#e3e9da;border-color:#89977c;color:#304226}#share .share-formats button:focus-visible{outline:2px solid #59654c;outline-offset:3px}
+
+#share .share-copy-field{position:relative;cursor:pointer;border:1px solid #c7cabe;border-radius:9px;background:#f2f1eb;overflow:hidden}#share .share-copy-field:hover{border-color:#89977c;background:#eeede7}#share .share-copy-field:focus-visible{outline:2px solid #59654c;outline-offset:3px}#share .share-copy-field textarea{display:block;width:100%;margin:0;padding:16px 52px 16px 16px;min-height:110px;border:0;background:transparent;resize:none;cursor:pointer;box-sizing:border-box;outline:none}#share .share-copy-field svg{position:absolute;right:16px;top:16px;width:21px;height:21px;color:#59634f;pointer-events:none}
+
+#share .share-copy-field textarea{overflow:hidden;min-height:90px;padding-right:52px;white-space:pre-wrap;overflow-wrap:anywhere}
+
 /* Moscow exhibition: uncropped documentary photographs and visitor details. */
 .about-moscow{margin-top:42px;padding-top:32px;border-top:1px solid #d9d9d0}
 .about-moscow h2{font-size:30px;line-height:1.25;letter-spacing:-.4px;font-weight:400;margin:0 0 18px}

@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/qtronix-x-30s-267/01.webp",
-      "thumbnail": "assets/photos/qtronix-x-30s-267/01-thumb.webp",
+      "file": "assets/photos/qtronix-x-30s-267/01-catalog.webp",
+      "thumbnail": "assets/photos/qtronix-x-30s-267/01-catalog-thumb.webp",
       "original": "assets/photos/qtronix-x-30s-267/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/e/ed/e/ed/edwozzqiyoi6jwi5.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/e/ed/edwozzqiyoi6jwi5.jpeg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/e/ed/edwozzqiyoi6jwi5.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "edwozzqiyoi6jwi5.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 908407,
@@ -143,7 +143,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/qtronix-x-30s-267/thumb.webp",
+  "thumbnail": "assets/photos/qtronix-x-30s-267/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:11:00+03:00",
     "sourcePhotoCount": 5,

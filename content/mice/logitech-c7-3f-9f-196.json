@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/logitech-c7-3f-9f-196/01.webp",
-      "thumbnail": "assets/photos/logitech-c7-3f-9f-196/01-thumb.webp",
+      "file": "assets/photos/logitech-c7-3f-9f-196/01-catalog.webp",
+      "thumbnail": "assets/photos/logitech-c7-3f-9f-196/01-catalog-thumb.webp",
       "original": "assets/photos/logitech-c7-3f-9f-196/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/x/x9/x/x9/x9bkojsxqfpxmzze.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/x/x9/x9bkojsxqfpxmzze.jpeg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/x/x9/x9bkojsxqfpxmzze.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "x9bkojsxqfpxmzze.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1182629,
@@ -215,7 +215,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/logitech-c7-3f-9f-196/thumb.webp",
+  "thumbnail": "assets/photos/logitech-c7-3f-9f-196/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:47+03:00",
     "sourcePhotoCount": 9,

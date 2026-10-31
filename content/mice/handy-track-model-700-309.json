@@ -15,8 +15,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/handy-track-model-700-309/01.webp",
-      "thumbnail": "assets/photos/handy-track-model-700-309/01-thumb.webp",
+      "file": "assets/photos/handy-track-model-700-309/01-catalog.webp",
+      "thumbnail": "assets/photos/handy-track-model-700-309/01-catalog-thumb.webp",
       "original": "assets/photos/handy-track-model-700-309/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/5/5j/5/5j/5jjhssyr21qzkonl.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/5/5j/5jjhssyr21qzkonl.jpeg",
@@ -24,8 +24,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/5/5j/5jjhssyr21qzkonl.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "5jjhssyr21qzkonl.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1059402,
@@ -177,7 +177,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/handy-track-model-700-309/thumb.webp",
+  "thumbnail": "assets/photos/handy-track-model-700-309/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:11:02+03:00",
     "sourcePhotoCount": 7,

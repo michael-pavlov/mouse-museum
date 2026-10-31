@@ -17,14 +17,14 @@
   },
   "photos": [
     {
-      "file": "assets/photos/es-1849-158/01.webp",
-      "thumbnail": "assets/photos/es-1849-158/01-thumb.webp",
+      "file": "assets/photos/es-1849-158/01-catalog.webp",
+      "thumbnail": "assets/photos/es-1849-158/01-catalog-thumb.webp",
       "original": "assets/photos/es-1849-158/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/h/he/h/he/her9oejtuomecxxv.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/h/he/her9oejtuomecxxv.jpeg",
       "originalFilename": "her9oejtuomecxxv.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1206224,
@@ -77,7 +77,7 @@
       "caption": ""
     }
   ],
-  "thumbnail": "assets/photos/es-1849-158/thumb.webp",
+  "thumbnail": "assets/photos/es-1849-158/thumb-catalog.webp",
   "order": 37,
   "manufacturer": {
     "ru": "Минский завод ЭВМ",
@@ -97,8 +97,8 @@
     "en": ""
   },
   "description": {
-    "ru": "Мышка Минского завода ЭВМ к компьютеру ЕС 1849",
-    "en": "A mouse made by the Minsk Computer Plant for the ES 1849 computer."
+    "ru": "Мышь ЕС 1849 — манипулятор для персональных ЭВМ серии ЕС (совместимых с IBM PC), разработанных в Минске. Серия ЕС была главной линейкой отечественных PC в конце 1980‑х, и мышь к ней — обязательный атрибут графических задач. Мышь этой серии так и не вышла с завода — все известные экземпляры были получены из так и не вышедшей официально партии.",
+    "en": "The ES 1849 mouse is a pointing device for the Minsk-designed ES series of IBM PC-compatible personal computers. The ES series was a principal Soviet PC family in the late 1980s, and a mouse was an essential accessory for graphical tasks. This mouse never left the factory through official distribution: all known examples came from a batch that was never officially released."
   },
   "notes": {
     "en": "",

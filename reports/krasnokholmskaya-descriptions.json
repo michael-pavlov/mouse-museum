@@ -1,0 +1,904 @@
+{
+  "sourceFile": "/Users/pavlov/Downloads/Краснохолмская экспонаты.xlsx",
+  "sourceSheet": "sheet1",
+  "scope": "Минимальная языковая редактура и перевод предоставленных текстов; исторические утверждения не проходили независимую фактологическую проверку.",
+  "entries": [
+    {
+      "row": 3,
+      "name": "Apple Lisa",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/207/",
+      "original": "Мышь для компьютера Apple Lisa (1983) — одна из первых «фирменных» мышей, которые шли в комплекте с машиной с графическим интерфейсом. Одна кнопка, прямоугольный корпус и разъём DE-9 стали визитной карточкой ранней Apple. Экспонат показывает, как быстро после Энгельбарта мышь превратилась в штатный аксессуар персонального компьютера.",
+      "ru": "Мышь для компьютера Apple Lisa (1983) — одна из первых «фирменных» мышей, которые шли в комплекте с машиной с графическим интерфейсом. Одна кнопка, прямоугольный корпус и разъём DE-9 стали визитной карточкой ранней Apple. Экспонат показывает, как быстро после Энгельбарта мышь превратилась в штатный аксессуар персонального компьютера.",
+      "en": "The mouse for the Apple Lisa computer (1983) was one of the first branded mice bundled with a machine with a graphical user interface. A single button, a rectangular case and a DE-9 connector became hallmarks of early Apple hardware. This exhibit shows how quickly the mouse became a standard personal computer accessory after Engelbart's invention.",
+      "catalogueId": "MP-0207",
+      "slug": "apple-lisa-207",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 4,
+      "name": "Apple macintosh M0100",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/41/",
+      "original": "Оригинальная мышь Macintosh M0100 (1984) — компактная однокнопочная модель для первого Mac. Её форма и принцип «одна кнопка — никаких лишних решений» надолго определили эстетику Apple. Одна из самых узнаваемых мышей в истории массовых GUI.",
+      "ru": "Оригинальная мышь Macintosh M0100 (1984) — компактная однокнопочная модель для первого Mac. Её форма и принцип «одна кнопка — никаких лишних решений» надолго определили эстетику Apple. Одна из самых узнаваемых мышей в истории массовых GUI.",
+      "en": "The original Macintosh M0100 mouse (1984) is a compact, single-button model for the first Mac. Its shape and the principle of ‘one button, no unnecessary decisions’ defined Apple's aesthetic for years. It is one of the most recognisable mice in the history of mass-market graphical user interfaces.",
+      "catalogueId": "MP-0041",
+      "slug": "apple-macintosh-m0100",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 5,
+      "name": "Apple Desktop bus G5431",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/42/",
+      "original": "Мышь Apple Desktop Bus G5431 — ранняя модель на шине ADB, появившейся в конце 1980‑х для Macintosh II и последующих машин. ADB объединял на одном разъёме клавиатуру и мышь и долго оставался стандартом Apple. Экспонат — переход от «лисовской» мыши к универсальной экосистеме аксессуаров.",
+      "ru": "Мышь Apple Desktop Bus G5431 — ранняя модель на шине ADB, появившейся в конце 1980‑х для Macintosh II и последующих машин. ADB объединял на одном разъёме клавиатуру и мышь и долго оставался стандартом Apple. Экспонат — переход от «лисовской» мыши к универсальной экосистеме аксессуаров.",
+      "en": "The Apple Desktop Bus G5431 mouse is an early ADB model from the late 1980s, intended for the Macintosh II and later machines. ADB used the same connector for keyboards and mice and remained an Apple standard for many years. This exhibit marks the transition from the Lisa mouse to a shared ecosystem of accessories.",
+      "catalogueId": "MP-0042",
+      "slug": "apple-desktop-bus-mouse-g5431-42",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 6,
+      "name": "Apple Desktop bus II M2706",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/36/",
+      "original": "Apple Desktop Bus Mouse II (M2706) — более округлая ADB-мышь конца 1980‑х, часто называемая «утконосом» за форму корпуса. Удобнее предшественника и типична для классических бежевых Mac. Показывает, как Apple постепенно улучшала эргономику, не меняя однокнопочной философии.",
+      "ru": "Apple Desktop Bus Mouse II (M2706) — более округлая ADB-мышь конца 1980‑х, часто называемая «утконосом» за форму корпуса. Удобнее предшественника и типична для классических бежевых Mac. Показывает, как Apple постепенно улучшала эргономику, не меняя однокнопочной философии.",
+      "en": "The Apple Desktop Bus Mouse II (M2706) is a more rounded ADB mouse from the late 1980s, often nicknamed the ‘platypus’ because of its shape. More comfortable than its predecessor, it is typical of classic beige Macs. It shows how Apple gradually improved ergonomics while retaining its single-button philosophy.",
+      "catalogueId": "MP-0036",
+      "slug": "apple-desktop-bus-mouse-ii-m2706-36",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 7,
+      "name": "Next N4000A",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/13/",
+      "original": "Мышь NeXT N4000A — чёрный прямоугольный манипулятор для рабочих станций NeXT Cube и NeXTstation. Жёсткий корпус и минималистичный дизайн хорошо сочетались с эстетикой NeXT. Напоминает, что в 1990‑е мышь была частью «дорогого» профессионального компьютера, а не только домашнего PC.",
+      "ru": "Мышь NeXT N4000A — чёрный прямоугольный манипулятор для рабочих станций NeXT Cube и NeXTstation. Жёсткий корпус и минималистичный дизайн хорошо сочетались с эстетикой NeXT. Напоминает, что в 1990‑е мышь была частью «дорогого» профессионального компьютера, а не только домашнего PC.",
+      "en": "The NeXT N4000A mouse is a black, rectangular pointing device for NeXT Cube and NeXTstation workstations. Its rigid case and minimalist design suited NeXT's aesthetic. It recalls a time when, in the 1990s, the mouse was part of an expensive professional computer as well as a home PC accessory.",
+      "catalogueId": "MP-0013",
+      "slug": "next-n4000a",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 8,
+      "name": "Next N8000A",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/14/",
+      "original": "Мышь NeXT N8000A — более поздняя модель для линейки NeXTstation; та же строгая чёрная форма, но уже эпохи, когда NeXT боролась за рынок с другими Unix-рабочими станциями. В витрине рядом с N4000A видна эволюция аксессуаров одной платформы.",
+      "ru": "Мышь NeXT N8003 — более поздняя модель для линейки NeXTstation; та же строгая чёрная форма, но уже эпохи, когда NeXT боролась за рынок с другими Unix-рабочими станциями. В витрине рядом с N4000A видна эволюция аксессуаров одной платформы.",
+      "en": "The NeXT N8003 mouse is a later model for the NeXTstation range. It retains the same austere black shape, but belongs to the period when NeXT was competing with other Unix workstations. Displayed alongside the N4000A, it shows the evolution of accessories for a single platform.",
+      "catalogueId": "MP-0014",
+      "slug": "next-n8003-14",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url",
+      "resolution": "Пользователь подтвердил опечатку в названии модели; корректное название NeXT N8003."
+    },
+    {
+      "row": 9,
+      "name": "Apple The Mighty Mouse (A1152)",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/97/",
+      "original": "Apple Mighty Mouse (A1152) — первая «много-кнопочная» мышь Apple с 2005 года: сенсорные боковые кнопки, колёсико и шарик для прокрутки во все стороны. Название отсылает к мультяшке, а конструкция — к попытке совместить привычную однокнопочность Mac с возможностями PC-мышей. Экспонат отмечает поворот Apple к сложным манипуляторам после десятилетий минимализма.",
+      "ru": "Apple Mighty Mouse (A1152) — первая «многокнопочная» мышь Apple с 2005 года: сенсорные боковые кнопки, колёсико и шарик для прокрутки во все стороны. Название отсылает к мультяшке, а конструкция — к попытке совместить привычную однокнопочность Mac с возможностями PC-мышей. Экспонат отмечает поворот Apple к сложным манипуляторам после десятилетий минимализма.",
+      "en": "The Apple Mighty Mouse (A1152), introduced in 2005, was Apple's first multi-button mouse, with touch-sensitive side buttons, a wheel and a ball for scrolling in all directions. Its name refers to the cartoon character, while its construction reflects an attempt to combine the Mac's familiar single-button approach with the capabilities of PC mice. This exhibit marks Apple's turn towards more complex pointing devices after decades of minimalism.",
+      "catalogueId": "MP-0097",
+      "slug": "apple-the-mighty-mouse-a1152-97",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 10,
+      "name": "Apple Pro Mouse (M5769)",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/96/",
+      "original": "Apple Pro Mouse (M5769) — полностью оптическая USB-мышь начала 2000‑х, пришедшая на смену спорной «хоккейной шайбе». Гладкий корпус без видимых кнопок и сенсор снизу — типичный дизайн эры «прозрачного» и минималистичного Apple. Показывает переход от шариковых мышей к оптике в массовых продуктах бренда.",
+      "ru": "Apple Pro Mouse (M5769) — полностью оптическая USB-мышь начала 2000‑х, пришедшая на смену спорной «хоккейной шайбе». Гладкий корпус без видимых кнопок и сенсор снизу — типичный дизайн эры «прозрачного» и минималистичного Apple. Показывает переход от шариковых мышей к оптике в массовых продуктах бренда.",
+      "en": "The Apple Pro Mouse (M5769) is a fully optical USB mouse from the early 2000s that replaced the controversial ‘hockey puck’. Its smooth case without visible buttons and its sensor underneath are characteristic of Apple's transparent, minimalist design era. It illustrates the brand's transition from ball mice to optical tracking in mass-market products.",
+      "catalogueId": "MP-0096",
+      "slug": "apple-pro-mouse-m5769-96",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 11,
+      "name": "Apple M4848 (Hockey Puck)",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/98/",
+      "original": "Apple Mouse M4848 — знаменитая круглая «хоккейная шайба» 1998 года для первых iMac. Форма считалась неудобной, но стала одним из самых узнаваемых силуэтов в истории мышей. Хороший пример того, как дизайн под цвет корпуса компьютера иногда побеждал эргономику.",
+      "ru": "Apple Mouse M4848 — знаменитая круглая «хоккейная шайба» 1998 года для первых iMac. Форма считалась неудобной, но стала одним из самых узнаваемых силуэтов в истории мышей. Хороший пример того, как дизайн под цвет корпуса компьютера иногда побеждал эргономику.",
+      "en": "The Apple Mouse M4848 is the famous round ‘hockey puck’ introduced for the first iMacs in 1998. Its shape was considered uncomfortable, but became one of the most recognisable silhouettes in mouse history. It is a good example of computer colour coordination sometimes taking priority over ergonomics.",
+      "catalogueId": "MP-0098",
+      "slug": "apple-m4848-hockey-puck-98",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 12,
+      "name": "Манипулятор Мышь 04.П (Поиск)",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/208/",
+      "original": "Манипулятор «Мышь 04.П» — отечественная мышь для компьютеров семейства «Поиск» (Пенза). В СССР такие устройства официально называли «манипуляторами типа „мышь“» и подключали к отечественным ПЭВМ через собственные интерфейсы. Экспонат напоминает о параллельной линейке периферии вне стандартов IBM PC.",
+      "ru": "Манипулятор «Мышь 04.П» — отечественная мышь для компьютеров семейства «Поиск» (Пенза). В СССР такие устройства официально называли «манипуляторами типа „мышь“» и подключали к отечественным ПЭВМ через собственные интерфейсы. Экспонат напоминает о параллельной линейке периферии вне стандартов IBM PC.",
+      "en": "The ‘Mouse 04.P’ is a Soviet mouse for the Poisk family of computers (Penza). Such devices were officially called ‘mouse-type manipulators’ in the USSR and connected to Soviet personal computers through proprietary interfaces. This exhibit recalls a parallel line of peripherals outside IBM PC standards.",
+      "catalogueId": "MP-0208",
+      "slug": "mouse-04-p-poisk-208",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 13,
+      "name": "Манипулятор типа \"Мышь\" МТМ-1",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/192/",
+      "original": "Манипулятор МТМ-1 — один из редких советских мышек, является дизайн-клоном Genius GM-6. В руках коллекционеров сохранилось не более 10 эксемпляров. Показывает, что шариковая мышь собирали и в СССР — не только импортировали.",
+      "ru": "Манипулятор МТМ-1 — одна из редких советских мышей, дизайн-клон Genius GM-6. В руках коллекционеров сохранилось не более 10 экземпляров. Показывает, что шариковые мыши собирали и в СССР — не только импортировали.",
+      "en": "The MTM-1 is one of the rare Soviet mice, with a design copied from the Genius GM-6. No more than ten examples have survived in collectors' hands. It shows that ball mice were also assembled in the USSR, rather than being supplied solely through imports.",
+      "catalogueId": "MP-0192",
+      "slug": "mtm-1-mouse-192",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 14,
+      "name": "ММ 8031 (Корвет) красная",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/225/",
+      "original": "ММ 8031 для ПК «Корвет» — редкая вариация с красными кнопками, штатная для одной из первых отечественных IBM PC-совместимых машин. «Корвет» и его периферия — важная веха отечественного PC. Подключалась к компьютеру через специальный адаптер. Экспонат связывает горизонтальную витрину с линейкой советских PC, а не только с БК и ЕС.",
+      "ru": "ММ 8031 для ПК «Корвет» — редкая вариация с красными кнопками, штатная для одной из первых отечественных IBM PC-совместимых машин. «Корвет» и его периферия — важная веха отечественного PC. Подключалась к компьютеру через специальный адаптер. Экспонат связывает горизонтальную витрину с линейкой советских PC, а не только с БК и ЕС.",
+      "en": "The MM 8031 for the Korvet computer is a rare variant with red buttons, supplied as standard with one of the first Soviet IBM PC-compatible machines. The Korvet and its peripherals are an important milestone in Soviet personal computing. The mouse connected through a special adapter. This exhibit links the horizontal display case to Soviet PCs as well as the BK and ES families.",
+      "catalogueId": "MP-0225",
+      "slug": "mm-8031-korvet-red-225",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 15,
+      "name": "Марсианка УВК-01 Черная",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/80/",
+      "original": "«Марсианка» УВК-01 — одна из самых известных советских мышей, выпускавшаяся МОКБ «Марс» для БК‑0010/0011 и других машин. Устройство ввода координатное (УВК) расширяло возможности бытовых микро-ЭВМ; чёрно-белый корпус — один из нескольких цветов. Символ позднего СССР: мышь уже есть, но интерфейсы у каждой системы свои.",
+      "ru": "«Марсианка» УВК-01 — одна из самых известных советских мышей, выпускавшаяся МОКБ «Марс» для БК‑0010/0011 и других машин. Устройство ввода координатное (УВК) расширяло возможности бытовых микро-ЭВМ; чёрно-белый корпус — один из нескольких цветов. Символ позднего СССР: мышь уже есть, но интерфейсы у каждой системы свои.",
+      "en": "The Marsianka UVK-01 is one of the best-known Soviet mice, manufactured by the Mars design bureau for the BK-0010/0011 and other computers. The coordinate input device (UVK) expanded the capabilities of home microcomputers; the black-and-white case was one of several colour schemes. It is a symbol of the late USSR: mice were already available, but each system had its own interfaces.",
+      "catalogueId": "MP-0080",
+      "slug": "marsianka-uvk-01-black-80",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 16,
+      "name": "ЕС 1849",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/158/",
+      "original": "Мышь ЕС 1849 — манипулятор для персональных ЭВМ серии ЕС (совместимых с IBM PC), разработанных в Минске. Серия ЕС была главной линейкой отечественных PC в конце 1980‑х, и мышь к ней — обязательный атрибут графических задач. Мышь этой серии так и не вышла из завода - все известные эксемпляры были получены из так и не вышедшей официально партии.",
+      "ru": "Мышь ЕС 1849 — манипулятор для персональных ЭВМ серии ЕС (совместимых с IBM PC), разработанных в Минске. Серия ЕС была главной линейкой отечественных PC в конце 1980‑х, и мышь к ней — обязательный атрибут графических задач. Мышь этой серии так и не вышла с завода — все известные экземпляры были получены из так и не вышедшей официально партии.",
+      "en": "The ES 1849 mouse is a pointing device for the Minsk-designed ES series of IBM PC-compatible personal computers. The ES series was a principal Soviet PC family in the late 1980s, and a mouse was an essential accessory for graphical tasks. This mouse never left the factory through official distribution: all known examples came from a batch that was never officially released.",
+      "catalogueId": "MP-0158",
+      "slug": "es-1849-158",
+      "previousDescription": {
+        "ru": "Мышка Минского завода ЭВМ к компьютеру ЕС 1849",
+        "en": "A mouse made by the Minsk Computer Plant for the ES 1849 computer."
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 17,
+      "name": "Poltik MMP 813",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/139/",
+      "original": "Poltik MMP 813 — польская мышь для компьютеров серии ЕС и совместимых систем. Западные и социалистические производители делали схожую периферию под один класс машин. Экспонат — пример экспорта/импорта внутри альтернативного PC-мира 1980‑х.",
+      "ru": "Poltik MMP 813 — польская мышь для компьютеров серии ЕС и совместимых систем. Западные и социалистические производители делали схожую периферию под один класс машин. Экспонат — пример экспорта/импорта внутри альтернативного PC-мира 1980‑х.",
+      "en": "The Poltik MMP 813 is a Polish mouse for ES-series computers and compatible systems. Western and socialist manufacturers made similar peripherals for the same class of machines. This exhibit illustrates trade within the alternative PC world of the 1980s.",
+      "catalogueId": "MP-0139",
+      "slug": "poltik-mmp-813-139",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 18,
+      "name": "ЕС 1841 (ранняя)",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/163/",
+      "original": "ЕС 1841 (ранняя) — одна из первых мышей для ПЭВМ серии ЕС, появившихся вместе с графическими возможностями этих машин. Конструктивно мышь была скопирована с Microsoft Green Eye (кнопки, логика компоновки, металлическае шары на днище для скольжения). Позже конструкция была упрощена, например, металлические шарики заменили на тефлоновые наклейки",
+      "ru": "ЕС 1841 (ранняя) — одна из первых мышей для ПЭВМ серии ЕС, появившихся вместе с графическими возможностями этих машин. Конструктивно мышь была скопирована с Microsoft Green Eye (кнопки, логика компоновки, металлические шары на днище для скольжения). Позже конструкция была упрощена, например, металлические шарики заменили на тефлоновые наклейки.",
+      "en": "The early ES 1841 is one of the first mice for ES-series personal computers, introduced alongside their graphical capabilities. Its construction copied the Microsoft Green Eye, including the buttons, internal layout and metal balls underneath that allowed it to glide. The design was later simplified: for example, the metal balls were replaced with Teflon pads.",
+      "catalogueId": "MP-0163",
+      "slug": "es-1841-early-version-163",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 19,
+      "name": "Комета НВ 03.049.003",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/127/",
+      "original": "Комета НВ 03.049.003 — также известная как \"Колобок\" из-за ошибки в описании экспоната в политехническом музее.  Имеет уникальную системы позиционирования - вместо классического шарика используются гантельки с прорезями - они не требуют чистки, но при этом сильно уменьшают точность",
+      "ru": "Комета НВ 03.049.003 — мышь, также известная как «Колобок» из-за ошибки в описании экспоната в Политехническом музее. Имеет уникальную систему позиционирования: вместо классического шарика используются гантельки с прорезями. Они не требуют чистки, но при этом сильно уменьшают точность.",
+      "en": "The Kometa NV 03.049.003 is also known as ‘Kolobok’ because of an error in an exhibit description at the Polytechnic Museum. It has a unique tracking system: slotted, dumbbell-shaped rollers replace the conventional ball. They require no cleaning, but substantially reduce accuracy.",
+      "catalogueId": "MP-0127",
+      "slug": "kometa-nv-03-049-003-kolobok-127",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 20,
+      "name": "ЕС 1845",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/103/",
+      "original": "ЕС 1845 — мышка для военной персональной ЭВМ. Сделана полностью из металла, чтобы мышка и компьютер \"ничего не излучали\" наружу",
+      "ru": "ЕС 1845 — мышка для военной персональной ЭВМ. Сделана полностью из металла, чтобы мышка и компьютер «ничего не излучали» наружу.",
+      "en": "The ES 1845 is a mouse for a military personal computer. It is made entirely of metal to prevent the mouse and computer from emitting electromagnetic signals outside their cases.",
+      "catalogueId": "MP-0103",
+      "slug": "ec-1845-103",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 21,
+      "name": "Graphic Mouse",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/17/",
+      "original": "Graphic Mouse — ранняя мышь для apple II, выпущенная сторонним производителем. Механик на потенциометрах, поэтому перед работой нужно было откалибровать мышь под конкретный экран. И если мышь доежала до противоположного край, то ее нужно было \"прокатывать\" обратно. Обычное сегодня движение подвинь-подними-подвинь тогда еще не работало ",
+      "ru": "Graphic Mouse — ранняя мышь для Apple II, выпущенная сторонним производителем. Механика на потенциометрах, поэтому перед работой нужно было откалибровать мышь под конкретный экран. И если мышь доезжала до противоположного края, то её нужно было «прокатывать» обратно. Обычное сегодня движение «подвинь — подними — подвинь» тогда ещё не работало.",
+      "en": "The Graphic Mouse is an early third-party mouse for the Apple II. Its mechanism uses potentiometers, so it had to be calibrated for a particular screen before use. Once the mouse reached the opposite end of its travel, it had to be rolled back. The familiar modern action of moving, lifting and moving again did not work with this design.",
+      "catalogueId": "MP-0017",
+      "slug": "graphic-mouse-17",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 22,
+      "name": "Mouse Systems M4 / Sun",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/37/",
+      "original": "Mouse Systems M4 для Sun — оптическая мышь, которую Sun Microsystems комплектовала с рабочими станциями в середине 1980‑х. В отличие от современной оптики, она работает только с металлическим ковриком-сеткой — без него движение не считывается. Вместе с ковриком Sun в витрине это редкий пример «системы мышь + специальный ковёр».",
+      "ru": "Mouse Systems M4 для Sun — оптическая мышь, которую Sun Microsystems комплектовала с рабочими станциями в середине 1980‑х. В отличие от современной оптики, она работает только с металлическим ковриком-сеткой — без него движение не считывается. Вместе с ковриком Sun в витрине это редкий пример «системы мышь + специальный ковёр».",
+      "en": "The Mouse Systems M4 for Sun is an optical mouse supplied by Sun Microsystems with its workstations in the mid-1980s. Unlike modern optical mice, it works only with a metal grid mouse pad: without it, movement cannot be detected. Together with the Sun pad in the display case, it is a rare example of a mouse and special pad forming a single system.",
+      "catalogueId": "MP-0037",
+      "slug": "mouse-systems-m4-sun-37",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 23,
+      "name": "Amstrad (без крышки)",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/10/",
+      "original": "Механическая двухкнопочная мышь Amstrad, штатно поставлявшаяся с компьютерами PC1512 и PC1640 с 1986 года. Узнаваема по угловатому «клиновидному» корпусу и центральному ребру между кнопками. Подключается к фирменному 9-контактному порту системного блока и несовместима с обычными PC-serial-мышами того времени: кнопки обрабатываются как клавишные скан-коды. Показана без крышки в качестве иллюстрации работы опто-механической системы энкодинга.",
+      "ru": "Механическая двухкнопочная мышь Amstrad, штатно поставлявшаяся с компьютерами PC1512 и PC1640 с 1986 года. Узнаваема по угловатому «клиновидному» корпусу и центральному ребру между кнопками. Подключается к фирменному 9-контактному порту системного блока и несовместима с обычными PC-serial-мышами того времени: кнопки обрабатываются как клавишные скан-коды. Показана без крышки в качестве иллюстрации работы оптико-механической системы энкодеров.",
+      "en": "A mechanical, two-button Amstrad mouse supplied as standard with PC1512 and PC1640 computers from 1986. It is recognisable by its angular, wedge-shaped case and the central ridge between the buttons. It connects to a proprietary nine-pin port on the computer and is incompatible with ordinary PC serial mice of the period: its buttons are processed as keyboard scan codes. It is displayed with its cover removed to illustrate the optomechanical encoder system.",
+      "catalogueId": "MP-0010",
+      "slug": "amstrad-mouse-10",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 26,
+      "name": "Souris Thomson",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/112/",
+      "original": "Souris Thomson — французская мышь бренда Thomson, типичная для европейского рынка 1980‑х. «Souris» по-французски значит «мышь» — на коробках и в документации часто встречалось именно такое название. Экспонат показывает, что периферия для PC производилась не только в США и Азии.",
+      "ru": "Souris Thomson — французская мышь бренда Thomson, типичная для европейского рынка 1980‑х. «Souris» по-французски значит «мышь» — на коробках и в документации часто встречалось именно такое название. Экспонат показывает, что периферия для PC производилась не только в США и Азии.",
+      "en": "The Souris Thomson is a French Thomson-branded mouse typical of the European market in the 1980s. ‘Souris’ means ‘mouse’ in French, and this name often appeared on packaging and in documentation. This exhibit shows that PC peripherals were produced beyond the United States and Asia.",
+      "catalogueId": "MP-0112",
+      "slug": "souris-thomson-112",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 27,
+      "name": "Logitech ClearCase",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/111/",
+      "original": "Logitech ClearCase — прозрачный корпус, через который видна внутренняя механика: типичный дизайн Logitech конца 1980‑х — начала 1990‑х. Компания уже тогда была одним из главных независимых производителей мышей для PC. Мышь выпущена по случаю продажи 1 миллиона мышек компанией",
+      "ru": "Logitech ClearCase — прозрачный корпус, через который видна внутренняя механика: типичный дизайн Logitech конца 1980‑х — начала 1990‑х. Компания уже тогда была одним из главных независимых производителей мышей для PC. Мышь выпущена по случаю продажи 1 миллиона мышек компанией.",
+      "en": "The Logitech ClearCase has a transparent case that reveals its internal mechanism, with a design typical of Logitech in the late 1980s and early 1990s. The company was already one of the leading independent manufacturers of PC mice. This mouse was released to celebrate Logitech selling one million mice.",
+      "catalogueId": "MP-0111",
+      "slug": "logitech-clearcase-111",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 28,
+      "name": "Commodore LYNX-97P",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/132/",
+      "original": "Commodore LYNX-97P — мышь для компьютеров Commodore (Amiga и/или линейки PC). Commodore активно продвигала GUI и игры, где мышь была нужна, но каждая платформа имела свои модели. Хороший пример периферии под бренд, а не «универсальную PC-мышь».",
+      "ru": "Commodore LYNX-97P — мышь для компьютеров Commodore (Amiga и/или линейки PC). Commodore активно продвигала GUI и игры, где мышь была нужна, но каждая платформа имела свои модели. Хороший пример периферии под бренд, а не «универсальную PC-мышь».",
+      "en": "The Commodore LYNX-97P is a mouse for Commodore computers, either the Amiga or the PC range. Commodore actively promoted graphical interfaces and games that required a mouse, but each platform had its own models. It is a good example of a peripheral tied to a brand rather than a universal PC mouse.",
+      "catalogueId": "MP-0132",
+      "slug": "commodore-lynx-97p-132",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 29,
+      "name": "Philips Mouse",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/177/",
+      "original": "Philips Mouse — мышь под брендом Philips, который выпускал периферию наряду с бытовой электроникой. Обычно serial или bus-совместимая модель для европейского рынка 1990‑х. При этом все производство и начинку сделала тайваньская KYE Systems, будущий Genius",
+      "ru": "Philips Mouse — мышь под брендом Philips, который выпускал периферию наряду с бытовой электроникой. Обычно serial или bus-совместимая модель для европейского рынка 1990‑х. При этом все производство и начинку сделала тайваньская KYE Systems, будущий Genius.",
+      "en": "The Philips Mouse is a Philips-branded mouse from a company that sold peripherals alongside consumer electronics. Typically a serial or bus-compatible model for the European market of the 1990s, it was manufactured entirely by Taiwan's KYE Systems, which also supplied its internal electronics and later became associated with Genius.",
+      "catalogueId": "MP-0177",
+      "slug": "philips-mouse-177",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 30,
+      "name": "Commodore pregnant C01764",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/118/",
+      "original": "Commodore «pregnant» C01764 — мышь с округлым «выпуклым» корпусом, за что коллекционеры прозвали её «беременной». Необычная эргономика и редкий силуэт выделяют её среди стандартных прямоугольных мышей Commodore. Экспонат — про эксперименты с формой в эпоху, когда дизайн ещё не стандартизировался.",
+      "ru": "Commodore «pregnant» C01764 — мышь с округлым «выпуклым» корпусом, за что коллекционеры прозвали её «беременной». Необычная эргономика и редкий силуэт выделяют её среди стандартных прямоугольных мышей Commodore. Экспонат — про эксперименты с формой в эпоху, когда дизайн ещё не стандартизировался.",
+      "en": "The Commodore ‘pregnant’ C01764 has a rounded, bulging case that earned it the nickname ‘pregnant mouse’ among collectors. Its unusual ergonomics and rare silhouette distinguish it from Commodore's standard rectangular mice. This exhibit illustrates experiments with shape before mouse design became standardised.",
+      "catalogueId": "MP-0118",
+      "slug": "commodore-c01764-pregnant-mouse-118",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 31,
+      "name": "Elecom GRAIO Variable CountMouse",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/227/",
+      "original": "Elecom GRAIO Variable CountMouse — японская Elecom, одна из первых с регулируемой чувствительностью («variable count»). В 1990‑е пользователи и CAD-работники хотели менять скорость курсора без смены ПО. Японский рынок периферии часто опережал Запад по мелким, но полезным функциям.",
+      "ru": "Elecom GRAIO Variable CountMouse — мышь японской компании Elecom, одна из первых с регулируемой чувствительностью («variable count»). В 1990‑е пользователи и CAD-работники хотели менять скорость курсора без смены ПО. Японский рынок периферии часто опережал Запад по мелким, но полезным функциям.",
+      "en": "The Elecom GRAIO Variable CountMouse is a Japanese Elecom model and one of the early mice with adjustable sensitivity (‘variable count’). In the 1990s, users and CAD professionals wanted to change cursor speed without changing software. Japan's peripheral market often led the West in small but useful features.",
+      "catalogueId": "MP-0227",
+      "slug": "elecom-graio-variable-countmouse-227",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 32,
+      "name": "Fujitsu FMMO-202",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/228/",
+      "original": "Fujitsu FMMO-202 — Мышка для японских офисных компьютеров FMR‑50 и FMR‑60. Имеет негласное название \"черепаха-слон\" за форму корпуса. Мышка подключалась не к системному блоку, а к клавиатуре, куда был встроен контроллер мыши",
+      "ru": "Fujitsu FMMO-202 — мышь для японских офисных компьютеров FMR‑50 и FMR‑60. Имеет негласное название «черепаха-слон» за форму корпуса. Мышка подключалась не к системному блоку, а к клавиатуре, куда был встроен контроллер мыши.",
+      "en": "The Fujitsu FMMO-202 is a mouse for the Japanese FMR-50 and FMR-60 office computers. Its unofficial nickname, ‘turtle-elephant’, refers to the shape of its case. It connected to the keyboard, which contained the mouse controller, rather than directly to the computer.",
+      "catalogueId": "MP-0228",
+      "slug": "fujitsu-fmmo-202-228",
+      "previousDescription": {
+        "ru": "Fujitsu FMR-50 / Fujitsu FMR-60",
+        "en": "Fujitsu FMR-50 / Fujitsu FMR-60"
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 34,
+      "name": "Xerox X063X",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/101/",
+      "original": "Xerox X063X — мышь для профессиональных систем Xerox; компания была одним из пионеров GUI и периферии к ним. Мышка полностью разработана Джеком Хоули, дизайнером из Xerox и автором нескольких патентов про мышки. Механизм позиционирования - раняя версия дискретных энкодеров в виде барабана, которая в следующих моделях будет заменена диском из соображений компактности. Мышь имеет металлический шарик, но уже полированный",
+      "ru": "Xerox X063X — мышь для профессиональных систем Xerox; компания была одним из пионеров GUI и периферии к ним. Мышка полностью разработана Джеком Хоули, дизайнером из Xerox и автором нескольких патентов про мышки. Механизм позиционирования — ранняя версия дискретных энкодеров в виде барабана, которая в следующих моделях будет заменена диском из соображений компактности. Мышь имеет металлический шарик, но уже полированный.",
+      "en": "The Xerox X063X is a mouse for professional Xerox systems; the company was a pioneer of graphical interfaces and their peripherals. The mouse was designed entirely by Jack Hawley, a Xerox designer who held several mouse-related patents. Its tracking mechanism uses an early drum-shaped version of discrete encoders, replaced in later models with a disc to save space. It has a metal ball, but the ball is already polished.",
+      "catalogueId": "MP-0101",
+      "slug": "xerox-x063x-101",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 35,
+      "name": "Xerox 8010 Star",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/1/",
+      "original": "Xerox 8010 Star — мышь для системы Xerox Star (1981), одной из первых коммерческих машин с полноценным графическим интерфейсом «как мы знаем сегодня». Три кнопки, прямоугольный корпус и высокая цена мыши отражают эпоху, когда GUI был прерogativой корпораций. Ключевой экспонат истории человеко-компьютерного взаимодействия.",
+      "ru": "Xerox 8010 Star — мышь для системы Xerox Star (1981), одной из первых коммерческих машин с полноценным графическим интерфейсом «как мы знаем сегодня». Три кнопки, прямоугольный корпус и высокая цена мыши отражают эпоху, когда GUI был прерогативой корпораций. Ключевой экспонат истории человеко-компьютерного взаимодействия.",
+      "en": "The Xerox 8010 Star mouse was designed for the Xerox Star system (1981), one of the first commercial computers with a fully developed graphical interface as we know it today. Three buttons, a rectangular case and the mouse's high price reflect an era when graphical interfaces were the preserve of corporations. It is a key exhibit in the history of human–computer interaction.",
+      "catalogueId": "MP-0001",
+      "slug": "xerox-8010-star",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 36,
+      "name": "Alps Mouse",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/213/",
+      "original": "Alps Electric Co. Ltd. - легендарная \"в мышиных кругах\" японская компания, специализирующаяся на электронных компонентах типа дачитчиков, пенреключателей, потенциометрах и подобных. \nМножество первых и не только мышей известных брендов, выпущенных в 1983-1986 годах были собраны на электромеханических энкодерах и мозгах Alps. Мышка, вероятно, является прототипом, которые компания Alps отправляла в разные компании для тестирования взаимодействия мыши с зарождающимися вариантами графических операционных систем.  ",
+      "ru": "Alps Electric Co. Ltd. — легендарная «в мышиных кругах» японская компания, специализирующаяся на электронных компонентах: датчиках, переключателях, потенциометрах и подобных изделиях.\nМногие ранние и более поздние мыши известных брендов, выпущенных в 1983–1986 годах, были собраны на электромеханических энкодерах и мозгах Alps. Мышка, вероятно, является прототипом, который компания Alps отправляла в разные компании для тестирования взаимодействия мыши с зарождающимися вариантами графических операционных систем.",
+      "en": "Alps Electric Co. Ltd. is a Japanese company legendary among mouse enthusiasts, specialising in electronic components such as sensors, switches and potentiometers.\nMany early and later mice from well-known brands, released in 1983–1986, used Alps electromechanical encoders and electronics. This mouse is probably a prototype of the kind Alps sent to various companies to test interaction with emerging graphical operating systems.",
+      "catalogueId": "MP-0213",
+      "slug": "alps-mouse-pre-tandy-color-213",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 37,
+      "name": "American Mouse",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/174/",
+      "original": "American Mouse — ранняя мышь американского производства (бренд American Mouse / American Computer Systems), типичная для зарождения рынка PC-периферии. До доминирования Logitech и Microsoft существовали десятки малых фирм. Показывает «дикий запад» мышиной индустрии в начале 1980‑х.",
+      "ru": "American Mouse — ранняя мышь американского производства (бренд American Mouse / American Computer Systems), типичная для зарождения рынка PC-периферии. До доминирования Logitech и Microsoft существовали десятки малых фирм. Показывает «дикий запад» мышиной индустрии в начале 1980‑х.",
+      "en": "The American Mouse is an early American-made mouse under the American Mouse / American Computer Systems name, typical of the emerging PC peripheral market. Before Logitech and Microsoft became dominant, there were dozens of small manufacturers. It illustrates the ‘Wild West’ of the mouse industry in the early 1980s.",
+      "catalogueId": "MP-0174",
+      "slug": "american-mouse-174",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 38,
+      "name": "Microsoft Green Eye",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/3/",
+      "original": "Microsoft Green Eye — первая мышь Microsoft, \"зеленоглазка\". Спроектирована японской компанией Alps Electric Co. Стала вдохновением для совестской мышки ЕС 1841",
+      "ru": "Microsoft Green Eye — первая мышь Microsoft, «зеленоглазка». Спроектирована японской компанией Alps Electric Co. Стала вдохновением для советской мышки ЕС 1841.",
+      "en": "The Microsoft Green Eye was Microsoft's first mouse, nicknamed ‘green eyes’. It was designed by Japan's Alps Electric Co. and inspired the Soviet ES 1841 mouse.",
+      "catalogueId": "MP-0003",
+      "slug": "microsoft-green-eye",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 39,
+      "name": "Depraz Mouse",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/173/",
+      "original": "Depraz Mouse — Наверно одна из самых известных и культовых по-настоящему \"старых\" мышей. \nНо больше всего она интересна тем, что история ее создания - это история перехода от \"деревянной\" модели Дугласа Энгельбарта к массовым принципам и механикам в мышах, к которым мы привыкли. Созданная по заказу Xerox, странным способом попавшая в часовую компанию Depraz, впоследствии выкупленная и ставшая началом великой Logitech.",
+      "ru": "Depraz Mouse — наверное, одна из самых известных и культовых по-настоящему «старых» мышей.\nНо больше всего она интересна тем, что история её создания — это история перехода от «деревянной» модели Дугласа Энгельбарта к массовым принципам и механикам в мышах, к которым мы привыкли. Созданная по заказу Xerox, странным способом попавшая в часовую компанию Depraz, впоследствии выкупленная и ставшая началом великой Logitech.",
+      "en": "The Depraz Mouse is probably one of the best-known and most iconic truly old mice.\nIts greatest interest lies in the story of its creation: the transition from Douglas Engelbart's wooden model to the mass-market principles and mechanisms familiar today. Commissioned by Xerox, the design found its way to the watchmaking company Depraz through an unusual route, was later acquired and became the starting point for Logitech.",
+      "catalogueId": "MP-0173",
+      "slug": "depraz-p4",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 41,
+      "name": "Mindset Mouse",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/140/",
+      "original": "Mindset Mouse — мышь для компьютера Mindset (1980‑е), мультимедийной машины на стыке игровой и профессиональной графики. Mindset не стал массовым хитом, но периферия к нему редка и узнаваема. Экспонат про «альтернативные» платформы, где мышь тоже была частью замысла.",
+      "ru": "Mindset Mouse — мышь для компьютера Mindset (1980‑е), мультимедийной машины на стыке игровой и профессиональной графики. Mindset не стал массовым хитом, но периферия к нему редка и узнаваема. Экспонат про «альтернативные» платформы, где мышь тоже была частью замысла.",
+      "en": "The Mindset Mouse was made for the Mindset computer of the 1980s, a multimedia machine bridging gaming and professional graphics. The Mindset never became a mass-market success, but its peripherals are rare and distinctive. This exhibit represents alternative platforms where the mouse was also part of the original concept.",
+      "catalogueId": "MP-0140",
+      "slug": "mindset-mouse-140",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 42,
+      "name": "Linaris M-LMA Variable",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/245/",
+      "original": "Lunaris — серия культовых механических мышей Elecom 1994 года, разработанная frog design (https://ru.wikipedia.org/wiki/Frog_Design) специально для японского рынка. Модели отличались футуристичным «расколотым» корпусом, уникальным диском‑регулятором разрешения на днище (50‑1600 cpi) и богатой линейкой интерфейсов — от PC‑98 и PS/2 до ADB для Mac. \nМышка просуществовала до начала 2000-х, то есть были версии с USB. ",
+      "ru": "Lunaris — серия культовых механических мышей Elecom 1994 года, разработанная frog design (https://ru.wikipedia.org/wiki/Frog_Design) специально для японского рынка. Модели отличались футуристичным «расколотым» корпусом, уникальным диском‑регулятором разрешения на днище (50‑1600 cpi) и богатой линейкой интерфейсов — от PC‑98 и PS/2 до ADB для Mac.\nМышка просуществовала до начала 2000-х, то есть были версии с USB.",
+      "en": "Lunaris is an iconic series of mechanical Elecom mice from 1994, designed by frog design (https://ru.wikipedia.org/wiki/Frog_Design) specifically for the Japanese market. The models featured a futuristic ‘split’ case, a distinctive resolution adjustment dial underneath (50–1600 cpi), and a broad range of interfaces, from PC-98 and PS/2 to ADB for the Mac.\nThe series lasted until the early 2000s, so USB versions also existed.",
+      "catalogueId": "MP-0245",
+      "slug": "lunaris-m-lma-variable-245",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 43,
+      "name": "Mouse Systems ProAgio",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/9/",
+      "original": "Mouse Systems ProAgio — первая серийная мышь со скроллом. Представлена в 1995 году. Существовала под двумя брендами, поскольку KYE Sytems (владелец бренда Genius, Тайвань) купил Mouse Systems (США) еще в 1990: в США мышка называлась - MSC ProAgio, а в регионах EasyScroll.",
+      "ru": "Mouse Systems ProAgio — первая серийная мышь со скроллом. Представлена в 1995 году. Существовала под двумя брендами, поскольку KYE Systems (владелец бренда Genius, Тайвань) купил Mouse Systems (США) еще в 1990: в США мышка называлась MSC ProAgio, а в других регионах — EasyScroll.",
+      "en": "The Mouse Systems ProAgio was the first mass-produced mouse with a scroll wheel, introduced in 1995. It was sold under two brands because KYE Systems, the Taiwanese owner of Genius, had acquired the American company Mouse Systems in 1990. In the United States it was called the MSC ProAgio; in other regions, EasyScroll.",
+      "catalogueId": "MP-0009",
+      "slug": "mouse-systems-proagio",
+      "previousDescription": {
+        "ru": "Первая мышь с колесиком",
+        "en": "The first mouse with a scroll wheel."
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 44,
+      "name": "Siemens PC-D",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/141/",
+      "original": "Siemens PC-D — мышь для линейки Siemens PC-D, европейских IBM PC-совместимых машин. Мышка спроектирована и сделана японской компанией Alps Electric Co.",
+      "ru": "Siemens PC-D — мышь для линейки Siemens PC-D, европейских IBM PC-совместимых машин. Мышка спроектирована и сделана японской компанией Alps Electric Co.",
+      "en": "The Siemens PC-D mouse was made for the Siemens PC-D range of European IBM PC-compatible computers. It was designed and manufactured by Japan's Alps Electric Co.",
+      "catalogueId": "MP-0141",
+      "slug": "siemens-pc-d-mouse-141",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 45,
+      "name": "УВГИ МАН-88",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/190/",
+      "original": "УВГИ МАН-88 — Устройство ввода графической информации МАН-88\nПервая и, вероятно, единственная болгарская мышка (информация плохо ищется, потому что на болгарском она называется \"мишка\"). \nСделана в 1988 году на заводе \"Пультов и Клавиатур\" в Габрово, который входил в холдинг Мехатроника. ",
+      "ru": "УВГИ МАН-88 — устройство ввода графической информации МАН-88.\nПервая и, вероятно, единственная болгарская мышка (информация плохо ищется, потому что на болгарском она называется «мишка»).\nСделана в 1988 году на заводе «Пультов и Клавиатур» в Габрово, который входил в холдинг Мехатроника.",
+      "en": "The UVGI MAN-88 is the MAN-88 graphical information input device.\nIt was the first and probably the only Bulgarian mouse. Information is hard to find, partly because the Bulgarian word for it is ‘мишка’.\nIt was made in 1988 at the Panels and Keyboards factory in Gabrovo, part of the Mechatronika group.",
+      "catalogueId": "MP-0190",
+      "slug": "uvgi-man-88-190",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 46,
+      "name": "HP PCMCIA",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/109/",
+      "original": "HP PCMCIA — компактная мышь Hewlett-Packard с интерфейсом PCMCIA для ноутбуков начала 1990‑х. Ранний пример мобильной периферии до Bluetooth и USB-хабов.",
+      "ru": "HP PCMCIA — компактная мышь Hewlett-Packard с интерфейсом PCMCIA для ноутбуков начала 1990‑х. Ранний пример мобильной периферии до Bluetooth и USB-хабов.",
+      "en": "The HP PCMCIA is a compact Hewlett-Packard mouse with a PCMCIA interface for early 1990s laptops. It is an early example of mobile peripherals before Bluetooth and USB hubs.",
+      "catalogueId": "MP-0109",
+      "slug": "hp-pcmcia-bluetoth-109",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 47,
+      "name": "Engelbart Mouse (replica)",
+      "sourceUrl": "-",
+      "original": "Engelbart Mouse (replica) — реплика первого прототипа компьютерной мыши Дугласа Энгельбарта 1964 года. Деревянный корпус, два металлических диска и один провод",
+      "ru": "Engelbart Mouse (replica) — реплика первого прототипа компьютерной мыши Дугласа Энгельбарта 1964 года. Деревянный корпус, два металлических диска и один провод.",
+      "en": "Engelbart Mouse (replica) is a replica of Douglas Engelbart's first computer mouse prototype from 1964. It has a wooden case, two metal discs and a single cable.",
+      "catalogueId": "MP-0295",
+      "slug": "prototype-engelbart-mouse-295",
+      "previousDescription": {
+        "ru": "Прототип первой мыши (реплика)",
+        "en": "A replica of the first mouse prototype."
+      },
+      "status": "added",
+      "match": "name-and-existing-replica-description"
+    },
+    {
+      "row": 49,
+      "name": "SunnyLine Burger",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/169/",
+      "original": "SunnyLine Burger — мышь в форме гамбургера; в 1990‑е и 2000‑е периферию часто делали «игрушкой» для привлечения внимания. За смешным видом — обычная оптико-механика. Экспонат про культуру модных аксессуаров у компьютера.",
+      "ru": "SunnyLine Burger — мышь в форме гамбургера; в 1990‑е и 2000‑е периферию часто делали «игрушкой» для привлечения внимания. За смешным видом — обычная оптико-механика. Экспонат про культуру модных аксессуаров у компьютера.",
+      "en": "The SunnyLine Burger is a hamburger-shaped mouse. In the 1990s and 2000s, peripherals were often styled as toys to attract attention. Behind its amusing appearance is a conventional optomechanical mechanism. This exhibit reflects the culture of fashionable computer accessories.",
+      "catalogueId": "MP-0169",
+      "slug": "sunnyline-burger-mouse-169",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 50,
+      "name": "Laser Hi-Bon",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/159/",
+      "original": "Laser Hi-Bon — первая лазерная мышь. В этой мышке используется инфракрасное излучение, которое передается к и от поверхности через световоды. 8 световодов на каждую ось давали революционное по тем временам  в 450dpi.\nДля мышки нужен специальный коврик с темными точками, которые имеют меньший коэффициент отражения. ",
+      "ru": "Laser Hi-Bon — первая лазерная мышь. В этой мышке используется инфракрасное излучение, которое передаётся к поверхности и от неё через световоды. Восемь световодов на каждую ось давали революционное по тем временам разрешение в 450 dpi.\nДля мышки нужен специальный коврик с тёмными точками, которые имеют меньший коэффициент отражения.",
+      "en": "The Laser Hi-Bon is the first laser mouse. It uses infrared light carried to and from the surface through light guides. Eight light guides per axis provided a resolution of 450 dpi, revolutionary for its time.\nThe mouse requires a special pad with dark dots that have lower reflectivity.",
+      "catalogueId": "MP-0159",
+      "slug": "hi-bon-optical-laser-mouse-159",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 51,
+      "name": "AMX mouse",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/45/",
+      "original": "AMX mouse — линейка мышей разных производителей для бытовых и школьных британских компьютеров BBC Micro. Мышь почти всегда продавалась с комплектом программами для графики, создания интерфейсов и работы с цветом - нужно было показать ценность покупки, поскольку ценность мыши сама по себе еще была непонятна пользователям  ",
+      "ru": "AMX mouse — линейка мышей разных производителей для бытовых и школьных британских компьютеров BBC Micro. Мышь почти всегда продавалась с комплектом программ для графики, создания интерфейсов и работы с цветом — нужно было показать ценность покупки, поскольку ценность мыши сама по себе еще была непонятна пользователям.",
+      "en": "AMX Mouse is a range of mice from different manufacturers for British BBC Micro computers used at home and in schools. The mouse was almost always sold with software for graphics, interface creation and colour work. The bundle needed to demonstrate the value of the purchase, since users did not yet understand the value of a mouse on its own.",
+      "catalogueId": "MP-0045",
+      "slug": "amx-mouse-45",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 52,
+      "name": "Unia serial keypad mouse",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/234/",
+      "original": "Unia serial keypad mouse — мышь с крышкой. Под крышкой - встроенный NumPad с 17 кнопками. В первую очередь предлагалсь для ноутбуков без NumPad. Мышка подключалась в обыному com-порту и не требовала драйверов ",
+      "ru": "Unia serial keypad mouse — мышь с крышкой. Под крышкой — встроенный NumPad с 17 кнопками. В первую очередь предлагалась для ноутбуков без NumPad. Мышка подключалась к обычному COM-порту и не требовала драйверов.",
+      "en": "The UNIA Serial Keypad Mouse has a cover concealing a built-in 17-key numeric keypad. It was primarily intended for laptops without a numeric keypad. The mouse connected to a standard COM port and required no drivers.",
+      "catalogueId": "MP-0234",
+      "slug": "unia-serial-keypad-mouse-234",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 53,
+      "name": "Genius HiMouse",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/63/",
+      "original": "Genius HiMouse — ранняя оптическая беспроводная(инфракрасная) серия Genius (HiMouse), тайваньского бренда, который в 1990‑е активно конкурировал с Logitech. В докстанцию встроено зарядное устройство для аккумулятора. Сам аккум интересной формы в виде \"ведерка\". ",
+      "ru": "Genius HiMouse — ранняя оптическая беспроводная (инфракрасная) серия Genius (HiMouse), тайваньского бренда, который в 1990‑е активно конкурировал с Logitech. В док-станцию встроено зарядное устройство для аккумулятора. Сам аккумулятор интересной формы в виде «ведерка».",
+      "en": "Genius HiMouse is an early series of optical wireless mice using infrared communication, made by the Taiwanese brand that competed actively with Logitech in the 1990s. The docking station includes a battery charger. The battery itself has an unusual bucket-like shape.",
+      "catalogueId": "MP-0063",
+      "slug": "genius-himouse-63",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 54,
+      "name": "Mouse systems LittleMouse",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/73/",
+      "original": "Mouse Systems LittleMouse — компактная модель Mouse Systems для ограниченного места на столе или для переноски. «Младшая сестра» больших трёхкнопочных CAD-мышей той же фирмы. Показывает, что даже в профессиональном сегменте искали меньший форм-фактор.",
+      "ru": "Mouse Systems LittleMouse — компактная модель Mouse Systems для ограниченного места на столе или для переноски. «Младшая сестра» больших трёхкнопочных CAD-мышей той же фирмы. Показывает, что даже в профессиональном сегменте искали меньший форм-фактор.",
+      "en": "The Mouse Systems LittleMouse is a compact model intended for limited desk space or portable use. It is the little sister of the company's larger three-button CAD mice. It shows that smaller form factors were sought even in the professional segment.",
+      "catalogueId": "MP-0073",
+      "slug": "mouse-systems-little-mouse-73",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 55,
+      "name": "Fellowes Thumbelina",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/95/",
+      "original": "Fellowes Thumbelina — крошечная мышь Fellowes («Thumbelina» — «Дюймовочка»), рассчитанная на ноутбуки и детские/компактные руки. Одна из первых попыток сделать мышь по-настоящему маленькой без перехода на trackpoint. ",
+      "ru": "Fellowes Thumbelina — крошечная мышь Fellowes («Thumbelina» — «Дюймовочка»), рассчитанная на ноутбуки и детские/компактные руки. Одна из первых попыток сделать мышь по-настоящему маленькой без перехода на TrackPoint.",
+      "en": "The Fellowes Thumbelina is a tiny Fellowes mouse named after the fairy-tale character, intended for laptops and small or children's hands. It was one of the early attempts to make a truly small mouse without switching to a pointing stick.",
+      "catalogueId": "MP-0095",
+      "slug": "fellowes-thumbelina-95",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 56,
+      "name": "Penny & Giles M3/100 for Acorn A500",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/191/",
+      "original": "Penny & Giles M3/100 — мышь для Acorn 500 (прототип, только внутренняя разработка) от OEM-компании с военным прошлым, которая почти не маркировала свои изделия, поэтому её авторство у похожих устройств вроде трекбола для Apricot часто остаётся скрытым. У этой модели необычная форма, качельковые кнопки (срабатывают и по центру, и с края), тканевая вставка для скольжения и грубая механика: латунный каркас и энкодеры на отражении от зеркального диска с чёрными полосками. Обозначение M3/100 известно лишь из связей с Acorn. Конкретный экземпляр позже добротно переделали под Sinclair QL — похоже, фирмой Mice Complete System, с подключением через расширитель памяти.",
+      "ru": "Penny & Giles M3/100 — мышь для Acorn A500 (прототип, только внутренняя разработка) от OEM-компании с военным прошлым, которая почти не маркировала свои изделия, поэтому её авторство у похожих устройств вроде трекбола для Apricot часто остаётся скрытым. У этой модели необычная форма, качельковые кнопки (срабатывают и по центру, и с края), тканевая вставка для скольжения и грубая механика: латунный каркас и энкодеры на отражении от зеркального диска с чёрными полосками. Обозначение M3/100 известно лишь из связей с Acorn. Конкретный экземпляр позже добротно переделали под Sinclair QL — похоже, фирмой Mice Complete System, с подключением через расширитель памяти.",
+      "en": "The Penny & Giles M3/100 is a mouse for the Acorn A500, a prototype computer developed for internal use only. Its OEM manufacturer had a military background and rarely marked its products, so its authorship of similar devices, such as the Apricot trackball, often remains unrecognised. This model has an unusual shape, rocker buttons that respond at both the centre and the edge, a fabric glide insert and a rugged mechanism: a brass frame and encoders that detect reflections from a mirrored disc with black stripes. The M3/100 designation is known only through its connections with Acorn. This particular example was later substantially converted for the Sinclair QL, apparently by Mice Complete System, connecting through a memory expansion unit.",
+      "catalogueId": "MP-0191",
+      "slug": "penny-giles-m3-100-for-acorn-a500-191",
+      "previousDescription": {
+        "ru": "Sinclair QL interface",
+        "en": "Sinclair QL interface."
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 57,
+      "name": "IBM 00F2383",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/70/",
+      "original": "Двухкнопочная механическая мышь IBM для рабочей станции RT PC (модели 6150/6151), выпущенной в 1986 году. Это одна из первых мышей IBM — раньше привычной PS/2-мыши 1987 года. Подключается к фирменному locator-порту системного блока (не Serial и не PS/2) и использует собственный протокол; внутри — микроконтроллер. Узнаваема по «квадратному» корпусу и встречается заметно реже поздних IBM PS/2-мышей.",
+      "ru": "Двухкнопочная механическая мышь IBM для рабочей станции RT PC (модели 6150/6151), выпущенной в 1986 году. Это одна из первых мышей IBM — раньше привычной PS/2-мыши 1987 года. Подключается к фирменному locator-порту системного блока (не Serial и не PS/2) и использует собственный протокол; внутри — микроконтроллер. Узнаваема по «квадратному» корпусу и встречается заметно реже поздних IBM PS/2-мышей.",
+      "en": "A two-button mechanical IBM mouse for the RT PC workstation (models 6150/6151), introduced in 1986. It is one of IBM's first mice, predating the familiar PS/2 mouse of 1987. It connects to the computer's proprietary locator port, rather than Serial or PS/2, and uses its own protocol with an internal microcontroller. Recognisable by its square case, it is considerably rarer than later IBM PS/2 mice.",
+      "catalogueId": "MP-0070",
+      "slug": "ibm-00f2383-70",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 58,
+      "name": "Fujitsu FM Towns FMT-MO101",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/254/",
+      "original": "штатная мышь первого ПК со встроенным CD-ROM (февраль 1989), рассчитанного на мультимедиа и развлечения, а не на бизнес. Мышь входила в комплект с самого начала и была ключевой для Towns OS: почти всем можно было управлять без клавиатуры — своего рода PC/DOS-ответ Macintosh. Система получила Good Design Award, но «грибковая» симметричная форма плохо ложилась в небольшую кисть и легко теряла ориентацию — та же ошибка, что позже у Apple Hockey Puck. Интерфейс Atari/MSX: импульсы энкодеров считает сам компьютер, поэтому мыши от MSX, PC-88 и Atari (и наоборот) работали взаимозаменяемо.",
+      "ru": "Штатная мышь первого ПК со встроенным CD-ROM (февраль 1989), рассчитанного на мультимедиа и развлечения, а не на бизнес. Мышь входила в комплект с самого начала и была ключевой для Towns OS: почти всем можно было управлять без клавиатуры — своего рода PC/DOS-ответ Macintosh. Система получила Good Design Award, но «грибковая» симметричная форма плохо ложилась в небольшую кисть и легко теряла ориентацию — та же ошибка, что позже у Apple Hockey Puck. Интерфейс Atari/MSX: импульсы энкодеров считает сам компьютер, поэтому мыши от MSX, PC-88 и Atari (и наоборот) работали взаимозаменяемо.",
+      "en": "The standard mouse for the first PC with a built-in CD-ROM drive (February 1989), intended for multimedia and entertainment rather than business. The mouse was included from the outset and was central to Towns OS: almost everything could be controlled without a keyboard, making it a kind of PC/DOS answer to the Macintosh. The system received a Good Design Award, but the symmetrical, mushroom-like shape fitted small hands poorly and made orientation easy to lose, the same mistake later seen in Apple's Hockey Puck. With its Atari/MSX interface, the computer itself counts the encoder pulses, so mice from MSX, PC-88 and Atari systems were interchangeable in both directions.",
+      "catalogueId": "MP-0254",
+      "slug": "fujitsu-fm-towns-fmt-mo101-254",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 59,
+      "name": "Aero IM-PC20",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/27/",
+      "original": "футуристичная симметричная трёхкнопочная мышь с «космическим» силуэтом (в духе Lincoln Futura), отмеченная iF Design Award 1991 как «spaceship-like». Оригинальная 70-страничная инструкция дотошно расписывает подключение и режимы: Slow (40 dpi) для рисования с Dr. Halo Plus, Normal и Turbo (1000 dpi) для больших экранов — отсюда загадочная кнопка T на корпусе. Второй переключатель выбирает протокол MS (Microsoft, кто-то подключал даже к Windows 10) или PC (Mouse Systems / Sun); в комплекте софт для левой руки и назначения кнопок в популярных программах. В мануале также говорится, что мышь «протестирована на 480 км» — и поэтому её нужно правильно чистить.",
+      "ru": "Футуристичная симметричная трёхкнопочная мышь с «космическим» силуэтом (в духе Lincoln Futura), отмеченная iF Design Award 1991 как «spaceship-like». Оригинальная 70-страничная инструкция дотошно расписывает подключение и режимы: Slow (40 dpi) для рисования с Dr. Halo Plus, Normal и Turbo (1000 dpi) для больших экранов — отсюда загадочная кнопка T на корпусе. Второй переключатель выбирает протокол MS (Microsoft, кто-то подключал даже к Windows 10) или PC (Mouse Systems / Sun); в комплекте софт для левой руки и назначения кнопок в популярных программах. В мануале также говорится, что мышь «протестирована на 480 км» — и поэтому её нужно правильно чистить.",
+      "en": "A futuristic, symmetrical three-button mouse with a space-age silhouette reminiscent of the Lincoln Futura, recognised by the 1991 iF Design Award as ‘spaceship-like’. Its original 70-page manual explains connections and modes in detail: Slow (40 dpi) for drawing with Dr. Halo Plus, Normal, and Turbo (1000 dpi) for large screens, explaining the mysterious T button on the case. A second switch selects the MS protocol (Microsoft, reportedly used even with Windows 10) or PC (Mouse Systems / Sun). Bundled software supports left-handed use and button assignments in popular programs. The manual also says the mouse was ‘tested over 480 km’, and therefore needs proper cleaning.",
+      "catalogueId": "MP-0027",
+      "slug": "aero-im-pc20-27",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 60,
+      "name": "Acorn BBC Master 512",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/113/",
+      "original": "Двухкнопочная мышь Acorn, входившая в комплект BBC Master 512 для GEM Desktop. Подключается к User Port снизу корпуса Master, а не к стандартному PC-порту. Протокол отличается от AMX Mouse: обычные DOS/MS-мыши и драйверы Microsoft здесь не работают. Это штатный манипулятор именно для связки Master 512 + DOS Plus + GEM.",
+      "ru": "Двухкнопочная мышь Acorn, входившая в комплект BBC Master 512 для GEM Desktop. Подключается к User Port снизу корпуса Master, а не к стандартному PC-порту. Протокол отличается от AMX Mouse: обычные DOS/MS-мыши и драйверы Microsoft здесь не работают. Это штатный манипулятор именно для связки Master 512 + DOS Plus + GEM.",
+      "en": "A two-button Acorn mouse supplied with the BBC Master 512 for GEM Desktop. It connects to the User Port underneath the Master, rather than a standard PC port. Its protocol differs from that of the AMX Mouse: ordinary DOS/MS mice and Microsoft drivers do not work here. This is the standard pointing device specifically for the Master 512, DOS Plus and GEM combination.",
+      "catalogueId": "MP-0113",
+      "slug": "acorn-bbc-master-512-mouse-113",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 61,
+      "name": "Atari STM1",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/15/",
+      "original": "оригинальная двухкнопочная шариковая мышь, созданная для компьютеров семейства Atari ST и представленная вместе с платформой в 1985 году. Перемещение шарика считывалось двумя перфорированными дисками и оптическими датчиками, а подключение выполнялось через 9-контактный разъём DE-9. STM1 стала фактически основной «фирменной» мышью Atari для ST и позднее выпускалась в близких вариантах PCM1 и PCM2. Производство разных версий осуществлялось несколькими азиатскими подрядчиками, включая Mitsumi и Action Electronics.",
+      "ru": "Оригинальная двухкнопочная шариковая мышь, созданная для компьютеров семейства Atari ST и представленная вместе с платформой в 1985 году. Перемещение шарика считывалось двумя перфорированными дисками и оптическими датчиками, а подключение выполнялось через 9-контактный разъём DE-9. STM1 стала фактически основной «фирменной» мышью Atari для ST и позднее выпускалась в близких вариантах PCM1 и PCM2. Производство разных версий осуществлялось несколькими азиатскими подрядчиками, включая Mitsumi и Action Electronics.",
+      "en": "An original two-button ball mouse created for the Atari ST computer family and introduced with the platform in 1985. Two perforated discs and optical sensors detected ball movement, while a nine-pin DE-9 connector provided the connection. The STM1 effectively became Atari's standard branded ST mouse and was later produced in the closely related PCM1 and PCM2 variants. Different versions were manufactured by several Asian contractors, including Mitsumi and Action Electronics.",
+      "catalogueId": "MP-0015",
+      "slug": "atari-stm1",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 65,
+      "name": "Шаровой манипулятор",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/69/",
+      "original": "Военный шаровой манипулятор. В отличии от большинства других устройств, которые были неотделимы от основного \"изделия\", ШМ выпускался как самостоятельный прибор и был совместим с разной техникой, имея стандартный интерфейс RS-232, хоть и в разъеме военного исполнения. ",
+      "ru": "Военный шаровой манипулятор. В отличие от большинства других устройств, которые были неотделимы от основного «изделия», ШМ выпускался как самостоятельный прибор и был совместим с разной техникой, имея стандартный интерфейс RS-232, хоть и в разъёме военного исполнения.",
+      "en": "A military trackball pointing device. Unlike most other devices, which were inseparable from their host equipment, the ShM was produced as a standalone instrument compatible with different systems. It used a standard RS-232 interface, albeit with a military-specification connector.",
+      "catalogueId": "MP-0069",
+      "slug": "ball-manipulator-69",
+      "previousDescription": {
+        "ru": "",
+        "en": ""
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    },
+    {
+      "row": 66,
+      "name": "БШРУ",
+      "sourceUrl": "https://collectionerus.ru/collections/old-mice/249/",
+      "original": "Трекбол от корабельного зенитно-ракетного комплекса Ураган. Только для правшей. Имеет модифицированные опто-механические энкодеры, которые сильно улучшая точность и снижают дребезг, что важно для военной техники ",
+      "ru": "Трекбол от корабельного зенитно-ракетного комплекса «Ураган». Только для правшей. Имеет модифицированные оптико-механические энкодеры, которые сильно улучшают точность и снижают дребезг, что важно для военной техники.",
+      "en": "A trackball from the Uragan naval surface-to-air missile system, for right-handed use only. It has modified optomechanical encoders that greatly improve accuracy and reduce signal chatter, which is important for military equipment.",
+      "catalogueId": "MP-0249",
+      "slug": "bshru-249",
+      "previousDescription": {
+        "ru": "Манипулятор от корабельного зенитно-ракетного комплекса Ураган.",
+        "en": "A pointing device from the naval Uragan surface-to-air missile system."
+      },
+      "status": "added",
+      "match": "exact-source-url"
+    }
+  ]
+}

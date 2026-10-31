@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/sicos-green-mouse-297/01.webp",
-      "thumbnail": "assets/photos/sicos-green-mouse-297/01-thumb.webp",
+      "file": "assets/photos/sicos-green-mouse-297/01-catalog.webp",
+      "thumbnail": "assets/photos/sicos-green-mouse-297/01-catalog-thumb.webp",
       "original": "assets/photos/sicos-green-mouse-297/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/w/wv/w/wv/wv03buaclyup2uwe.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/w/wv/wv03buaclyup2uwe.jpeg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/w/wv/wv03buaclyup2uwe.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "wv03buaclyup2uwe.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 974080,
@@ -143,7 +143,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/sicos-green-mouse-297/thumb.webp",
+  "thumbnail": "assets/photos/sicos-green-mouse-297/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:11:01+03:00",
     "sourcePhotoCount": 5,

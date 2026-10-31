@@ -18,8 +18,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/apple-pro-mouse-m5769-96/01.webp",
-      "thumbnail": "assets/photos/apple-pro-mouse-m5769-96/01-thumb.webp",
+      "file": "assets/photos/apple-pro-mouse-m5769-96/01-catalog.webp",
+      "thumbnail": "assets/photos/apple-pro-mouse-m5769-96/01-catalog-thumb.webp",
       "original": "assets/photos/apple-pro-mouse-m5769-96/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/j/j9/j90goyhoy2fwdhfn.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/j/j9/j90goyhoy2fwdhfn.JPG",
@@ -27,8 +27,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/j/j9/j90goyhoy2fwdhfn.JPG",
       "sourceOriginalError": "",
       "originalFilename": "j90goyhoy2fwdhfn.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3100,
       "originalHeight": 2067,
       "originalBytes": 995401,
@@ -108,8 +108,8 @@
     "en": ""
   },
   "description": {
-    "ru": "",
-    "en": ""
+    "ru": "Apple Pro Mouse (M5769) — полностью оптическая USB-мышь начала 2000‑х, пришедшая на смену спорной «хоккейной шайбе». Гладкий корпус без видимых кнопок и сенсор снизу — типичный дизайн эры «прозрачного» и минималистичного Apple. Показывает переход от шариковых мышей к оптике в массовых продуктах бренда.",
+    "en": "The Apple Pro Mouse (M5769) is a fully optical USB mouse from the early 2000s that replaced the controversial ‘hockey puck’. Its smooth case without visible buttons and its sensor underneath are characteristic of Apple's transparent, minimalist design era. It illustrates the brand's transition from ball mice to optical tracking in mass-market products."
   },
   "notes": {
     "en": "",
@@ -126,7 +126,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/apple-pro-mouse-m5769-96/thumb.webp",
+  "thumbnail": "assets/photos/apple-pro-mouse-m5769-96/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:47+03:00",
     "sourcePhotoCount": 4,

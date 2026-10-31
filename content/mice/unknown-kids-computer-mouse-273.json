@@ -16,8 +16,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/unknown-kids-computer-mouse-273/01.webp",
-      "thumbnail": "assets/photos/unknown-kids-computer-mouse-273/01-thumb.webp",
+      "file": "assets/photos/unknown-kids-computer-mouse-273/01-catalog.webp",
+      "thumbnail": "assets/photos/unknown-kids-computer-mouse-273/01-catalog-thumb.webp",
       "original": "assets/photos/unknown-kids-computer-mouse-273/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/j/jo/j/jo/joozjnuo9us2mwht.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/j/jo/joozjnuo9us2mwht.jpeg",
@@ -25,8 +25,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/j/jo/joozjnuo9us2mwht.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "joozjnuo9us2mwht.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 666693,
@@ -160,7 +160,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/unknown-kids-computer-mouse-273/thumb.webp",
+  "thumbnail": "assets/photos/unknown-kids-computer-mouse-273/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:11:00+03:00",
     "sourcePhotoCount": 6,

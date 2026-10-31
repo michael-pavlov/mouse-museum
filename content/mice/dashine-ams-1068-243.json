@@ -14,8 +14,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/dashine-ams-1068-243/01.webp",
-      "thumbnail": "assets/photos/dashine-ams-1068-243/01-thumb.webp",
+      "file": "assets/photos/dashine-ams-1068-243/01-catalog.webp",
+      "thumbnail": "assets/photos/dashine-ams-1068-243/01-catalog-thumb.webp",
       "original": "assets/photos/dashine-ams-1068-243/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/x/xk/x/xk/xk3rlq7hkquhl1xa.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/x/xk/xk3rlq7hkquhl1xa.jpeg",
@@ -23,8 +23,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/x/xk/xk3rlq7hkquhl1xa.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "xk3rlq7hkquhl1xa.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1003264,
@@ -140,7 +140,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/dashine-ams-1068-243/thumb.webp",
+  "thumbnail": "assets/photos/dashine-ams-1068-243/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:58+03:00",
     "sourcePhotoCount": 5,

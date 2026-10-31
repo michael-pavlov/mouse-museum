@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/keen-kem-260-131/01.webp",
-      "thumbnail": "assets/photos/keen-kem-260-131/01-thumb.webp",
+      "file": "assets/photos/keen-kem-260-131/01-catalog.webp",
+      "thumbnail": "assets/photos/keen-kem-260-131/01-catalog-thumb.webp",
       "original": "assets/photos/keen-kem-260-131/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/x/xj/x/xj/xj9bwwvqpyvixeqd.jpg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/x/xj/xj9bwwvqpyvixeqd.jpg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/x/xj/xj9bwwvqpyvixeqd.jpg",
       "sourceOriginalError": "",
       "originalFilename": "xj9bwwvqpyvixeqd.jpg",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3349,
       "originalHeight": 2233,
       "originalBytes": 2824431,
@@ -125,7 +125,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/keen-kem-260-131/thumb.webp",
+  "thumbnail": "assets/photos/keen-kem-260-131/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:53+03:00",
     "sourcePhotoCount": 4,

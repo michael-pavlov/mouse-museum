@@ -18,14 +18,14 @@
   },
   "photos": [
     {
-      "file": "assets/photos/es-1841-8/01.webp",
-      "thumbnail": "assets/photos/es-1841-8/01-thumb.webp",
+      "file": "assets/photos/es-1841-8/01-catalog.webp",
+      "thumbnail": "assets/photos/es-1841-8/01-catalog-thumb.webp",
       "original": "assets/photos/es-1841-8/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/u/us/us06w5kszi30joph.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/u/us/us06w5kszi30joph.JPG",
       "originalFilename": "us06w5kszi30joph.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3350,
       "originalHeight": 2233,
       "originalBytes": 1118109,
@@ -138,7 +138,7 @@
       "caption": ""
     }
   ],
-  "thumbnail": "assets/photos/es-1841-8/thumb.webp",
+  "thumbnail": "assets/photos/es-1841-8/thumb-catalog.webp",
   "order": 48,
   "manufacturer": {
     "ru": "СССР",

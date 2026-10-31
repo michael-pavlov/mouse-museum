@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/poltik-mmp-813-139/01.webp",
-      "thumbnail": "assets/photos/poltik-mmp-813-139/01-thumb.webp",
+      "file": "assets/photos/poltik-mmp-813-139/01-catalog.webp",
+      "thumbnail": "assets/photos/poltik-mmp-813-139/01-catalog-thumb.webp",
       "original": "assets/photos/poltik-mmp-813-139/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/n/ng/n/ng/ngb1pkncqvuttygg.jpg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/n/ng/ngb1pkncqvuttygg.jpg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/n/ng/ngb1pkncqvuttygg.jpg",
       "sourceOriginalError": "",
       "originalFilename": "ngb1pkncqvuttygg.jpg",
-      "width": 2163,
-      "height": 1442,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 2163,
       "originalHeight": 1442,
       "originalBytes": 1680278,
@@ -143,8 +143,8 @@
     "en": ""
   },
   "description": {
-    "ru": "",
-    "en": ""
+    "ru": "Poltik MMP 813 — польская мышь для компьютеров серии ЕС и совместимых систем. Западные и социалистические производители делали схожую периферию под один класс машин. Экспонат — пример экспорта/импорта внутри альтернативного PC-мира 1980‑х.",
+    "en": "The Poltik MMP 813 is a Polish mouse for ES-series computers and compatible systems. Western and socialist manufacturers made similar peripherals for the same class of machines. This exhibit illustrates trade within the alternative PC world of the 1980s."
   },
   "notes": {
     "en": "",
@@ -161,7 +161,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/poltik-mmp-813-139/thumb.webp",
+  "thumbnail": "assets/photos/poltik-mmp-813-139/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:46+03:00",
     "sourcePhotoCount": 6,

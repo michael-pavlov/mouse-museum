@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/philips-mouse-177/01.webp",
-      "thumbnail": "assets/photos/philips-mouse-177/01-thumb.webp",
+      "file": "assets/photos/philips-mouse-177/01-catalog.webp",
+      "thumbnail": "assets/photos/philips-mouse-177/01-catalog-thumb.webp",
       "original": "assets/photos/philips-mouse-177/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/q/qs/q/qs/qsqdz3w4qwrpckyq.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/q/qs/qsqdz3w4qwrpckyq.jpeg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/q/qs/qsqdz3w4qwrpckyq.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "qsqdz3w4qwrpckyq.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1162979,
@@ -161,8 +161,8 @@
     "en": ""
   },
   "description": {
-    "ru": "",
-    "en": ""
+    "ru": "Philips Mouse — мышь под брендом Philips, который выпускал периферию наряду с бытовой электроникой. Обычно serial или bus-совместимая модель для европейского рынка 1990‑х. При этом все производство и начинку сделала тайваньская KYE Systems, будущий Genius.",
+    "en": "The Philips Mouse is a Philips-branded mouse from a company that sold peripherals alongside consumer electronics. Typically a serial or bus-compatible model for the European market of the 1990s, it was manufactured entirely by Taiwan's KYE Systems, which also supplied its internal electronics and later became associated with Genius."
   },
   "notes": {
     "en": "",
@@ -179,7 +179,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/philips-mouse-177/thumb.webp",
+  "thumbnail": "assets/photos/philips-mouse-177/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:55+03:00",
     "sourcePhotoCount": 7,

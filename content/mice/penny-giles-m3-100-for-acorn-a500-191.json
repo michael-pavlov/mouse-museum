@@ -218,8 +218,8 @@
     "en": ""
   },
   "description": {
-    "ru": "Sinclair QL interface",
-    "en": "Sinclair QL interface."
+    "ru": "Penny & Giles M3/100 — мышь для Acorn A500 (прототип, только внутренняя разработка) от OEM-компании с военным прошлым, которая почти не маркировала свои изделия, поэтому её авторство у похожих устройств вроде трекбола для Apricot часто остаётся скрытым. У этой модели необычная форма, качельковые кнопки (срабатывают и по центру, и с края), тканевая вставка для скольжения и грубая механика: латунный каркас и энкодеры на отражении от зеркального диска с чёрными полосками. Обозначение M3/100 известно лишь из связей с Acorn. Конкретный экземпляр позже добротно переделали под Sinclair QL — похоже, фирмой Mice Complete System, с подключением через расширитель памяти.",
+    "en": "The Penny & Giles M3/100 is a mouse for the Acorn A500, a prototype computer developed for internal use only. Its OEM manufacturer had a military background and rarely marked its products, so its authorship of similar devices, such as the Apricot trackball, often remains unrecognised. This model has an unusual shape, rocker buttons that respond at both the centre and the edge, a fabric glide insert and a rugged mechanism: a brass frame and encoders that detect reflections from a mirrored disc with black stripes. The M3/100 designation is known only through its connections with Acorn. This particular example was later substantially converted for the Sinclair QL, apparently by Mice Complete System, connecting through a memory expansion unit."
   },
   "notes": {
     "en": "",

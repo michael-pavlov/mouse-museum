@@ -19,8 +19,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/unia-serial-keypad-mouse-234/01.webp",
-      "thumbnail": "assets/photos/unia-serial-keypad-mouse-234/01-thumb.webp",
+      "file": "assets/photos/unia-serial-keypad-mouse-234/01-catalog.webp",
+      "thumbnail": "assets/photos/unia-serial-keypad-mouse-234/01-catalog-thumb.webp",
       "original": "assets/photos/unia-serial-keypad-mouse-234/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/w/wy/w/wy/wyjbxxxenfxffs8k.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/w/wy/wyjbxxxenfxffs8k.jpeg",
@@ -28,8 +28,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/w/wy/wyjbxxxenfxffs8k.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "wyjbxxxenfxffs8k.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1180325,
@@ -235,8 +235,8 @@
     "en": ""
   },
   "description": {
-    "ru": "",
-    "en": ""
+    "ru": "Unia serial keypad mouse — мышь с крышкой. Под крышкой — встроенный NumPad с 17 кнопками. В первую очередь предлагалась для ноутбуков без NumPad. Мышка подключалась к обычному COM-порту и не требовала драйверов.",
+    "en": "The UNIA Serial Keypad Mouse has a cover concealing a built-in 17-key numeric keypad. It was primarily intended for laptops without a numeric keypad. The mouse connected to a standard COM port and required no drivers."
   },
   "notes": {
     "en": "",
@@ -253,7 +253,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/unia-serial-keypad-mouse-234/thumb.webp",
+  "thumbnail": "assets/photos/unia-serial-keypad-mouse-234/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:58+03:00",
     "sourcePhotoCount": 11,

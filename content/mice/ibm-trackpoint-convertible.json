@@ -17,14 +17,14 @@
   },
   "photos": [
     {
-      "file": "assets/photos/ibm-trackpoint-convertible/01.webp",
-      "thumbnail": "assets/photos/ibm-trackpoint-convertible/01-thumb.webp",
+      "file": "assets/photos/ibm-trackpoint-convertible/01-catalog.webp",
+      "thumbnail": "assets/photos/ibm-trackpoint-convertible/01-catalog-thumb.webp",
       "original": "assets/photos/ibm-trackpoint-convertible/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/5/52/52p27g8qo4l3djte.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/5/52/52p27g8qo4l3djte.JPG",
       "originalFilename": "52p27g8qo4l3djte.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3350,
       "originalHeight": 2233,
       "originalBytes": 1120298,
@@ -107,7 +107,7 @@
       "caption": ""
     }
   ],
-  "thumbnail": "assets/photos/ibm-trackpoint-convertible/thumb.webp",
+  "thumbnail": "assets/photos/ibm-trackpoint-convertible/thumb-catalog.webp",
   "order": 7,
   "manufacturer": {
     "ru": "IBM",

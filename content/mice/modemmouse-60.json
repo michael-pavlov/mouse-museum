@@ -19,8 +19,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/modemmouse-60/01.webp",
-      "thumbnail": "assets/photos/modemmouse-60/01-thumb.webp",
+      "file": "assets/photos/modemmouse-60/01-catalog.webp",
+      "thumbnail": "assets/photos/modemmouse-60/01-catalog-thumb.webp",
       "original": "assets/photos/modemmouse-60/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/m/mb/mbifgfdp1jojwptj.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/m/mb/mbifgfdp1jojwptj.JPG",
@@ -28,8 +28,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/m/mb/mbifgfdp1jojwptj.JPG",
       "sourceOriginalError": "",
       "originalFilename": "mbifgfdp1jojwptj.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3500,
       "originalHeight": 2333,
       "originalBytes": 1313696,
@@ -181,7 +181,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/modemmouse-60/thumb.webp",
+  "thumbnail": "assets/photos/modemmouse-60/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:48+03:00",
     "sourcePhotoCount": 7,

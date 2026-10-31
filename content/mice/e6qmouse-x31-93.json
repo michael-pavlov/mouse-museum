@@ -18,8 +18,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/e6qmouse-x31-93/01.webp",
-      "thumbnail": "assets/photos/e6qmouse-x31-93/01-thumb.webp",
+      "file": "assets/photos/e6qmouse-x31-93/01-catalog.webp",
+      "thumbnail": "assets/photos/e6qmouse-x31-93/01-catalog-thumb.webp",
       "original": "assets/photos/e6qmouse-x31-93/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/d/du/dukm4hngtbkkwuvc.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/d/du/dukm4hngtbkkwuvc.JPG",
@@ -27,8 +27,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/d/du/dukm4hngtbkkwuvc.JPG",
       "sourceOriginalError": "",
       "originalFilename": "dukm4hngtbkkwuvc.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3100,
       "originalHeight": 2067,
       "originalBytes": 1095290,
@@ -162,7 +162,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/e6qmouse-x31-93/thumb.webp",
+  "thumbnail": "assets/photos/e6qmouse-x31-93/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:51+03:00",
     "sourcePhotoCount": 6,

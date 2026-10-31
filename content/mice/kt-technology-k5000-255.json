@@ -16,14 +16,14 @@
   },
   "photos": [
     {
-      "file": "assets/photos/kt-technology-k5000-255/01.webp",
-      "thumbnail": "assets/photos/kt-technology-k5000-255/01-thumb.webp",
+      "file": "assets/photos/kt-technology-k5000-255/01-catalog.webp",
+      "thumbnail": "assets/photos/kt-technology-k5000-255/01-catalog-thumb.webp",
       "original": "assets/photos/kt-technology-k5000-255/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/o/on/o/on/on9oagtvylq16z1x.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/o/on/on9oagtvylq16z1x.jpeg",
       "originalFilename": "on9oagtvylq16z1x.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1405372,
@@ -136,7 +136,7 @@
       "caption": ""
     }
   ],
-  "thumbnail": "assets/photos/kt-technology-k5000-255/thumb.webp",
+  "thumbnail": "assets/photos/kt-technology-k5000-255/thumb-catalog.webp",
   "order": 41,
   "manufacturer": {
     "ru": "Ultima Electronics Corp",

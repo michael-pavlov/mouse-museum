@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/sunnyline-burger-mouse-169/01.webp",
-      "thumbnail": "assets/photos/sunnyline-burger-mouse-169/01-thumb.webp",
+      "file": "assets/photos/sunnyline-burger-mouse-169/01-catalog.webp",
+      "thumbnail": "assets/photos/sunnyline-burger-mouse-169/01-catalog-thumb.webp",
       "original": "assets/photos/sunnyline-burger-mouse-169/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/5/5i/5/5i/5i6j9nqazbvhnlup.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/5/5i/5i6j9nqazbvhnlup.jpeg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/5/5i/5i6j9nqazbvhnlup.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "5i6j9nqazbvhnlup.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1250070,
@@ -143,8 +143,8 @@
     "en": ""
   },
   "description": {
-    "ru": "",
-    "en": ""
+    "ru": "SunnyLine Burger — мышь в форме гамбургера; в 1990‑е и 2000‑е периферию часто делали «игрушкой» для привлечения внимания. За смешным видом — обычная оптико-механика. Экспонат про культуру модных аксессуаров у компьютера.",
+    "en": "The SunnyLine Burger is a hamburger-shaped mouse. In the 1990s and 2000s, peripherals were often styled as toys to attract attention. Behind its amusing appearance is a conventional optomechanical mechanism. This exhibit reflects the culture of fashionable computer accessories."
   },
   "notes": {
     "en": "",
@@ -161,7 +161,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/sunnyline-burger-mouse-169/thumb.webp",
+  "thumbnail": "assets/photos/sunnyline-burger-mouse-169/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:55+03:00",
     "sourcePhotoCount": 6,

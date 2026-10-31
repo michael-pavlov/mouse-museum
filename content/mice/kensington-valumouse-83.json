@@ -18,8 +18,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/kensington-valumouse-83/01.webp",
-      "thumbnail": "assets/photos/kensington-valumouse-83/01-thumb.webp",
+      "file": "assets/photos/kensington-valumouse-83/01-catalog.webp",
+      "thumbnail": "assets/photos/kensington-valumouse-83/01-catalog-thumb.webp",
       "original": "assets/photos/kensington-valumouse-83/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/z/z5/z5he6g8cyudlmt6g.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/z/z5/z5he6g8cyudlmt6g.JPG",
@@ -27,8 +27,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/z/z5/z5he6g8cyudlmt6g.JPG",
       "sourceOriginalError": "",
       "originalFilename": "z5he6g8cyudlmt6g.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3100,
       "originalHeight": 2067,
       "originalBytes": 1144133,
@@ -144,7 +144,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/kensington-valumouse-83/thumb.webp",
+  "thumbnail": "assets/photos/kensington-valumouse-83/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:50+03:00",
     "sourcePhotoCount": 5,

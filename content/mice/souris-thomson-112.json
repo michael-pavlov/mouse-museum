@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/souris-thomson-112/01.webp",
-      "thumbnail": "assets/photos/souris-thomson-112/01-thumb.webp",
+      "file": "assets/photos/souris-thomson-112/01-catalog.webp",
+      "thumbnail": "assets/photos/souris-thomson-112/01-catalog-thumb.webp",
       "original": "assets/photos/souris-thomson-112/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/rh/r/rh/rhjtapudsxrkpnhj.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/r/rh/rhjtapudsxrkpnhj.JPG",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/r/rh/rhjtapudsxrkpnhj.JPG",
       "sourceOriginalError": "",
       "originalFilename": "rhjtapudsxrkpnhj.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3031,
       "originalHeight": 2021,
       "originalBytes": 741567,
@@ -107,8 +107,8 @@
     "en": ""
   },
   "description": {
-    "ru": "",
-    "en": ""
+    "ru": "Souris Thomson — французская мышь бренда Thomson, типичная для европейского рынка 1980‑х. «Souris» по-французски значит «мышь» — на коробках и в документации часто встречалось именно такое название. Экспонат показывает, что периферия для PC производилась не только в США и Азии.",
+    "en": "The Souris Thomson is a French Thomson-branded mouse typical of the European market in the 1980s. ‘Souris’ means ‘mouse’ in French, and this name often appeared on packaging and in documentation. This exhibit shows that PC peripherals were produced beyond the United States and Asia."
   },
   "notes": {
     "en": "",
@@ -125,7 +125,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/souris-thomson-112/thumb.webp",
+  "thumbnail": "assets/photos/souris-thomson-112/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:51+03:00",
     "sourcePhotoCount": 4,

@@ -158,6 +158,12 @@ class Journal:
         parser.feed(markdown.markdown(text))
         return parser.result()
 
+    def reference_links(self, item, language, path):
+        return [{'url': relative(path, self.post_path(post, language)),
+                 'title': post['title'][language],
+                 'source': tr('Museum journal', 'Журнал музея', language)}
+                for post in self.posts if item['slug'] in post['relatedItems']]
+
     def mentions(self, item, language, path):
         posts = [post for post in self.posts if item['slug'] in post['relatedItems']]
         if not posts:

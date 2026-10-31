@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/hp-46060a-125/01.webp",
-      "thumbnail": "assets/photos/hp-46060a-125/01-thumb.webp",
+      "file": "assets/photos/hp-46060a-125/01-catalog.webp",
+      "thumbnail": "assets/photos/hp-46060a-125/01-catalog-thumb.webp",
       "original": "assets/photos/hp-46060a-125/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/g/g7/g/g7/g7eolluf9osgryll.jpg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/g/g7/g7eolluf9osgryll.jpg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/g/g7/g7eolluf9osgryll.jpg",
       "sourceOriginalError": "",
       "originalFilename": "g7eolluf9osgryll.jpg",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3070,
       "originalHeight": 2047,
       "originalBytes": 2639619,
@@ -89,7 +89,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/hp-46060a-125/thumb.webp",
+  "thumbnail": "assets/photos/hp-46060a-125/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:52+03:00",
     "sourcePhotoCount": 2,

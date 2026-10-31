@@ -17,14 +17,14 @@
   },
   "photos": [
     {
-      "file": "assets/photos/mitsumi-ecm-s3102-278/01.webp",
-      "thumbnail": "assets/photos/mitsumi-ecm-s3102-278/01-thumb.webp",
+      "file": "assets/photos/mitsumi-ecm-s3102-278/01-catalog.webp",
+      "thumbnail": "assets/photos/mitsumi-ecm-s3102-278/01-catalog-thumb.webp",
       "original": "assets/photos/mitsumi-ecm-s3102-278/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/v/vt/v/vt/vttewbtksigutz6l.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/v/vt/vttewbtksigutz6l.jpeg",
       "originalFilename": "vttewbtksigutz6l.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 927923,
@@ -77,7 +77,7 @@
       "caption": ""
     }
   ],
-  "thumbnail": "assets/photos/mitsumi-ecm-s3102-278/thumb.webp",
+  "thumbnail": "assets/photos/mitsumi-ecm-s3102-278/thumb-catalog.webp",
   "order": 42,
   "manufacturer": {
     "ru": "Mitsumi Electronics corp",

@@ -18,8 +18,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/logitech-m-s60-272/01.webp",
-      "thumbnail": "assets/photos/logitech-m-s60-272/01-thumb.webp",
+      "file": "assets/photos/logitech-m-s60-272/01-catalog.webp",
+      "thumbnail": "assets/photos/logitech-m-s60-272/01-catalog-thumb.webp",
       "original": "assets/photos/logitech-m-s60-272/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/c/cu/c/cu/cuhplx3r4n1db3of.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/c/cu/cuhplx3r4n1db3of.jpeg",
@@ -27,8 +27,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/c/cu/cuhplx3r4n1db3of.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "cuhplx3r4n1db3of.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 901792,
@@ -162,7 +162,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/logitech-m-s60-272/thumb.webp",
+  "thumbnail": "assets/photos/logitech-m-s60-272/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:11:00+03:00",
     "sourcePhotoCount": 6,

@@ -18,8 +18,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/apple-m4848-hockey-puck-98/01.webp",
-      "thumbnail": "assets/photos/apple-m4848-hockey-puck-98/01-thumb.webp",
+      "file": "assets/photos/apple-m4848-hockey-puck-98/01-catalog.webp",
+      "thumbnail": "assets/photos/apple-m4848-hockey-puck-98/01-catalog-thumb.webp",
       "original": "assets/photos/apple-m4848-hockey-puck-98/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/w/wj/wjekv6r4hh1zmrsv.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/w/wj/wjekv6r4hh1zmrsv.JPG",
@@ -27,8 +27,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/w/wj/wjekv6r4hh1zmrsv.JPG",
       "sourceOriginalError": "",
       "originalFilename": "wjekv6r4hh1zmrsv.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3100,
       "originalHeight": 2067,
       "originalBytes": 1135368,
@@ -90,8 +90,8 @@
     "en": ""
   },
   "description": {
-    "ru": "",
-    "en": ""
+    "ru": "Apple Mouse M4848 — знаменитая круглая «хоккейная шайба» 1998 года для первых iMac. Форма считалась неудобной, но стала одним из самых узнаваемых силуэтов в истории мышей. Хороший пример того, как дизайн под цвет корпуса компьютера иногда побеждал эргономику.",
+    "en": "The Apple Mouse M4848 is the famous round ‘hockey puck’ introduced for the first iMacs in 1998. Its shape was considered uncomfortable, but became one of the most recognisable silhouettes in mouse history. It is a good example of computer colour coordination sometimes taking priority over ergonomics."
   },
   "notes": {
     "en": "",
@@ -108,7 +108,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/apple-m4848-hockey-puck-98/thumb.webp",
+  "thumbnail": "assets/photos/apple-m4848-hockey-puck-98/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:48+03:00",
     "sourcePhotoCount": 3,

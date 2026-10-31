@@ -89,8 +89,8 @@
     "en": ""
   },
   "description": {
-    "ru": "",
-    "en": ""
+    "ru": "Двухкнопочная мышь Acorn, входившая в комплект BBC Master 512 для GEM Desktop. Подключается к User Port снизу корпуса Master, а не к стандартному PC-порту. Протокол отличается от AMX Mouse: обычные DOS/MS-мыши и драйверы Microsoft здесь не работают. Это штатный манипулятор именно для связки Master 512 + DOS Plus + GEM.",
+    "en": "A two-button Acorn mouse supplied with the BBC Master 512 for GEM Desktop. It connects to the User Port underneath the Master, rather than a standard PC port. Its protocol differs from that of the AMX Mouse: ordinary DOS/MS mice and Microsoft drivers do not work here. This is the standard pointing device specifically for the Master 512, DOS Plus and GEM combination."
   },
   "notes": {
     "en": "",

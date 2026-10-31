@@ -14,8 +14,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/startrek-type-1-phaser-mouse-299/01.webp",
-      "thumbnail": "assets/photos/startrek-type-1-phaser-mouse-299/01-thumb.webp",
+      "file": "assets/photos/startrek-type-1-phaser-mouse-299/01-catalog.webp",
+      "thumbnail": "assets/photos/startrek-type-1-phaser-mouse-299/01-catalog-thumb.webp",
       "original": "assets/photos/startrek-type-1-phaser-mouse-299/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/k/kq/k/kq/kqzz74dtlgowu5o5.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/k/kq/kqzz74dtlgowu5o5.jpeg",
@@ -23,8 +23,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/k/kq/kqzz74dtlgowu5o5.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "kqzz74dtlgowu5o5.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 868051,
@@ -122,7 +122,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/startrek-type-1-phaser-mouse-299/thumb.webp",
+  "thumbnail": "assets/photos/startrek-type-1-phaser-mouse-299/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:11:02+03:00",
     "sourcePhotoCount": 4,

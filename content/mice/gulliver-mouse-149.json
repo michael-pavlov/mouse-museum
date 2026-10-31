@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/gulliver-mouse-149/01.webp",
-      "thumbnail": "assets/photos/gulliver-mouse-149/01-thumb.webp",
+      "file": "assets/photos/gulliver-mouse-149/01-catalog.webp",
+      "thumbnail": "assets/photos/gulliver-mouse-149/01-catalog-thumb.webp",
       "original": "assets/photos/gulliver-mouse-149/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/k/ke/k/ke/kekvgr1c8zy3driz.jpg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/k/ke/kekvgr1c8zy3driz.jpg",
@@ -143,7 +143,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/gulliver-mouse-149/thumb.webp",
+  "thumbnail": "assets/photos/gulliver-mouse-149/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:53+03:00",
     "sourcePhotoCount": 5,

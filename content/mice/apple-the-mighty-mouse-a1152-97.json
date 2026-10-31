@@ -18,8 +18,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/apple-the-mighty-mouse-a1152-97/01.webp",
-      "thumbnail": "assets/photos/apple-the-mighty-mouse-a1152-97/01-thumb.webp",
+      "file": "assets/photos/apple-the-mighty-mouse-a1152-97/01-catalog.webp",
+      "thumbnail": "assets/photos/apple-the-mighty-mouse-a1152-97/01-catalog-thumb.webp",
       "original": "assets/photos/apple-the-mighty-mouse-a1152-97/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/d/dt/dtndiyzjlohmik12.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/d/dt/dtndiyzjlohmik12.JPG",
@@ -27,8 +27,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/d/dt/dtndiyzjlohmik12.JPG",
       "sourceOriginalError": "",
       "originalFilename": "dtndiyzjlohmik12.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3100,
       "originalHeight": 2067,
       "originalBytes": 961245,
@@ -108,8 +108,8 @@
     "en": ""
   },
   "description": {
-    "ru": "",
-    "en": ""
+    "ru": "Apple Mighty Mouse (A1152) — первая «многокнопочная» мышь Apple с 2005 года: сенсорные боковые кнопки, колёсико и шарик для прокрутки во все стороны. Название отсылает к мультяшке, а конструкция — к попытке совместить привычную однокнопочность Mac с возможностями PC-мышей. Экспонат отмечает поворот Apple к сложным манипуляторам после десятилетий минимализма.",
+    "en": "The Apple Mighty Mouse (A1152), introduced in 2005, was Apple's first multi-button mouse, with touch-sensitive side buttons, a wheel and a ball for scrolling in all directions. Its name refers to the cartoon character, while its construction reflects an attempt to combine the Mac's familiar single-button approach with the capabilities of PC mice. This exhibit marks Apple's turn towards more complex pointing devices after decades of minimalism."
   },
   "notes": {
     "en": "",
@@ -126,7 +126,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/apple-the-mighty-mouse-a1152-97/thumb.webp",
+  "thumbnail": "assets/photos/apple-the-mighty-mouse-a1152-97/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:47+03:00",
     "sourcePhotoCount": 4,

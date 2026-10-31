@@ -78,22 +78,26 @@ def description_html(item,language):
     return f'<section class="specimen-description"><h2>{tr("About this specimen","Об экземпляре",language)}</h2>{paragraphs}</section>'
 
 
-def resources_html(item,language):
+def resources_html(item,language,publications=()):
     resources=[]
+    seen=set()
+    for publication in publications:
+        url=publication['url']
+        seen.add(url.rstrip('/'))
+        resources.append(f'<li><a href="{esc(url)}"><span>{esc(publication["title"])}</span><small>{esc(publication["source"])}</small></a></li>')
     links=list(item.get('externalLinks',[]))
-    source=item.get('source')
-    if source and not any(link['url'].rstrip('/')==source.rstrip('/') for link in links):
-        links.append({'url':source,'title':{'en':'Original catalogue record','ru':'Запись на Коллекционерусе'}})
+    for url in channel_posts(item):
+        links.append({'url':url,'title':{'en':'Post on Telegram','ru':'Пост в канале'}})
+    if item.get('source'):
+        links.append({'url':item['source'],'title':{'en':'Original catalogue record','ru':'Запись на Коллекционерусе'}})
     for link in links:
         url=validate_url(link['url'])
+        if url.rstrip('/') in seen:
+            continue
+        seen.add(url.rstrip('/'))
         title=localized(link['title'],language)
         host=urlsplit(url).hostname.removeprefix('www.')
-        resources.append(f'<li><a href="{esc(url)}" target="_blank" rel="noopener noreferrer"><span>{esc(title)}</span><small>{esc(host)} ↗</small></a></li>')
-    result=''
-    if resources:
-        result=f'<section class="specimen-resources"><h2>{tr("Links & references","Ссылки и материалы",language)}</h2><ul>'+''.join(resources)+'</ul></section>'
-    posts=channel_posts(item)
-    if posts:
-        links=''.join(f'<li><a href="{esc(url)}" target="_blank" rel="noopener noreferrer"><span>{tr("Post on Telegram","Пост в канале",language)}</span><small>№{esc(urlsplit(url).path.rstrip("/").rsplit("/",1)[-1])} ↗</small></a></li>' for url in posts)
-        result+=f'<section class="specimen-resources specimen-telegram"><h2>Telegram</h2><ul>{links}</ul></section>'
-    return result
+        resources.append(f'<li><a href="{esc(url)}" target="_blank" rel="noopener noreferrer"><span>{esc(title)}</span><small>{esc(host)}</small></a></li>')
+    if not resources:
+        return ''
+    return f'<section class="specimen-resources"><h2>{tr("Materials","Материалы",language)}</h2><ul>'+''.join(resources)+'</ul></section>'

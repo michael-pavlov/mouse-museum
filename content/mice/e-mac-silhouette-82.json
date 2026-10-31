@@ -18,8 +18,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/e-mac-silhouette-82/01.webp",
-      "thumbnail": "assets/photos/e-mac-silhouette-82/01-thumb.webp",
+      "file": "assets/photos/e-mac-silhouette-82/01-catalog.webp",
+      "thumbnail": "assets/photos/e-mac-silhouette-82/01-catalog-thumb.webp",
       "original": "assets/photos/e-mac-silhouette-82/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/s/s0/s0plvpiujou5dwvr.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/s/s0/s0plvpiujou5dwvr.JPG",
@@ -27,8 +27,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/s/s0/s0plvpiujou5dwvr.JPG",
       "sourceOriginalError": "",
       "originalFilename": "s0plvpiujou5dwvr.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3350,
       "originalHeight": 2233,
       "originalBytes": 1308292,
@@ -144,7 +144,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/e-mac-silhouette-82/thumb.webp",
+  "thumbnail": "assets/photos/e-mac-silhouette-82/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:50+03:00",
     "sourcePhotoCount": 5,

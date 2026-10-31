@@ -18,8 +18,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/ball-manipulator-69/01.webp",
-      "thumbnail": "assets/photos/ball-manipulator-69/01-thumb.webp",
+      "file": "assets/photos/ball-manipulator-69/01-catalog.webp",
+      "thumbnail": "assets/photos/ball-manipulator-69/01-catalog-thumb.webp",
       "original": "assets/photos/ball-manipulator-69/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/c/cx/cxerjpmskivexund.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/c/cx/cxerjpmskivexund.JPG",
@@ -27,8 +27,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/c/cx/cxerjpmskivexund.JPG",
       "sourceOriginalError": "",
       "originalFilename": "cxerjpmskivexund.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 4210,
       "originalHeight": 2806,
       "originalBytes": 1871135,
@@ -162,8 +162,8 @@
     "en": ""
   },
   "description": {
-    "ru": "",
-    "en": ""
+    "ru": "Военный шаровой манипулятор. В отличие от большинства других устройств, которые были неотделимы от основного «изделия», ШМ выпускался как самостоятельный прибор и был совместим с разной техникой, имея стандартный интерфейс RS-232, хоть и в разъёме военного исполнения.",
+    "en": "A military trackball pointing device. Unlike most other devices, which were inseparable from their host equipment, the ShM was produced as a standalone instrument compatible with different systems. It used a standard RS-232 interface, albeit with a military-specification connector."
   },
   "notes": {
     "en": "",
@@ -180,7 +180,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/ball-manipulator-69/thumb.webp",
+  "thumbnail": "assets/photos/ball-manipulator-69/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:49+03:00",
     "sourcePhotoCount": 7,

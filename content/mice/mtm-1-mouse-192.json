@@ -18,8 +18,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/mtm-1-mouse-192/01.webp",
-      "thumbnail": "assets/photos/mtm-1-mouse-192/01-thumb.webp",
+      "file": "assets/photos/mtm-1-mouse-192/01-catalog.webp",
+      "thumbnail": "assets/photos/mtm-1-mouse-192/01-catalog-thumb.webp",
       "original": "assets/photos/mtm-1-mouse-192/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/n/nk/n/nk/nkztzpdyo1uytqct.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/n/nk/nkztzpdyo1uytqct.jpeg",
@@ -27,8 +27,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/n/nk/nkztzpdyo1uytqct.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "nkztzpdyo1uytqct.jpeg",
-      "width": 2400,
-      "height": 1751,
+      "width": 1469,
+      "height": 1071,
       "originalWidth": 3737,
       "originalHeight": 2726,
       "originalBytes": 1121288,
@@ -216,8 +216,8 @@
     "en": ""
   },
   "description": {
-    "ru": "",
-    "en": ""
+    "ru": "Манипулятор МТМ-1 — одна из редких советских мышей, дизайн-клон Genius GM-6. В руках коллекционеров сохранилось не более 10 экземпляров. Показывает, что шариковые мыши собирали и в СССР — не только импортировали.",
+    "en": "The MTM-1 is one of the rare Soviet mice, with a design copied from the Genius GM-6. No more than ten examples have survived in collectors' hands. It shows that ball mice were also assembled in the USSR, rather than being supplied solely through imports."
   },
   "notes": {
     "en": "",
@@ -234,7 +234,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/mtm-1-mouse-192/thumb.webp",
+  "thumbnail": "assets/photos/mtm-1-mouse-192/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:46+03:00",
     "sourcePhotoCount": 10,

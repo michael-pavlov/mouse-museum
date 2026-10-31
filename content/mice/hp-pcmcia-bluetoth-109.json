@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/hp-pcmcia-bluetoth-109/01.webp",
-      "thumbnail": "assets/photos/hp-pcmcia-bluetoth-109/01-thumb.webp",
+      "file": "assets/photos/hp-pcmcia-bluetoth-109/01-catalog.webp",
+      "thumbnail": "assets/photos/hp-pcmcia-bluetoth-109/01-catalog-thumb.webp",
       "original": "assets/photos/hp-pcmcia-bluetoth-109/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/rn/r/rn/rnrepq3cpdw9zlda.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/r/rn/rnrepq3cpdw9zlda.JPG",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/r/rn/rnrepq3cpdw9zlda.JPG",
       "sourceOriginalError": "",
       "originalFilename": "rnrepq3cpdw9zlda.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 2859,
       "originalHeight": 1906,
       "originalBytes": 571301,
@@ -71,8 +71,8 @@
     "en": ""
   },
   "description": {
-    "ru": "",
-    "en": ""
+    "ru": "HP PCMCIA — компактная мышь Hewlett-Packard с интерфейсом PCMCIA для ноутбуков начала 1990‑х. Ранний пример мобильной периферии до Bluetooth и USB-хабов.",
+    "en": "The HP PCMCIA is a compact Hewlett-Packard mouse with a PCMCIA interface for early 1990s laptops. It is an early example of mobile peripherals before Bluetooth and USB hubs."
   },
   "notes": {
     "en": "",
@@ -89,7 +89,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/hp-pcmcia-bluetoth-109/thumb.webp",
+  "thumbnail": "assets/photos/hp-pcmcia-bluetoth-109/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:52+03:00",
     "sourcePhotoCount": 2,

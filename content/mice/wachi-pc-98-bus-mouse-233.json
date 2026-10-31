@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/wachi-pc-98-bus-mouse-233/01.webp",
-      "thumbnail": "assets/photos/wachi-pc-98-bus-mouse-233/01-thumb.webp",
+      "file": "assets/photos/wachi-pc-98-bus-mouse-233/01-catalog.webp",
+      "thumbnail": "assets/photos/wachi-pc-98-bus-mouse-233/01-catalog-thumb.webp",
       "original": "assets/photos/wachi-pc-98-bus-mouse-233/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/o/ov/o/ov/ovhhrbadnn15pqxm.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/o/ov/ovhhrbadnn15pqxm.jpeg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/o/ov/ovhhrbadnn15pqxm.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "ovhhrbadnn15pqxm.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1110703,
@@ -197,7 +197,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/wachi-pc-98-bus-mouse-233/thumb.webp",
+  "thumbnail": "assets/photos/wachi-pc-98-bus-mouse-233/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:58+03:00",
     "sourcePhotoCount": 8,

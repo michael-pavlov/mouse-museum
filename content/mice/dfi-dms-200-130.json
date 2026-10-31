@@ -18,8 +18,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/dfi-dms-200-130/01.webp",
-      "thumbnail": "assets/photos/dfi-dms-200-130/01-thumb.webp",
+      "file": "assets/photos/dfi-dms-200-130/01-catalog.webp",
+      "thumbnail": "assets/photos/dfi-dms-200-130/01-catalog-thumb.webp",
       "original": "assets/photos/dfi-dms-200-130/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/n/nj/n/nj/njqrfyoqic9y8may.jpg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/n/nj/njqrfyoqic9y8may.jpg",
@@ -27,8 +27,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/n/nj/njqrfyoqic9y8may.jpg",
       "sourceOriginalError": "",
       "originalFilename": "njqrfyoqic9y8may.jpg",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3436,
       "originalHeight": 2291,
       "originalBytes": 2950437,
@@ -126,7 +126,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/dfi-dms-200-130/thumb.webp",
+  "thumbnail": "assets/photos/dfi-dms-200-130/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:53+03:00",
     "sourcePhotoCount": 4,

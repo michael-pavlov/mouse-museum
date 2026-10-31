@@ -18,8 +18,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/tandy-combi-mouse-53/01.webp",
-      "thumbnail": "assets/photos/tandy-combi-mouse-53/01-thumb.webp",
+      "file": "assets/photos/tandy-combi-mouse-53/01-catalog.webp",
+      "thumbnail": "assets/photos/tandy-combi-mouse-53/01-catalog-thumb.webp",
       "original": "assets/photos/tandy-combi-mouse-53/source-images/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/c/ca/ca16exhig30aiwvi.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/c/ca/ca16exhig30aiwvi.JPG",
@@ -27,8 +27,8 @@
       "downloadSource": "https://collectionerus.ru/media/items-large/c/ca/ca16exhig30aiwvi.JPG",
       "sourceOriginalError": "HTTP 403 from the original URL; source preview is publicly available",
       "originalFilename": "ca16exhig30aiwvi.JPG",
-      "width": 1000,
-      "height": 666,
+      "width": 1538,
+      "height": 1023,
       "originalWidth": 1000,
       "originalHeight": 666,
       "originalBytes": 34334,
@@ -162,7 +162,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/tandy-combi-mouse-53/thumb.webp",
+  "thumbnail": "assets/photos/tandy-combi-mouse-53/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:48+03:00",
     "sourcePhotoCount": 6,

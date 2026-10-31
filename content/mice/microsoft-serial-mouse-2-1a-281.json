@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/microsoft-serial-mouse-2-1a-281/01.webp",
-      "thumbnail": "assets/photos/microsoft-serial-mouse-2-1a-281/01-thumb.webp",
+      "file": "assets/photos/microsoft-serial-mouse-2-1a-281/01-catalog.webp",
+      "thumbnail": "assets/photos/microsoft-serial-mouse-2-1a-281/01-catalog-thumb.webp",
       "original": "assets/photos/microsoft-serial-mouse-2-1a-281/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/f/fh/f/fh/fhyw8tnbq3pnxlpn.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/f/fh/fhyw8tnbq3pnxlpn.jpeg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/f/fh/fhyw8tnbq3pnxlpn.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "fhyw8tnbq3pnxlpn.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 960646,
@@ -179,7 +179,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/microsoft-serial-mouse-2-1a-281/thumb.webp",
+  "thumbnail": "assets/photos/microsoft-serial-mouse-2-1a-281/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:11:00+03:00",
     "sourcePhotoCount": 7,

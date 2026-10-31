@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/key-tronic-2hw73-1ep-31/01.webp",
-      "thumbnail": "assets/photos/key-tronic-2hw73-1ep-31/01-thumb.webp",
+      "file": "assets/photos/key-tronic-2hw73-1ep-31/01-catalog.webp",
+      "thumbnail": "assets/photos/key-tronic-2hw73-1ep-31/01-catalog-thumb.webp",
       "original": "assets/photos/key-tronic-2hw73-1ep-31/originals/01.jpg",
       "source": "https://collectionerus.ru/media/items-large/d/dz/dzih3c7n8pvgvvx6.JPG",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/d/dz/dzih3c7n8pvgvvx6.JPG",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/d/dz/dzih3c7n8pvgvvx6.JPG",
       "sourceOriginalError": "",
       "originalFilename": "dzih3c7n8pvgvvx6.JPG",
-      "width": 2400,
-      "height": 1600,
+      "width": 1536,
+      "height": 1024,
       "originalWidth": 3500,
       "originalHeight": 2333,
       "originalBytes": 1118212,
@@ -161,7 +161,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/key-tronic-2hw73-1ep-31/thumb.webp",
+  "thumbnail": "assets/photos/key-tronic-2hw73-1ep-31/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:47+03:00",
     "sourcePhotoCount": 6,

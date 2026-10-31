@@ -17,8 +17,8 @@
   },
   "photos": [
     {
-      "file": "assets/photos/lm-anir1-fdm-d00-185/01.webp",
-      "thumbnail": "assets/photos/lm-anir1-fdm-d00-185/01-thumb.webp",
+      "file": "assets/photos/lm-anir1-fdm-d00-185/01-catalog.webp",
+      "thumbnail": "assets/photos/lm-anir1-fdm-d00-185/01-catalog-thumb.webp",
       "original": "assets/photos/lm-anir1-fdm-d00-185/originals/01.jpeg",
       "source": "https://collectionerus.ru/media/items-large/preloaded-items/r/rv/r/rv/rvlsiraflzcbpmg8.jpeg",
       "originalSource": "https://collectionerus.ru/media/preloaded-items/r/rv/rvlsiraflzcbpmg8.jpeg",
@@ -26,8 +26,8 @@
       "downloadSource": "https://collectionerus.ru/media/preloaded-items/r/rv/rvlsiraflzcbpmg8.jpeg",
       "sourceOriginalError": "",
       "originalFilename": "rvlsiraflzcbpmg8.jpeg",
-      "width": 2400,
-      "height": 1800,
+      "width": 1448,
+      "height": 1086,
       "originalWidth": 4032,
       "originalHeight": 3024,
       "originalBytes": 1298830,
@@ -125,7 +125,7 @@
   },
   "channelPost": [],
   "externalLinks": [],
-  "thumbnail": "assets/photos/lm-anir1-fdm-d00-185/thumb.webp",
+  "thumbnail": "assets/photos/lm-anir1-fdm-d00-185/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:55+03:00",
     "sourcePhotoCount": 4,

@@ -108,8 +108,8 @@
     "en": ""
   },
   "description": {
-    "ru": "",
-    "en": ""
+    "ru": "Двухкнопочная механическая мышь IBM для рабочей станции RT PC (модели 6150/6151), выпущенной в 1986 году. Это одна из первых мышей IBM — раньше привычной PS/2-мыши 1987 года. Подключается к фирменному locator-порту системного блока (не Serial и не PS/2) и использует собственный протокол; внутри — микроконтроллер. Узнаваема по «квадратному» корпусу и встречается заметно реже поздних IBM PS/2-мышей.",
+    "en": "A two-button mechanical IBM mouse for the RT PC workstation (models 6150/6151), introduced in 1986. It is one of IBM's first mice, predating the familiar PS/2 mouse of 1987. It connects to the computer's proprietary locator port, rather than Serial or PS/2, and uses its own protocol with an internal microcontroller. Recognisable by its square case, it is considerably rarer than later IBM PS/2 mice."
   },
   "notes": {
     "en": "",
