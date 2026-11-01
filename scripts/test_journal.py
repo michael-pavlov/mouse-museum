@@ -3,6 +3,7 @@ import json
 import unittest
 from pathlib import Path
 from journal import Journal
+from html_test_helpers import assert_local_images
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -27,7 +28,8 @@ class JournalTests(unittest.TestCase):
     def test_local_image_assets(self):
         for language in ('en', 'ru'):
             for file in (ROOT/'dist'/language/'journal').rglob('index.html'):
-                self.assertNotIn('src="https://', file.read_text())
+                with self.subTest(page=file):
+                    assert_local_images(self, file.read_text())
 
     def render_text(self, text):
         post = next(p for p in self.journal.posts if p['slug']=='mindset-mouse')

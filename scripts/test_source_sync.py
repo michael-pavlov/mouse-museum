@@ -2,6 +2,7 @@
 import hashlib
 import json
 import unittest
+import html
 from pathlib import Path
 from PIL import Image
 
@@ -11,6 +12,9 @@ class FullSourceSyncTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.items=[json.loads(p.read_text()) for p in (ROOT/'content/mice').glob('*.json')]
+        entries=json.loads((ROOT/'reports/krasnokholmskaya-descriptions.json').read_text())['entries']
+        cls.editorial_entries=[entry for entry in entries if entry['status']=='added']
+        cls.editorial={entry['slug']:entry for entry in cls.editorial_entries}
 
     def test_every_specimen_has_complete_matching_source_data(self):
         for item in self.items:
@@ -21,10 +25,28 @@ class FullSourceSyncTests(unittest.TestCase):
             self.assertEqual(item['sourceSync']['sourcePhotoCount'],len(item['photos']))
             self.assertEqual([p['originalSource'] for p in item['photos']],[p['originalSource'] for p in source['photos']])
             self.assertEqual({link['url'] for link in item['externalLinks']},{link['url'] for link in source['externalLinks']})
-            self.assertEqual(item['description']['ru'],source['descriptionText'])
+            if item['slug'] in self.editorial:
+                entry=self.editorial[item['slug']]
+                self.assertEqual(item['id'],entry['catalogueId'])
+                self.assertEqual(item['description'],{language:entry[language] for language in ('ru','en')},item['slug'])
+            else:
+                self.assertEqual(item['description']['ru'],source['descriptionText'],item['slug'])
             self.assertEqual(item['year'],int(source['properties']['Год']) if source['properties'].get('Год') else None)
             self.assertEqual(item['whereToSee']['ru'],source['properties'].get('Где посмотреть',''))
             self.assertEqual(item['boardManufacturer']['ru'],source['properties'].get('Производитель платы',''))
+
+    def test_editorial_descriptions_are_bilingual_and_published(self):
+        self.assertEqual(len(self.editorial),len(self.editorial_entries),'Duplicate editorial specimen')
+        self.assertTrue(self.editorial)
+        self.assertTrue(set(self.editorial).issubset({item['slug'] for item in self.items}))
+        for slug,entry in self.editorial.items():
+            for language in ('ru','en'):
+                with self.subTest(slug=slug,language=language):
+                    self.assertTrue(entry[language].strip())
+                    page=(ROOT/f'dist/{language}/mice/{slug}/index.html').read_text()
+                    for paragraph in entry[language].split('\n'):
+                        if paragraph.strip():
+                            self.assertIn(html.escape(paragraph,quote=True),page)
 
     def test_originals_are_valid_and_unchanged(self):
         for item in self.items:

@@ -4,6 +4,7 @@ import unittest
 from pathlib import Path
 from urllib.parse import parse_qs, urlsplit
 from wanted import Wanted, EMAIL
+from html_test_helpers import assert_local_images
 
 ROOT=Path(__file__).resolve().parents[1]
 
@@ -13,7 +14,11 @@ class WantedTests(unittest.TestCase):
         self.wanted=Wanted(ROOT,self.items)
 
     def test_imported_exchange_has_explicit_source_evidence(self):
-        self.assertEqual(len(self.wanted.exchange),15)
+        records = [json.loads(p.read_text()) for p in (ROOT/'content/exchange').glob('*.json')]
+        expected_ids = {entry['id'] for entry in records if entry.get('status') == 'available'}
+        self.assertTrue(expected_ids)
+        self.assertEqual({entry['id'] for entry in self.wanted.exchange}, expected_ids)
+        self.assertEqual(len(self.wanted.exchange), len(expected_ids))
         for entry in self.wanted.exchange:
             self.assertIn('есть',entry['sourceStock'])
             self.assertGreater(entry['quantity'],0)
@@ -49,7 +54,7 @@ class WantedTests(unittest.TestCase):
                     self.assertIn(entry['thumbnail'],page)
                 self.assertEqual(page.count('class="wanted-card'),len(entries))
                 self.assertIn('mailto:'+EMAIL,page)
-                self.assertNotIn('src="https://',page)
+                assert_local_images(self,page)
                 self.assertIn('aria-current="page"',page)
 
     def test_exchange_backlinks_only_where_specimen_is_known(self):
@@ -74,7 +79,7 @@ class WantedTests(unittest.TestCase):
 
     def test_wanted_does_not_change_catalogue_count(self):
         page=(ROOT/'dist/en/index.html').read_text()
-        self.assertIn(f'Catalogue ({len(self.items)} items)',page)
+        self.assertIn(f'>Catalogue ({len(self.items)})</a>',page)
         self.assertEqual(page.count('class="card"'),len(self.items))
 
 if __name__=='__main__':
