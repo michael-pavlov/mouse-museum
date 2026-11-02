@@ -1,5 +1,38 @@
 (()=>{'use strict';const ru=document.documentElement.lang==='ru';const t=(en,r)=>ru?r:en;const $=s=>document.querySelector(s);const $$=s=>[...document.querySelectorAll(s)];
 const metrikaId=113889111;function goal(name){try{if(typeof ym==='function')ym(metrikaId,'reachGoal',name);}catch(e){}}
+// Keep the first two destinations visible; move trailing links as space runs out.
+const nav=$('.nav'),overflow=$('.nav-overflow');
+if(nav&&overflow){
+ const links=[...nav.querySelectorAll(':scope > a')],button=overflow.querySelector('button'),menu=$('#nav-extra'),language=nav.querySelector('.lang');
+ const close=()=>{menu.hidden=true;button.setAttribute('aria-expanded','false');};
+ function layoutNav(){
+  const focused=document.activeElement;
+  links.forEach(link=>nav.insertBefore(link,overflow));
+  overflow.hidden=false;
+  const gap=parseFloat(getComputedStyle(nav).columnGap)||0;
+  const widths=links.map(link=>link.getBoundingClientRect().width);
+  const langWidth=language.getBoundingClientRect().width,moreWidth=overflow.getBoundingClientRect().width;
+  let visible=links.length;
+  const needed=n=>widths.slice(0,n).reduce((a,b)=>a+b,0)+langWidth+(n<links.length?moreWidth:0)+gap*(n+(n<links.length?1:0));
+  while(visible>2&&needed(visible)>nav.clientWidth)visible--;
+  links.slice(visible).forEach(link=>menu.append(link));
+  overflow.hidden=visible===links.length;
+  if(overflow.hidden)close();
+  if(links.includes(focused)){
+   if(menu.contains(focused)&&menu.hidden)button.focus({preventScroll:true});
+   else focused.focus({preventScroll:true});
+  }else if(focused===button&&overflow.hidden)links[links.length-1].focus({preventScroll:true});
+ }
+ button.addEventListener('click',()=>{const open=menu.hidden;menu.hidden=!open;button.setAttribute('aria-expanded',String(open));});
+ nav.addEventListener('keydown',event=>{if(event.key==='Escape'&&!menu.hidden){event.preventDefault();close();button.focus();}});
+ document.addEventListener('click',event=>{if(!overflow.contains(event.target))close();});
+ nav.addEventListener('focusout',event=>{if(!overflow.contains(event.relatedTarget))close();});
+ nav.classList.add('nav-adaptive');
+ layoutNav();
+ new ResizeObserver(layoutNav).observe(nav);
+ window.addEventListener('resize',layoutNav);
+ document.fonts.ready.then(layoutNav);
+}
 // Keep the catalogue return destination within this browser tab.
 const catalogueStateKey='mouse-museum:catalogue:'+document.documentElement.lang;
 const catalogueBack=$('.breadcrumb a');
