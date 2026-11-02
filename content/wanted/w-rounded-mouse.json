@@ -1,0 +1,13 @@
+{
+  "id": "w-rounded-mouse",
+  "reference": "W-27",
+  "order": 27,
+  "title": {
+    "en": "",
+    "ru": ""
+  },
+  "source": "https://mouse.museum/ru/wanted/#w-rounded-mouse",
+  "status": "wanted",
+  "image": "assets/wanted/w-rounded-mouse/photo.webp",
+  "thumbnail": "assets/wanted/w-rounded-mouse/thumb.webp"
+}
