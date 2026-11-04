@@ -1,5 +1,5 @@
 {
-  "availableOriginals": 1966,
+  "availableOriginals": 2010,
   "unavailableOriginals": [
     {
       "sourceId": 53,
@@ -10,10 +10,10 @@
       "error": "HTTP 403 from the original URL; source preview is publicly available"
     }
   ],
-  "completedAt": "2026-10-27T23:36:39+03:00",
-  "specimens": 305,
-  "photos": 1967,
-  "originalBytes": 3169461174,
+  "completedAt": "2026-11-04T21:44:09+03:00",
+  "specimens": 312,
+  "photos": 2011,
+  "originalBytes": 3232241659,
   "entries": [
     {
       "sourceId": 121,
@@ -4753,6 +4753,119 @@
       "localOriginals": 9,
       "originalBytes": 12717612,
       "availableOriginals": 9,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 313,
+      "slug": "canon-bn20-htb-313",
+      "title": "Canon BN20-HTB",
+      "previousPhotos": 0,
+      "sourcePhotos": 4,
+      "localOriginals": 4,
+      "originalBytes": 4377723,
+      "availableOriginals": 4,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 314,
+      "slug": "enix-mouse-314",
+      "title": "Enix Mouse",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 9258438,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 4,
+      "missingSourceFields": [
+        "Производитель",
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 315,
+      "slug": "genius-easy-trak-serial-315",
+      "title": "Genius Easy Trak Serial",
+      "previousPhotos": 0,
+      "sourcePhotos": 6,
+      "localOriginals": 6,
+      "originalBytes": 8524451,
+      "availableOriginals": 6,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 312,
+      "slug": "hamp-sports-mouse-ad-p38-312",
+      "title": "Hamp Sports Mouse ad-p38",
+      "previousPhotos": 0,
+      "sourcePhotos": 8,
+      "localOriginals": 8,
+      "originalBytes": 11604429,
+      "availableOriginals": 8,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 311,
+      "slug": "neos-ms-55auto-311",
+      "title": "Neos MS-55auto",
+      "previousPhotos": 0,
+      "sourcePhotos": 7,
+      "localOriginals": 7,
+      "originalBytes": 9765529,
+      "availableOriginals": 7,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 316,
+      "slug": "primax-htb03-trackball-316",
+      "title": "Primax HTB03 Trackball",
+      "previousPhotos": 0,
+      "sourcePhotos": 5,
+      "localOriginals": 5,
+      "originalBytes": 7148550,
+      "availableOriginals": 5,
+      "descriptionTextPresent": false,
+      "externalLinks": 0,
+      "sourcePropertyCount": 5,
+      "missingSourceFields": [
+        "Интерфейс"
+      ]
+    },
+    {
+      "sourceId": 310,
+      "slug": "smk-mouse-systems-hal-laboratory-310",
+      "title": "SMK Mouse Systems HAL Laboratory",
+      "previousPhotos": 0,
+      "sourcePhotos": 8,
+      "localOriginals": 8,
+      "originalBytes": 12101365,
+      "availableOriginals": 8,
       "descriptionTextPresent": false,
       "externalLinks": 0,
       "sourcePropertyCount": 5,

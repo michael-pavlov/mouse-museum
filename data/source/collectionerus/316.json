@@ -1,0 +1,84 @@
+{
+  "sourceId": 316,
+  "source": "https://collectionerus.ru/collections/old-mice/316/",
+  "slug": "primax-htb03-trackball-316",
+  "sourceTitle": "Primax HTB03 Trackball",
+  "retrievedAt": "2026-11-04T21:38:33+03:00",
+  "sourcePageSha256": "6b8de209ba42f9061fa8c5fbd5af94d6b49f0cf2aec84216ab5de2e39378aec6",
+  "descriptionHtml": "<div class=\"item-description\">\n<p></p>\n</div>",
+  "descriptionText": "",
+  "externalLinks": [],
+  "properties": {
+    "Производитель": "Primax Electronics Ltd",
+    "Год": "1991",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Local"
+  },
+  "propertyLinks": {
+    "Производитель": [
+      "https://collectionerus.ru/collections/old-mice/?proizvoditel=Primax+Electronics+Ltd"
+    ],
+    "Год": [
+      "https://collectionerus.ru/collections/old-mice/?god=1991"
+    ],
+    "Способ позиционирования": [
+      "https://collectionerus.ru/collections/old-mice/?sposob_pozicionirovanija=%D0%BE%D0%BF%D1%82%D0%B8%D0%BA%D0%BE-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%28%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%29"
+    ],
+    "СССР": [
+      "https://collectionerus.ru/collections/old-mice/?sssr=no"
+    ],
+    "Где посмотреть": [
+      "https://collectionerus.ru/collections/old-mice/?gde_posmotret=Local"
+    ]
+  },
+  "photos": [
+    {
+      "position": 1,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/6/6r/6/6r/6rgljne45na4y40f.png",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/6/6r/6rgljne45na4y40f.png",
+      "originalName": "6rgljne45na4y40f.png",
+      "cacheFile": "photos/primax-htb03-trackball-316/01.png",
+      "caption": "",
+      "sourceSizeLabel": "1448×1086, 1,5 МБ"
+    },
+    {
+      "position": 2,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/f/fb/f/fb/fbv1ur63xir0qxuq.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/f/fb/fbv1ur63xir0qxuq.jpeg",
+      "originalName": "fbv1ur63xir0qxuq.jpeg",
+      "cacheFile": "photos/primax-htb03-trackball-316/02.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,1 МБ"
+    },
+    {
+      "position": 3,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/i/ip/i/ip/ipgfk9bvxxi0hiol.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/i/ip/ipgfk9bvxxi0hiol.jpeg",
+      "originalName": "ipgfk9bvxxi0hiol.jpeg",
+      "cacheFile": "photos/primax-htb03-trackball-316/03.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,3 МБ"
+    },
+    {
+      "position": 4,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/o/ot/o/ot/ott1d44jbqa2rcne.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/o/ot/ott1d44jbqa2rcne.jpeg",
+      "originalName": "ott1d44jbqa2rcne.jpeg",
+      "cacheFile": "photos/primax-htb03-trackball-316/04.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,4 МБ"
+    },
+    {
+      "position": 5,
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/k/km/k/km/km4ftmjckcpjgb1h.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/k/km/km4ftmjckcpjgb1h.jpeg",
+      "originalName": "km4ftmjckcpjgb1h.jpeg",
+      "cacheFile": "photos/primax-htb03-trackball-316/05.jpeg",
+      "caption": "",
+      "sourceSizeLabel": "4032×3024, 1,6 МБ"
+    }
+  ],
+  "itemFile": "content/mice/primax-htb03-trackball-316.json",
+  "previousPhotoCount": 0
+}

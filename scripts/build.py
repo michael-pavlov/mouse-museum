@@ -14,7 +14,7 @@ if SITE and (urlparse(SITE).scheme not in ('https','http') or not urlparse(SITE)
 items=sorted([json.loads(p.read_text()) for p in (ROOT/'content/mice').glob('*.json')],key=lambda d:d['order'])
 assert items,'No catalogue entries'
 def publication_id(d):return int(d['source'].rstrip('/').rsplit('/',1)[-1])
-newest_ids={d['id'] for d in sorted(items,key=publication_id,reverse=True)[:4]}
+newest_ids={d['id'] for d in sorted(items,key=publication_id,reverse=True)[:7]}
 seen=set()
 for d in items:
  validate_extras(d)

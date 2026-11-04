@@ -1,6 +1,6 @@
 {
   "retrievedAt": "2026-10-27T23:36:39+03:00",
-  "count": 305,
+  "count": 312,
   "entries": [
     {
       "sourceId": 1,
@@ -1831,6 +1831,49 @@
       "source": "https://collectionerus.ru/collections/old-mice/309/",
       "title": "Handy-track model 700",
       "sourceOrder": 304
+    },
+    {
+      "sourceId": 310,
+      "source": "https://collectionerus.ru/collections/old-mice/310/",
+      "sourceOrder": 305,
+      "title": "SMK Mouse Systems HAL Laboratory"
+    },
+    {
+      "sourceId": 311,
+      "source": "https://collectionerus.ru/collections/old-mice/311/",
+      "sourceOrder": 306,
+      "title": "Neos MS-55auto"
+    },
+    {
+      "sourceId": 312,
+      "source": "https://collectionerus.ru/collections/old-mice/312/",
+      "sourceOrder": 307,
+      "title": "Hamp Sports Mouse ad-p38"
+    },
+    {
+      "sourceId": 313,
+      "source": "https://collectionerus.ru/collections/old-mice/313/",
+      "sourceOrder": 308,
+      "title": "Canon BN20-HTB"
+    },
+    {
+      "sourceId": 314,
+      "source": "https://collectionerus.ru/collections/old-mice/314/",
+      "sourceOrder": 309,
+      "title": "Enix Mouse"
+    },
+    {
+      "sourceId": 315,
+      "source": "https://collectionerus.ru/collections/old-mice/315/",
+      "sourceOrder": 310,
+      "title": "Genius Easy Trak Serial"
+    },
+    {
+      "sourceId": 316,
+      "source": "https://collectionerus.ru/collections/old-mice/316/",
+      "sourceOrder": 311,
+      "title": "Primax HTB03 Trackball"
     }
-  ]
+  ],
+  "updatedAt": "2026-11-04T21:44:09+03:00"
 }

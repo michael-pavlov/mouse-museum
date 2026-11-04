@@ -1,0 +1,136 @@
+{
+  "id": "MP-0313",
+  "slug": "canon-bn20-htb-313",
+  "title": {
+    "en": "Canon BN20-HTB",
+    "ru": "Canon BN20-HTB"
+  },
+  "source": "https://collectionerus.ru/collections/old-mice/313/",
+  "sourceOrder": 308,
+  "order": 308,
+  "sourceProperties": {
+    "Производитель": "Canon",
+    "Год": "1992",
+    "Способ позиционирования": "оптико-механический (классика)",
+    "СССР": "нет",
+    "Где посмотреть": "Local"
+  },
+  "photos": [
+    {
+      "file": "assets/photos/canon-bn20-htb-313/01.webp",
+      "thumbnail": "assets/photos/canon-bn20-htb-313/01-thumb.webp",
+      "original": "assets/photos/canon-bn20-htb-313/originals/01.png",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/d/dm/d/dm/dmpbcvrltqmnfilg.png",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/d/dm/dmpbcvrltqmnfilg.png",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/d/dm/dmpbcvrltqmnfilg.png",
+      "sourceOriginalError": "",
+      "originalFilename": "dmpbcvrltqmnfilg.png",
+      "width": 1448,
+      "height": 1086,
+      "originalWidth": 1448,
+      "originalHeight": 1086,
+      "originalBytes": 1580173,
+      "sha256": "4854d8c5b1fe8a3022c47c9fe1a7fe747b7669cf713f2f3ba12b4108e3dafed1",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/canon-bn20-htb-313/02.webp",
+      "thumbnail": "assets/photos/canon-bn20-htb-313/02-thumb.webp",
+      "original": "assets/photos/canon-bn20-htb-313/originals/02.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/g/gc/g/gc/gcdqvgcx7mpcpcco.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/g/gc/gcdqvgcx7mpcpcco.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/g/gc/gcdqvgcx7mpcpcco.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "gcdqvgcx7mpcpcco.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 836239,
+      "sha256": "6c86dc53137518ec86ff3676dee5f92506339b3ee44de8c09e7681a605f3d985",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/canon-bn20-htb-313/03.webp",
+      "thumbnail": "assets/photos/canon-bn20-htb-313/03-thumb.webp",
+      "original": "assets/photos/canon-bn20-htb-313/originals/03.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/d/dg/d/dg/dg3bubsljf5ldt6i.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/d/dg/dg3bubsljf5ldt6i.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/d/dg/dg3bubsljf5ldt6i.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "dg3bubsljf5ldt6i.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 956211,
+      "sha256": "ad4db06128c5cb9040e06b3693273a6a11300e9e78763140b03d420f5c418981",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/canon-bn20-htb-313/04.webp",
+      "thumbnail": "assets/photos/canon-bn20-htb-313/04-thumb.webp",
+      "original": "assets/photos/canon-bn20-htb-313/originals/04.jpeg",
+      "source": "https://collectionerus.ru/media/items-large/preloaded-items/t/to/t/to/toia020yfwrporuj.jpeg",
+      "originalSource": "https://collectionerus.ru/media/preloaded-items/t/to/toia020yfwrporuj.jpeg",
+      "originalAvailable": true,
+      "downloadSource": "https://collectionerus.ru/media/preloaded-items/t/to/toia020yfwrporuj.jpeg",
+      "sourceOriginalError": "",
+      "originalFilename": "toia020yfwrporuj.jpeg",
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1005100,
+      "sha256": "33883fef317bc53df1167ad60b27b2b3527d5fd7bdd220819a9f64fa152222e3",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "Canon",
+    "en": "Canon"
+  },
+  "brand": "Canon",
+  "year": 1992,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "en": "",
+    "ru": ""
+  },
+  "sourceTitle": "Canon BN20-HTB",
+  "whereToSee": {
+    "ru": "Local",
+    "en": "Local"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "thumbnail": "assets/photos/canon-bn20-htb-313/thumb.webp",
+  "sourceSync": {
+    "retrievedAt": "2026-11-04T21:38:32+03:00",
+    "sourcePhotoCount": 4,
+    "sourceDescriptionPresent": false,
+    "sourcePropertyCount": 5,
+    "availableOriginals": 4
+  }
+}
