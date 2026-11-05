@@ -80,10 +80,10 @@
   "thumbnail": "assets/photos/mitsumi-ecm-s3102-278/thumb-catalog.webp",
   "order": 42,
   "manufacturer": {
-    "ru": "Mitsumi Electronics corp",
-    "en": "Mitsumi Electronics corp"
+    "ru": "Mitsumi",
+    "en": "Mitsumi"
   },
-  "brand": "Mitsumi Electronics corp",
+  "brand": "Mitsumi",
   "year": 1993,
   "tracking": {
     "key": "ball",

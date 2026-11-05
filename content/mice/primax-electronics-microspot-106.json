@@ -90,10 +90,10 @@
     }
   ],
   "manufacturer": {
-    "ru": "Primax Electronics Ltd",
-    "en": "Primax Electronics Ltd"
+    "ru": "Primax",
+    "en": "Primax"
   },
-  "brand": "Primax Electronics Ltd",
+  "brand": "Primax",
   "year": 1993,
   "tracking": {
     "key": "ball",

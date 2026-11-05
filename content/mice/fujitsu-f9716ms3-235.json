@@ -163,10 +163,10 @@
     }
   ],
   "manufacturer": {
-    "ru": "Fujitsu Limited",
-    "en": "Fujitsu Limited"
+    "ru": "Fujitsu",
+    "en": "Fujitsu"
   },
-  "brand": "Fujitsu Limited",
+  "brand": "Fujitsu",
   "year": 1990,
   "tracking": {
     "key": "ball",

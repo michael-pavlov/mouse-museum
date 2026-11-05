@@ -126,10 +126,10 @@
     }
   ],
   "manufacturer": {
-    "ru": "Truedox Technology Corporation",
-    "en": "Truedox Technology Corporation"
+    "ru": "Truedox Technology",
+    "en": "Truedox Technology"
   },
-  "brand": "Truedox Technology Corporation",
+  "brand": "Truedox Technology",
   "year": 1989,
   "tracking": {
     "key": "ball",

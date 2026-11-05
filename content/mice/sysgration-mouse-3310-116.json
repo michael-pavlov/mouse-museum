@@ -90,10 +90,10 @@
     }
   ],
   "manufacturer": {
-    "ru": "Sysgration Ltd.",
-    "en": "Sysgration Ltd."
+    "ru": "Sysgration",
+    "en": "Sysgration"
   },
-  "brand": "Sysgration Ltd.",
+  "brand": "Sysgration",
   "year": 1993,
   "tracking": {
     "key": "ball",

@@ -108,10 +108,10 @@
     }
   ],
   "manufacturer": {
-    "ru": "Ultima Electronics Corp",
-    "en": "Ultima Electronics Corp"
+    "ru": "Ultima Electronics",
+    "en": "Ultima Electronics"
   },
-  "brand": "Ultima Electronics Corp",
+  "brand": "Ultima Electronics",
   "year": 1995,
   "tracking": {
     "key": "ball",

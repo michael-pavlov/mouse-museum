@@ -126,10 +126,10 @@
     }
   ],
   "manufacturer": {
-    "ru": "Primax Manufacturing Ltd.",
-    "en": "Primax Manufacturing Ltd."
+    "ru": "Primax",
+    "en": "Primax"
   },
-  "brand": "Primax Manufacturing Ltd.",
+  "brand": "Primax",
   "year": 1993,
   "tracking": {
     "key": "ball",

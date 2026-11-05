@@ -72,10 +72,10 @@
     }
   ],
   "manufacturer": {
-    "ru": "Fellowes Inc",
-    "en": "Fellowes Inc"
+    "ru": "Fellowes",
+    "en": "Fellowes"
   },
-  "brand": "Fellowes Inc",
+  "brand": "Fellowes",
   "year": 1994,
   "tracking": {
     "key": "ball",

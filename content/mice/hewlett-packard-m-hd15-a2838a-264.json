@@ -145,10 +145,10 @@
     }
   ],
   "manufacturer": {
-    "ru": "Hewlett Packard",
-    "en": "Hewlett Packard"
+    "ru": "HP",
+    "en": "HP"
   },
-  "brand": "Hewlett Packard",
+  "brand": "HP",
   "year": 1991,
   "tracking": {
     "key": "ball",

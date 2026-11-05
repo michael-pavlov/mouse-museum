@@ -90,10 +90,10 @@
     }
   ],
   "manufacturer": {
-    "ru": "Mouse systems corp",
-    "en": "Mouse systems corp"
+    "ru": "Mouse Systems",
+    "en": "Mouse Systems"
   },
-  "brand": "Mouse systems corp",
+  "brand": "Mouse Systems",
   "year": 1989,
   "tracking": {
     "key": "ball",

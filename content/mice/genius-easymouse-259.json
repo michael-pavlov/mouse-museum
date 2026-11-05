@@ -108,10 +108,10 @@
     }
   ],
   "manufacturer": {
-    "ru": "KYE Systems Corp",
-    "en": "KYE Systems Corp"
+    "ru": "KYE Systems",
+    "en": "KYE Systems"
   },
-  "brand": "KYE Systems Corp",
+  "brand": "KYE Systems",
   "year": 1996,
   "tracking": {
     "key": "ball",

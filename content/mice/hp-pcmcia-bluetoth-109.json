@@ -54,10 +54,10 @@
     }
   ],
   "manufacturer": {
-    "ru": "Primax Electronics",
-    "en": "Primax Electronics"
+    "ru": "Primax",
+    "en": "Primax"
   },
-  "brand": "Primax Electronics",
+  "brand": "Primax",
   "year": 2006,
   "tracking": {
     "key": "optical",

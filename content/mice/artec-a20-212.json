@@ -216,10 +216,10 @@
     }
   ],
   "manufacturer": {
-    "ru": "Ultima Electronics corp.",
-    "en": "Ultima Electronics corp."
+    "ru": "Ultima Electronics",
+    "en": "Ultima Electronics"
   },
-  "brand": "Ultima Electronics corp.",
+  "brand": "Ultima Electronics",
   "year": 1989,
   "tracking": {
     "key": "optical-pad",

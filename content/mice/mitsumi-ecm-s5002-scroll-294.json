@@ -162,10 +162,10 @@
     }
   ],
   "manufacturer": {
-    "ru": "Mitsumi Electric",
-    "en": "Mitsumi Electric"
+    "ru": "Mitsumi",
+    "en": "Mitsumi"
   },
-  "brand": "Mitsumi Electric",
+  "brand": "Mitsumi",
   "year": 1998,
   "tracking": {
     "key": "ball",

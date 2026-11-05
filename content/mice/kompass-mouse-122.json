@@ -72,10 +72,10 @@
     }
   ],
   "manufacturer": {
-    "ru": "Midasonic Industrial Co Ltd",
-    "en": "Midasonic Industrial Co Ltd"
+    "ru": "Midasonic Industrial",
+    "en": "Midasonic Industrial"
   },
-  "brand": "Midasonic Industrial Co Ltd",
+  "brand": "Midasonic Industrial",
   "year": 1991,
   "tracking": {
     "key": "ball",

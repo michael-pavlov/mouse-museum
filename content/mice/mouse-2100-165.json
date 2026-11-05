@@ -108,10 +108,10 @@
     }
   ],
   "manufacturer": {
-    "ru": "Sysgration Ltd. - HQX",
-    "en": "Sysgration Ltd. - HQX"
+    "ru": "Sysgration",
+    "en": "Sysgration"
   },
-  "brand": "Sysgration Ltd. - HQX",
+  "brand": "Sysgration",
   "year": 1993,
   "tracking": {
     "key": "ball",

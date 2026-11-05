@@ -108,10 +108,10 @@
     }
   ],
   "manufacturer": {
-    "ru": "Qtronix Corp",
-    "en": "Qtronix Corp"
+    "ru": "Qtronix",
+    "en": "Qtronix"
   },
-  "brand": "Qtronix Corp",
+  "brand": "Qtronix",
   "year": 1990,
   "tracking": {
     "key": "ball",
