@@ -1,0 +1,233 @@
+{
+  "id": "MP-0321",
+  "slug": "protocol-select-cordless-321",
+  "title": {
+    "ru": "Protocol Select Mouse",
+    "en": "Protocol Select Mouse"
+  },
+  "source": "",
+  "sourceProperties": {},
+  "photos": [
+    {
+      "file": "assets/photos/protocol-select-cordless-321/01.webp",
+      "thumbnail": "assets/photos/protocol-select-cordless-321/01-thumb.webp",
+      "original": "assets/photos/protocol-select-cordless-321/originals/IMG_0430_catalog.png",
+      "originalFilename": "IMG_0430_catalog.png",
+      "originalAvailable": true,
+      "width": 1448,
+      "height": 1086,
+      "originalWidth": 1448,
+      "originalHeight": 1086,
+      "originalBytes": 1458612,
+      "sha256": "91d1fda00bec29d92ee4be605def438c620b529f28459f27b0b047b74375ba17",
+      "source": "",
+      "caption": "Обработанная обложка / Edited cover"
+    },
+    {
+      "file": "assets/photos/protocol-select-cordless-321/03.webp",
+      "thumbnail": "assets/photos/protocol-select-cordless-321/03-thumb.webp",
+      "original": "assets/photos/protocol-select-cordless-321/originals/IMG_0431.jpeg",
+      "originalFilename": "IMG_0431.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1253857,
+      "sha256": "2e7d24c7c2ffa57a7f5001f87ca70120d86901ffa0d684ee381a0d9790a6f4df",
+      "source": "",
+      "caption": "IMG_0431"
+    },
+    {
+      "file": "assets/photos/protocol-select-cordless-321/04.webp",
+      "thumbnail": "assets/photos/protocol-select-cordless-321/04-thumb.webp",
+      "original": "assets/photos/protocol-select-cordless-321/originals/IMG_0432.jpeg",
+      "originalFilename": "IMG_0432.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1226311,
+      "sha256": "33a2e389f0a497ac3efb65c701344cb3c8dca35c4b7cdeb8151510f6dc0888c6",
+      "source": "",
+      "caption": "IMG_0432"
+    },
+    {
+      "file": "assets/photos/protocol-select-cordless-321/05.webp",
+      "thumbnail": "assets/photos/protocol-select-cordless-321/05-thumb.webp",
+      "original": "assets/photos/protocol-select-cordless-321/originals/IMG_0433.jpeg",
+      "originalFilename": "IMG_0433.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1350082,
+      "sha256": "634c4f0bd7e446eba181a70604e5b78351dc84538f46bde85fa1b85c41bed39c",
+      "source": "",
+      "caption": "IMG_0433"
+    },
+    {
+      "file": "assets/photos/protocol-select-cordless-321/06.webp",
+      "thumbnail": "assets/photos/protocol-select-cordless-321/06-thumb.webp",
+      "original": "assets/photos/protocol-select-cordless-321/originals/IMG_0434.jpeg",
+      "originalFilename": "IMG_0434.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1394936,
+      "sha256": "62728498d7c191dea82e91e23e1b65e12f48d2c7082951aa52e32f9330b34691",
+      "source": "",
+      "caption": "IMG_0434"
+    },
+    {
+      "file": "assets/photos/protocol-select-cordless-321/07.webp",
+      "thumbnail": "assets/photos/protocol-select-cordless-321/07-thumb.webp",
+      "original": "assets/photos/protocol-select-cordless-321/originals/IMG_0435.jpeg",
+      "originalFilename": "IMG_0435.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1261854,
+      "sha256": "81a01c4879267cc3e2d20e278b7bc403e3c871bb63192a78b49ac94556171308",
+      "source": "",
+      "caption": "IMG_0435"
+    },
+    {
+      "file": "assets/photos/protocol-select-cordless-321/08.webp",
+      "thumbnail": "assets/photos/protocol-select-cordless-321/08-thumb.webp",
+      "original": "assets/photos/protocol-select-cordless-321/originals/IMG_0436.jpeg",
+      "originalFilename": "IMG_0436.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1800959,
+      "sha256": "af62515031902f8ec23f50d2f615acae1056785ed28171995b88f159d0996247",
+      "source": "",
+      "caption": "IMG_0436"
+    },
+    {
+      "file": "assets/photos/protocol-select-cordless-321/09.webp",
+      "thumbnail": "assets/photos/protocol-select-cordless-321/09-thumb.webp",
+      "original": "assets/photos/protocol-select-cordless-321/originals/IMG_0437.jpeg",
+      "originalFilename": "IMG_0437.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1453475,
+      "sha256": "2a4799f80d3b4fd2cdeb81cdca2eefd01ee1f7b8e43729df25af2f4ab9e720d7",
+      "source": "",
+      "caption": "IMG_0437"
+    },
+    {
+      "file": "assets/photos/protocol-select-cordless-321/10.webp",
+      "thumbnail": "assets/photos/protocol-select-cordless-321/10-thumb.webp",
+      "original": "assets/photos/protocol-select-cordless-321/originals/IMG_0438.jpeg",
+      "originalFilename": "IMG_0438.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1180281,
+      "sha256": "0a446cb79055c4365b993b044ccb859cff60ae8e2a4bb0ac74112a8bbe6ec8cb",
+      "source": "",
+      "caption": "IMG_0438"
+    },
+    {
+      "file": "assets/photos/protocol-select-cordless-321/11.webp",
+      "thumbnail": "assets/photos/protocol-select-cordless-321/11-thumb.webp",
+      "original": "assets/photos/protocol-select-cordless-321/originals/IMG_0439.jpeg",
+      "originalFilename": "IMG_0439.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1362679,
+      "sha256": "8e6145a800aa40eebb9b92bd438d9ee0ef0b4ae93e972f0015c13d899b34c39b",
+      "source": "",
+      "caption": "IMG_0439"
+    },
+    {
+      "file": "assets/photos/protocol-select-cordless-321/12.webp",
+      "thumbnail": "assets/photos/protocol-select-cordless-321/12-thumb.webp",
+      "original": "assets/photos/protocol-select-cordless-321/originals/IMG_0440.jpeg",
+      "originalFilename": "IMG_0440.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1865870,
+      "sha256": "6d29f5c327a52b8c7f909fbff003639d9c4ccb14de7e314a0d33a0ce41e91885",
+      "source": "",
+      "caption": "IMG_0440"
+    }
+  ],
+  "thumbnail": "assets/photos/protocol-select-cordless-321/01-thumb.webp",
+  "order": 316,
+  "manufacturer": {
+    "ru": "BMC Micro Industries Pte Ltd",
+    "en": "BMC Micro Industries Pte Ltd"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "brand": "BMC Micro Industries Pte Ltd",
+  "year": 1989,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "Беспроводная мышь Protocol Select с отдельным приёмником. Основная кнопка расположена сверху, дополнительная — на боковой грани. Перемещение считывается шаром и двумя оптическими энкодерами, а питание мыши обеспечивают две батарейки AAA.\n\nПереднее оптическое окно мыши и тёмное окно приёмника указывают на инфракрасный канал связи. FCC ID HMA00-0019 связан с BMC Micro Industries Pte Ltd; на корпусе отмечено изготовление в Гонконге.",
+    "en": "The Protocol Select cordless mouse comes with a separate receiver. It has a top button and an additional side button. A ball and two optical encoders track movement, and two AAA cells power the mouse.\n\nThe front optical window and the receiver’s dark window suggest an infrared link. FCC ID HMA00-0019 identifies BMC Micro Industries Pte Ltd as the grantee; the case states manufacture in Hong Kong."
+  },
+  "notes": {
+    "ru": "",
+    "en": ""
+  },
+  "whereToSee": {
+    "ru": "Local",
+    "en": "Local"
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "draft": false,
+  "research": {
+    "reviewedAt": "2026-11-10",
+    "sourceDirectory": "/Users/pavlov/Documents/mouses/mouses_photo/3",
+    "photoEvidence": [
+      "IMG_0434: FCC HMA00-0019; Made in Hong Kong; 2 × 1.5 V AAA.",
+      "IMG_0432: мышь и приёмник с одинаковым логотипом.",
+      "IMG_0435–0440: шариковый механизм, оптическое окно и плата приёмника."
+    ],
+    "dating": {
+      "ru": "Семейство сертифицировано в 1989; экземпляр, вероятно, 1990-х",
+      "en": "Family certified in 1989; specimen probably 1990s"
+    },
+    "unresolved": {
+      "ru": "Разрешение FCC выдано 12.09.1989. Это дата сертификации семейства, не точный год экземпляра. На микросхеме приёмника виден код с началом 9336 — возможный ориентир на 1993 год, требующий проверки. ИК-связь — вывод по конструкции; руководство, дальность и разъём подключения приёмника к ПК не установлены.",
+      "en": "FCC authorization was granted on 12 September 1989; this is not the specimen’s production date. A receiver IC code beginning 9336 may point to 1993, pending verification. Infrared operation is inferred from construction; the manual, range and receiver-to-PC connector remain unconfirmed."
+    },
+    "status": "draft"
+  }
+}

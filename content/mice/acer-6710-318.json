@@ -1,0 +1,173 @@
+{
+  "id": "MP-0318",
+  "slug": "acer-6710-318",
+  "title": {
+    "ru": "Acer Mouse 6710",
+    "en": "Acer Mouse 6710"
+  },
+  "source": "",
+  "sourceProperties": {},
+  "photos": [
+    {
+      "file": "assets/photos/acer-6710-318/01.webp",
+      "thumbnail": "assets/photos/acer-6710-318/01-thumb.webp",
+      "original": "assets/photos/acer-6710-318/originals/IMG_0407_catalog.png",
+      "originalFilename": "IMG_0407_catalog.png",
+      "originalAvailable": true,
+      "width": 1448,
+      "height": 1086,
+      "originalWidth": 1448,
+      "originalHeight": 1086,
+      "originalBytes": 1631496,
+      "sha256": "004e1d90a5e56cc78a36eb6ea12bf9fdb48030e8da07050e506773866927eeb4",
+      "source": "",
+      "caption": "Обработанная обложка / Edited cover"
+    },
+    {
+      "file": "assets/photos/acer-6710-318/03.webp",
+      "thumbnail": "assets/photos/acer-6710-318/03-thumb.webp",
+      "original": "assets/photos/acer-6710-318/originals/IMG_0408.jpeg",
+      "originalFilename": "IMG_0408.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1122202,
+      "sha256": "1ec733c787e1d41608469b19eb8b23983f35991f988a89608eb5b6fea80d63d6",
+      "source": "",
+      "caption": "IMG_0408"
+    },
+    {
+      "file": "assets/photos/acer-6710-318/04.webp",
+      "thumbnail": "assets/photos/acer-6710-318/04-thumb.webp",
+      "original": "assets/photos/acer-6710-318/originals/IMG_0409.jpeg",
+      "originalFilename": "IMG_0409.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1274327,
+      "sha256": "791646d2076b3ff433ab17b69ba8dd7f1745ab0bbc749c22b29d7c4f1f8b31f1",
+      "source": "",
+      "caption": "IMG_0409"
+    },
+    {
+      "file": "assets/photos/acer-6710-318/05.webp",
+      "thumbnail": "assets/photos/acer-6710-318/05-thumb.webp",
+      "original": "assets/photos/acer-6710-318/originals/IMG_0410.jpeg",
+      "originalFilename": "IMG_0410.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1467308,
+      "sha256": "c981aace48fb0aac1ef4706656435a22715d8aef4555f2630bf4697e4c320ce6",
+      "source": "",
+      "caption": "IMG_0410"
+    },
+    {
+      "file": "assets/photos/acer-6710-318/06.webp",
+      "thumbnail": "assets/photos/acer-6710-318/06-thumb.webp",
+      "original": "assets/photos/acer-6710-318/originals/IMG_0411.jpeg",
+      "originalFilename": "IMG_0411.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1608544,
+      "sha256": "6c95d197a83520b8ce787694a12c144ee846753d352b66356fa727e8db593ee6",
+      "source": "",
+      "caption": "IMG_0411"
+    },
+    {
+      "file": "assets/photos/acer-6710-318/07.webp",
+      "thumbnail": "assets/photos/acer-6710-318/07-thumb.webp",
+      "original": "assets/photos/acer-6710-318/originals/IMG_0412.jpeg",
+      "originalFilename": "IMG_0412.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1798564,
+      "sha256": "e9628771cbcd27c198b224b2d6a9033ab52ce894ab9e25b8b13a7552b936c1e3",
+      "source": "",
+      "caption": "IMG_0412"
+    },
+    {
+      "file": "assets/photos/acer-6710-318/08.webp",
+      "thumbnail": "assets/photos/acer-6710-318/08-thumb.webp",
+      "original": "assets/photos/acer-6710-318/originals/IMG_0413.jpeg",
+      "originalFilename": "IMG_0413.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1628014,
+      "sha256": "72a88e2f9c7a5ba4391408a98f49ad97f7d3ad9f163d81520a395eafbaefb57a",
+      "source": "",
+      "caption": "IMG_0413"
+    }
+  ],
+  "thumbnail": "assets/photos/acer-6710-318/01-thumb.webp",
+  "order": 313,
+  "manufacturer": {
+    "ru": "Acer",
+    "en": "Acer"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "brand": "Acer",
+  "year": 1988,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "ru": "",
+    "en": ""
+  },
+  "whereToSee": {
+    "ru": "Local",
+    "en": "Local"
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "draft": false,
+  "research": {
+    "reviewedAt": "2026-11-10",
+    "sourceDirectory": "/Users/pavlov/Documents/mouses/mouses_photo/3",
+    "photoEvidence": [
+      "IMG_0410: Model No. 6710; D671013416; Made in Taiwan R.O.C.",
+      "IMG_0412: ACER M2101, 8830B.",
+      "IMG_0413: плата 6710 / 48.89101.001."
+    ],
+    "dating": {
+      "ru": "Предположительно конец 1980-х",
+      "en": "Probably late 1980s"
+    },
+    "unresolved": {
+      "ru": "Год выпуска модели не установлен. Код 8830B на M2101 предположительно датирует компонент 30-й неделей 1988 года. В этой группе снимков нет отдельного фото разъёма; интерфейс оставлен незаполненным. Серийный номер D671013416. FCC ID на показанной этикетке отсутствует.",
+      "en": "The launch year is unconfirmed. M2101 code 8830B may date the component to week 30 of 1988. This photo group does not show the connector separately, so the interface remains blank. Serial D671013416. No FCC ID is shown on the label."
+    },
+    "status": "draft"
+  }
+}

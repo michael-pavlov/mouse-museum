@@ -1,0 +1,197 @@
+{
+  "id": "MP-0317",
+  "slug": "penny-giles-three-button-317",
+  "title": {
+    "ru": "Penny & Giles M3/100 (ранняя)",
+    "en": "Penny & Giles M3/100 (earlier)"
+  },
+  "source": "",
+  "sourceProperties": {},
+  "photos": [
+    {
+      "file": "assets/photos/penny-giles-three-button-317/01.webp",
+      "thumbnail": "assets/photos/penny-giles-three-button-317/01-thumb.webp",
+      "original": "assets/photos/penny-giles-three-button-317/originals/IMG_0405_catalog.png",
+      "originalFilename": "IMG_0405_catalog.png",
+      "originalAvailable": true,
+      "width": 1448,
+      "height": 1086,
+      "originalWidth": 1448,
+      "originalHeight": 1086,
+      "originalBytes": 1611009,
+      "sha256": "4ccbbd6ec13c16f94347fb4b0e572ecc45d04cf060026941f85e039b1e7c9b63",
+      "source": "",
+      "caption": "Обработанная обложка / Edited cover"
+    },
+    {
+      "file": "assets/photos/penny-giles-three-button-317/11.webp",
+      "thumbnail": "assets/photos/penny-giles-three-button-317/11-thumb.webp",
+      "original": "assets/photos/penny-giles-three-button-317/originals/IMG_0406.jpeg",
+      "originalFilename": "IMG_0406.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1261494,
+      "sha256": "c4f8ba00040de06b285367724f271bb3c2798d04ca8e1b4c2c80b68edf5c0d1e",
+      "source": "",
+      "caption": "IMG_0406"
+    },
+    {
+      "file": "assets/photos/penny-giles-three-button-317/02.webp",
+      "thumbnail": "assets/photos/penny-giles-three-button-317/02-thumb.webp",
+      "original": "assets/photos/penny-giles-three-button-317/originals/IMG_0397.jpeg",
+      "originalFilename": "IMG_0397.jpeg",
+      "originalAvailable": true,
+      "width": 1800,
+      "height": 2400,
+      "originalWidth": 3024,
+      "originalHeight": 4032,
+      "originalBytes": 1853930,
+      "sha256": "6dbcd98425974605522f72483307841ca51ab44c809ca189ccf682ada4ea99fa",
+      "source": "",
+      "caption": "IMG_0397"
+    },
+    {
+      "file": "assets/photos/penny-giles-three-button-317/03.webp",
+      "thumbnail": "assets/photos/penny-giles-three-button-317/03-thumb.webp",
+      "original": "assets/photos/penny-giles-three-button-317/originals/IMG_0398.jpeg",
+      "originalFilename": "IMG_0398.jpeg",
+      "originalAvailable": true,
+      "width": 1800,
+      "height": 2400,
+      "originalWidth": 3024,
+      "originalHeight": 4032,
+      "originalBytes": 1696558,
+      "sha256": "411015dba8cd73effdbf6bc6eadf36b37fab67448ed6802760afd337ae904f3b",
+      "source": "",
+      "caption": "IMG_0398"
+    },
+    {
+      "file": "assets/photos/penny-giles-three-button-317/04.webp",
+      "thumbnail": "assets/photos/penny-giles-three-button-317/04-thumb.webp",
+      "original": "assets/photos/penny-giles-three-button-317/originals/IMG_0399.jpeg",
+      "originalFilename": "IMG_0399.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1468766,
+      "sha256": "ad7a7c847510d6cd66c52cdf8e23781b96f503396442579c1414504098f56c75",
+      "source": "",
+      "caption": "IMG_0399"
+    },
+    {
+      "file": "assets/photos/penny-giles-three-button-317/05.webp",
+      "thumbnail": "assets/photos/penny-giles-three-button-317/05-thumb.webp",
+      "original": "assets/photos/penny-giles-three-button-317/originals/IMG_0400.jpeg",
+      "originalFilename": "IMG_0400.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1740515,
+      "sha256": "0452dd089c2d479c4d7f427c81dc945d99c98c2b826214ae8bec862335088e78",
+      "source": "",
+      "caption": "IMG_0400"
+    },
+    {
+      "file": "assets/photos/penny-giles-three-button-317/06.webp",
+      "thumbnail": "assets/photos/penny-giles-three-button-317/06-thumb.webp",
+      "original": "assets/photos/penny-giles-three-button-317/originals/IMG_0401.jpeg",
+      "originalFilename": "IMG_0401.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1647531,
+      "sha256": "0f43d2c4c8fdffe0ad4b688b49e139841edee4587c038a713a331ffe5a4b01f1",
+      "source": "",
+      "caption": "IMG_0401"
+    },
+    {
+      "file": "assets/photos/penny-giles-three-button-317/07.webp",
+      "thumbnail": "assets/photos/penny-giles-three-button-317/07-thumb.webp",
+      "original": "assets/photos/penny-giles-three-button-317/originals/IMG_0402.jpeg",
+      "originalFilename": "IMG_0402.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1011584,
+      "sha256": "676727a4a4399a0330012bf7aa15a5a778c67b03b293e67add19626d26c11dcf",
+      "source": "",
+      "caption": "IMG_0402"
+    }
+  ],
+  "thumbnail": "assets/photos/penny-giles-three-button-317/01-thumb.webp",
+  "order": 312,
+  "manufacturer": {
+    "ru": "Penny & Giles",
+    "en": "Penny & Giles"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "brand": "Penny & Giles",
+  "year": 1985,
+  "tracking": {
+    "key": "ball-special",
+    "ru": "оптико-механический (особенный)",
+    "en": "Optomechanical · special mechanism"
+  },
+  "interface": "DE-9 male",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": "Probably mid-1980s"
+  },
+  "description": {
+    "ru": "Ранняя версия, M3/100, возможно прототип. \nКрышка отсека шарика точеная, грубая. Также внутри механизм прижима шарика сделан из кусочков какого-то странного материала",
+    "en": ""
+  },
+  "notes": {
+    "ru": "",
+    "en": ""
+  },
+  "whereToSee": {
+    "ru": "Local",
+    "en": "Local"
+  },
+  "channelPost": [],
+  "externalLinks": [
+    {
+      "url": "https://chrisacorns.computinghistory.org.uk/Computers/A500.html?cfch-archive=orig",
+      "title": {
+        "ru": "Chris’s Acorns: A500 и мышь M3/100",
+        "en": "Chris’s Acorns: A500 and M3/100"
+      }
+    }
+  ],
+  "draft": false,
+  "research": {
+    "reviewedAt": "2026-11-10",
+    "sourceDirectory": "/Users/pavlov/Documents/mouses/mouses_photo/3",
+    "photoEvidence": [
+      "IMG_0403: PENNY & GILES, CHRISTCHURCH ENGLAND.",
+      "IMG_0400: TI SN74HC14N, 8436X.",
+      "IMG_0401: металлическое шасси и оптические датчики осей.",
+      "IMG_0402: DE-9, штыри."
+    ],
+    "dating": {
+      "ru": "Предположительно середина 1980-х",
+      "en": "Probably mid-1980s"
+    },
+    "unresolved": {
+      "ru": "Модель M3/100 — рабочая гипотеза по форме корпуса, не прочитанная маркировка. Сравнить с имеющейся карточкой MP-0191: возможно, другая версия или повторная съёмка того же экземпляра. Код 8436X на SN74HC14N предположительно означает 36-ю неделю 1984 года; это дата компонента, а не выпуска модели. DE-9 не доказывает интерфейс RS-232; распиновка и целевой компьютер не установлены.",
+      "en": "M3/100 is a tentative identification based on the case, not a model number read on the specimen. Compare with MP-0191: this may be another version or new photographs of the same object. SN74HC14N code 8436X may indicate week 36 of 1984, not the model launch. DE-9 does not establish RS-232; pinout and target computer remain unconfirmed."
+    },
+    "status": "draft"
+  }
+}

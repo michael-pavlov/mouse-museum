@@ -1,0 +1,188 @@
+{
+  "id": "MP-0323",
+  "slug": "microspeed-microtrac-pd600-323",
+  "title": {
+    "ru": "MicroSpeed MicroTRAC Trackball",
+    "en": "MicroSpeed MicroTRAC Trackball"
+  },
+  "source": "",
+  "sourceProperties": {},
+  "photos": [
+    {
+      "file": "assets/photos/microspeed-microtrac-pd600-323/01.webp",
+      "thumbnail": "assets/photos/microspeed-microtrac-pd600-323/01-thumb.webp",
+      "original": "assets/photos/microspeed-microtrac-pd600-323/originals/IMG_0457_catalog.png",
+      "originalFilename": "IMG_0457_catalog.png",
+      "originalAvailable": true,
+      "width": 1448,
+      "height": 1086,
+      "originalWidth": 1448,
+      "originalHeight": 1086,
+      "originalBytes": 1624789,
+      "sha256": "355bf4d908587701db17e55e34416fd1eb676d15dcecda23b24a92ca50df7200",
+      "source": "",
+      "caption": "Обработанная обложка / Edited cover"
+    },
+    {
+      "file": "assets/photos/microspeed-microtrac-pd600-323/03.webp",
+      "thumbnail": "assets/photos/microspeed-microtrac-pd600-323/03-thumb.webp",
+      "original": "assets/photos/microspeed-microtrac-pd600-323/originals/IMG_0458.jpeg",
+      "originalFilename": "IMG_0458.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1004631,
+      "sha256": "58023571f60105dc559525258e02c031722874aea2ac784278bb25a54e552921",
+      "source": "",
+      "caption": "IMG_0458"
+    },
+    {
+      "file": "assets/photos/microspeed-microtrac-pd600-323/05.webp",
+      "thumbnail": "assets/photos/microspeed-microtrac-pd600-323/05-thumb.webp",
+      "original": "assets/photos/microspeed-microtrac-pd600-323/originals/IMG_0460.jpeg",
+      "originalFilename": "IMG_0460.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 909444,
+      "sha256": "991c281c1aa69a44c812c8a4f2ca10221333807cf15ae9243bb26f31181fa387",
+      "source": "",
+      "caption": "IMG_0460"
+    },
+    {
+      "file": "assets/photos/microspeed-microtrac-pd600-323/04.webp",
+      "thumbnail": "assets/photos/microspeed-microtrac-pd600-323/04-thumb.webp",
+      "original": "assets/photos/microspeed-microtrac-pd600-323/originals/IMG_0459.jpeg",
+      "originalFilename": "IMG_0459.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1411139,
+      "sha256": "c8f3ba91e4187949962875cc419aaf73e12ceb8288f5318d01526c50d32d9ef7",
+      "source": "",
+      "caption": "IMG_0459"
+    },
+    {
+      "file": "assets/photos/microspeed-microtrac-pd600-323/06.webp",
+      "thumbnail": "assets/photos/microspeed-microtrac-pd600-323/06-thumb.webp",
+      "original": "assets/photos/microspeed-microtrac-pd600-323/originals/IMG_0461.jpeg",
+      "originalFilename": "IMG_0461.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1192783,
+      "sha256": "5867724ad9fb2b21ba9a8c6601b07df9638b62209c78aa07d1a178c7b433c08e",
+      "source": "",
+      "caption": "IMG_0461"
+    },
+    {
+      "file": "assets/photos/microspeed-microtrac-pd600-323/07.webp",
+      "thumbnail": "assets/photos/microspeed-microtrac-pd600-323/07-thumb.webp",
+      "original": "assets/photos/microspeed-microtrac-pd600-323/originals/IMG_0462.jpeg",
+      "originalFilename": "IMG_0462.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1174311,
+      "sha256": "97a290f181c39998b739815eb0dd0743afc62d2c7c8fa59bf92410887f305f8c",
+      "source": "",
+      "caption": "IMG_0462"
+    },
+    {
+      "file": "assets/photos/microspeed-microtrac-pd600-323/08.webp",
+      "thumbnail": "assets/photos/microspeed-microtrac-pd600-323/08-thumb.webp",
+      "original": "assets/photos/microspeed-microtrac-pd600-323/originals/IMG_0463.jpeg",
+      "originalFilename": "IMG_0463.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1174668,
+      "sha256": "f0f3a63c269401b283da9056d32d4f211e631aa993cfd3978b1d0b6b8e94afaf",
+      "source": "",
+      "caption": "IMG_0463"
+    },
+    {
+      "file": "assets/photos/microspeed-microtrac-pd600-323/09.webp",
+      "thumbnail": "assets/photos/microspeed-microtrac-pd600-323/09-thumb.webp",
+      "original": "assets/photos/microspeed-microtrac-pd600-323/originals/IMG_0464.jpeg",
+      "originalFilename": "IMG_0464.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1327662,
+      "sha256": "3e8a532e1449c973e53572549f10f65ce370a143717f282d938f664dcc62f318",
+      "source": "",
+      "caption": "IMG_0464"
+    }
+  ],
+  "thumbnail": "assets/photos/microspeed-microtrac-pd600-323/01-thumb.webp",
+  "order": 318,
+  "manufacturer": {
+    "ru": "MicroSpeed Incorporated",
+    "en": "MicroSpeed Incorporated"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "brand": "MicroSpeed",
+  "year": 1991,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "DE-9 female",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "MicroTRAC — компактный трекбол MicroSpeed с открытым шаром и тремя кнопками. Его корпус остаётся неподвижным: пользователь вращает шар пальцем, а оптические энкодеры внутри считывают движение по двум осям. Красный индикатор расположен рядом с кнопками.\n\nНа основании этого экземпляра указаны P/N PD600-9312, серийный номер 37889 и производство в США. В отличие от внешне сходных версий для Macintosh, у представленного устройства девятиконтактный разъём DE-9.",
+    "en": "The MicroSpeed MicroTRAC is a compact three-button trackball with an exposed ball. Its case stays still while the user turns the ball; internal optical encoders read movement along two axes. A red indicator sits beside the buttons.\n\nThis specimen is labelled P/N PD600-9312, serial 37889, and made in the USA. Unlike similar Macintosh variants, the photographed unit has a nine-pin DE-9 connector."
+  },
+  "notes": {
+    "ru": "",
+    "en": ""
+  },
+  "whereToSee": {
+    "ru": "Local",
+    "en": "Local"
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "draft": false,
+  "research": {
+    "reviewedAt": "2026-11-10",
+    "sourceDirectory": "/Users/pavlov/Documents/mouses/mouses_photo/3",
+    "photoEvidence": [
+      "IMG_0459: FUUMTRAC01; PD600-9312; S/N 37889; Made in the U.S.A.",
+      "IMG_0460: DE-9 female.",
+      "IMG_0461–0464: три кнопки, шар и оптические энкодеры."
+    ],
+    "dating": {
+      "ru": "Начало 1990-х; предположительно 1993",
+      "en": "Early 1990s; probably 1993"
+    },
+    "unresolved": {
+      "ru": "FCC FUUMTRAC01: разрешение от 27.08.1991. Семейство документировано к 1991–1992 годам. Суффикс 9312 может быть кодом 12-й недели 1993 года, но это не подтверждённая дата выпуска. Последовательный интерфейс вероятен; протокол и назначение каждой кнопки нужно проверить для PD600, не переносить их с ADB-версии.",
+      "en": "FCC FUUMTRAC01 was authorized on 27 August 1991. The family is documented by 1991–1992. Suffix 9312 may encode week 12 of 1993, but is not a confirmed production date. A serial interface is likely; protocol and button assignments should be checked for PD600 rather than copied from an ADB version."
+    },
+    "status": "draft"
+  }
+}

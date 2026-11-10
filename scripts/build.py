@@ -13,7 +13,13 @@ SITE=args.site_url.rstrip('/')
 if SITE and (urlparse(SITE).scheme not in ('https','http') or not urlparse(SITE).netloc):raise SystemExit('SITE_URL must be an absolute http(s) URL')
 items=sorted([json.loads(p.read_text()) for p in (ROOT/'content/mice').glob('*.json')],key=lambda d:d['order'])
 assert items,'No catalogue entries'
-def publication_id(d):return int(d['source'].rstrip('/').rsplit('/',1)[-1])
+def publication_id(d):
+ source=str(d.get('source') or '')
+ tail=source.rstrip('/').rsplit('/',1)[-1]
+ if tail.isdigit():return int(tail)
+ match=re.search(r'(\d+)$',str(d.get('id') or ''))
+ if match:return int(match.group(1))
+ raise SystemExit('Catalogue entry needs a numeric id: '+str(d.get('slug','')))
 newest_ids={d['id'] for d in sorted(items,key=publication_id,reverse=True)[:7]}
 seen=set()
 for d in items:

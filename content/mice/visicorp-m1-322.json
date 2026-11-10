@@ -1,0 +1,286 @@
+{
+  "id": "MP-0322",
+  "slug": "visicorp-m1-322",
+  "title": {
+    "ru": "Mouse Systems M1 VisiCorp",
+    "en": "Mouse Systems M1 VisiCorp"
+  },
+  "source": "",
+  "sourceProperties": {},
+  "photos": [
+    {
+      "file": "assets/photos/visicorp-m1-322/01.webp",
+      "thumbnail": "assets/photos/visicorp-m1-322/01-thumb.webp",
+      "original": "assets/photos/visicorp-m1-322/originals/IMG_0441_catalog.png",
+      "originalFilename": "IMG_0441_catalog.png",
+      "originalAvailable": true,
+      "width": 1448,
+      "height": 1086,
+      "originalWidth": 1448,
+      "originalHeight": 1086,
+      "originalBytes": 1615926,
+      "sha256": "da9749669b37e03261c9d868580313961bec3a2f4d37a54b3719c03916c54961",
+      "source": "",
+      "caption": "Обработанная обложка / Edited cover"
+    },
+    {
+      "file": "assets/photos/visicorp-m1-322/03.webp",
+      "thumbnail": "assets/photos/visicorp-m1-322/03-thumb.webp",
+      "original": "assets/photos/visicorp-m1-322/originals/IMG_0442.jpeg",
+      "originalFilename": "IMG_0442.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1269854,
+      "sha256": "b6c0c667c8e0e3e9f631fd1fbe93959293820b7a9d78ba1cd7c9f1046081a47d",
+      "source": "",
+      "caption": "IMG_0442"
+    },
+    {
+      "file": "assets/photos/visicorp-m1-322/04.webp",
+      "thumbnail": "assets/photos/visicorp-m1-322/04-thumb.webp",
+      "original": "assets/photos/visicorp-m1-322/originals/IMG_0443.jpeg",
+      "originalFilename": "IMG_0443.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1348862,
+      "sha256": "fc38d0ea84b91ebe7e43d1c84e68af89232b9aef2ef541660bf9b046fc243992",
+      "source": "",
+      "caption": "IMG_0443"
+    },
+    {
+      "file": "assets/photos/visicorp-m1-322/05.webp",
+      "thumbnail": "assets/photos/visicorp-m1-322/05-thumb.webp",
+      "original": "assets/photos/visicorp-m1-322/originals/IMG_0444.jpeg",
+      "originalFilename": "IMG_0444.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1555701,
+      "sha256": "74f29346d4f9d5fc832e5f07e976aa61acde6181e12424f5305dd5355366d81c",
+      "source": "",
+      "caption": "IMG_0444"
+    },
+    {
+      "file": "assets/photos/visicorp-m1-322/06.webp",
+      "thumbnail": "assets/photos/visicorp-m1-322/06-thumb.webp",
+      "original": "assets/photos/visicorp-m1-322/originals/IMG_0445.jpeg",
+      "originalFilename": "IMG_0445.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1911835,
+      "sha256": "454ccdb3fa1d0e6d210bd3970c47c59c1c3f3212358ccea414a9cfe43b3963ad",
+      "source": "",
+      "caption": "IMG_0445"
+    },
+    {
+      "file": "assets/photos/visicorp-m1-322/07.webp",
+      "thumbnail": "assets/photos/visicorp-m1-322/07-thumb.webp",
+      "original": "assets/photos/visicorp-m1-322/originals/IMG_0446.jpeg",
+      "originalFilename": "IMG_0446.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1628575,
+      "sha256": "454a63dbe567d39f27461b15a800b82173b55c945fe401145b0e9d62f05bb45e",
+      "source": "",
+      "caption": "IMG_0446"
+    },
+    {
+      "file": "assets/photos/visicorp-m1-322/08.webp",
+      "thumbnail": "assets/photos/visicorp-m1-322/08-thumb.webp",
+      "original": "assets/photos/visicorp-m1-322/originals/IMG_0447.jpeg",
+      "originalFilename": "IMG_0447.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1383775,
+      "sha256": "b0c2778259fe0b1bd5352baf3f238855c172cd588d56117be0a46a576dff3c61",
+      "source": "",
+      "caption": "IMG_0447"
+    },
+    {
+      "file": "assets/photos/visicorp-m1-322/09.webp",
+      "thumbnail": "assets/photos/visicorp-m1-322/09-thumb.webp",
+      "original": "assets/photos/visicorp-m1-322/originals/IMG_0448.jpeg",
+      "originalFilename": "IMG_0448.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1040288,
+      "sha256": "9d1fd56b80e5af0de184a471fee09497eb26c34a85a03fdeb100cc5698a56316",
+      "source": "",
+      "caption": "IMG_0448"
+    },
+    {
+      "file": "assets/photos/visicorp-m1-322/10.webp",
+      "thumbnail": "assets/photos/visicorp-m1-322/10-thumb.webp",
+      "original": "assets/photos/visicorp-m1-322/originals/IMG_0449.jpeg",
+      "originalFilename": "IMG_0449.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1044445,
+      "sha256": "d061f631ad21b001ccc32659c2a79afefa222ec095d2ac9df76f1daff1216cc6",
+      "source": "",
+      "caption": "IMG_0449"
+    },
+    {
+      "file": "assets/photos/visicorp-m1-322/11.webp",
+      "thumbnail": "assets/photos/visicorp-m1-322/11-thumb.webp",
+      "original": "assets/photos/visicorp-m1-322/originals/IMG_0450.jpeg",
+      "originalFilename": "IMG_0450.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1923404,
+      "sha256": "29f82b47b9fadb7560fa840615e843dc8e31fd68ad4b027233271ef8e799f77a",
+      "source": "",
+      "caption": "IMG_0450"
+    },
+    {
+      "file": "assets/photos/visicorp-m1-322/15.webp",
+      "thumbnail": "assets/photos/visicorp-m1-322/15-thumb.webp",
+      "original": "assets/photos/visicorp-m1-322/originals/IMG_0454.jpeg",
+      "originalFilename": "IMG_0454.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1926130,
+      "sha256": "38f1ce3c77c64c284cc48d2c5cb327a055eae8fc998a9b173b745c49b273c989",
+      "source": "",
+      "caption": "IMG_0454"
+    },
+    {
+      "file": "assets/photos/visicorp-m1-322/14.webp",
+      "thumbnail": "assets/photos/visicorp-m1-322/14-thumb.webp",
+      "original": "assets/photos/visicorp-m1-322/originals/IMG_0453.jpeg",
+      "originalFilename": "IMG_0453.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1696670,
+      "sha256": "33c49da40a29ac2acca0d5c45e7641e6fb8460a5f5ece68db278896375baa4cc",
+      "source": "",
+      "caption": "IMG_0453"
+    },
+    {
+      "file": "assets/photos/visicorp-m1-322/16.webp",
+      "thumbnail": "assets/photos/visicorp-m1-322/16-thumb.webp",
+      "original": "assets/photos/visicorp-m1-322/originals/IMG_0455.jpeg",
+      "originalFilename": "IMG_0455.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 2022287,
+      "sha256": "8a4d3c669b2cc5715649615f15618d51d035299f3f82c6aaf670e4fc2a8a90a9",
+      "source": "",
+      "caption": "IMG_0455"
+    },
+    {
+      "file": "assets/photos/visicorp-m1-322/17.webp",
+      "thumbnail": "assets/photos/visicorp-m1-322/17-thumb.webp",
+      "original": "assets/photos/visicorp-m1-322/originals/IMG_0456.jpeg",
+      "originalFilename": "IMG_0456.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1857696,
+      "sha256": "d51435d02147ee6a9d9ca08dd6c89d1998ca38fcf7f74a81b19ff83a41f2a2db",
+      "source": "",
+      "caption": "IMG_0456"
+    }
+  ],
+  "thumbnail": "assets/photos/visicorp-m1-322/01-thumb.webp",
+  "order": 317,
+  "manufacturer": {
+    "ru": "Mouse Systems Corporation",
+    "en": "Mouse Systems Corporation"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "brand": "Mouse Systems",
+  "year": 1982,
+  "tracking": {
+    "key": "optical-pad",
+    "ru": "Оптический через коврик",
+    "en": "Optical · special pad"
+  },
+  "interface": null,
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "VisiCorp M1 — ранняя оптическая мышь производства Mouse Systems Corporation. На её двух длинных кнопках подписаны функции SELECT и SCROLL. На основании вместо шара расположены оптические окна, а внутри — электронная плата и оптический узел.\n\nНа этикетке указан патент Стивена Кирша US 4,364,035. В нём описан принцип считывания перемещения по специальной размеченной поверхности. M1 относится к эпохе Visi On — одного из ранних графических окружений для IBM PC. В комплекте на фотографиях присутствуют интерфейсный блок VisiCorp B1 и внешний источник питания Mouse Systems.",
+    "en": "The VisiCorp M1 is an early optical mouse manufactured by Mouse Systems Corporation. Its two long buttons are labelled SELECT and SCROLL. Optical openings replace the ball in the base; inside are a circuit board and optical assembly.\n\nThe label cites Steven Kirsch’s patent US 4,364,035, describing movement sensing over a specially patterned surface. The M1 belongs to the era of Visi On, an early graphical environment for the IBM PC. The photographs also show a VisiCorp B1 interface box and an external Mouse Systems power supply."
+  },
+  "notes": {
+    "ru": "",
+    "en": ""
+  },
+  "whereToSee": {
+    "ru": "Local",
+    "en": "Local"
+  },
+  "channelPost": [],
+  "externalLinks": [
+    {
+      "url": "https://patents.google.com/patent/US4364035A/en",
+      "title": {
+        "ru": "US4364035A: Electro-optical mouse, Steven T. Kirsch",
+        "en": "US4364035A: Electro-optical mouse, Steven T. Kirsch"
+      }
+    }
+  ],
+  "draft": false,
+  "research": {
+    "reviewedAt": "2026-11-10",
+    "sourceDirectory": "/Users/pavlov/Documents/mouses/mouses_photo/3",
+    "photoEvidence": [
+      "IMG_0445: M1; 006596; MFG by Mouse Systems Corporation; CWE7VT1; U.S. PATENT 4364035.",
+      "IMG_0447–0449: VisiCorp B1 и блок питания Mouse Systems.",
+      "IMG_0450–0456: электронная плата и оптическая конструкция."
+    ],
+    "dating": {
+      "ru": "Около 1983; FCC от 03.10.1983",
+      "en": "Circa 1983; FCC authorization 1983-10-03"
+    },
+    "unresolved": {
+      "ru": "Модель M1, S/N 006596, FCC CWE7VT1. Сертификация 03.10.1983 поддерживает датировку около 1983 года; точная дата изготовления неизвестна. Патент 4364035 выдан 14.12.1982 — его год не следует ставить как год мыши. Необходимо уточнить распиновку и роль блока B1 по руководству. Коврик и работоспособность по фотографиям не подтверждены.",
+      "en": "Model M1, S/N 006596, FCC CWE7VT1. Authorization on 3 October 1983 supports a circa-1983 date, but exact manufacture is unknown. Patent 4364035 was issued on 14 December 1982; that is not the mouse’s launch year. Confirm the pinout and B1 box function from a manual. The pad and working condition are not established by the photographs."
+    },
+    "status": "draft"
+  }
+}

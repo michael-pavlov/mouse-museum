@@ -1,0 +1,173 @@
+{
+  "id": "MP-0320",
+  "slug": "key-tronic-clikmate2kid-320",
+  "title": {
+    "ru": "Key Tronic Mouse",
+    "en": "Key Tronic Mouse"
+  },
+  "source": "",
+  "sourceProperties": {},
+  "photos": [
+    {
+      "file": "assets/photos/key-tronic-clikmate2kid-320/01.webp",
+      "thumbnail": "assets/photos/key-tronic-clikmate2kid-320/01-thumb.webp",
+      "original": "assets/photos/key-tronic-clikmate2kid-320/originals/IMG_0423_catalog.png",
+      "originalFilename": "IMG_0423_catalog.png",
+      "originalAvailable": true,
+      "width": 1448,
+      "height": 1086,
+      "originalWidth": 1448,
+      "originalHeight": 1086,
+      "originalBytes": 1570981,
+      "sha256": "708c075ad03a3ca6cdeb51488580337050abbca007af589a7863ec7f534f7e73",
+      "source": "",
+      "caption": "Обработанная обложка / Edited cover"
+    },
+    {
+      "file": "assets/photos/key-tronic-clikmate2kid-320/03.webp",
+      "thumbnail": "assets/photos/key-tronic-clikmate2kid-320/03-thumb.webp",
+      "original": "assets/photos/key-tronic-clikmate2kid-320/originals/IMG_0424.jpeg",
+      "originalFilename": "IMG_0424.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1094262,
+      "sha256": "349fe7cd923d617bfa6c0b244c92020361cbb6299797d5f9a8fe95db389a27fd",
+      "source": "",
+      "caption": "IMG_0424"
+    },
+    {
+      "file": "assets/photos/key-tronic-clikmate2kid-320/04.webp",
+      "thumbnail": "assets/photos/key-tronic-clikmate2kid-320/04-thumb.webp",
+      "original": "assets/photos/key-tronic-clikmate2kid-320/originals/IMG_0425.jpeg",
+      "originalFilename": "IMG_0425.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1051897,
+      "sha256": "bb682a6b35e37862bdbb713063001e18b8df1b48ff0f75ea9338695502dcc674",
+      "source": "",
+      "caption": "IMG_0425"
+    },
+    {
+      "file": "assets/photos/key-tronic-clikmate2kid-320/05.webp",
+      "thumbnail": "assets/photos/key-tronic-clikmate2kid-320/05-thumb.webp",
+      "original": "assets/photos/key-tronic-clikmate2kid-320/originals/IMG_0426.jpeg",
+      "originalFilename": "IMG_0426.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1524471,
+      "sha256": "b73a73c500db90f984adb8cdfecd8e97e919b078ec5f592db580d84862f51bd6",
+      "source": "",
+      "caption": "IMG_0426"
+    },
+    {
+      "file": "assets/photos/key-tronic-clikmate2kid-320/06.webp",
+      "thumbnail": "assets/photos/key-tronic-clikmate2kid-320/06-thumb.webp",
+      "original": "assets/photos/key-tronic-clikmate2kid-320/originals/IMG_0427.jpeg",
+      "originalFilename": "IMG_0427.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 2296805,
+      "sha256": "004556bc9b95ce6ada43ddf5e87afe4be55c0815da71dcdaf9bb93490391861c",
+      "source": "",
+      "caption": "IMG_0427"
+    },
+    {
+      "file": "assets/photos/key-tronic-clikmate2kid-320/07.webp",
+      "thumbnail": "assets/photos/key-tronic-clikmate2kid-320/07-thumb.webp",
+      "original": "assets/photos/key-tronic-clikmate2kid-320/originals/IMG_0428.jpeg",
+      "originalFilename": "IMG_0428.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1414681,
+      "sha256": "bd37bfc8b66c57b2a163000dd9cdf2397e0d26b59d27001350d42b937f6e1b93",
+      "source": "",
+      "caption": "IMG_0428"
+    },
+    {
+      "file": "assets/photos/key-tronic-clikmate2kid-320/08.webp",
+      "thumbnail": "assets/photos/key-tronic-clikmate2kid-320/08-thumb.webp",
+      "original": "assets/photos/key-tronic-clikmate2kid-320/originals/IMG_0429.jpeg",
+      "originalFilename": "IMG_0429.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1254339,
+      "sha256": "aad5a1405e373aaf06e0df65fea1226d1961971335bb2eca36652e232081e24c",
+      "source": "",
+      "caption": "IMG_0429"
+    }
+  ],
+  "thumbnail": "assets/photos/key-tronic-clikmate2kid-320/01-thumb.webp",
+  "order": 315,
+  "manufacturer": {
+    "ru": "Ultima Electronics Corp.",
+    "en": "Ultima Electronics Corp."
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "brand": "Key Tronic",
+  "year": 1993,
+  "tracking": {
+    "key": "ball",
+    "ru": "оптико-механический (классика)",
+    "en": "Optomechanical ball"
+  },
+  "interface": "DE-9 female",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "ru": "",
+    "en": ""
+  },
+  "whereToSee": {
+    "ru": "Local",
+    "en": "Local"
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "draft": false,
+  "research": {
+    "reviewedAt": "2026-11-10",
+    "sourceDirectory": "/Users/pavlov/Documents/mouses/mouses_photo/3",
+    "photoEvidence": [
+      "IMG_0427: M/N CLIKMATE2KID; S/N 94 / 3709114; FCC ITEUECAM666.",
+      "IMG_0426: красный кабель с DE-9.",
+      "IMG_0428–0429: шар и оптические энкодеры."
+    ],
+    "dating": {
+      "ru": "Не ранее 1993; предположительно около 1994",
+      "en": "1993 or later; probably around 1994"
+    },
+    "unresolved": {
+      "ru": "FCC: разрешение от 30.09.1993, не дата выпуска этой цветной версии. «94» перед серийным номером 3709114 поддерживает предположение о 1994 годе, но формат кода не подтверждён. Питание на этикетке: 9 V DC, 15 mA max. Название записано точно как M/N CLIKMATE2KID; детское позиционирование вероятно по KID и оформлению, но реклама не найдена.",
+      "en": "FCC authorization is dated 30 September 1993, not the launch of this colour variant. “94” preceding serial 3709114 suggests 1994, but the code format is unverified. Rated 9 V DC, 15 mA max. Model spelling follows the label: CLIKMATE2KID. Children’s positioning is suggested by KID and the colours, but period advertising was not located."
+    },
+    "status": "draft"
+  }
+}

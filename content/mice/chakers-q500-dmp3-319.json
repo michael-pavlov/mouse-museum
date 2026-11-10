@@ -1,0 +1,173 @@
+{
+  "id": "MP-0319",
+  "slug": "chakers-q500-dmp3-319",
+  "title": {
+    "ru": "iO TEK Q500 Mouse",
+    "en": "iO TEK Q500 Mouse"
+  },
+  "source": "",
+  "sourceProperties": {},
+  "photos": [
+    {
+      "file": "assets/photos/chakers-q500-dmp3-319/01.webp",
+      "thumbnail": "assets/photos/chakers-q500-dmp3-319/01-thumb.webp",
+      "original": "assets/photos/chakers-q500-dmp3-319/originals/IMG_0419_catalog.png",
+      "originalFilename": "IMG_0419_catalog.png",
+      "originalAvailable": true,
+      "width": 1448,
+      "height": 1086,
+      "originalWidth": 1448,
+      "originalHeight": 1086,
+      "originalBytes": 1456960,
+      "sha256": "e477941aec4a251eb620fcc9d94231098fda7dfcf4237c4b50975231bbe44e65",
+      "source": "",
+      "caption": "Обработанная обложка / Edited cover"
+    },
+    {
+      "file": "assets/photos/chakers-q500-dmp3-319/08.webp",
+      "thumbnail": "assets/photos/chakers-q500-dmp3-319/08-thumb.webp",
+      "original": "assets/photos/chakers-q500-dmp3-319/originals/IMG_0420.jpeg",
+      "originalFilename": "IMG_0420.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1572361,
+      "sha256": "ddf1accacfda7d5495ee86ccd469d522d622fe5ee540a7fabde660c4e7539138",
+      "source": "",
+      "caption": "IMG_0420"
+    },
+    {
+      "file": "assets/photos/chakers-q500-dmp3-319/09.webp",
+      "thumbnail": "assets/photos/chakers-q500-dmp3-319/09-thumb.webp",
+      "original": "assets/photos/chakers-q500-dmp3-319/originals/IMG_0421.jpeg",
+      "originalFilename": "IMG_0421.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1273767,
+      "sha256": "026c295b5d9a1b1299609b3194d754be1eea71e80f3e4f03f2fb571c0746aad0",
+      "source": "",
+      "caption": "IMG_0421"
+    },
+    {
+      "file": "assets/photos/chakers-q500-dmp3-319/10.webp",
+      "thumbnail": "assets/photos/chakers-q500-dmp3-319/10-thumb.webp",
+      "original": "assets/photos/chakers-q500-dmp3-319/originals/IMG_0422.jpeg",
+      "originalFilename": "IMG_0422.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1336133,
+      "sha256": "18c458802d0e17306ce73843bc7aed92dc17c534ff23919aeca1f81bfa86ce60",
+      "source": "",
+      "caption": "IMG_0422"
+    },
+    {
+      "file": "assets/photos/chakers-q500-dmp3-319/06.webp",
+      "thumbnail": "assets/photos/chakers-q500-dmp3-319/06-thumb.webp",
+      "original": "assets/photos/chakers-q500-dmp3-319/originals/IMG_0418.jpeg",
+      "originalFilename": "IMG_0418.jpeg",
+      "originalAvailable": true,
+      "width": 1800,
+      "height": 2400,
+      "originalWidth": 3024,
+      "originalHeight": 4032,
+      "originalBytes": 1760465,
+      "sha256": "1ee9e7b9c4703644e837fdb501267dcaeb291cf955d111dc30b15d15a456e427",
+      "source": "",
+      "caption": "IMG_0418"
+    },
+    {
+      "file": "assets/photos/chakers-q500-dmp3-319/02.webp",
+      "thumbnail": "assets/photos/chakers-q500-dmp3-319/02-thumb.webp",
+      "original": "assets/photos/chakers-q500-dmp3-319/originals/IMG_0414.jpeg",
+      "originalFilename": "IMG_0414.jpeg",
+      "originalAvailable": true,
+      "width": 2400,
+      "height": 1800,
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "originalBytes": 1506354,
+      "sha256": "9d6917d1e04ac337ca7db528b509b86486cce8aa35fffb690b63f72ca875e9ce",
+      "source": "",
+      "caption": "IMG_0414"
+    },
+    {
+      "file": "assets/photos/chakers-q500-dmp3-319/04.webp",
+      "thumbnail": "assets/photos/chakers-q500-dmp3-319/04-thumb.webp",
+      "original": "assets/photos/chakers-q500-dmp3-319/originals/IMG_0416.jpeg",
+      "originalFilename": "IMG_0416.jpeg",
+      "originalAvailable": true,
+      "width": 1800,
+      "height": 2400,
+      "originalWidth": 3024,
+      "originalHeight": 4032,
+      "originalBytes": 1723479,
+      "sha256": "52fab8a0f8379b889fbb7a459e1ccd5c9a71076176b40d41817485a92baeb072",
+      "source": "",
+      "caption": "IMG_0416"
+    }
+  ],
+  "thumbnail": "assets/photos/chakers-q500-dmp3-319/01-thumb.webp",
+  "order": 314,
+  "manufacturer": {
+    "ru": "iO TEK",
+    "en": "iO TEK"
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "brand": "iO TEK",
+  "year": 1996,
+  "tracking": {
+    "key": "optical-pad",
+    "ru": "Оптический через коврик",
+    "en": "Optical · special pad"
+  },
+  "interface": "DE-9 female",
+  "soviet": false,
+  "features": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "notes": {
+    "ru": "",
+    "en": ""
+  },
+  "whereToSee": {
+    "ru": "Local",
+    "en": "Local"
+  },
+  "channelPost": [],
+  "externalLinks": [],
+  "draft": false,
+  "research": {
+    "reviewedAt": "2026-11-10",
+    "sourceDirectory": "/Users/pavlov/Documents/mouses/mouses_photo/3",
+    "photoEvidence": [
+      "IMG_0418: CHAKERS, INC.; MODEL DMP3; Q500; CE 96; Made in KOREA; S/N 0719865.",
+      "IMG_0414–0416: два оптических узла, три кнопки; шара нет.",
+      "IMG_0422: девятиконтактный разъём."
+    ],
+    "dating": {
+      "ru": "Предположительно середина — вторая половина 1990-х",
+      "en": "Probably mid-to-late 1990s"
+    },
+    "unresolved": {
+      "ru": "Точный год и завод-изготовитель не установлены. «CE 96» на этикетке — датирующий ориентир, но не подтверждение выпуска в 1996 году. S/N 0719865. Надпись о соответствии FCC Part 15 не является FCC ID. Нужны руководство или родной коврик: работа на обычной поверхности, разрешение и протокол не подтверждены.",
+      "en": "Exact year and OEM are unconfirmed. “CE 96” is a dating clue, not proof of manufacture in 1996. S/N 0719865. The FCC Part 15 compliance statement is not an FCC ID. A manual or original pad is needed to establish surface requirements, resolution and protocol."
+    },
+    "status": "draft"
+  }
+}
