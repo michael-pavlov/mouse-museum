@@ -21,11 +21,11 @@ def build(root, out, items, shell, asset):
         head = (
             f'<link rel="stylesheet" href="{asset(path, "assets/salemon.css")}">'
         )
-        title = ('SaleMonitor — сервис для коллекционеров' if language == 'ru'
-                 else 'SaleMonitor — a service for collectors')
-        description = ('Меньше поиска. Больше находок. Новые объявления по вашим запросам прямо в Telegram.'
+        title = ('SaleMonitor — уведомления о новых объявлениях' if language == 'ru'
+                 else 'SaleMonitor — new listing alerts')
+        description = ('Новые объявления по вашему запросу в Telegram. SaleMonitor проверяет поиск каждые 10, 30 или 60 секунд.'
                        if language == 'ru' else
-                       'Less searching. More discoveries. Get new listings matching your searches in Telegram.')
+                       'Get new listings matching your search in Telegram. SaleMonitor checks every 10, 30 or 60 seconds.')
         shell(path, language, title, description, body,
               paths['en' if language == 'ru' else 'ru'], lisa['photos'][0]['file'],
               extra_head=head, body_class='salemon')

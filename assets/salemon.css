@@ -9,16 +9,30 @@
 .salemon .sprite{position:absolute;width:0;height:0;overflow:hidden}
 .salemon .page-meta{padding:16px 0 8px}
 .salemon .breadcrumb{margin:0;font-size:16px;gap:12px}
-.salemon .hero{display:grid;grid-template-columns:1.13fr 1fr;gap:48px;padding:12px 0 28px;align-items:center}
-.salemon .hero h1{font-size:clamp(44px,4.5vw,64px);font-weight:400;line-height:1.04;letter-spacing:-2px;margin:0 0 20px}
+.salemon .hero{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(0,1fr);gap:48px;padding:12px 0 28px;align-items:center}
+.salemon .hero h1{font-size:clamp(36px,4vw,54px);font-weight:400;line-height:1.1;letter-spacing:-1.6px;margin:0 0 24px;white-space:normal;overflow-wrap:break-word;text-wrap:balance;max-width:680px}
 .salemon h1 span,.salemon .closing h2 span{color:var(--rust)}
+.salemon .hero h1 span{display:block;text-wrap:balance}
+.salemon .hero h1 br{display:none}
 .salemon .hero .hero-lead{font-size:18px;line-height:1.6;max-width:520px;margin:0 0 20px}
+.salemon .hero .hero-frequency{font-size:15px;line-height:1.5;margin:16px 0 0;max-width:none}
+.salemon .hero-frequency span{white-space:nowrap}
+.salemon .hero-frequency small{display:block;font:inherit}
+.salemon .example-columns{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}
+.salemon .example-columns>div{padding:24px;border:1px solid var(--line);border-radius:12px}
+.salemon .example-columns>div:last-child{background:#eeefe6}
+.salemon .example-columns .example-label{font-size:15px;color:var(--rust);margin-bottom:12px}
+.salemon .example-columns h3{margin-bottom:12px}
+.salemon .example-columns p:last-child{margin-bottom:0}
+.salemon .search-example .example-note{font-size:14px;margin:12px 0 0}
 .salemon .button{display:inline-flex;align-items:center;justify-content:space-between;gap:24px;min-height:52px;padding:14px 20px;border:1px solid #bfc1b5;border-radius:4px;font-size:16px;line-height:1.4;transition:background .18s,color .18s}
 .salemon .button:hover{background:#ebe9e1;border-color:var(--rust);color:var(--rust)}
 .salemon .button.primary{background:var(--green);border-color:var(--green);color:white}
 .salemon .button.primary:hover{background:var(--rust);border-color:var(--rust)}
 .salemon .hero .trial-note{font-size:16px;line-height:1.5;max-width:none;margin:16px 0 0}
 .salemon .trial-note span{margin:0 6px}
+.salemon .hero .trial-note:has(.trial-period){display:flex;flex-wrap:wrap;gap:4px 20px;font-size:15px}
+.salemon .trial-note .trial-period,.salemon .trial-note .trial-price{margin:0;white-space:nowrap}
 .salemon .service-bar{display:flex;align-items:center;justify-content:center;padding:18px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
 .salemon .platforms{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:36px}
 .salemon .platforms img{display:block;object-fit:contain;max-width:100%;height:30px}
@@ -69,7 +83,7 @@
 .salemon .site-footer{margin-top:0}
 @media(max-width:1100px){
  .salemon .hero{gap:32px}
- .salemon .hero h1{font-size:58px;letter-spacing:-2px}
+ .salemon .hero h1{font-size:clamp(36px,4.5vw,48px);letter-spacing:-1.4px}
  .salemon .steps{gap:28px}
  .salemon .plan{padding:20px 16px}
  .salemon .closing{align-items:flex-start;flex-direction:column;gap:28px}
@@ -91,11 +105,13 @@
  .salemon .faq-layout{grid-template-columns:1fr;gap:8px}
 }
 @media(max-width:700px){
+ .salemon .hero .trial-note:has(.trial-period){flex-direction:column}
+ .salemon .example-columns{grid-template-columns:1fr;gap:16px}
  .salemon main h2{font-size:32px;letter-spacing:-.8px}
  .salemon main h3{font-size:24px}
  .salemon .page-meta{padding:24px 0 12px}
  .salemon .hero{padding:24px 0 36px}
- .salemon .hero h1{font-size:clamp(32px,10vw,58px);letter-spacing:-1.8px}
+ .salemon .hero h1{font-size:clamp(32px,8vw,48px);letter-spacing:-1px}
  .salemon .section{padding:28px 0}
  .salemon .intro-columns{grid-template-columns:1fr;gap:20px}
  .salemon .section-heading{margin-bottom:20px}
@@ -157,5 +173,5 @@
 .salemon .phone-home{height:24px}
 
 /* Keep the first screen complete on shorter laptop viewports. */
-@media(min-width:851px) and (max-height:800px){.salemon .phone-device{zoom:.58}.salemon .hero h1{font-size:clamp(44px,4.2vw,60px)}}
+@media(min-width:851px) and (max-height:800px){.salemon .phone-device{zoom:.58}.salemon .hero h1{font-size:clamp(36px,4vw,52px)}}
 @media(min-width:851px) and (max-height:700px){.salemon .phone-device{zoom:.5}}
