@@ -42,16 +42,41 @@ def channel_posts(item):
     return result
 
 
+VIEWING_LOCATIONS={
+    'Краснохолмская':'Krasnokholmskaya Gallery','Демо Витрина':'Demo display case',
+    'Демо Стол':'Demo table','Ближний':'Near','Дальний':'Far','Средний':'Middle',
+    'Ближайший':'Nearest','Local':'Local'}
+
+
+def location_choices():
+    return [{'ru':ru,'en':en} for ru,en in VIEWING_LOCATIONS.items()]
+
+
+def location_pair(value):
+    """Store one catalogue location. The English label always comes from the pair."""
+    if not isinstance(value,dict):
+        raise ValueError('location')
+    ru=value.get('ru')
+    en=value.get('en')
+    if not isinstance(ru,str) or not isinstance(en,str):
+        raise ValueError('location')
+    ru,en=ru.strip(),en.strip()
+    if ru.lower()=='local' or (not ru and en.lower()=='local'):
+        ru='Local'
+    if ru.lower() in ('','unknown') and en.lower() in ('','unknown'):
+        return {'ru':'','en':''}
+    if ru not in VIEWING_LOCATIONS:
+        raise ValueError(ru)
+    return {'ru':ru,'en':VIEWING_LOCATIONS[ru]}
+
+
 def viewing_location(item,language):
     # Explicit empty values allow the owner to hide a legacy location.
     if 'whereToSee' in item:
         value=localized(item['whereToSee'],language)
         return 'Local' if value.lower()=='local' else value
     raw=item.get('sourceProperties',{}).get('Где посмотреть','')
-    translations={'Краснохолмская':'Krasnokholmskaya Gallery','Демо Витрина':'Demo display case',
-                  'Демо Стол':'Demo table','Ближний':'Near','Дальний':'Far','Средний':'Middle',
-                  'Ближайший':'Nearest'}
-    return translations.get(raw,raw) if language=='en' else raw
+    return VIEWING_LOCATIONS.get(raw,raw) if language=='en' else raw
 
 
 def viewing_location_key(item):
@@ -64,7 +89,8 @@ def validate_extras(item):
     channel_posts(item)
     for link in item.get('externalLinks',[]):
         validate_url(link['url'])
-        assert localized(link.get('title'),'en') and localized(link.get('title'),'ru'), 'External links need labels in both languages'
+        title=link.get('title')
+        assert isinstance(title,dict) and all(isinstance(title.get(language),str) for language in ('en','ru'))
     for language in ('en','ru'):
         assert isinstance(localized(item.get('description',{}),language),str)
         assert isinstance(viewing_location(item,language),str)
@@ -95,8 +121,8 @@ def resources_html(item,language,publications=()):
         if url.rstrip('/') in seen:
             continue
         seen.add(url.rstrip('/'))
-        title=localized(link['title'],language)
         host=urlsplit(url).hostname.removeprefix('www.')
+        title=localized(link['title'],language).strip() or host
         resources.append(f'<li><a href="{esc(url)}" target="_blank" rel="noopener noreferrer"><span>{esc(title)}</span><small>{esc(host)}</small></a></li>')
     if not resources:
         return ''

@@ -196,7 +196,22 @@
     "en": ""
   },
   "channelPost": [],
-  "externalLinks": [],
+  "externalLinks": [
+    {
+      "url": "https://www.msx.org/wiki/HAL_Mouse_Pocket",
+      "title": {
+        "ru": "",
+        "en": ""
+      }
+    },
+    {
+      "url": "https://archive.org/details/popcom-1988-03/page/n41/mode/2up",
+      "title": {
+        "ru": "Реклама 1988 года",
+        "en": "popcom-1988-03"
+      }
+    }
+  ],
   "thumbnail": "assets/photos/smk-mouse-systems-hal-laboratory-310/thumb.webp",
   "sourceSync": {
     "retrievedAt": "2026-11-04T21:38:25+03:00",

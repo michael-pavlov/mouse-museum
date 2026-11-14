@@ -37,6 +37,13 @@ class SpecimenContentTests(unittest.TestCase):
         data['whereToSee']={'ru':'','en':''}
         self.assertEqual(viewing_location(data,'ru'),'')
 
+    def test_link_caption_is_optional_and_host_is_shown(self):
+        item={'externalLinks':[{'url':'https://www.example.com/mouse','title':{'en':'','ru':''}}]}
+        validate_extras(item)
+        result=resources_html(item,'ru')
+        self.assertIn('>example.com</span>',result)
+        self.assertIn('example.com</small>',result)
+
     def test_invalid_reference_fails_validation(self):
         with self.assertRaises(AssertionError):
             validate_extras({'externalLinks':[{'url':'javascript:alert(1)','title':{'en':'x','ru':'x'}}]})

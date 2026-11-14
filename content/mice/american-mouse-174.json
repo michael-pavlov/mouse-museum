@@ -2,8 +2,8 @@
   "id": "MP-0174",
   "slug": "american-mouse-174",
   "title": {
-    "en": "American Mouse",
-    "ru": "American Mouse"
+    "ru": "American Mouse",
+    "en": "American Mouse"
   },
   "source": "https://collectionerus.ru/collections/old-mice/174/",
   "sourceProperties": {
@@ -114,8 +114,8 @@
     "en": "The American Mouse is an early American-made mouse under the American Mouse / American Computer Systems name, typical of the emerging PC peripheral market. Before Logitech and Microsoft became dominant, there were dozens of small manufacturers. It illustrates the ‘Wild West’ of the mouse industry in the early 1980s."
   },
   "notes": {
-    "en": "",
-    "ru": ""
+    "ru": "",
+    "en": ""
   },
   "sourceTitle": "American Mouse",
   "whereToSee": {
@@ -127,7 +127,15 @@
     "en": ""
   },
   "channelPost": [],
-  "externalLinks": [],
+  "externalLinks": [
+    {
+      "url": "https://archive.org/details/PC-Mag-1986-10-28/page/n159/mode/2up",
+      "title": {
+        "ru": "PC Magazine oct 1986",
+        "en": "PC Magazine oct 1986"
+      }
+    }
+  ],
   "sourceSync": {
     "retrievedAt": "2026-10-27T22:22:55+03:00",
     "sourcePhotoCount": 5,
