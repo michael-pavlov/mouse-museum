@@ -1,0 +1,59 @@
+{
+  "id": "telegram-250",
+  "slug": "telegram-250",
+  "title": {
+    "ru": "ASCII MieMouse PM100PS",
+    "en": "ASCII MieMouse PM100PS"
+  },
+  "date": "2026-11-15T09:02:39+00:00",
+  "source": "https://t.me/old_mice_and_hw/250",
+  "excerpt": {
+    "ru": "ASCII MieMouse 1997 года: сменный шарик на виду и наборы шаров разного веса и цвета.",
+    "en": "The 1997 ASCII MieMouse, with a visible replaceable ball and sets of balls in different weights and colours."
+  },
+  "photos": [
+    {
+      "file": "assets/posts/telegram-250/01.webp",
+      "original": "assets/posts/telegram-250/01.jpg",
+      "source": "https://cdn4.telesco.pe/file/kmeJq7INRq_zLedXHraeVggK5uG_osz_GTFli0nOiPTpugZtEcL83cwKTT-ZTO_aC0_NjBkzE6e-xAJrp85Zm11oHJlgc1JKd-WEB8g5A2pOLz7mLsazlpDRyxKHOWel1nsjHEsAi2njOsKoPI9LuasCiDB1ufPdwtKtbZ75bP6aYrNVSjCw1IqMsbVNQXbwBjntQGGL8cB9m8T7yaXUGTkoaLMPgFnWxKFDlQUAyK9QtNhw07APVbnDCOeMkIoPN-Rt8pRC1lV_buM4guGMNfXeeRsD4Xkt4NdQg17QRB5oSBc9tBiYcdzH73qQRvHYuF6uhsfvbFujyBpb37qXHA.jpg",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/posts/telegram-250/02.webp",
+      "original": "assets/posts/telegram-250/02.jpg",
+      "source": "https://cdn4.telesco.pe/file/K2YYHfP9G4hpszsZY3Gu9J9zoIDOMgH6p5fSirOml2_f2zRBOHC4_m_RR2H21O5eZDvLaaua3qa5ZvEPlAKD0Q0EBVAVz4z2juP7eX1Q48a1TYWg_hSNQC7yT86ywqtB2X1BhqscSKepXFYi12jaES34dzXaC2xbr6qHBk4EYebFwSLaxBaagJj77CrtU8sBht4ybnjk59mL-isRH1ESNKWCR7hqpD31h5xOtpW48NZKv8TpCG0Rih2pIPxA2dcSnDp2LvsMUHprBgUenU8CrA-M04OxXABQ-_jdTd9dRWXVJbnmmxPAsIqK6_wZIBxGJV1APPYoBsUeC5MQQm5U0g.jpg",
+      "width": 590,
+      "height": 800
+    },
+    {
+      "file": "assets/posts/telegram-250/03.webp",
+      "original": "assets/posts/telegram-250/03.jpg",
+      "source": "https://cdn4.telesco.pe/file/ZqBFeMeNQeDBtrmYH6mxT7Gf8U6EIzwn0S9dnomVfxFT8TbxzuAwj7N9AiwgTCUDQGmtNzKaGX1QbHw9kvmlV5w-zNfvwePnEpD3yvKZsXrq3MZxF6NBtd8l_ojNyJ4sfh_xh74XAZUXXVtKO4AQDsGzIQPVlMHFSByh1ZBZ2saQYanr8esfOb9YdykCm5gXZoELw6Un7zo4FbS5TD36f2k7MCmAWCux49bhOP8iu1HPQSFtnS93i826C4Eg0cAg6uO_WFNXgTlcXNY_VyG43QhofTgPwWxLhLx6TamJnio_AJLanqjyM260D1e9g86LLQNwbLMxEZT0i7CmBMz49A.jpg",
+      "width": 600,
+      "height": 800
+    },
+    {
+      "file": "assets/posts/telegram-250/04.webp",
+      "original": "assets/posts/telegram-250/04.jpg",
+      "source": "https://cdn4.telesco.pe/file/Yc_Nc7Dyjr4kiKiyzElZ5xltZwwTwvOFOaRmZpMbJgTph2ZJ51SPqqatqUZLapvUqKXqOPYeWlU1vCUG5qDkThkbo-6XtWvRtgZ7nSDSuNUMejE6yHeGy9rWQGSmlYdjveQJrTQUOzj636bIKEfexs1B-F9lAQD6SLqO1qxe9hqrDW11_YlZB4zbJG49XIxkob2yJLUyfmfdQRDBCjF1kTcV7cNDrRpKwfcAyr9GmERJxy72pA5juzc3iGJ0cgfail4QBPeWmegKh8WkzgA-SvYkHX6GWjOF35MYIv7XJbQrxJQRIvlddR55uImfSAxl7TGN3LkJLEY3x3EEfcW4PQ.jpg",
+      "width": 600,
+      "height": 800
+    }
+  ],
+  "cover": "assets/posts/telegram-250/01.webp",
+  "relatedItems": [
+    "ascii-pm001ps-287",
+    "microsoft-green-eye",
+    "apple-desktop-bus-mouse-ii-m2706-36"
+  ],
+  "category": "stories",
+  "translationNote": {
+    "ru": "",
+    "en": "Translated from the original Russian post."
+  },
+  "bodyFiles": {
+    "ru": "content/posts/telegram-250/ru.md",
+    "en": "content/posts/telegram-250/en.md"
+  }
+}

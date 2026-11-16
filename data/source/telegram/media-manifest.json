@@ -1123,5 +1123,25 @@
     "file": "assets/posts/telegram-99/05.jpg",
     "bytes": 76718,
     "sha256": "ab6450d84ff9c58f1c109ce1706224ac1bcbdf01815e29c4f4d22b5520f3dd85"
+  },
+  {
+    "file": "assets/posts/telegram-250/01.jpg",
+    "bytes": 50054,
+    "sha256": "3787419ae23528653eb67261a13cedf52efd12f90b68d02d63e1e45acc13073d"
+  },
+  {
+    "file": "assets/posts/telegram-250/02.jpg",
+    "bytes": 64437,
+    "sha256": "e207e570786ddc3fe870c8904fa2b34e401bba55eb8a302e8fbf4c3616658497"
+  },
+  {
+    "file": "assets/posts/telegram-250/03.jpg",
+    "bytes": 61666,
+    "sha256": "5707fbbc3aea64e0242716a50587531cf4cc9b97205e072717ad02ba96498b32"
+  },
+  {
+    "file": "assets/posts/telegram-250/04.jpg",
+    "bytes": 66026,
+    "sha256": "d8178de431f642f560f5f305c9724af2c9d2df8f75f97792a1ba9106f5c42d68"
   }
 ]
