@@ -5,13 +5,18 @@ from pathlib import Path
 from urllib.parse import urlparse,urlencode
 from journal import Journal
 from wanted import Wanted
-from specimen_content import validate_extras, viewing_location, viewing_location_key, description_html, resources_html
+from specimen_content import BOOK_FILE, validate_extras, viewing_location, viewing_location_key, description_html, resources_html
 ROOT=Path(__file__).resolve().parents[1]
-OUT=ROOT/'dist'
-parser=argparse.ArgumentParser();parser.add_argument('--site-url',default=os.environ.get('SITE_URL',''));args=parser.parse_args()
+parser=argparse.ArgumentParser();parser.add_argument('--site-url',default=os.environ.get('SITE_URL',''))
+parser.add_argument('--output',type=Path,default=ROOT/'dist')
+parser.add_argument('--local-editor',action='store_true')
+args=parser.parse_args()
+OUT=args.output.resolve()
 SITE=args.site_url.rstrip('/')
 if SITE and (urlparse(SITE).scheme not in ('https','http') or not urlparse(SITE).netloc):raise SystemExit('SITE_URL must be an absolute http(s) URL')
 items=sorted([json.loads(p.read_text()) for p in (ROOT/'content/mice').glob('*.json')],key=lambda d:d['order'])
+draft_photo_dirs={d['slug'] for d in items if d.get('draft',False)}
+items=[d for d in items if args.local_editor or not d.get('draft',False)]
 assert items,'No catalogue entries'
 def publication_id(d):
  source=str(d.get('source') or '')
@@ -33,7 +38,24 @@ for d in items:
 journal=Journal(ROOT,items)
 wanted=Wanted(ROOT,items,SITE)
 if OUT.exists():shutil.rmtree(OUT)
-OUT.mkdir();shutil.copytree(ROOT/'assets',OUT/'assets',ignore=shutil.ignore_patterns('originals','source-images'));(OUT/'.nojekyll').touch()
+OUT.mkdir(parents=True)
+if args.local_editor:(OUT/'assets').symlink_to(ROOT/'assets',target_is_directory=True)
+else:shutil.copytree(ROOT/'assets',OUT/'assets',ignore=shutil.ignore_patterns('originals','source-images',*draft_photo_dirs))
+book_files=[]
+for d in items:
+ for link in d.get('externalLinks',[]):
+  addresses=link['url'].values() if isinstance(link.get('url'),dict) else [link.get('url')]
+  for address in addresses:
+   if isinstance(address,str) and BOOK_FILE.fullmatch(address):
+    target=(ROOT/address).resolve()
+    assert target.is_file() and target.is_relative_to((ROOT/'books').resolve()),address
+    book_files.append(address)
+if book_files:
+ if args.local_editor:(OUT/'books').symlink_to(ROOT/'books',target_is_directory=True)
+ else:
+  for address in sorted(set(book_files)):
+   destination=OUT/address;destination.parent.mkdir(parents=True,exist_ok=True);shutil.copy2(ROOT/address,destination)
+(OUT/'.nojekyll').touch()
 def E(v):return html.escape(str(v),quote=True)
 def t(en,ru,l):return ru if l=='ru' else en
 def link(path,target):return posixpath.relpath(target,posixpath.dirname(path) or '.')
@@ -56,8 +78,10 @@ METRIKA = '''<!-- Yandex.Metrika counter -->
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/113889111" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->'''
+if args.local_editor:METRIKA=''
 pages=[]
 def shell(path,l,title,description,body,other,photo=None,*,extra_head="",body_class=""):
+ if args.local_editor:extra_head+='<link rel="stylesheet" href="/__editor/editor.css"><script src="/__editor/editor.js" defer></script><script src="/__editor/selections.js" defer></script>'
  alt='ru' if l=='en' else 'en';h=lambda p:link(path,p)
  meta=f'<meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(description)}"><meta property="og:type" content="website"><meta property="og:locale" content="{t("en_US","ru_RU",l)}"><meta name="twitter:card" content="summary_large_image">'
  if SITE:
@@ -70,6 +94,7 @@ def shell(path,l,title,description,body,other,photo=None,*,extra_head="",body_cl
  dest=OUT/path;dest.parent.mkdir(parents=True,exist_ok=True);dest.write_text(content);pages.append(path)
 def card(d,l,path,i):
  h=lambda p:link(path,p);title=d['title'][l];year=d['year'];search=' '.join([*d['title'].values(),*d['manufacturer'].values(),str(year) if year is not None else '',d['interface'] or '',d['tracking']['en'],d['tracking']['ru'],d['features']['en'],d['features']['ru'],d['id']]).lower()
+ if d.get('draft'):title=t('Draft: ','Черновик: ',l)+title
  attrs={'order':d['order'],'published':publication_id(d),'title':title,'year':year if year is not None else 'unknown','brand':d['brand'],'location':viewing_location_key(d),'tracking':d['tracking']['key'],'interface':d['interface'] or 'unknown','soviet':str(d['soviet']).lower(),'search':search}
  attrs=' '.join(f'data-{k}="{E(v)}"' for k,v in attrs.items())
  return f'''<a class="card" href="{h(objpath(d,l))}" title="{E(title)}" {attrs}><div class="photo"><img src="{h(d['thumbnail'])}" alt="{E(title)}" loading="{'eager' if i<3 else 'lazy'}">{t('<span class="new-badge">New</span>','<span class="new-badge">Новое</span>',l) if d['id'] in newest_ids else ''}</div><h2>{E(title)}</h2></a>'''
@@ -84,6 +109,7 @@ def catalog(l,path):
  shell(path,l,t('Catalogue','Каталог',l),t('Computer mice, curious mechanisms and industrial design from the Michael Pavlov collection.','Компьютерные мыши, необычные механизмы и промышленный дизайн из коллекции Михаила Павлова.',l),body,('ru' if l=='en' else 'en')+'/index.html','assets/catalogue-preview.png')
 def detail(d,l):
  path=objpath(d,l);h=lambda p:link(path,p);title=d['title'][l];photos=d['photos'];p0=photos[0]['file']
+ if d.get('draft'):title=t('Draft: ','Черновик: ',l)+title
  fields=[(t('Manufacturer','Производитель',l),d['manufacturer'][l],'brand',d['brand']),
          (t('Year','Год',l),d['year'] if d['year'] is not None else t('Not recorded','Не указан',l),'year',d['year'] if d['year'] is not None else 'unknown'),
          (t('Tracking','Технология',l),d['tracking'][l],'tracking',d['tracking']['key']),
@@ -105,7 +131,7 @@ def detail(d,l):
 
  related=sorted([x for x in items if x!=d],key=lambda x:(x['tracking']['key']!=d['tracking']['key'],abs(x['year']-d['year']) if x['year'] is not None and d['year'] is not None else float('inf')))[:6]
  description=d['description'][l] or t(f'{title}. Photographs and catalogue details of this mouse from Michael Pavlov’s collection.',f'{title}. Фотографии и характеристики мыши из коллекции Михаила Павлова.',l)
- body=f'''<nav class="breadcrumb" aria-label="{t('Breadcrumb','Путь к странице',l)}"><a href="{h(l+'/index.html')}">← {t('Catalogue','Каталог',l)}</a></nav><header class="specimen-heading"><h1>{E(title)}</h1><button class="share-trigger" id="forum-link" aria-label="{t('Share this mouse','Поделиться этой мышью',l)}" title="{t('Share','Поделиться',l)}" aria-haspopup="dialog"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="m8.6 10.5 6.8-4M8.6 13.5l6.8 4"/></svg></button></header><article class="detail"><div class="gallery"><div class="main-photo"><button class="zoom" aria-label="{t('Enlarge photograph','Увеличить фотографию',l)}"><img id="main-image" src="{h(p0)}" alt="{E(title)} — {t('view','ракурс',l)} 1"></button></div><div class="photo-tools"><span id="photo-count">01 / {len(photos):02}</span><div><button data-step="-1" aria-label="{t('Previous photograph','Предыдущее фото',l)}">←</button><button data-step="1" aria-label="{t('Next photograph','Следующее фото',l)}">→</button></div></div><div class="thumbs">{thumbs}</div></div><div class="item-info">{description_html(d,l)}<h2 class="detail-section-title">{t('Details','Характеристики',l)}</h2><dl class="specs">{specs}</dl>{f'<p class="specimen-note">{E(d["notes"][l])}</p>' if d['notes'][l] else ''}{resources_html(d,l,journal.reference_links(d,l,path))}{wanted.exchange_link(d,l,path)}</div></article><section class="related"><div class="section-head"><h2>{t('Continue exploring','Другие экспонаты',l)}</h2><a href="{h(l+'/index.html')}">{t('All objects','Вся коллекция',l)} →</a></div><div class="grid">{''.join(card(x,l,path,i) for i,x in enumerate(related))}</div></section><dialog id="lightbox" aria-label="{t('Photograph viewer','Просмотр фотографии',l)}"><div class="dialog-head"><span>{E(title)}</span><button class="specimen-lightbox-close" data-close aria-label="{t('Close','Закрыть',l)}">×</button></div><img id="lightbox-image" src="{h(p0)}" alt="{E(title)}"><div class="actions"><button class="button" data-step="-1">← {t('Previous','Предыдущее',l)}</button><button class="button" data-step="1">{t('Next','Следующее',l)} →</button></div></dialog><dialog id="share" aria-labelledby="share-title"><div class="dialog-head"><h2 id="share-title">{t('Share this mouse','Поделиться этой мышью',l)}</h2><button data-close aria-label="{t('Close','Закрыть',l)}">×</button></div><div class="share-formats" role="group" aria-label="{t('Format','Формат',l)}"><button type="button" data-share-format="url" aria-pressed="true">{t('Link','Ссылка',l)}</button><button type="button" data-share-format="bbcode" aria-pressed="false">BBCode</button><button type="button" data-share-format="markdown" aria-pressed="false">Markdown</button><button type="button" data-share-format="image" aria-pressed="false">BBCode + {t('photo','фото',l)}</button></div><label class="sr-only" for="share-text">{t('Text to copy','Текст для копирования',l)}</label><div class="share-copy-field" id="copy-share" role="button" tabindex="0" aria-label="{t('Copy to clipboard','Скопировать в буфер обмена',l)}"><textarea id="share-text" readonly tabindex="-1"></textarea><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="8" y="8" width="12" height="12" rx="2"/><path d="M16 8V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h3"/></svg></div><p class="status" id="share-status" aria-live="polite"></p></dialog>'''
+ body=f'''<nav class="breadcrumb" aria-label="{t('Breadcrumb','Путь к странице',l)}"><a href="{h(l+'/index.html')}">← {t('Catalogue','Каталог',l)}</a></nav><header class="specimen-heading"><h1>{E(title)}</h1><button class="share-trigger" id="forum-link" aria-label="{t('Share this mouse','Поделиться этой мышью',l)}" title="{t('Share','Поделиться',l)}" aria-haspopup="dialog"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="m8.6 10.5 6.8-4M8.6 13.5l6.8 4"/></svg></button></header><article class="detail"><div class="gallery"><div class="main-photo"><button class="zoom" aria-label="{t('Enlarge photograph','Увеличить фотографию',l)}"><img id="main-image" src="{h(p0)}" alt="{E(title)} — {t('view','ракурс',l)} 1"></button></div><div class="photo-tools"><span id="photo-count">01 / {len(photos):02}</span><div><button data-step="-1" aria-label="{t('Previous photograph','Предыдущее фото',l)}">←</button><button data-step="1" aria-label="{t('Next photograph','Следующее фото',l)}">→</button></div></div><div class="thumbs">{thumbs}</div></div><div class="item-info">{description_html(d,l)}<h2 class="detail-section-title">{t('Details','Характеристики',l)}</h2><dl class="specs">{specs}</dl>{f'<p class="specimen-note">{E(d["notes"][l])}</p>' if d['notes'][l] else ''}{resources_html(d,l,journal.reference_links(d,l,path),path)}{wanted.exchange_link(d,l,path)}</div></article><section class="related"><div class="section-head"><h2>{t('Continue exploring','Другие экспонаты',l)}</h2><a href="{h(l+'/index.html')}">{t('All objects','Вся коллекция',l)} →</a></div><div class="grid">{''.join(card(x,l,path,i) for i,x in enumerate(related))}</div></section><dialog id="lightbox" aria-label="{t('Photograph viewer','Просмотр фотографии',l)}"><div class="dialog-head"><span>{E(title)}</span><button class="specimen-lightbox-close" data-close aria-label="{t('Close','Закрыть',l)}">×</button></div><img id="lightbox-image" src="{h(p0)}" alt="{E(title)}"><div class="actions"><button class="button" data-step="-1">← {t('Previous','Предыдущее',l)}</button><button class="button" data-step="1">{t('Next','Следующее',l)} →</button></div></dialog><dialog id="share" aria-labelledby="share-title"><div class="dialog-head"><h2 id="share-title">{t('Share this mouse','Поделиться этой мышью',l)}</h2><button data-close aria-label="{t('Close','Закрыть',l)}">×</button></div><div class="share-formats" role="group" aria-label="{t('Format','Формат',l)}"><button type="button" data-share-format="url" aria-pressed="true">{t('Link','Ссылка',l)}</button><button type="button" data-share-format="bbcode" aria-pressed="false">BBCode</button><button type="button" data-share-format="markdown" aria-pressed="false">Markdown</button><button type="button" data-share-format="image" aria-pressed="false">BBCode + {t('photo','фото',l)}</button></div><label class="sr-only" for="share-text">{t('Text to copy','Текст для копирования',l)}</label><div class="share-copy-field" id="copy-share" role="button" tabindex="0" aria-label="{t('Copy to clipboard','Скопировать в буфер обмена',l)}"><textarea id="share-text" readonly tabindex="-1"></textarea><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="8" y="8" width="12" height="12" rx="2"/><path d="M16 8V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h3"/></svg></div><p class="status" id="share-status" aria-live="polite"></p></dialog>'''
  shell(path,l,title,description,body,objpath(d,'ru' if l=='en' else 'en'),p0)
 for l in ('en','ru'):
  catalog(l,l+'/index.html')

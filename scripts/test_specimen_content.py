@@ -44,6 +44,18 @@ class SpecimenContentTests(unittest.TestCase):
         self.assertIn('>example.com</span>',result)
         self.assertIn('example.com</small>',result)
 
+    def test_language_specific_book_uses_the_page_language(self):
+        item={'externalLinks':[{'url':{'en':'books/mouse-book-english.pdf','ru':'books/mouse-book-russian.pdf'},'title':{'en':'Mouse customizing book','ru':'Mouse customizing book'}}]}
+        validate_extras(item)
+        english=resources_html(item,'en',page='en/mice/rainbow/index.html')
+        russian=resources_html(item,'ru',page='ru/mice/rainbow/index.html')
+        self.assertIn('../../../books/mouse-book-english.pdf',english)
+        self.assertIn('../../../books/mouse-book-russian.pdf',russian)
+        self.assertNotIn('mouse-book-russian.pdf',english)
+        self.assertNotIn('mouse-book-english.pdf',russian)
+        with self.assertRaises(AssertionError):
+            validate_extras({'externalLinks':[{'url':{'en':'books/../secret.pdf','ru':'books/mouse-book-russian.pdf'},'title':{'en':'x','ru':'x'}}]})
+
     def test_invalid_reference_fails_validation(self):
         with self.assertRaises(AssertionError):
             validate_extras({'externalLinks':[{'url':'javascript:alert(1)','title':{'en':'x','ru':'x'}}]})

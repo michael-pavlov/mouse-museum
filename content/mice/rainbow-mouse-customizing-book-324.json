@@ -1,0 +1,136 @@
+{
+  "id": "MP-0324",
+  "slug": "rainbow-mouse-customizing-book-324",
+  "draft": false,
+  "title": {
+    "ru": "Rainbow. Mouse customizing book",
+    "en": "Rainbow. Mouse customizing book"
+  },
+  "source": "",
+  "sourceProperties": {},
+  "photos": [
+    {
+      "file": "assets/photos/rainbow-mouse-customizing-book-324/02.webp",
+      "thumbnail": "assets/photos/rainbow-mouse-customizing-book-324/02-thumb.webp",
+      "original": "assets/photos/rainbow-mouse-customizing-book-324/originals/IMG_0476_catalog-8d2d4307-8482-4932-8ce8-ca74d3706dc1.jpg",
+      "originalFilename": "IMG_0476_catalog-8d2d4307-8482-4932-8ce8-ca74d3706dc1.jpg",
+      "originalAvailable": true,
+      "width": 768,
+      "height": 1024,
+      "originalWidth": 768,
+      "originalHeight": 1024,
+      "originalBytes": 152339,
+      "sha256": "fa7e8e1a05f0b73bc60c62fc04c08589962642a5772ae06917f4b0859a5769b3",
+      "source": "",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/rainbow-mouse-customizing-book-324/05.webp",
+      "thumbnail": "assets/photos/rainbow-mouse-customizing-book-324/05-thumb.webp",
+      "original": "assets/photos/rainbow-mouse-customizing-book-324/originals/IMG_0477_catalog-af0848f2-d8a7-4d8a-9a84-5c8b2a52e5be.jpg",
+      "originalFilename": "IMG_0477_catalog-af0848f2-d8a7-4d8a-9a84-5c8b2a52e5be.jpg",
+      "originalAvailable": true,
+      "width": 768,
+      "height": 1024,
+      "originalWidth": 768,
+      "originalHeight": 1024,
+      "originalBytes": 219748,
+      "sha256": "dc5e3a546e1816070869ae0ad3fdf721a6444d2d196e3daf6effd1e67bc58d6d",
+      "source": "",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/rainbow-mouse-customizing-book-324/01.webp",
+      "thumbnail": "assets/photos/rainbow-mouse-customizing-book-324/01-thumb.webp",
+      "original": "assets/photos/rainbow-mouse-customizing-book-324/originals/IMG_0470_catalog-010ed956-5b0a-40a1-bec6-fc05bf84d718.jpg",
+      "originalFilename": "IMG_0470_catalog-010ed956-5b0a-40a1-bec6-fc05bf84d718.jpg",
+      "originalAvailable": true,
+      "width": 755,
+      "height": 1024,
+      "originalWidth": 755,
+      "originalHeight": 1024,
+      "originalBytes": 146785,
+      "sha256": "c37ee8a79b7febec85921c9d16519f4518b1c24fd6fb09ea99962c889af7f3a7",
+      "source": "",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/rainbow-mouse-customizing-book-324/03.webp",
+      "thumbnail": "assets/photos/rainbow-mouse-customizing-book-324/03-thumb.webp",
+      "original": "assets/photos/rainbow-mouse-customizing-book-324/originals/IMG_0471_catalog-361b7478-8b33-4316-921d-1101ead81a34.jpg",
+      "originalFilename": "IMG_0471_catalog-361b7478-8b33-4316-921d-1101ead81a34.jpg",
+      "originalAvailable": true,
+      "width": 768,
+      "height": 1024,
+      "originalWidth": 768,
+      "originalHeight": 1024,
+      "originalBytes": 146969,
+      "sha256": "b62513dfa4e088d1eef2cc9abbe525d527b23b309e4e6935b62ba586295ae34c",
+      "source": "",
+      "caption": ""
+    },
+    {
+      "file": "assets/photos/rainbow-mouse-customizing-book-324/04.webp",
+      "thumbnail": "assets/photos/rainbow-mouse-customizing-book-324/04-thumb.webp",
+      "original": "assets/photos/rainbow-mouse-customizing-book-324/originals/IMG_0472_catalog-15ec7c44-93d8-43d4-9502-3610e34ca002.jpg",
+      "originalFilename": "IMG_0472_catalog-15ec7c44-93d8-43d4-9502-3610e34ca002.jpg",
+      "originalAvailable": true,
+      "width": 768,
+      "height": 1024,
+      "originalWidth": 768,
+      "originalHeight": 1024,
+      "originalBytes": 132810,
+      "sha256": "29dbe4cf0baf640d7ca3fe993d567d0926dc7f6110eba78476a27386af993977",
+      "source": "",
+      "caption": ""
+    }
+  ],
+  "manufacturer": {
+    "ru": "ASCII",
+    "en": "ASCII"
+  },
+  "brand": "ASCII",
+  "year": null,
+  "tracking": {
+    "key": "unknown",
+    "ru": "Не указана",
+    "en": "Not recorded"
+  },
+  "interface": null,
+  "soviet": false,
+  "order": 319,
+  "features": {
+    "ru": "Семь шаров 22 мм (10–35 г) и щётка для чистки",
+    "en": "Seven 22 mm balls (10–35 g) and a cleaning brush"
+  },
+  "description": {
+    "ru": "Набор ASCII, автор Кадзутоси Отани: брошюра о шарике мыши и его механизме, семь сменных шаров диаметром 22 мм весом 10, 15, 20, 25, 30, 32 и 35 г и щётка для чистки. \nISBN 4-7561-1082-7.",
+    "en": "An ASCII kit by Kazutoshi Otani: a booklet on the mouse ball and its mechanism, seven replaceable 22 mm balls weighing 10, 15, 20, 25, 30, 32 and 35 g, and a cleaning brush. \nISBN 4-7561-1082-7."
+  },
+  "notes": {
+    "ru": "",
+    "en": ""
+  },
+  "whereToSee": {
+    "ru": "",
+    "en": ""
+  },
+  "boardManufacturer": {
+    "ru": "",
+    "en": ""
+  },
+  "channelPost": [],
+  "externalLinks": [
+    {
+      "url": {
+        "ru": "books/mouse-book-russian.pdf",
+        "en": "books/mouse-book-english.pdf"
+      },
+      "title": {
+        "ru": "Книга о настройке мыши",
+        "en": "Mouse customizing book"
+      }
+    }
+  ],
+  "thumbnail": "assets/photos/rainbow-mouse-customizing-book-324/thumb-catalog.webp"
+}

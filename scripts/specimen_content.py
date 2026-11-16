@@ -1,5 +1,6 @@
 """Optional specimen text, reference links and legacy source fields."""
 import html
+import posixpath
 import re
 from urllib.parse import urlsplit
 
@@ -16,10 +17,26 @@ def localized(value,language):
     return value.get(language,'') if isinstance(value,dict) else value or ''
 
 
+BOOK_FILE=re.compile(r'books/[A-Za-z0-9][A-Za-z0-9._-]*\.pdf')
+
+
 def validate_url(url):
     parsed=urlsplit(url)
     assert parsed.scheme in ('http','https') and parsed.netloc, f'Invalid specimen link: {url}'
     return url
+
+
+def link_target(link,language):
+    url=link.get('url')
+    if isinstance(url,dict):
+        return url.get(language,'')
+    return url
+
+
+def validate_link_target(url):
+    if isinstance(url,str) and BOOK_FILE.fullmatch(url):
+        return url
+    return validate_url(url)
 
 
 def channel_posts(item):
@@ -88,7 +105,13 @@ def viewing_location_key(item):
 def validate_extras(item):
     channel_posts(item)
     for link in item.get('externalLinks',[]):
-        validate_url(link['url'])
+        url=link.get('url')
+        if isinstance(url,dict):
+            assert set(url)=={'en','ru'}, 'A localized link needs English and Russian addresses'
+            for language in ('en','ru'):
+                validate_link_target(url[language])
+        else:
+            validate_link_target(url)
         title=link.get('title')
         assert isinstance(title,dict) and all(isinstance(title.get(language),str) for language in ('en','ru'))
     for language in ('en','ru'):
@@ -104,7 +127,7 @@ def description_html(item,language):
     return f'<section class="specimen-description"><h2>{tr("About this model","Об этой модели",language)}</h2>{paragraphs}</section>'
 
 
-def resources_html(item,language,publications=()):
+def resources_html(item,language,publications=(),page=''):
     resources=[]
     seen=set()
     for publication in publications:
@@ -117,7 +140,13 @@ def resources_html(item,language,publications=()):
     if item.get('source'):
         links.append({'url':item['source'],'title':{'en':'Original catalogue record','ru':'Запись на Коллекционерусе'}})
     for link in links:
-        url=validate_url(link['url'])
+        url=link_target(link,language)
+        if isinstance(url,str) and BOOK_FILE.fullmatch(url):
+            href=posixpath.relpath(url,posixpath.dirname(page) or '.') if page else url
+            title=localized(link['title'],language).strip() or 'PDF'
+            resources.append(f'<li><a href="{esc(href)}"><span>{esc(title)}</span><small>PDF</small></a></li>')
+            continue
+        url=validate_url(url)
         if url.rstrip('/') in seen:
             continue
         seen.add(url.rstrip('/'))
