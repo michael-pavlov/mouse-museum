@@ -2,8 +2,8 @@
   "id": "MP-0107",
   "slug": "fujitsu-lynx-90p-107",
   "title": {
-    "en": "Fujitsu Lynx-90p",
-    "ru": "Fujitsu Lynx-90p"
+    "ru": "Fujitsu Lynx-90p (Sanwa ma-mac Ergo Mouse)",
+    "en": "Fujitsu Lynx-90p (Sanwa ma-mac Ergo Mouse)"
   },
   "source": "https://collectionerus.ru/collections/old-mice/107/",
   "sourceOrder": 135,
@@ -129,8 +129,8 @@
     "en": ""
   },
   "notes": {
-    "en": "",
-    "ru": ""
+    "ru": "",
+    "en": ""
   },
   "sourceTitle": "Fujitsu Lynx-90p",
   "whereToSee": {
@@ -142,7 +142,22 @@
     "en": ""
   },
   "channelPost": [],
-  "externalLinks": [],
+  "externalLinks": [
+    {
+      "url": "https://patentimages.storage.googleapis.com/a6/b9/61/f30bfac6cf1cdb/USD363712.pdf",
+      "title": {
+        "ru": "Патент",
+        "en": "Patent"
+      }
+    },
+    {
+      "url": "https://www.sanwa.co.jp/product/syohin?code=MA-MAC",
+      "title": {
+        "ru": "",
+        "en": ""
+      }
+    }
+  ],
   "thumbnail": "assets/photos/fujitsu-lynx-90p-107/thumb-catalog.webp",
   "sourceSync": {
     "retrievedAt": "2026-10-27T23:10:51+03:00",
