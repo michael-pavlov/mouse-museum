@@ -42,7 +42,9 @@ if(catalogueBack){
   if(saved){
    const previous=new URL(saved,location.href),target=new URL(catalogueBack.href,location.href);
    // Only reuse state for a local catalogue, including sites hosted in a subfolder.
-   if(previous.origin===target.origin&&(previous.pathname===target.pathname||previous.pathname===target.pathname.replace(/(?:en|ru)\/index\.html$/,'index.html'))){target.search=previous.search;catalogueBack.href=target.href;}
+   const cataloguePath=pathname=>pathname.replace(/\/index\.html$/,'/');
+   const englishHome=pathname=>cataloguePath(pathname).replace(/en\/$/,'');
+   if(previous.origin===target.origin&&englishHome(previous.pathname)===englishHome(target.pathname)){target.search=previous.search;catalogueBack.href=target.href;}
   }
  }catch{} // Storage can be unavailable for locally opened files.
 }

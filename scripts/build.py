@@ -58,9 +58,15 @@ if book_files:
 (OUT/'.nojekyll').touch()
 def E(v):return html.escape(str(v),quote=True)
 def t(en,ru,l):return ru if l=='ru' else en
-def link(path,target):return posixpath.relpath(target,posixpath.dirname(path) or '.')
+def link(path,target):
+ # / and /en/ render the same English catalogue; links use the root canonical.
+ if target=='en/index.html':target='index.html'
+ return posixpath.relpath(target,posixpath.dirname(path) or '.')
 def objpath(d,l):return f'{l}/mice/{d["slug"]}/index.html'
-def public(path):return SITE+'/'+path.removesuffix('index.html')
+def public(path):
+ path=path.removesuffix('index.html')
+ if path=='en/':path=''
+ return SITE+'/'+path
 icon='<svg viewBox="0 0 40 44" fill="none" aria-hidden="true"><path d="M20 1v8" stroke="currentColor" stroke-width="2"/><path d="M9 9h22l3 6v23l-3 3H9l-3-3V15l3-6Z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><path d="M7 24h26M20 10v14" stroke="currentColor" stroke-width="2"/><path d="M11 14h5v6h-5zm13 0h5v6h-5z" fill="#a84728"/></svg>'
 def asset(path, target):
  digest=hashlib.sha256((ROOT/target).read_bytes()).hexdigest()[:12]
@@ -153,6 +159,12 @@ pages.remove('salemon/index.html')
 base=urlparse(SITE).path.rstrip('/')+'/' if SITE else '/'
 (OUT/'404.html').write_text(f'<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Not found — Mouse Museum</title><body style="font:18px Arial;padding:12vw;background:#f7f6f2">{METRIKA}<h1>Object not found / Страница не найдена</h1><p><a href="{E(base)}">Return to the collection / Вернуться к коллекции</a></p></body></html>')
 if SITE:
- (OUT/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join(f'<url><loc>{E(public(p))}</loc></url>' for p in pages)+'</urlset>')
+ locs=[]
+ seen=set()
+ for p in pages:
+  loc=public(p)
+  if loc in seen:continue
+  seen.add(loc);locs.append(loc)
+ (OUT/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join(f'<url><loc>{E(loc)}</loc></url>' for loc in locs)+'</urlset>')
  (OUT/'robots.txt').write_text('User-agent: *\nAllow: /\nSitemap: '+SITE+'/sitemap.xml\n')
 print(f'Built {len(pages)} pages and {sum(len(d["photos"]) for d in items)} photographs into {OUT}')
