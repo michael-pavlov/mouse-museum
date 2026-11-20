@@ -1,4 +1,5 @@
 """Static bilingual journal with explicit specimen links and generated backlinks."""
+import selections
 import html
 import json
 import posixpath
@@ -107,7 +108,7 @@ class Journal:
         self.root = root
         self.markdown = {}
         self.items = {item['slug']: item for item in items}
-        self.by_source = {item['source'].rstrip('/'): item for item in items}
+        self.by_source = {item['source'].rstrip('/'): item for item in items if item.get('source')}
         exclusions = root/'content/journal-exclusions.json'
         excluded = set(json.loads(exclusions.read_text())['sources']) if exclusions.exists() else set()
         self.posts = sorted(
@@ -133,6 +134,10 @@ class Journal:
             for file in [post['cover']] + [photo[key] for photo in post['photos'] for key in ('file', 'original') if photo.get(key)] + [video['file'] for video in post.get('videos', [])]:
                 target = (root/file).resolve()
                 assert target.is_relative_to(root/'assets') and target.is_file(), file
+
+        self.posts += selections.posts(root, self.items)
+        assert len({p['slug'] for p in self.posts}) == len(self.posts), 'Duplicate journal slug'
+        self.posts.sort(key=lambda p: p['date'], reverse=True)
 
     @staticmethod
     def post_path(post, language):
@@ -180,14 +185,21 @@ class Journal:
             other = 'ru' if language == 'en' else 'en'
             path = f'{language}/journal/index.html'
             cards = []
-            for post in self.posts:
+            visible = [post for post in self.posts if post.get('listed', True)]
+            for post in visible:
+                if post.get('selection'):
+                    cards.append(f'<article class="journal-card"><a href="{relative(path,self.post_path(post,language))}">{selections.cover(post,self.items,language,path)}<div class="journal-meta"><span>{tr("Selection","Подборка",language)}</span><span>{len(post["selection"]["entries"])}</span></div><h2>{esc(post["title"][language])}</h2><p>{esc(post["excerpt"][language])}</p><span class="journal-read">{tr("View selection","Смотреть подборку",language)}</span></a></article>')
+                    continue
                 cards.append(f'''<article class="journal-card"><a href="{relative(path,self.post_path(post,language))}"><div class="journal-cover"><img src="{relative(path,post['cover'])}" alt="{esc(post['title'][language])}" loading="lazy"></div><div class="journal-meta"><time datetime="{esc(post['date'])}">{self.date_label(post,language)}</time><span>{tr('Exhibitions','Выставки',language) if post['category']=='exhibitions' else tr('Stories','Истории',language)}</span></div><h2>{esc(post['title'][language])}</h2><p>{esc(post['excerpt'][language])}</p><span class="journal-read">{tr('Read story','Читать',language)} →</span></a></article>''')
             body = f'''<section class="journal-heading"><h1>{tr('Journal','Журнал',language)}</h1><p>{tr('Stories behind the objects. Finds, mechanisms and life outside the display case.','Истории за экспонатами. Находки, механизмы и жизнь за пределами витрины.',language)}</p></section><div class="journal-grid">{''.join(cards)}</div>'''
-            shell(path, language, tr('Journal','Журнал',language), tr('Stories, finds and exhibitions from Mouse Museum.','Истории, находки и выставки Mouse Museum.',language),body,f'{other}/journal/index.html',self.posts[0]['cover'] if self.posts else None)
+            cover = visible[0]['cover'] if visible else None
+            shell(path, language, tr('Journal','Журнал',language), tr('Stories, finds and exhibitions from Mouse Museum.','Истории, находки и выставки Mouse Museum.',language),body,f'{other}/journal/index.html',cover,extra_head=f'<link rel="stylesheet" href="{relative(path,"assets/selections.css")}">')
             for post in self.posts:
                 self.article(post, language, shell)
 
     def article(self, post, language, shell):
+        if post.get('selection'):
+            return selections.article(post, self.items, language, shell)
         path = self.post_path(post, language)
         h = lambda target: relative(path, target)
         title = esc(post['title'][language])

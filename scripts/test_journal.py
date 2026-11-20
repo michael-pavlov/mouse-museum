@@ -18,7 +18,8 @@ class JournalTests(unittest.TestCase):
                 path = self.journal.post_path(post, language)
                 article = (ROOT/'dist'/path).read_text()
                 self.assertIn(post['source'], article)
-                self.assertIn(post['date'], article)
+                if not post.get('selection'):
+                    self.assertIn(post['date'], article)
                 self.assertNotIn('onclick=', article)
                 for slug in post['relatedItems']:
                     self.assertIn(f'mice/{slug}/index.html', article)
@@ -64,6 +65,15 @@ class JournalTests(unittest.TestCase):
     def test_broken_image_fails_build_instead_of_disappearing(self):
         with self.assertRaisesRegex(AssertionError,'Missing Markdown file reference'):
             self.render_text('![Missing](../../../assets/posts/missing-photo.webp)')
+
+    def test_unlisted_selections_are_direct_links_only(self):
+        hidden = ('mcm', 'military-avionics-space-boards', 'processors-and-processor-boards')
+        for language in ('en', 'ru'):
+            index = (ROOT/'dist'/language/'journal'/'index.html').read_text()
+            for slug in hidden:
+                self.assertNotIn(f'{slug}/index.html', index)
+                page = (ROOT/'dist'/language/'journal'/slug/'index.html').read_text()
+                self.assertEqual(page.count('<h1>'), 1)
 
     def test_unrelated_objects_have_no_backlinks(self):
         item = self.journal.items['apple-macintosh-m0100']

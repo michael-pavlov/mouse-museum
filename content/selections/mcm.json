@@ -1,0 +1,253 @@
+{
+  "title": {
+    "ru": "Многокристальные модули",
+    "en": "Multi-chip modules"
+  },
+  "intro": {
+    "ru": "Процессоры, сделаенные по технологии MCM/MCC (Multi-Chip Module / Multi-Chip Carrier)",
+    "en": "Processors made using MCM/MCC technology (Multi-Chip Module / Multi-Chip Carrier)"
+  },
+  "entries": [
+    {
+      "kind": "photo",
+      "text": {
+        "ru": "",
+        "en": ""
+      },
+      "title": {
+        "ru": "IBM System 370 / 3090 TCM MCM Models 200",
+        "en": "IBM System 370 / 3090 TCM MCM Models 200"
+      },
+      "year": "",
+      "credit": {
+        "ru": "",
+        "en": ""
+      },
+      "photo": "assets/selections/mcm/img_0518.webp"
+    },
+    {
+      "kind": "photo",
+      "text": {
+        "ru": "",
+        "en": ""
+      },
+      "title": {
+        "ru": "IBM System 370 / 3081 TCM MCM CPGA-1800",
+        "en": "IBM System 370 / 3081 TCM MCM CPGA-1800"
+      },
+      "year": "",
+      "credit": {
+        "ru": "",
+        "en": ""
+      },
+      "photo": "assets/selections/mcm/img_0521.webp"
+    },
+    {
+      "kind": "photo",
+      "text": {
+        "ru": "",
+        "en": ""
+      },
+      "title": {
+        "ru": "IBM System 390/Enterprise System 9000 - 9121 TCM (MCM U2639203) CPGA-2772",
+        "en": "IBM System 390/Enterprise System 9000 - 9121 TCM (MCM U2639203) CPGA-2772"
+      },
+      "year": "",
+      "credit": {
+        "ru": "",
+        "en": ""
+      },
+      "photo": "assets/selections/mcm/img_1284.webp"
+    },
+    {
+      "kind": "photo",
+      "text": {
+        "ru": "",
+        "en": ""
+      },
+      "title": {
+        "ru": "IBM z990 MCM eServer zSeries 990",
+        "en": "IBM z990 MCM eServer zSeries 990"
+      },
+      "year": "",
+      "credit": {
+        "ru": "",
+        "en": ""
+      },
+      "photo": "assets/selections/mcm/img_0519.webp"
+    },
+    {
+      "kind": "photo",
+      "text": {
+        "ru": "",
+        "en": ""
+      },
+      "title": {
+        "ru": "IBM Palladium XP II Implements Cycle-Based Simulation on an Array of Custom Processors FM928644",
+        "en": "IBM Palladium XP II Implements Cycle-Based Simulation on an Array of Custom Processors FM928644"
+      },
+      "year": "",
+      "credit": {
+        "ru": "",
+        "en": ""
+      },
+      "photo": "assets/selections/mcm/img_0520.webp"
+    },
+    {
+      "kind": "photo",
+      "text": {
+        "ru": "",
+        "en": ""
+      },
+      "title": {
+        "ru": "IBM POWER 5+ 8-Way MCM",
+        "en": "IBM POWER 5+ 8-Way MCM"
+      },
+      "year": "",
+      "credit": {
+        "ru": "",
+        "en": ""
+      },
+      "photo": "assets/selections/mcm/img_0522.webp"
+    },
+    {
+      "kind": "photo",
+      "text": {
+        "ru": "",
+        "en": ""
+      },
+      "title": {
+        "ru": "IBM POWER 4 MCM CLGA-5184",
+        "en": "IBM POWER 4 MCM CLGA-5184"
+      },
+      "year": "",
+      "credit": {
+        "ru": "",
+        "en": ""
+      },
+      "photo": "assets/selections/mcm/img_0523.webp"
+    },
+    {
+      "kind": "photo",
+      "text": {
+        "ru": "",
+        "en": ""
+      },
+      "title": {
+        "ru": "IBM MCM",
+        "en": "IBM MCM"
+      },
+      "year": "",
+      "credit": {
+        "ru": "",
+        "en": ""
+      },
+      "photo": "assets/selections/mcm/img_0525.webp"
+    },
+    {
+      "kind": "photo",
+      "text": {
+        "ru": "",
+        "en": ""
+      },
+      "title": {
+        "ru": "DEC J-11, USSR MKred1/3, USSR M8K ",
+        "en": "DEC J-11, USSR MKred1/3, USSR M8K "
+      },
+      "year": "",
+      "credit": {
+        "ru": "",
+        "en": ""
+      },
+      "photo": "assets/selections/mcm/img_0528.webp"
+    },
+    {
+      "kind": "photo",
+      "text": {
+        "ru": "",
+        "en": ""
+      },
+      "title": {
+        "ru": "БЦВМ Module",
+        "en": "BCVM Module"
+      },
+      "year": "",
+      "credit": {
+        "ru": "",
+        "en": ""
+      },
+      "photo": "assets/selections/mcm/img_1278.webp"
+    },
+    {
+      "kind": "photo",
+      "text": {
+        "ru": "ЭВМ на подложке, использовалась в управляющих блоках спутников, в частности в системах управления солнечными батареями ",
+        "en": "Computer on a substrate, used in control units of satellites, in particular in control systems for solar panels"
+      },
+      "title": {
+        "ru": "MC1201",
+        "en": "MC1201"
+      },
+      "year": "",
+      "credit": {
+        "ru": "",
+        "en": ""
+      },
+      "photo": "assets/selections/mcm/img_7628.webp"
+    },
+    {
+      "kind": "photo",
+      "text": {
+        "ru": "",
+        "en": ""
+      },
+      "title": {
+        "ru": "Amdahl / Fujitsu MCC для FACOM M-190 и Amdahl 470V/6",
+        "en": "Amdahl / Fujitsu MCC for FACOM M-190 and Amdahl 470V/6"
+      },
+      "year": "",
+      "credit": {
+        "ru": "",
+        "en": ""
+      },
+      "photo": "assets/selections/mcm/86a2614.webp"
+    },
+    {
+      "kind": "photo",
+      "text": {
+        "ru": "",
+        "en": ""
+      },
+      "title": {
+        "ru": "Amdahl / Fujitsu MCC Amdahl 580 Systems",
+        "en": "Amdahl / Fujitsu MCC Amdahl 580 Systems"
+      },
+      "year": "",
+      "credit": {
+        "ru": "",
+        "en": ""
+      },
+      "photo": "assets/selections/mcm/86a9818.webp"
+    },
+    {
+      "kind": "photo",
+      "text": {
+        "ru": "",
+        "en": ""
+      },
+      "title": {
+        "ru": "Amdahl MCM board",
+        "en": "Amdahl MCM board"
+      },
+      "year": "",
+      "credit": {
+        "ru": "",
+        "en": ""
+      },
+      "photo": "assets/selections/mcm/img_0554.webp"
+    }
+  ],
+  "date": "2026-11-20T14:40:00+03:00",
+  "slug": "mcm",
+  "listed": false
+}
