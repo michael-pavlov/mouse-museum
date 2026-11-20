@@ -10,13 +10,13 @@
   "entries": [
     {
       "kind": "photo",
-      "title": {
-        "ru": "",
-        "en": ""
-      },
       "text": {
         "ru": "",
         "en": ""
+      },
+      "title": {
+        "ru": "Большой процессор NEC с памятью",
+        "en": "Large NEC processor with memory"
       },
       "year": "",
       "credit": {
@@ -27,13 +27,13 @@
     },
     {
       "kind": "photo",
-      "title": {
-        "ru": "",
-        "en": ""
-      },
       "text": {
         "ru": "",
         "en": ""
+      },
+      "title": {
+        "ru": "Очень редкие прототипы чипов Univac Sperry",
+        "en": "Very rare prototype Univac Sperry chips"
       },
       "year": "",
       "credit": {
@@ -44,13 +44,13 @@
     },
     {
       "kind": "photo",
-      "title": {
-        "ru": "",
-        "en": ""
-      },
       "text": {
         "ru": "",
         "en": ""
+      },
+      "title": {
+        "ru": "DEC Alphas",
+        "en": "DEC Alphas"
       },
       "year": "",
       "credit": {
@@ -61,13 +61,13 @@
     },
     {
       "kind": "photo",
-      "title": {
-        "ru": "",
-        "en": ""
-      },
       "text": {
         "ru": "",
         "en": ""
+      },
+      "title": {
+        "ru": "Большая коллекция Weitek, включая супер редкий 4167",
+        "en": "Large collection of Weitek, including the super rare 4167"
       },
       "year": "",
       "credit": {
@@ -78,13 +78,13 @@
     },
     {
       "kind": "photo",
-      "title": {
-        "ru": "",
-        "en": ""
-      },
       "text": {
         "ru": "",
         "en": ""
+      },
+      "title": {
+        "ru": "Детальные фото по запросу",
+        "en": "Detailed photos on request"
       },
       "year": "",
       "credit": {
@@ -95,13 +95,13 @@
     },
     {
       "kind": "photo",
-      "title": {
-        "ru": "",
-        "en": ""
-      },
       "text": {
         "ru": "",
         "en": ""
+      },
+      "title": {
+        "ru": "Детальные фото по запросу",
+        "en": "Detailed photos on request"
       },
       "year": "",
       "credit": {
@@ -112,13 +112,13 @@
     },
     {
       "kind": "photo",
-      "title": {
-        "ru": "",
-        "en": ""
-      },
       "text": {
         "ru": "",
         "en": ""
+      },
+      "title": {
+        "ru": "Супер редкая процессорная плата М8 с процессором К8М",
+        "en": "Super rare M8 processor board with K8M processor"
       },
       "year": "",
       "credit": {
@@ -129,13 +129,13 @@
     },
     {
       "kind": "photo",
-      "title": {
-        "ru": "",
-        "en": ""
-      },
       "text": {
         "ru": "",
         "en": ""
+      },
+      "title": {
+        "ru": "Плата памяти калькулятора HP",
+        "en": "HP calculator memory board"
       },
       "year": "",
       "credit": {
@@ -146,13 +146,13 @@
     },
     {
       "kind": "photo",
-      "title": {
-        "ru": "",
-        "en": ""
-      },
       "text": {
         "ru": "",
         "en": ""
+      },
+      "title": {
+        "ru": "Редкая плата СССР М6 ред.6",
+        "en": "Rare board USSR M6 rev.6"
       },
       "year": "",
       "credit": {
@@ -163,13 +163,13 @@
     },
     {
       "kind": "photo",
-      "title": {
-        "ru": "",
-        "en": ""
-      },
       "text": {
         "ru": "",
         "en": ""
+      },
+      "title": {
+        "ru": "DEC CPU board",
+        "en": "DEC CPU board"
       },
       "year": "",
       "credit": {
@@ -180,13 +180,13 @@
     },
     {
       "kind": "photo",
-      "title": {
-        "ru": "",
-        "en": ""
-      },
       "text": {
         "ru": "",
         "en": ""
+      },
+      "title": {
+        "ru": "DEC Alpha слотовая",
+        "en": "DEC Alpha slot"
       },
       "year": "",
       "credit": {
@@ -197,11 +197,11 @@
     },
     {
       "kind": "photo",
-      "title": {
+      "text": {
         "ru": "",
         "en": ""
       },
-      "text": {
+      "title": {
         "ru": "",
         "en": ""
       },
@@ -214,13 +214,13 @@
     },
     {
       "kind": "photo",
-      "title": {
-        "ru": "",
-        "en": ""
-      },
       "text": {
         "ru": "",
         "en": ""
+      },
+      "title": {
+        "ru": "DEC CPU board",
+        "en": "DEC CPU board"
       },
       "year": "",
       "credit": {
@@ -231,11 +231,11 @@
     },
     {
       "kind": "photo",
-      "title": {
+      "text": {
         "ru": "",
         "en": ""
       },
-      "text": {
+      "title": {
         "ru": "",
         "en": ""
       },
@@ -248,11 +248,11 @@
     },
     {
       "kind": "photo",
-      "title": {
+      "text": {
         "ru": "",
         "en": ""
       },
-      "text": {
+      "title": {
         "ru": "",
         "en": ""
       },
@@ -265,13 +265,13 @@
     },
     {
       "kind": "photo",
-      "title": {
-        "ru": "",
-        "en": ""
-      },
       "text": {
         "ru": "",
         "en": ""
+      },
+      "title": {
+        "ru": "Супер редкая СССР М2 ред.3",
+        "en": "Super rare USSR M2 rev.3"
       },
       "year": "",
       "credit": {
@@ -282,13 +282,13 @@
     },
     {
       "kind": "photo",
-      "title": {
-        "ru": "",
-        "en": ""
-      },
       "text": {
         "ru": "",
         "en": ""
+      },
+      "title": {
+        "ru": "Платы расширения для Apple II",
+        "en": "Expansion cards for Apple II"
       },
       "year": "",
       "credit": {
@@ -299,11 +299,11 @@
     },
     {
       "kind": "photo",
-      "title": {
+      "text": {
         "ru": "",
         "en": ""
       },
-      "text": {
+      "title": {
         "ru": "",
         "en": ""
       },
@@ -316,13 +316,13 @@
     },
     {
       "kind": "photo",
-      "title": {
-        "ru": "",
-        "en": ""
-      },
       "text": {
         "ru": "",
         "en": ""
+      },
+      "title": {
+        "ru": "Плата процессора калькулятора HP",
+        "en": "HP Calculator Processor Board"
       },
       "year": "",
       "credit": {
@@ -333,11 +333,11 @@
     },
     {
       "kind": "photo",
-      "title": {
+      "text": {
         "ru": "",
         "en": ""
       },
-      "text": {
+      "title": {
         "ru": "",
         "en": ""
       },
@@ -350,11 +350,11 @@
     },
     {
       "kind": "photo",
-      "title": {
+      "text": {
         "ru": "",
         "en": ""
       },
-      "text": {
+      "title": {
         "ru": "",
         "en": ""
       },
@@ -367,11 +367,11 @@
     },
     {
       "kind": "photo",
-      "title": {
+      "text": {
         "ru": "",
         "en": ""
       },
-      "text": {
+      "title": {
         "ru": "",
         "en": ""
       },
@@ -384,13 +384,13 @@
     },
     {
       "kind": "photo",
-      "title": {
-        "ru": "",
-        "en": ""
-      },
       "text": {
         "ru": "",
         "en": ""
+      },
+      "title": {
+        "ru": "IBM TokenRing adapter",
+        "en": "IBM TokenRing adapter"
       },
       "year": "",
       "credit": {
@@ -401,13 +401,13 @@
     },
     {
       "kind": "photo",
-      "title": {
-        "ru": "",
-        "en": ""
-      },
       "text": {
         "ru": "",
         "en": ""
+      },
+      "title": {
+        "ru": "Tandy Memory expansion board",
+        "en": "Tandy Memory expansion board"
       },
       "year": "",
       "credit": {
@@ -418,11 +418,11 @@
     },
     {
       "kind": "photo",
-      "title": {
+      "text": {
         "ru": "",
         "en": ""
       },
-      "text": {
+      "title": {
         "ru": "",
         "en": ""
       },
@@ -435,11 +435,11 @@
     },
     {
       "kind": "photo",
-      "title": {
+      "text": {
         "ru": "",
         "en": ""
       },
-      "text": {
+      "title": {
         "ru": "",
         "en": ""
       },
@@ -452,11 +452,11 @@
     },
     {
       "kind": "photo",
-      "title": {
+      "text": {
         "ru": "",
         "en": ""
       },
-      "text": {
+      "title": {
         "ru": "",
         "en": ""
       },
@@ -469,13 +469,13 @@
     },
     {
       "kind": "photo",
-      "title": {
-        "ru": "",
-        "en": ""
-      },
       "text": {
         "ru": "",
         "en": ""
+      },
+      "title": {
+        "ru": "Intel Pentium Pro board",
+        "en": "Intel Pentium Pro board"
       },
       "year": "",
       "credit": {
@@ -486,11 +486,11 @@
     },
     {
       "kind": "photo",
-      "title": {
+      "text": {
         "ru": "",
         "en": ""
       },
-      "text": {
+      "title": {
         "ru": "",
         "en": ""
       },
@@ -503,11 +503,11 @@
     },
     {
       "kind": "photo",
-      "title": {
+      "text": {
         "ru": "",
         "en": ""
       },
-      "text": {
+      "title": {
         "ru": "",
         "en": ""
       },
@@ -520,11 +520,11 @@
     },
     {
       "kind": "photo",
-      "title": {
+      "text": {
         "ru": "",
         "en": ""
       },
-      "text": {
+      "title": {
         "ru": "",
         "en": ""
       },
@@ -537,6 +537,6 @@
     }
   ],
   "date": "2026-11-20T16:03:00+03:00",
-  "slug": "processors-and-processor-boards",
-  "listed": false
+  "listed": false,
+  "slug": "processors-and-processor-boards"
 }
